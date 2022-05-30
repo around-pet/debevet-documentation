@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: Test Workflow
+title: Test Workflow GITHUB CI
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
