@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdebevet=self.webpackChunkdebevet||[]).push([[4276],{4748:function(e){e.exports=JSON.parse('{"label":"facebook","permalink":"/debevet-documentation/blog/tags/facebook","allTagsPath":"/debevet-documentation/blog/tags","count":1}')}}]);
