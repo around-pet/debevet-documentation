@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdebevet=self.webpackChunkdebevet||[]).push([[8250],{2629:function(e){e.exports=JSON.parse('{"permalink":"/handbuch/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

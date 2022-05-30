@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdebevet=self.webpackChunkdebevet||[]).push([[4485],{4982:function(e){e.exports=JSON.parse('{"permalink":"/handbuch/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

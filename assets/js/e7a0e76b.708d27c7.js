@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdebevet=self.webpackChunkdebevet||[]).push([[9513],{4046:function(e){e.exports=JSON.parse('{"label":"docusaurus","permalink":"/debevet-documentation/blog/tags/docusaurus","allTagsPath":"/debevet-documentation/blog/tags","count":4}')}}]);
