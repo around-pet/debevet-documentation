@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Debevet Handbuch',
   tagline: 'debevet #1 cloud-app 4 vets',
-  url: 'https://debevet.de',
+  url: 'https://debevet.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
