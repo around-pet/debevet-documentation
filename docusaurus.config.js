@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Debevet Handbuch',
+    title: 'debevet Handbuch',
     tagline: 'debevet #1 cloud-app 4 vets',
     url: 'https://debevet.com',
     baseUrl: '/',
@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: 'Debevet Handbuch',
+                title: 'debevet Handbuch',
                 logo: {
                     alt: 'Debevet Logo',
                     src: 'img/debevet_super.svg',
@@ -69,12 +69,12 @@ const config = {
                         type: 'doc',
                         docId: 'intro',
                         position: 'left',
-                        label: 'Tutorial',
+                        label: 'Hilfe',
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
+
                     {
-                        href: 'https://github.com/facebook/docusaurus',
-                        label: 'GitHub',
+                        href: 'https://app.debevet.de/',
+                        label: 'zu meinem Account',
                         position: 'right',
                     },
                 ],
