@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Erste Schritte mit Debevet
 
-## 1. Kunden und Tier anlegen
-## 2. Praxisdaten für Rechnungen hinterlegen
-## 3. Produkte anlegen
-## 4. Kataloge importieren 
-## 5. Neukundenregistrierung nutzen
+## 1. Eigene Praxisdaten anlegen
+## 2. Kunden und Patienten anlegen
+## 3. Kataloge importieren 
+## 4. Produkte anlegen
+## 5. Kunden abrechnen/ Rechnung erstellen
 ## 
