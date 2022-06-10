@@ -1,15 +1,15 @@
-# tierDIREKT Schnittstelle einrichten  
+# TIERdirekt Schnittstelle einrichten  
 
 Um die Schnittstelle einzurichten, klicken Sie zunächst auf das **Zahnradsymbol** und dann auf **Erweiterungen**.  
 
  ![](../../static/img/tierdirekt/schnittstellen_aufrufen.png)  
  
-Scrollen Sie nun herunter, bis Sie das tierDIREKT Symbol sehen. Klicken Sie dort auf **anlegen**.  
+Scrollen Sie nun herunter, bis Sie das TIERdirekt Symbol sehen. Klicken Sie dort auf **anlegen**.  
 
 ![](../../static/img/tierdirekt/tierdirekt_anlegen1.png)  
 
 In der sich nun öffnenden Maske müssen Sie Ihre Zugangsdaten von tierDIREKT eingeben. Sie haben noch keine?   
-Sie bekommen diese direkt bei tierDIREKT:  https://www.tierdirekt.de/fuertieraerzte  
+Sie bekommen diese direkt bei TIERdirekt:  https://www.tierdirekt.de/fuertieraerzte  
 
 ![](../../static/img/tierdirekt/schnittstelle_anlegen.png)
 
