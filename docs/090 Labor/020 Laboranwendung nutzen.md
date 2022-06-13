@@ -7,7 +7,7 @@ Hier finden Sie alle wichtigen Hilfetexte zu der Nutzung der Laborbefunde in deb
 Um für einen Patienten einen Laborauftrag zu erstellen, müssen Sie sich in der Behandlung des Tieres befinden. KLicken Sie dann in der Behandlungsmaske
 oben auf das kleine Mikroskop Symbol.
 
-![](../../static/img/Labor/laborauftrag_erstellen 1.png)
+![](../../static/img/Labor/laborauftrag_erstellen1.png)
 
 Es öffnet sich nun eine Dropdownliste, die Ihnen alle Möglichkeiten aufzeigt, die sie an Laboranbindungen aktiviert haben.  
 
