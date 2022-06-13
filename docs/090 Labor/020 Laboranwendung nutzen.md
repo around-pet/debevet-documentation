@@ -1,4 +1,41 @@
-# Labor 
+# Labor nutzen  
+
+Hier finden Sie alle wichtigen Hilfetexte zu der Nutzung der Laborbefunde in debevet.    
+
+## Laborauftrag erstellen   
+
+Um für einen Patienten einen Laborauftrag zu erstellen, müssen Sie sich in der Behandlung des Tieres befinden. KLicken Sie dann in der Behandlungsmaske
+oben auf das kleine Mikroskop Symbol.
+
+![](../../static/img/Labor/laborauftrag_erstellen 1.png)
+
+Es öffnet sich nun eine Dropdownliste, die Ihnen alle Möglichkeiten aufzeigt, die sie an Laboranbindungen aktiviert haben.  
+
+![](../../static/img/Labor/laborauftrag_erstellen2.png)  
+
+### Laboklin Auftrag erstellen  
+
+Wenn Sie nun z.B. Laboklin auswählen, öffnet sich die Maske, in der Sie wählen können, was Sie beauftragen wollen. Im Normalfall wird die Nummer für die Probe automatisch 
+gesetzt. 
+
+![](../../static/img/Labor/laborauftrag_erstellen_laboklin.png)   
+
+:::danger ACHTUNG  
+
+Wenn Sie bereits Befundbögen haben und die dort aufgedruckten Barcodenummern nutzen wollen, müssen Sie diese wie folgt manuell anlegen!  
+
+:::
+
+### Eigene Barcodenummern nutzen  
+
+Um eine eigene Barcode-Nummer zu nutzen, klicken Sie in der Maske (z.B. Laboklin), die sich beim Erstellen des Auftrags geöffnet hat auf das **Schloß-Symbol**
+neben der Barcodenummer.  
+
+![](../../static/img/Labor/labor_eigene_barcodenummer.png)  
+
+Nun ist dieses Feld entsperrt und Sie können eine eigene Nummer manuell eintragen.
+
+## Laborbefunde einsehen  
 
 Um generell eine Übersicht über alle Ihre internen und externen Laborbefunde zu sehen, klicken Sie auf **Praxis** und dann **Labor**.  
 Sie bekommen in der Auflistung direkt diverse wichtige Informationen: 
@@ -10,6 +47,20 @@ Sie bekommen in der Auflistung direkt diverse wichtige Informationen:
 * Patienten/ Besitzerdaten  
 
 ![](../../static/img/Labor/labor_uebersicht1.png)  
+
+
+## Laborbefunde aktualisieren  
+
+:::caution Achtung  
+
+Falls Sie sich wundern, warum Ihre Befunde nicht aktuell sind: Sie müssen diese abrufen, damit Sie aktuell sind. 
+
+:::
+
+Kicken Sie dazu in der Laborübersicht oben rechts auf das **Aktualisierungs- Symbol**. 
+
+![](../../static/img/Labor/labor_abrufen.png)
+
 
 ## Laboraufträge suchen und finden  
 
@@ -64,7 +115,39 @@ Folgende Funktionen können mit diesem Seiten-Menü (von links nach rechts) ausg
 
 ![](../../static/img/Labor/debevet-praxis-labor-auftrag-details-menu.png)
 
+## Mehrere Laboraufträge bearbeiten, löschen oder drucken  
 
+Um mehrere Laboraufträge zu bearbeiten, zu löschen oder zu drucken, wählen Sie zunächst die jeweilige **Checkbox** in der Liste 
+für die gewünschten Aufträge.
+
+Klicken Sie nun auf das **Bleistift-Symbol** im Menü oben rechts, gelangen Sie auf die Detailseite des zuerst ausgewählten 
+Laborauftrages auf dieser Liste. Auf der Detailseite können Sie zwischen den hier vorausgewählten ("angekreuzten") Aufträgen hin- und her navigieren.
+
+Drücken Sie nun das **Stiftsymbol** oben rechts, um die ausgewählten Aufträge zu bearbeiten. Sie können auch einen Sammeldruck 
+(Etiketten, Probenbegleitschreiben) für die ausgewählten Aufträge anstoßen.
+
+Drücken Sie das **Mülltonnensymbol**, werden die hier ausgewählten Aufträge nach Rückfrage gelöscht.  
+
+Drücken Sie auf das **Druckersymbol**, werden die Probenbegleitschreiben zu den ausgewählten Aufträgen in einem Sammeldruck (PDF) zum Druck dargestellt.  
+
+![](../../static/img/Labor/labor-mehrere-auftraege-anzeigen.png)  
+
+## Befund nicht zuweisbar   
+In seltenen Fällen kann es passieren, dass debevet Befunde vom Labor erhält, die keinem Patienten automatisch zugeordnet werden können. 
+In diesem Fall steht auf dem Button **Nicht zuweisbar** eine umrandete Zahl.
+
+Klicken Sie dann bitte auf den Button **Nicht Zuweisbar**. 
+
+![](../../static/img/Labor/labor_nicht_zuweisbar.png)  
+
+Dort finden Sie nun eine Auflistung der nicht zuweisbaren Aufträge. Um einen Auftrag manuell einem Patienten zuzuweisen, klicken
+Sie auf das **Plus Symbol** in der Liste rechts.   
+
+![](../../static/img/Labor/labor_nicht_zuweisbar2.png)   
+
+Nun öffnet sich eine Maske, in der Sie den Befund einem Patienten oder einem Untersuchungsauftrag zuweisen können.  
+
+![](../../static/img/Labor/labor_nicht_zuweisbar3.png)
 
 
 
