@@ -12,7 +12,7 @@ https://sumup.de/
 
 ## Gerät anmelden/hinterlegen  
 
-Im ersten Schritt müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie hierzu auf **Administration**(Zahnradsymbol) und dann **Kundenregistrierung.   
+Im ersten Schritt müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie hierzu auf **Administration**(Zahnradsymbol) und dann **Kundenregistrierung**.   
 
 ![](../../static/img/erweiterungen/geraete_registrierung1.png)   
 
