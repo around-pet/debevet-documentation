@@ -50,9 +50,7 @@ Es öffnet sich nun ein Fenster, in welchem Sie Ihr Zahlungsgerät auswählen m�
 
 ![](../../static/img/erweiterungen/sumup_zahlung3.png)  
 
-Wenn das Gerät korrekt über das Barcode scannen aktiviert und angemeldet ist, wird es mit einem grünen Button angezeigt.     
-
-![](../../static/img/erweiterungen/sumup_zahlung3.png)
+Wenn das Gerät korrekt über das Barcode scannen aktiviert und angemeldet ist, wird es mit einem grünen Button angezeigt.
 
 Wenn Sie das Gerät nun wählen, öffnet Ihr Gerät automatisch eine Maske, in der es Ihnen den Patient und die Summe erneut nennt.  
 
