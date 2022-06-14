@@ -58,6 +58,13 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            algolia: {
+                contextualSearch: true,
+                appId: '4WXZT6ZA9R',
+                apiKey: 'da956ba137ac0179d81672d848d8282e',
+                indexName: 'docusaurus',
+
+            },
             navbar: {
                 title: 'debevet Handbuch',
                 logo: {
