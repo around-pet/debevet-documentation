@@ -35,6 +35,25 @@ neben der Barcodenummer.
 
 Nun ist dieses Feld entsperrt und Sie können eine eigene Nummer manuell eintragen.
 
+### scil Auftrag erstellen  
+
+Wenn Sie beim Klick auf das **Mikroskop-Symbol** im Dropdown scil wählen,  öffnet sich ein Fenster für den Untersuchungsauftrag. 
+
+Es stehen Ihnen folgende Felder zur Verfügung:
+
+* “Bestellung Nr.” wird automatisch über den Nummernkreis von debevet vergeben oder kann manuell gesetzt werden  
+* “Tierart” wird automatisch für die von debevet vorgegebenen Tierarten gesetzt  
+* “Laborgeräte” eine Auswahl Ihrer aktivierten Laborgeräte 
+* “Untersuchungsprofile” eine Auswahl freiplfegbarer Profile für Ihre Laborgeräte. Die Auswahl ist nicht auf das ausgewählte Laborgerät begrenzt.
+Die Auswahl eines Untersuchungsprofil setzt entsprechende Laborgerät und wählt die Parameter aus.  
+* “Parameter” die von dem Laborgerät unterstützten Parameter, die frei anwählbar sind. Wenn ein Untersuchungsprofil ausgewählt ist, gelten folgende Regeln:  
+  * beim Abwählen von Parametern, die dem Untersuchungsprofil zugeordnet sind, wird das Untersuchungsprofil entfernt. Beim Hinzufügen in die Behandlungsakte werden Einzelparameter aufgeführt
+  * beim Hinzuwählen von Parametern, wird das Untersuchungsprofil plus die Einzelparameter der Behandlungsmaske hinzugefügt
+* “Beschreibung” Freitextfeld
+
+![](../../static/img/Labor/scil_auftrag1.png)
+
+
 ## Laborbefunde einsehen  
 
 Um generell eine Übersicht über alle Ihre internen und externen Laborbefunde zu sehen, klicken Sie auf **Praxis** und dann **Labor**.  
@@ -57,9 +76,10 @@ Falls Sie sich wundern, warum Ihre Befunde nicht aktuell sind: Sie müssen diese
 
 :::
 
-Kicken Sie dazu in der Laborübersicht oben rechts auf das **Aktualisierungs- Symbol**. 
+Wählen Sie die Checkboxen der gewünschten Laborbefunde (oder alle durch Klick ganz oben). 
+Klicken Sie dann in der Laborübersicht oben rechts auf das **Aktualisierungs- Symbol**. 
 
-![](../../static/img/Labor/labor_abrufen.png)
+![](../../static/img/Labor/labor_aktualisieren2.png)
 
 
 ## Laboraufträge suchen und finden  
@@ -149,6 +169,22 @@ Nun öffnet sich eine Maske, in der Sie den Befund einem Patienten oder einem Un
 
 ![](../../static/img/Labor/labor_nicht_zuweisbar3.png)
 
+## Eigene Untersuchungsprofile anlegen
 
+Sie können bei Ihren eigenen Geräten persönliche Untersuchungsprofile anlegen, die Sie häufig brauchen. So können Sie schneller
+einen Laborauftrag für Patienten einfügen, ohne jedes Mal die Parameter zu wählen.
 
+Wählen Sie dazu **Praxis** und dann **Labor**. Klicken Sie nun oben rechts auf **Erweitert**.
 
+![](../../static/img/Labor/labor_geraeteprofil1.png)
+
+Wählen Sie dann **Geräteprofile**
+
+Nun sehen Sie, falls vorhanden, eine Liste Ihrer bereits bestehenden Profile. Um für ein Gerät ein neues Profil anzulegen, wählen Sie
+oben rechts im Dropdown Ihr Gerät und drücken danach auf das **grüne Plus Symbol**.   
+
+![](../../static/img/Labor/labor_geraeteprofil2.png)   
+
+Nun öffnet sich die Maske, in der Sie dem Profil einen Namen geben können und die gewünschten Parameter anklicken können.   
+
+![](../../static/img/Labor/labor_gereateprofil3.png)
