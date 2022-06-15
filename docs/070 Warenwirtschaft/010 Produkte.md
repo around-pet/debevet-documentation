@@ -69,9 +69,7 @@ Denken Sie daran, nach der Eingabe erst den **grünen Haken** zu klicken und ans
 
 :::danger  ACHTUNG  
 
-Die Wartezeiten werden leider nicht zuverlässig KORREKT aus der Barsoi Liste überliefert, die Angaben können also falsch sein. 
-Wir raten deswegen dringend zur manuellen Überprüfung. Denken Sie in dem Fall daran, die automatische Aktualisierung mit dem Katalog
-zu deaktivieren, damit Ihre Änderungen nicht wieder überschrieben werden.   
+Die Wartezeiten werden leider nicht aus der Barsoi Liste überliefert, Sie müssen diese also manuell anlegen. 
 
 :::
 
@@ -82,13 +80,13 @@ im debevet dann automatisch korrekt ausgefüllt ist, können und müssen Sie die
 Klicken Sie hierzu den Reiter **Anwendungsanweisungen** und hinterlegen dort die entsprechenden Daten.  
 Dabei müssen folgende Felder gesetzt werden:  
 
-* **Bezeichnung**  
+* **Bezeichnung** Titel der Anweisungsanwendung z.B. Abgabe Mastitis 3 Tage 
 * **Tierart**  
-* **Menge** 
-* **Anzahl d.**  
+* **Menge** Menge pro Tier und Anwendung
+* **Anzahl d.**  Anzahl der Anwendungen gesamt
 * **Intervall** Alle wieviel Stunden muss das Medikament gegeben werden? (bei einmal tägl. z.B. 24 setzen)
 * **Verabreichungsform** hier wählen Sie via Dropdown, wie das Medikament zu verabreichen ist
-* **Beginn**  
+* **Beginn**  Beginn in x Tagen (Also ab wann die Gabe beginnt)
 
 ![](../../static/img/Warenwirtschaft/anwendungshinweise.png)  
 
