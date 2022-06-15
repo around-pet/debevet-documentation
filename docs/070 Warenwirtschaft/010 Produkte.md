@@ -129,9 +129,7 @@ push-Nachricht auf Ihrem Handy benachrichtigt.
 
 :::  
 
-## Inventur  
 
-Für die saubere Führung Ihrer Hausapotheke ist die Inventur unverzichtbar. 
 
 
 
