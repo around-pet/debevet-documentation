@@ -12,12 +12,8 @@ https://sumup.de/
 
 ## Gerät anmelden/hinterlegen  
 
-<<<<<<< Updated upstream
-Im ersten Schritt müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie hierzu auf **Administration**(Zahnradsymbol) und dann **Kundenregistrierung**.   
-=======
-Im ersten Schritt müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie 
-hierzu auf **Administration**(Zahnradsymbol) und dann **Kundenregistrierung**.   
->>>>>>> Stashed changes
+Zunächst müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie hierzu auf 
+**Administration** (Zahnradsymbol) und dann **Kundenregistrierung**.   
 
 ![](../../static/img/erweiterungen/geraete_registrierung1.png)   
 
@@ -28,7 +24,7 @@ Geben Sie einen Namen für das Gerät ein und setzen ein Passwort. Bitte klicken
 
 :::tip   Tipp
 
-Wenn Sie mehrere Geräte angemeldet haben, z.B. noch ein Tablet zum unterschreiben, geben Sie den Geräten eindeutige Namen.  
+Wenn Sie mehrere Geräte angemeldet haben, z.B. noch ein Tablet zum Unterschreiben, geben Sie den Geräten eindeutige Namen.  
 
 :::
 
@@ -38,7 +34,7 @@ Nun können Sie auf dem Gerät einen QR Code Scanner (meist vorinstalliert, sons
 
 Ihr Gerät zeigt dann einen Link an, diesen klicken Sie bitte an. Dort müssen Sie die gesetzen Daten (Passwort) nun eingeben.  
 
-Nun ist Ihr Gerät angemeldet und kann für die Abrechnung mit SumUp genutzt werden.    
+Nun ist Ihr Gerät angemeldet und kann für die Abrechnung mit sumup genutzt werden.    
 
 ## Rechnung mit sumup Kartenzahlung abrechnen   
 
