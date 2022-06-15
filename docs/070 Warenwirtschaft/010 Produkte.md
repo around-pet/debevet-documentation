@@ -84,11 +84,11 @@ Dabei müssen folgende Felder gesetzt werden:
 
 * **Bezeichnung**  
 * **Tierart**  
-* **Menge** 
-* **Anzahl d.**  
+* **Menge** Menge pro Tier und Anwendung
+* **Anzahl d.**  Anzahl der Anwendungen
 * **Intervall** Alle wieviel Stunden muss das Medikament gegeben werden? (bei einmal tägl. z.B. 24 setzen)
 * **Verabreichungsform** hier wählen Sie via Dropdown, wie das Medikament zu verabreichen ist
-* **Beginn**  
+* **Beginn**  Beginn in x Tagen (Also ab wann die Gabe beginnt)
 
 ![](../../static/img/Warenwirtschaft/anwendungshinweise.png)  
 
