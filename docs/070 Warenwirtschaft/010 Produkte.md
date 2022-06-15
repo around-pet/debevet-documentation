@@ -75,11 +75,11 @@ zu deaktivieren, damit Ihre Änderungen nicht wieder überschrieben werden.
 
 :::
 
-### Anwendungshinweise    
+### Anwendungsanweisungen
 
 Für Medikamente, die Sie abgeben, sind Sie verpflichtet, die Anwendungshinweise mit auf den AUA Beleg zu schreiben. Damit dieser
 im debevet dann automatisch korrekt ausgefüllt ist, können und müssen Sie die Anwendungshinweise am Medikament hinterlegen.  
-Klicken Sie hierzu den Reiter **Anwendungshinweise** und hinterlegen dort die entsprechenden Daten.  
+Klicken Sie hierzu den Reiter **Anwendungsanweisungen** und hinterlegen dort die entsprechenden Daten.  
 Dabei müssen folgende Felder gesetzt werden:  
 
 * **Bezeichnung**  
@@ -89,6 +89,9 @@ Dabei müssen folgende Felder gesetzt werden:
 * **Intervall** Alle wieviel Stunden muss das Medikament gegeben werden? (bei einmal tägl. z.B. 24 setzen)
 * **Verabreichungsform** hier wählen Sie via Dropdown, wie das Medikament zu verabreichen ist
 * **Beginn**  
+
+![](../../static/img/Warenwirtschaft/anwendungshinweise.png)  
+
 
 ### Verbot für lebensmittelliefernd  
 
