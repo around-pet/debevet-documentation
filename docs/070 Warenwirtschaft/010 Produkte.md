@@ -82,10 +82,10 @@ im debevet dann automatisch korrekt ausgefüllt ist, können und müssen Sie die
 Klicken Sie hierzu den Reiter **Anwendungsanweisungen** und hinterlegen dort die entsprechenden Daten.  
 Dabei müssen folgende Felder gesetzt werden:  
 
-* **Bezeichnung**  
+* **Bezeichnung** Titel der Anweisungsanwendung z.B. Abgabe Mastitis 3 Tage 
 * **Tierart**  
 * **Menge** Menge pro Tier und Anwendung
-* **Anzahl d.**  Anzahl der Anwendungen
+* **Anzahl d.**  Anzahl der Anwendungen gesamt
 * **Intervall** Alle wieviel Stunden muss das Medikament gegeben werden? (bei einmal tägl. z.B. 24 setzen)
 * **Verabreichungsform** hier wählen Sie via Dropdown, wie das Medikament zu verabreichen ist
 * **Beginn**  Beginn in x Tagen (Also ab wann die Gabe beginnt)
