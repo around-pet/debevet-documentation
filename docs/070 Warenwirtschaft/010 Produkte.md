@@ -58,6 +58,52 @@ immer direkt angezeigt, welche Medikamente bestellt werden müssen.
 
 ![](../../static/img/Warenwirtschaft/mindestbestand.png)  
 
+### Wartezeiten  
+
+Damit Ihre AUA Belege sauber ausgefüllt sind, müssen bei lebensmittelliefernden Tieren die Wartezeiten korrekt hinterlegt sein.   
+
+Klicken Sie am Produkt den Reiter **Wartezeiten**, um diese dann individuell nach Tierart setzen oder ändern zu können. 
+Denken Sie daran, nach der Eingabe erst den **grünen Haken** zu klicken und anschließend oben rechts auf **Speichern** zu klicken.
+
+![](../../static/img/Warenwirtschaft/wartezeiten.png)  
+
+:::danger  ACHTUNG  
+
+Die Wartezeiten werden leider nicht zuverlässig KORREKT aus der Barsoi Liste überliefert, die Angaben können also falsch sein. 
+Wir raten deswegen dringend zur manuellen Überprüfung. Denken Sie in dem Fall daran, die automatische Aktualisierung mit dem Katalog
+zu deaktivieren, damit Ihre Änderungen nicht wieder überschrieben werden.   
+
+:::
+
+### Anwendungshinweise    
+
+Für Medikamente, die Sie abgeben, sind Sie verpflichtet, die Anwendungshinweise mit auf den AUA Beleg zu schreiben. Damit dieser
+im debevet dann automatisch korrekt ausgefüllt ist, können und müssen Sie die Anwendungshinweise am Medikament hinterlegen.  
+Klicken Sie hierzu den Reiter **Anwendungshinweise** und hinterlegen dort die entsprechenden Daten.  
+Dabei müssen folgende Felder gesetzt werden:  
+
+* **Bezeichnung**  
+* **Tierart**  
+* **Menge** 
+* **Anzahl d.**  
+* **Intervall** Alle wieviel Stunden muss das Medikament gegeben werden? (bei einmal tägl. z.B. 24 setzen)
+* **Verabreichungsform** hier wählen Sie via Dropdown, wie das Medikament zu verabreichen ist
+* **Beginn**  
+
+### Verbot für lebensmittelliefernd  
+
+Medikamente, die nicht für lebensmittelliefernde Tiere eingesetzt werden dürfen, müssen hier via Checkbox aktiviert werden, bzw.
+sind dies bereits durch die Überlieferung aus der Barsoi Liste.  
+
+:::danger ACHTUNG  
+
+Wenn dieser Haken gesetzt ist, kann dieses Medikament bei einem Tier, welches als lebensmittelliefernd markiert ist, NICHT
+angewandt werden. Das bedeutet, dass bei dem Versuch, dieses in der Behandlung einzutragen, dieses NICHT eingetragen wird. Es kann 
+also dort "nicht abgerechnet" werden. Das Programm verweigert automatisch die Behandlung damit.
+
+:::  
+
+
 ## Produkt GTIN scannen  
 
 Um Ihre Produkte (betrifft vor allem die Medikamente) schneller und leichter verwalten zu können, können Sie den Barcode scannen.
