@@ -69,9 +69,7 @@ Denken Sie daran, nach der Eingabe erst den **grünen Haken** zu klicken und ans
 
 :::danger  ACHTUNG  
 
-Die Wartezeiten werden leider nicht zuverlässig KORREKT aus der Barsoi Liste überliefert, die Angaben können also falsch sein. 
-Wir raten deswegen dringend zur manuellen Überprüfung. Denken Sie in dem Fall daran, die automatische Aktualisierung mit dem Katalog
-zu deaktivieren, damit Ihre Änderungen nicht wieder überschrieben werden.   
+Die Wartezeiten werden leider nicht aus der Barsoi Liste überliefert, Sie müssen diese also manuell anlegen. 
 
 :::
 
