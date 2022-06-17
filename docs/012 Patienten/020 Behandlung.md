@@ -185,7 +185,7 @@ wählen Sie zunächst die **Checkboxen** der gewünschten Medikamente an. Drück
 :::tip Tipp  
 
 Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als Abgabe **(Pillensymbol)** oder Behandlung
-**(Spritzensymbol)** dargestellt ist.  
+**(Spritzensymbol)** gebucht/eingetragen ist.  
 
 :::  
 
