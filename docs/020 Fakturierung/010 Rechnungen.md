@@ -47,6 +47,8 @@ Um die Rechnung zu buchen, klicken Sie oben auf **Erweitert** und dann **Rechnun
 
 Nun ist die Rechnung festgeschrieben und muss für weitere Veränderungen zuerst storniert und dann neu erstellt werden!
 
+
+
 ## Rechnungen korrigieren/ stornieren
 
 Um Rechnungen zu korrigieren, müssen Sie diese immer zunächst stornieren und dann neu ausstellen.
