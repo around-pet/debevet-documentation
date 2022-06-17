@@ -42,7 +42,6 @@ Natürlich können Sie mit einem Klick rechts auf das **Stiftsymbol** den Eintra
 
 ### Eintrag für anderen Benutzer erstellen  
 
-
 Mit dieser Funktion könnnen Sie Karteikarteneinträge für andere Kollegen aus dem Praxisteam vornehmen. Der Eintrag wird
 dann mit Namen des anderen in der Kartei geführt, aber deutlich signalisiert, dass dieser den Eintrag nicht selbst 
 vorgenommen hat.  
@@ -79,9 +78,122 @@ In diesem Feld finden Sie beim Betreten der Kartei den Gebührenfaktor, der gem�
 für Ihre Praxis hinterlegt ist.
 
 Sie können diesen Vorgabewert Ihrer Praxis im Bedarfsfall herauf- bzw. heruntersetzen.
-Alle Leistungen, die von Ihnen in die Kartei aufgtenommen werden, werden jeweils mit dem aktuellen Gebührenfaktor, 
-der zum Zeitpunkt des Eintrags hier steht, multipliziert.  
+Alle Leistungen, die von Ihnen in die Kartei aufgenommen werden, werden jeweils mit dem aktuellen Gebührenfaktor,
+der zum Zeitpunkt des Eintrags hier steht, multipliziert. 
+
+:::caution Achtung   
+
+Die Eingabe muss durch einen Klick auf den Haken neben dem Faktor aktiv gesetzt werden.   
+
+:::  
+
+Möchten Sie nur einzelne Posten im Faktor erhöhen, markieren Sie diese mit der Checkbox, ändern dann den Gebührenfaktor und klicken den grünen Haken. 
+
 
 ![](../../static/img/Patienten/faktor.png)   
+
+## Behandlungen suchen und finden  
+
+Klicken Sie auf **Praxis**, dann auf **Behandlungen**. Das System listet alle Behandlungen auf. Tippen Sie in das Suchfenster
+wie bei einer Suchmaschine Begriffe ein, die auf den gewünschte Behandlung passen und drücken Sie die **Entertaste** oder klicken
+Sie auf das **Lupensymbol**.   
+
+![](../../static/img/Patienten/behandlung_suchen1.png)  
+
+### Suche filtern 
+
+
+Wenn Sie neben dem Eingabefeld für die Schnellsuche oben auf den Pfeil nach unten klicken, können Sie auch nach gezielten
+Parametern bzw. weiteren Suchbegriffen filtern.  
+
+![](../../static/img/Patienten/behandlung_suchen2.png) 
+
+### Suchenfilter zurücksetzen  
+
+Wenn Sie eine Suche ausgeführt haben, ist die Behandlungsliste gefiltert, was dadurch angezeigt wird, dass der **Pfeil nach 
+unten** neben den der Schnellsuche *gelb* ist. Klicken Sie auf den Pfeil nach unten und dann auf **Zurücksetzen**, um die
+Behandlungsliste wieder ungefiltert angezeigt zu bekommen.  
+
+![](../../static/img/Patienten/behandlung_suchenfilter_zurueck.png)  
+
+## Behandlung /Einträge verschieben 
+
+Evtl. fällt Ihnen auf, dass Sie einen Eintrag vergessen haben oder noch etwas zu einem Tag in der Vergangenheit nachtragen wollen.
+Um dies zu ermöglichen, können Sie alle Einträge und Behandlungen verschieben. 
+Um einen Eintrag zu ergänzen, den Sie verschieben wollen, schreiben Sie diesen und sichern ihn mit Klick auf das **Plus Symbol**. 
+
+![](../../static/img/Patienten/behandlung_verschieben1.png)  
+
+Bereits vorhandene Einträge an einen anderen Tag zu verschieben (oder den eben erstellten) klappt dann wie folgt:  
+
+Klicken Sie auf das **Stift Symbol** rechts neben dem Eintrag.   
+
+![](../../static/img/Patienten/behandlung_verschieben2.png)  
+
+Klicken Sie nun das **Kalender Symbol** und wählen den gewünschten Tag, auf den die Behandlung verschoben werden soll. KLicken 
+Sie danach auf das kleine **Disketten Symbol** rechts.   
+
+![](../../static/img/Patienten/behandlung_verschieben3.png)  
+
+Nun taucht Ihr Eintrag an dem gewünschten Tag auf.  
+
+![](../../static/img/Patienten/behandlug_verschieben4.png)  
+
+:::tip Tipp  
+
+An den Einträgen hinzugefügte Leistungen/Medikamente werden mit verschoben, so dass Sie gesamte Behandlungen verschieben können.  
+
+:::  
+
+## Behandlungsdatum ändern
+
+Alternativ können Sie auch die Checkboxen der gewünschten Posten aktivieren und dann oben auf das **Kalendersymbol** klicken. Dort 
+wählen Sie dann das gewünschte Datum und bestätigen dieses mit Klick auf den **grünen Haken**.  
+
+![](../../static/img/Patienten/datum_aendern.png)
+
+## Einträge/ Behandlungsposten löschen  
+
+Sie haben etwas falsches eingetragen und müssen oder wollen es löschen? Klicken Sie dazu auf das **Mülleimer Symbol** neben dem
+entsprechenden Posten rechts. Bestätigen Sie dann die Löschung.   
+
+![](../../static/img/Patienten/falsche_eintraege_loeschen.png)   
+
+:::tip Tipp  
+
+Bei bereits abgerechneten Behandlungen müssen Sie zuerst die Rechnung stornieren, bevor Sie Posten löschen können. Wie das geht,
+erfahren Sie hier:  
+[Rechnungen löschen](/docs/020%20Fakturierung/010%20Rechnungen#rechnungen-stornieren)  
+
+:::  
+
+## Einträge sortieren   
+
+Sie wollen, dass die Abrechnungsposten auf der Rechnung in einer bestimmten Reihenfolge erscheinen? Sie können diese beliebig verschieben.
+Markieren Sie vorn am gewünschten Posten die **Checkbox** und nutzen Sie dann oben in der Leiste die **Pfeile nach oben und unten**, um die Reihenfolge
+beliebig zu ändern.   
+
+![](../../static/img/Patienten/behandlungen_sortieren.png)  
+
+## Medikamente als Abgabe oder Anwendung  
+
+Um bei einem oder mehreren Medikamenten auszuwählen, ob es in einer Behandlung verwendet wurde, oder abgegeben wurde,
+wählen Sie zunächst die **Checkboxen** der gewünschten Medikamente an. Drücken Sie nun oben rechts auf das **Pillensymbol**.
+
+  ![](../../static/img/Patienten/behandlungen-abgabe-umschalten.png)  
+
+:::tip Tipp  
+
+Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als Abgabe **(Pillensymbol)** oder Behandlung
+**(Spritzensymbol)** dargestellt ist.  
+
+:::  
+
+
+
+
+
+
+
 
 
