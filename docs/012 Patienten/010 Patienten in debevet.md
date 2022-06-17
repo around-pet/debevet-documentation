@@ -22,7 +22,29 @@ Geben Sie anschließend alle Daten zum Patienten ein und klicken Sie dann oben r
 ![](../../static/img/Patienten/patienten_anlegen3.png)
 
 
-![](../../static/img/Patienten/patient_anlegen2.png)     
+![](../../static/img/Patienten/patient_anlegen2.png)       
+
+**Alternativer Weg:** Sie können auch zunächst einen Kunden anlegen (Siehe Sektion Kunden), um erst die Besitzerdaten anzulegen.
+KLicken Sie dann auf den orangenen Button **Behandeln**.
+
+![](../../static/img/Patienten/patient_anlegen_alternativ1.png)  
+
+Klicken Sie dann unten links bei **Patient** auf das **Plus Symbol**. 
+
+![](../../static/img/Patienten/patient_anlegen_alternativ2.png)  
+
+Es öffnet sich eine Eingabemaske, in der Sie Schritt für Schritt die Daten eingeben können. Klicken Sie anschließend auf **Speichern**.  
+
+![](../../static/img/Patienten/patient_anlegen_alternativ3.png)  
+
+## Zwischen Patienten desselben Besitzers wechseln  
+
+Um ein anderes Tier desselben Besitzers zu behandeln, klicken Sie (wenn mehrere Tiere anlegt sind) auf den Dropdown Pfeil
+links unten neben dem grünen Namen des gerade aktiven Patienten.   
+
+Nun erscheint eine Liste aller Patienten dieses Kunden/Besitzers. Wählen Sie das gewünschte weitere Tier, dass Sie behandeln wollen.  
+
+![](../../static/img/Patienten/patient_wechseln1.png)
 
 ## Patienten suchen und finden  
 
