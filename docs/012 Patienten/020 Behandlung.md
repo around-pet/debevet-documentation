@@ -185,9 +185,46 @@ wählen Sie zunächst die **Checkboxen** der gewünschten Medikamente an. Drück
 :::tip Tipp  
 
 Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als Abgabe **(Pillensymbol)** oder Behandlung
-**(Spritzensymbol)** dargestellt ist.  
+**(Spritzensymbol)** gebucht/eingetragen ist.  
 
 :::  
+
+## Diagnosen oder Dienstleistungen anlegen
+
+Klicken Sie oben auf das **Doktorhut-Symbol**, um eine neue Diagnose anzulegen.
+
+Um eine neue Dienstleistung anzulegen, klicken Sie auf das **Personen-Symbol**.
+
+Geben Sie die benötigten Daten in die Felder ein und drücken danach Anlegen. 
+
+![](../../static/img/Patienten/diagnosen_dienstleistungen_anlegen.png)  
+
+## Brief/Mail an den Patienten anlegen  
+
+Klicken Sie oben rechts auf das **Briefsymbol**, um dem Kunden einen Brief zu schreiben.  
+
+![](../../static/img/Patienten/brief_anlegen1.png)
+
+In der sich öffnenden Maske können Sie nun Inhalte frei eingeben, oder im Dropdownmenü rechts **Vorlagen** nutzen.  
+
+![](../../static/img/Patienten/brief_anlegen.png)
+
+:::tip Tipp  
+
+Diese Funktion kann für Berichte oder Einverständniserklärungen nützlich sein.  
+
+:::  
+
+### Brief-Vorlagen erstellen/bearbeiten  
+
+Um die Vorlagen für die Brief Funktion zu nutzen und neue Vorlagen zu erstellen, klicken Sie **Administation** und dann 
+**Testbausteine**. Dort wählen Sie dann **Vorlagen**.  
+
+![](../../static/img/Patienten/vorlagen_erstellen.png)  
+
+Oben rechts wählen Sie dann im Dropdown **Brief** aus und klicken dann auf das **grüne Plus-Symbol**.  Nun  können Sie den 
+Text eingeben und die gewünschten Variablen einsetzen. Nach dem Speichern steht diese Vorlage nun bei der Brieffunktion zur Auswahl.
+
 
 
 
