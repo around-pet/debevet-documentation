@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Erste Schritte mit Debevet
+# Erste Schritte mit Debevet  
+
+Dieser Abschnitt hilft Ihnen, die 5 wichtigsten Schritte zur ersten Nutzung von debevet zu gehen. 
 
 ## 1. Eigene Praxisdaten anlegen   
 
@@ -38,6 +40,17 @@ nutzen und abrechnen zu können. Eine einfache Schritt-für-Schritt Anleitung fi
 
 
 
-## 4. Produkte anlegen
-## 5. Kunden abrechnen/ Rechnung erstellen
-## 
+## 4. Produkte anlegen  
+
+Neben dem Import von Katalogen können Sie auch individuelle Produkte/Dienstleistungen erstellen. Die Anleitung finden Sie hier:  
+
+[Produkte Verwalten](/docs/070%20Warenwirtschaft/010%20Produkte)  
+
+## 5. Patienten behandeln und abrechnen
+
+Natürlich ist das Wichtigste in Ihrer alltäglichen Praxis, die Behandelungen an den Patienten abzurechnen. Wie dies geht,
+lernen Sie hier: 
+
+[Patienten behandeln](docs/012%20Patienten/020%20Behandlung)
+
+[Patienten abrechnen](docs/012%20Patienten/030%20Patienten%20abrechnen)
