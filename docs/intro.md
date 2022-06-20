@@ -44,12 +44,12 @@ nutzen und abrechnen zu können. Eine einfache Schritt-für-Schritt Anleitung fi
 
 Neben dem Import von Katalogen können Sie auch individuelle Produkte/Dienstleistungen erstellen. Die Anleitung finden Sie hier:  
 
-[Produkte Verwalten](/docs/070%20Warenwirtschaft/010%20Produkte)  
+[Produkte verwalten](/docs/070%20Warenwirtschaft/010%20Produkte)  
 
 ## 5. Patienten behandeln und abrechnen
 
-Natürlich ist das Wichtigste in Ihrer alltäglichen Praxis, die Behandelungen an den Patienten abzurechnen. Wie dies geht,
-lernen Sie hier: 
+Natürlich ist das Wichtigste in Ihrer alltäglichen Praxis, Patienten zu behandeln und die Behandlungen an den Patienten abzurechnen. 
+Wie dies geht, lernen Sie hier: 
 
 [Patienten behandeln](docs/012%20Patienten/020%20Behandlung)
 
