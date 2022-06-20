@@ -1,6 +1,6 @@
 # Patienten in Gruppen behandeln  
 
-Vor allem im Großtiersektor und oder Tierheimen kann die Behandlung in Gruppen nötig sein. Hierfür nutzt debevet sogenannte **Boxen**. 
+Vor allem im Großtiersektor und oder Tierheimen kann die Behandlung in Gruppen nötig und sinnvoll sein. Hierfür nutzt debevet sogenannte **Boxen**. 
 Mit dieser Funktion können mehrere Tiere auf einmal behandelt werden. Hierfür müssen diese allerdings demselben Besitzer (Kunden) gehören.
 
 Dabei kann unterschieden werden in:   
@@ -102,4 +102,118 @@ Bei der Erstellung von AUA Belegen ist das Gewicht sehr wesentlich. Um Zeit zu s
 Tierarten/Rassen zu hinterlegen.  
 
 :::  
+
+## Boxen nachträglich bearbeiten  
+
+Natürlich können Sie bei einer bereits erstellen Box/Gruppe von Tieren noch im Nachhinein Tiere löschen, die Anzahl der Tiere verändern
+oder Tiere hinzufügen.  
+
+### Tiere löschen und hinzufügen bei normaler Box
+
+KLicken Sie **Praxis** und dann **Patienten**. In der Liste klicken Sie nun auf die **Bezeichnung** der gewünschten, zu bearbeitenden Box
+neben dem Boxsymbol.  
+
+![](../../static/img/Patienten/boxen_bearbeiten1.png)  
+
+Nun gelangen Sie auf die Bearbeitungsseite der Box. Sie können Tiere löschen, indem Sie neben dem zu löschenden Tier 
+auf das **Mülleimersymbol** klicken.  
+
+Um ein neues Tier hinzuzufügen, geben Sie die Daten des Tieres in die untere, freie Zeile ein und klicken danach den **Haken**. 
+Nur so wird die Eingabe bestätigt.
+
+Klicken Sie anschließend auf **Speichern** oben rechts.
+
+![](../../static/img/Patienten/boxen_bearbeiten2.png)  
+
+Alternativ können Sie die Anzahl der Tiere auch direkt in der Behandlung ändern. Wählen Sie dazu die gewünschte Box im Dropdown Menü in der
+Behandlung, links bei **Patient**.  
+
+![](../../static/img/Patienten/boxen_aendern_5.png)  
+
+In dieser Sektion können Sie nun auf das **orangene Zahlensymbol** klicken, um Tiere zu löschen (**Mülleimersymbol**) oder hinzufügen
+(**Eingabe in leere Zeile und Haken klicken**).
+
+:::caution Achtung  
+
+Hier in der Behandlung können Sie über diesen "Kurzen Weg" nur bereits angelegte Tiere hinzufügen! Komplett neue Tiere können Sie nur über
+die Patientenliste hinzufügen.
+
+:::  
+
+![](../../static/img/Patienten/boxen_aendern6.png)  
+
+![](../../static/img/Patienten/boxen_aendern7.png)
+
+### Anzahl der Tiere ändern in anonymer Box
+
+Wenn Sie an einer anonymen Box die Anzahl der Tiere ändern wollen, können Sie dies in der **Patientenliste** ebenso. KLicken sie auf 
+die Bezeichnung der gewünschten Box. Nun können Sie die Anzahl der Tiere ändern und dann **Speichern**.
+
+![](../../static/img/Patienten/boxen_anonym_aendern4.png)
+
+Sie können in Boxen die Anzahl der Tiere auch direkt an der Behandlung ändern. Wählen Sie dazu in der Behandlung aus der Patientenliste
+mit dem Dropdown Pfeil die gewünschte Box. Nun haben Sie zwei Möglichkeiten:   
+
+1. Geben Sie links die geänderte Tierzahl direkt an der Liste ein
+
+![](../../static/img/Patienten/boxen_anonym_aendern1.png)  
+
+2. Klicken Sie direkt an der Box bei **Patient** links die orangene Zahl an, um dort die gewünschte neue Anzahl Tiere anzugeben  
+
+![](../../static/img/Patienten/boxen_aendern_anonym2.png)  
+
+## Einzelne Tiere aus der Behandlung herausnehmen 
+
+:::caution Achtung  
+
+Diese Funktion gibt es nur bei **nicht anonymen Boxen**.  
+
+::: 
+
+Wenn Sie bei der Behandlung einen Posten eingeben, um diesen abzurechnen, werden zunächst immer alle Tiere gewählt.
+Um ein (odere mehrere) Tier(e) davon auszunehmen, klicken Sie auf die **orangene Zahl** am entsprechenden Behandlungsposten.  
+
+![](../../static/img/Patienten/boxen_behandlung_tiere_ausnehmen.png)  
+
+Nun öffnet sich eine Maske, in der Sie mit Klick auf das **Link Symbol** einzelne Tiere von diesem **einen** Behandlungsposten 
+ausnehmen können.  
+
+![](../../static/img/Patienten/boxen_behandlung_tiere_ausnehmen2.png)  
+
+Anschließend sehen Sie am Behandlungsposten anhand der **orangenen Zahl**, dass hier ein Tier weniger behandelt wurde.  
+
+![](../../static/img/Patienten/boxen_behandlung_tiere_ausnehmen3.png)   
+
+## Abgabemengen berechnen  
+
+Die debevet Software bietet Ihnen die Möglichkeit, die Abgabemenge für die Gruppe direkt zu berechnen. Geben Sie dazu den Namen des Präparates ein
+und klicken Sie dann auf das **Rechnersymbol**.   
+
+![](../../static/img/Patienten/boxen_abgabemenge1.png)  
+
+Hier können Sie nun alle wichtigen Daten eingeben, die auch auf dem AUA-Beleg erscheinen müssen. 
+
+Außerdem wird die Gesamtmenge berechnet, inklusive der Möglichkeit, Restmengen darzustellen. Dabei bezieht der Rechner sich auf die
+Daten, die in den Produkten als Packungsgrößen angegeben sind.  
+
+Klicken Sie anschließend rechts aus den **Haken**, um die passende Menge der Behandlung hinzuzufügen.  
+
+Neben der berechneten benötigten Menge werden auch noch die auf die volle Packungsmenge auf- und abgerundete Menge angegeben. 
+Auch die Restmenge die übrig bleiben würde, wenn Sie die aufgerundete Menge verwenden, wird angezeigt. Wenn Sie sich dazu entscheiden,
+auf die nächste volle Packung abzurunden, wird die Menge pro Tier neu berechnet. Klicken Sie hierzu einfach wieder auf das Taschenrechner-Symbol.
+
+:::tip Tipp  
+
+Wenn Sie das Medikament nicht anwenden, sondern abgeben möchten (oder umgekehrt), klicken Sie auf das **Spritzensymbol** oder **Pillenymbol**,
+um das entsprechend zu ändern.  
+
+![](../../static/img/Patienten/boxen_abgabe_aendern2.png)  
+
+::: 
+
+
+
+
+
+
 

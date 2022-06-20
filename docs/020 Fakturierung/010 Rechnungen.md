@@ -47,9 +47,7 @@ Um die Rechnung zu buchen, klicken Sie oben auf **Erweitert** und dann **Rechnun
 
 Nun ist die Rechnung festgeschrieben und muss für weitere Veränderungen zuerst storniert und dann neu erstellt werden!
 
-
-
-## Rechnungen korrigieren/ stornieren
+## Rechnungen korrigieren/ stornieren/ löschen
 
 Um Rechnungen zu korrigieren, müssen Sie diese immer zunächst stornieren und dann neu ausstellen.
 
@@ -77,6 +75,42 @@ Bestätigen Sie die Löschung.
  
 Wenn Sie nun erneut in die Behandlung wechseln, indem Sie oben rechts auf **Schließen** klicken, sind die Behandlungs/Medikamtenposten, die Sie
 abgerechnet hatten, wieder freigegeben, um verändert oder einzeln gelöscht zu werden.  
+
+### Gelöschte Rechnungen anzeigen  
+
+Um sich gelöschte/stornierte Rechnungen anzeigen zu lassen, klicken Sie auf **Fakturierung**(Euro-Symbol) und dann **Rechnungen**. 
+Klicken Sie den Dropdown-Pfeil neben dem Suchenfeld. Setzten Sie dann den Haken bei **Gelöschte anzeigen** und bestätigen mit der **Entertaste** oder Klick auf 
+das **Lupen-Symbol**. 
+
+Nun sehen Sie rot hinterlegt die stornierten Rechnungen.  
+
+:::danger ACHTUNG  
+
+Gelöschte Rechnungen können und DÜRFEN nicht wieder herstellt werden! Deswegen gibt es diese Funktion nicht. Wenn Sie die Rechnung nun doch
+genauso benötigen, wie ursprünglich ausgestellt, müssen Sie diese NEU ausstellen.  
+
+:::  
+
+## Sammelrechnungen erstellen  
+
+Eventuell möchten Sie bei einem Kunden oder mehreren alle noch nicht abgerechneten Posten abrechnen. Klicken Sie hierzu auf **Praxis** 
+und dann **Behandlungen**.  
+
+Sie sehen die ungefilterte Liste Ihrer Behandlungen. Klicken Sie nun neben der Suchleiste auf den Dropdown Pfeil, um die Behandlungsliste zu filtern.
+Wählen Sie die Checkboxen bei **Rechnung ausstehend**, um alle Behandlungen bzw. Karteien anzuzeigen in denen für denen
+noch nicht fakturierte Positionen existieren.
+
+Wenn Sie zusätzlich die Checkbox  **Kunde** ankreuzen, werden die Beträge der noch nicht fakturierten Behandlungen bzw.
+Karteien eines Kunden summiert. Drücken Sie nun **Enter** oder klicken das **Lupen-Symbol**, um den Filter anzuwenden.  
+
+![](../../static/img/Rechnungen/sammelrechnung1.png)   
+
+Wählen Sie nun die Checkboxen der gewünschten Behandlungen an und drücken oben rechts auf das **€-Symbol**, um die gewählten 
+Behandlungen abzurechnen.
+
+Die Rechnungen werden erzeugt und liegen anschließend unter **Fakturierung** - **Rechnungen** vor.  
+
+![](../../static/img/Rechnungen/sammelrechnungen2.png)
 
 ## Reverse-Charge Rechnungen  
 
