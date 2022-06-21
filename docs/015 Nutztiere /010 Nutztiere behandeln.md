@@ -1,15 +1,81 @@
 # Nutztiere/Großtiere behandeln
 
 Da es für die Behandlung von Nutztieren doch einige Vorschriften und Besonderheiten gibt, die debevet Ihnen sehr erleichtern
-kann, haben wir diese Hilfesektion extra für die Nutztier/Großtierkoellegen von Ihnen eingerichtet. 
+kann, haben wir diese Hilfesektion extra für die Nutztier-/Großtierkollegen von Ihnen eingerichtet. 
 
-## AUA Belege verwalten  
-### AUA Beleg erstellen 
-### AUA Belege einsehen und filtern
+## AUA Belege verwalten   
+
+Hier können Sie AuA-Belege suchen, ändern, löschen oder drucken. Außerdem können Sie nach verschiedenen Datenbanken 
+wie HI-Tier oder QS-Vetproof filtern.  
+
+### AUA Beleg erstellen  
+
+Um einen AUA-Belege für ein Tier oder eine Gruppe von Tieren zu erstellen, müssen Sie sich in der Behandlungsmaske des Tieres/ der Gruppe befinden.  
+
+Wählen Sie zunächst die **Checkboxen** der gewünschten Medikamente an. Drücken Sie nun oben auf das **Buchsymbol**.  
+
+![](../../static/img/Nutztiere/aua_erstellen1.png)  
+
+Nun wird Ihnen die Vorschau angezeigt, wenn Sie oben rechts auf **Abgabebeleg anlegen** klicken, wird der Beleg erstellt. 
+
+![](../../static/img/Nutztiere/aua_erstellen2.png)
+
+Nun sehen Sie den fertigen Beleg und können diesen entweder drucken oder direkt mit Klick auf das **Mail-Symbol** an den Landwirt mailen.  
+
+![](../../static/img/Nutztiere/aua_erstellen3.png)  
+
+:::danger ACHTUNG  
+
+Bitte beachten Sie, dass der hier dargestellte Beleg nicht rechtskonform ist! Sie selbst müssen alle Daten (Wartezeiten, Anwendungen) 
+an den Medikamenten hinterlegen, damit diese korrekt auf dem AUA dargestellt werden! 
+
+Pflichtangaben aktuell: eindeutige Identifizierung TA, Landwirt und Tier, Applikationsart, Menge, Chargennummer, Wartezeiten
+wenn Abgabe auch das Intervall. Beachten Sie die zukünftigen und aktuellen Regeln bitte selbständig!  
+
+:::  
+
 ### AUA Belege suchen  
-### Suchenfilter zurücksetzen   
+
+Ihre Abgabebeleg-Liste finden Sie unter **Praxis** und dann **AUA**. Sie sehen dort die gesamte Liste Ihrer Abgabebelege.  
+
+![](../../static/img/Nutztiere/aua_liste1.png)  
+
+Tippen Sie in das Suchfenster wie bei einer Suchmaschine Begriffe ein, die zum gewünschten AuA-Beleg 
+passen und drücken Sie die **Entertaste** oder klicken Sie auf das **Lupen-Symbol**.  
+
+![](../../static/img/Nutztiere/aua_suche.png)  
+
+Nun werden Ihnen alle Ergebnisse aufgelistet, die zu Ihrer Suche passen.  
+
+Mit einem Klick auf die Belegnummer können Sie den gewünschten Beleg öffnen.  
+
+### Suchenfilter zurücksetzen  
+
+Das die Liste aktuell mit einem Suchergebnis gefiltert ist, erkennen Sie daran, dass der **Dropdown-Pfeil** oben neben dem Suchenfeld *gelb* ist.  
+
+Um die Liste wieder ungefiltert anzeigen zu lassen, klicken Sie auf den **Dropdown-Pfeil** und klicken dann auf **Zurücksetzen**.  
+
+![](../../static/img/Nutztiere/filter_aua_zuruecksetzen.png)  
+
 ### AUA Belege drucken, versenden, löschen  
-### Mehrere Belege bearbeiten, senden, löschen  
+
+Wählen Sie die gewünschten Belege aus, indem Sie die Checkboxen vor den Beleg-Nummern anwählen. Um die gewünschte 
+Aktion auszuführen, drücken Sie nun die jeweiligen Symbole oben rechts: zum Drucken das **Drucker-Symbol**, zum Verschicken
+das **Brief-Symbol** und zum Löschen das **rote Mülleimer-Symbol**.  
+
+![](../../static/img/Nutztiere/aua-drucken.png)  
+
+### Mehrere Belege bearbeiten, senden, löschen    
+
+Um mehrere AuA-Belege zu bearbeiten, wählen Sie zunächst die jeweiligen **Checkboxen** in der Liste an.
+Drücken Sie nun das **Stift-Symbol** oben rechts, um die ausgewählten AuA-Belege zu bearbeiten.
+
+Nutzen Sie die Pfeile < und > um beim Bearbeiten zwischen den einzelnen AuA-Belege zu wechseln.
+
+Um sie zu löschen, drücken Sie das **Mülleimer-Symbol**.  
+
+![](../../static/img/Nutztiere/stapel_aua.png)  
+
 ### Antibiotika-Monitoring  
 
 ## Gruppen behandeln  
