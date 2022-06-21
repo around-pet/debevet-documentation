@@ -14,6 +14,16 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     trailingSlash: false,
+    plugins: [
+        [
+            require.resolve("@cmfcmf/docusaurus-search-local"),
+            {
+                indexBlog: true,
+                indexPages: false,
+                language: "de",
+            },
+        ],
+    ],
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
@@ -58,13 +68,6 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            algolia: {
-                contextualSearch: true,
-                appId: '4WXZT6ZA9R',
-                apiKey: 'da956ba137ac0179d81672d848d8282e',
-                indexName: 'docusaurus',
-
-            },
             navbar: {
                 title: 'debevet Handbuch',
                 logo: {
