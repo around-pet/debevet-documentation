@@ -7,5 +7,5 @@ Anschließend klicken Sie oben auf das **Euro Symbol**, um die Posten in die Rec
 
 Für alle weiteren Tricks und Tipps rund um das Thema Rechnungen schauen Sie hier:
 
-[Rechnungen](/docs/020%20Fakturierung/010%20Rechnungen#rechnungen-erstellen)
+[Rechnungen](/docs/Fakturierung/Rechnungen#rechnungen-erstellen)
 

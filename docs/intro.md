@@ -23,11 +23,11 @@ Der nächste wichtige Punkt ist es, Kunden (also Patientenbesitzer) und deren Pa
 
 Die Anleitung zu der Verwaltung der Kunden in debevet finden Sie hier:  
 
-[Kundenverwaltung debevet](/docs/011%20Kunden/010%20Kunden%20in%20debevet)
+[Kundenverwaltung debevet](/docs/Kunden/Kunden_in_debevet)
 
 Die Patientenverwaltung finden Sie hier:  
 
-[Patientenverwaltung debevet](/docs/012%20Patienten/010%20Patienten%20in%20debevet)
+[Patientenverwaltung debevet](/docs/Patienten/Patienten_in_debevet)
 
 
 
@@ -36,7 +36,7 @@ Die Patientenverwaltung finden Sie hier:
 Wir bieten mit debevet die einfache Möglichkeit, diverse Kataloge zu importieren, um direkt alle nötigen Preise und Dienstleistungen
 nutzen und abrechnen zu können. Eine einfache Schritt-für-Schritt Anleitung finden Sie hier:  
 
-[Kataloge importieren](/docs/070%20Warenwirtschaft/080%20Kataloge)
+[Kataloge importieren](/docs/Warenwirtschaft/Kataloge)
 
 
 
@@ -44,13 +44,13 @@ nutzen und abrechnen zu können. Eine einfache Schritt-für-Schritt Anleitung fi
 
 Neben dem Import von Katalogen können Sie auch individuelle Produkte/Dienstleistungen erstellen. Die Anleitung finden Sie hier:  
 
-[Produkte verwalten](/docs/070%20Warenwirtschaft/010%20Produkte)  
+[Produkte verwalten](/docs/Warenwirtschaft/Produkte)  
 
 ## 5. Patienten behandeln und abrechnen
 
 Natürlich ist das Wichtigste in Ihrer alltäglichen Praxis, Patienten zu behandeln und die Behandlungen an den Patienten abzurechnen. 
 Wie dies geht, lernen Sie hier: 
 
-[Patienten behandeln](docs/012%20Patienten/020%20Behandlung)
+[Patienten behandeln](docs/Patienten/Behandlung)
 
-[Patienten abrechnen](docs/012%20Patienten/030%20Patienten%20abrechnen)
+[Patienten abrechnen](docs/Patienten/Patienten_abrechnen)
