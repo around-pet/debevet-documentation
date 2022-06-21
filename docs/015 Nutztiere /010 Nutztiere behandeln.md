@@ -78,6 +78,13 @@ Um sie zu löschen, drücken Sie das **Mülleimer-Symbol**.
 
 ### Antibiotika-Monitoring  
 
+:::caution Achtung  
+
+Für die Meldung von Antibiotika ist es erforderlich, dass das jeweilige Präparat unter
+**Warenwirtschaft** → **Produkte** für das Antibiotika-Monitoring gekennzeichnet ist, also im gleichnamigen Feld ein Haken gesetzt ist.  
+
+:::
+
 ## Gruppen behandeln  
 
 
