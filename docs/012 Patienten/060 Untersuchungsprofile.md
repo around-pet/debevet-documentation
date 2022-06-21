@@ -71,7 +71,7 @@ Beenden Sie die Erfassung durch Klick auf **Speichern** oben rechts.
 
 Wenn Sie ein Profil ändern oder ergänzen möchten, können Sie dies jederzeit tun. Klicken Sie auf **Praxis** und dann **Untersuchungsprofile** 
 und wählen das gewünschte Profil an, indem Sie auf den Namen des Profils klicken.  
-Führen Sie nun Ihre Änderungen durch und klicken anschließend auf *+Speichern**.  
+Führen Sie nun Ihre Änderungen durch und klicken anschließend auf **Speichern**.  
 
 ## Untersuchungen und Einheiten der Profile
 
@@ -98,8 +98,8 @@ Klicken Sie hierzu am Patienten in der Behandlung auf das **Mikroskop-Symbol** u
 
 ![](../../static/img/Patienten/untersuchungsprofil_nutzen2.png)  
 
-Geben Sie hier nun den gewünschten Namen des Profils ein.Das gewünschte Profil öffnet sich und Sie können nun alle Parameter 
-eingeben. Klicken sie dann unten auf *+Speichern**.  
+Geben Sie hier nun den gewünschten Namen des Profils ein. Das gewünschte Profil öffnet sich und Sie können nun alle Parameter 
+eingeben. Klicken sie dann unten auf **Speichern**.  
 
 ![](../../static/img/Patienten/untersuchungsprofil_anwenden4.png)  
 
