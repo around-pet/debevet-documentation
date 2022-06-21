@@ -51,6 +51,6 @@ Neben dem Import von Katalogen können Sie auch individuelle Produkte/Dienstleis
 Natürlich ist das Wichtigste in Ihrer alltäglichen Praxis, Patienten zu behandeln und die Behandlungen an den Patienten abzurechnen. 
 Wie dies geht, lernen Sie hier: 
 
-[Patienten behandeln](docs/Patienten/Behandlung)
+[Patienten behandeln](/docs/Patienten/Behandlung)
 
-[Patienten abrechnen](docs/Patienten/Patienten_abrechnen)
+[Patienten abrechnen](/docs/Patienten/Patienten_abrechnen)
