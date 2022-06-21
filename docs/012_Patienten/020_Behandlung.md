@@ -163,7 +163,7 @@ entsprechenden Posten rechts. Bestätigen Sie dann die Löschung.
 
 Bei bereits abgerechneten Behandlungen müssen Sie zuerst die Rechnung stornieren, bevor Sie Posten löschen können. Wie das geht,
 erfahren Sie hier:  
-[Rechnungen löschen](/docs/020%20Fakturierung/010%20Rechnungen#rechnungen-stornieren)  
+[Rechnungen löschen](/docs/Fakturierung/Rechnungen#rechnungen-korrigieren-stornieren-löschen)  
 
 :::  
 
