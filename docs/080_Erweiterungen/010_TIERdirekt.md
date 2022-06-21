@@ -8,7 +8,7 @@ Scrollen Sie nun herunter, bis Sie das TIERdirekt Symbol sehen. Klicken Sie dort
 
 ![](../../static/img/tierdirekt/tierdirekt_anlegen1.png)  
 
-In der sich nun öffnenden Maske müssen Sie Ihre Zugangsdaten von tierDIREKT eingeben. Sie haben noch keine?   
+In der sich nun öffnenden Maske müssen Sie Ihre Zugangsdaten von tierDIREKT eingeben. Sie haben noch keine?  
 Sie bekommen diese direkt bei TIERdirekt:  https://www.tierdirekt.de/fuertieraerzte  
 
 ![](../../static/img/tierdirekt/schnittstelle_anlegen.png)

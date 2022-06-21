@@ -8,7 +8,7 @@ Dieser Abschnitt hilft Ihnen, die 5 wichtigsten Schritte zur ersten Nutzung von 
 
 ## 1. Eigene Praxisdaten anlegen   
 
-Damit auf Ihren Rechnungen/Briefen etc.  Ihre Kontodaten und alle weiteren Daten korrekt hinterlegt sind (im Fußteil), müssen Sie diese 
+Damit auf Ihren Rechnungen/Briefen etc. Ihre Kontodaten und alle weiteren Daten korrekt hinterlegt sind (im Fußteil), müssen Sie diese 
 zunächst hinterlegen. Klicken Sie dafür am linken Bildrand auf das Zahnradsymbol und dann auf "Praxisdaten".  
 
 ![](../static/img/ersteschritte/praxisdaten_anlegen1.png)    
