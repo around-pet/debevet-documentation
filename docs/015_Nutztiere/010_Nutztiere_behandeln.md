@@ -76,7 +76,7 @@ Um sie zu löschen, drücken Sie das **Mülleimer-Symbol**.
 
 ![](../../static/img/Nutztiere/stapel_aua.png)  
 
-## Ausstehende AUA Belege anzeigen  
+### Ausstehende AUA Belege anzeigen  
 
 Die debevet Software bietet die Möglichkeit, alle noch nicht erstellten AUA Belege anzeigen zu lassen und direkt zu erstellen. 
 
