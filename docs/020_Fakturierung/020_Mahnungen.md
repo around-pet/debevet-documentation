@@ -43,3 +43,22 @@ Wichtig ist, dass Sie die Einstellungen für die Mahnungen im Bereich **Administ
 
 ![](../../static/img/Rechnungen/mahnlauf7.png)  
 
+## Mahnstufe erhöhen  
+
+Wenn Sie eine erste Mahnung an den Kunden geschickt haben und die Frist zur Zahlung verstrichen ist, finden Sie die Mahnung/Rechnung 
+in der entsprechenden nächsten Stufe wieder im Mahnungslauf.  
+Klicken Sie also wieder **Fakturierung** und **Mahnungen**, um dann oben rechts auf **Erweitert** den Mahnungslauf zu öffnen.  
+
+Bei weiter nicht gezahlten Rechnungen (wenn Sie also keine Zahlung eingegeben haben) sehen Sie anhand der Spalte "Stufen" die Mahnstufe.  
+
+Wenn Sie die gewünschten Rechnungen/Mahnungen mit aktivieren der **Checkbox** markieren und dann **Anlegen** klicken,
+wird die nächste Mahnstufe nun erstellt.  
+
+In der Liste der Mahnungen können Sie diese dann wie zuvor verschicken.  
+
+![](../../static/img/Rechnungen/mahnstufen_anzeigen.png)  
+
+
+
+
+
