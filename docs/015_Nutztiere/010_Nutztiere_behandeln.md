@@ -76,6 +76,29 @@ Um sie zu löschen, drücken Sie das **Mülleimer-Symbol**.
 
 ![](../../static/img/Nutztiere/stapel_aua.png)  
 
+## Ausstehende AUA Belege anzeigen  
+
+Die debevet Software bietet die Möglichkeit, alle noch nicht erstellten AUA Belege anzeigen zu lassen und direkt zu erstellen. 
+
+Klicken Sie dazu **Praxis** und dann **Behandlungen**. Klicken Sie dann den **Dropdownpfeil** neben der Suchenleiste.  
+
+Dort setzen Sie den Haken auf **Abgabebeleg ausstehend** und drücken die **Entertaste** oder klicken das **Lupen-Symbol**.   
+
+  ![](../../static/img/Nutztiere/abgabebelege_ausstehend.png)  
+
+Nun werden Ihnen die noch ausstehenden Belege, bzw. Behandlungen, bei denen der AUA Beleg noch nicht erstellt wurde, aufgelistet.  
+
+Um für einen oder mehrere nun den AUA Beleg zu erstellen, aktivieren Sie die gewünschten **Checkboxen** und klicken dann
+oben rechts auf das **Buch-Symbol**.  
+
+![](../../static/img/Nutztiere/abgabebeleg_ausstehend2.png)
+
+:::tip Tipp  
+
+Wenn Sie direkt mehrere angewählt haben, können Sie  mit den Pfeilen oben rechts <  > von Beleg zu Beleg wechseln.  
+
+:::
+
 ### Antibiotika-Monitoring  
 
 :::caution Achtung  
