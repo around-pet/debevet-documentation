@@ -47,7 +47,8 @@ Klicken Sie auf **Praxis** und auf **Kunden**. Klicken Sie in der Liste Ihrer Ku
 
 ### Kundenadressen anlegen und bearbeiten  
 
-Wenn sich die Bearbeitungsseite eines Kunden öffnet, wird zuerst der Reiter Adressen angezeigt. Hier sehen Sie alle für diesen Kunden gespeicherten Adressen und können diese bearbeiten, löschen oder weitere hinzufügen. Ein Kunde kann in debevet neben der primären Rechnungsadresse zahlreiche weitere Adressen besitzen, z.B.:   
+Wenn sich die Bearbeitungsseite eines Kunden öffnet, wird zuerst der Reiter Adressen angezeigt. Hier sehen Sie alle
+für diesen Kunden gespeicherten Adressen und können diese bearbeiten, löschen oder weitere hinzufügen. Ein Kunde kann in debevet neben der primären Rechnungsadresse zahlreiche weitere Adressen besitzen, z.B.:   
 
 * Ansprechpartner  
 * Patientenstandorte   
@@ -55,10 +56,35 @@ Wenn sich die Bearbeitungsseite eines Kunden öffnet, wird zuerst der Reiter Adr
 
 :::tip Tipp  
 
-Eine hier erfasste Patientenadresse kann z.B. bei einem Patienten ausgewählt werden, wenn der Standort des Patienten von der Rechnungsadresse des Kunden abweicht.   
+Eine hier erfasste Patientenadresse kann z.B. bei einem Patienten ausgewählt werden, wenn der Standort des Patienten von der
+Rechnungsadresse des Kunden abweicht.
 
 :::   
+
+### Mehrere Adressen am Kunden hinterlegen
+
+Öffnen Sie den gewünschten Kunden und wählen den Reiter **Adressen**. Hier klicken Sie nun auf **Adresse anlegen**, wenn Sie eine
+neue Adresse hinzufügen wollen.
+
+![](../../static/img/Kunden/patientenadressen_mehrere.png)
+
+Nun öffnet sich die Eingabeseite. Am Feld **Typ** bei Adresse können Sie mit Klick auf den **Dropdownpfeil** ein Untermenü öffnen und
+dort aus verschiedenen Typen wählen.
+
+![](../../static/img/Kunden/patientenadressen_mehrere2.png)
+
+KLicken Sie nach Eingabe aller Daten auf **Speichern** oben rechts. Nun taucht die neu angelegte Adresse am Kunden mit auf.
+
+### Adressen nachträglich berarbeiten
+
+Wenn Sie die Liste der Adressen sehen, können Sie rechts an der Adresse eine kleine Symbolleiste sehen. 
+
 ![Kunden_adressen_anlegen.png](../../static/img/Kunden/Kunden_adressen_anlegen.png)
+
+* Button **Primär**: wenn Sie diesen Button an einer Adresse klicken, wird diese Adresse zur Hauptadresse  
+* **Stift-Symbol**: damit können Sie die Adresse bearbeiten  
+* **Müllereimer-Symbol**: damit können Sie die Adresse löschen  
+* **Weltkugel-Symbol**: öffnet die Karte mit dieser Adresse
 
 
 ### Konten  
@@ -114,5 +140,15 @@ Nun können Sie die gelöschten Kunden sehen, diese werden in der Übersicht rot
 Diese Funktion zum Anzeigen gelöschter Dateien können Sie im gesamten debevet nutzen.    
 
 :::   
+
+## Adressen verwalten  
+
+Sie haben in debevet grundsätzlich die Möglichkeit, in Ihrem Adressbuch generell Adressen anzulegen, zu suchen und zu bearbeiten.  
+
+Wenn Sie dies nicht an den Sektionen **Kunden** oder **Lieferanten** machen möchten, können Sie auch das Adressbuch nutzen. 
+
+Klicken Sie dazu auf **Praxis** und dann **Adressen**.   
+
+![](../../static/img/Kunden/adressbuch.png)
 
 
