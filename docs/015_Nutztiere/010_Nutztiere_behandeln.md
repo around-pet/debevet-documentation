@@ -8,6 +8,15 @@ kann, haben wir diese Hilfesektion extra für die Nutztier-/Großtierkollegen vo
 Hier können Sie AuA-Belege suchen, ändern, löschen oder drucken. Außerdem können Sie nach verschiedenen Datenbanken 
 wie HI-Tier oder QS-Vetproof filtern.  
 
+### Ablaufdatum für AUA Belege setzen  
+
+Sie können festlegen, nach welcher Zeit der AUA Beleg erstellt sein muss. 
+
+Klicken Sie hierzu auf **Administration** und dann **Einstellungen**. Dort klicken Sie in den Reiter **Behandlungen**. 
+Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen können.  
+
+![](../../static/img/Nutztiere/AUA_beleg_datum.png)
+
 ### AUA Beleg erstellen  
 
 Um einen AUA-Belege für ein Tier oder eine Gruppe von Tieren zu erstellen, müssen Sie sich in der Behandlungsmaske des Tieres/ der Gruppe befinden.  
@@ -110,6 +119,10 @@ Für die Meldung von Antibiotika ist es erforderlich, dass das jeweilige Präpar
 
 ## Gruppen behandeln  
 
+Da im Nutztier Sektor eher seltener Einzeltiere behandelt werden, hat debevet mit Boxen eine praktische Möglichkeit geschaffen, 
+mehrere Tiere auf einmal zu behandeln, sie zusammenzufassen und vor allem Abgabemengen auch auf die Gruppengröße direkt zu berechnen. 
+
+Lernen Sie hier, wie das geht: [Gruppen/Boxen](/docs/Patienten/Patienten_in_Gruppen)  
 
 ## HI-Tier Anbindung einrichten 
 
