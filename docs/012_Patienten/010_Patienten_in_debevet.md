@@ -90,6 +90,30 @@ den Möglichkeiten den Dokumententyp. Wenn Sie wollen, können Sie auch das Datu
 
 :::
 
+## Dokumente am Patienten einsehen  
+
+Wenn Sie einen Patienten für die Behandlung aufgerufen haben, können Sie jederzeit die für ihn hinterlegten Dokumente einsehen. KLicken 
+Sie dazu auf den Reiter **Dokumente** in der Behandlungsansicht.  
+
+![](../../static/img/Patienten/dokumente_einsehen1.png)  
+
+Natürlich können Sie nun auch direkt weitere Dokumente hochladen, indem Sie auf das **Upload-Symbol** klicken.  
+
+![](../../static/img/Patienten/dokumente_in_behandlung_hochladen.png)  
+
+Außerdem können Sie sich, wenn ein Patient bereits sehr viele Dokumente hinterlegt hat, diese in der Ansicht nach Typus filtern.  
+Klicken Sie hierfür zunächst auf den **Dropdownpfeil** rechts und wählen dann einen Typus aus. KLicken Sie anschließend auf das **Filtersymbol**.  
+
+![](../../static/img/Patienten/dokumente_filtern.png)  
+
+:::tip Tipp  
+
+Das Filtern nach Typus funktioniert natürlich nur dann, wenn Sie dem jeweiligen Dokument beim Hochladen auch bereits einen Typ zugewiesen 
+haben.  
+
+:::  
+
+
 ![](../../static/img/Patienten/patient_dokumententyp1.png)   
 
 ## Patienten ins Wartezimmer setzen  
