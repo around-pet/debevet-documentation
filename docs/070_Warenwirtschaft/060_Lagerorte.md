@@ -17,7 +17,24 @@ Liste Ihrer Lagerorte. Klicken Sie nun auf das **grüne Plussymbol**, um auf die
 Geben Sie in der Eingabeseite die gewünschten Informationen ein und speichern Sie den neuen Lagerort anschließend, 
 indem Sie auf **Speichern** klicken.  
 
-![](../../static/img/Warenwirtschaft/Neuen_Lagerort_anlegen2 (1).png)
+![](../../static/img/Warenwirtschaft/Neuen_Lagerort_anlegen2 (1).png) 
+
+## Lagerort einem Behandler zuweisen    
+
+Wenn Sie beispielsweise in Ihrer Praxis feste Räume oder Praxis-Autos nutzen, die nur ein bestimmter Arzt nutzt, kann es sehr nützlich sein, einen
+bestimmten Lagerort nur dem einen Behandler zuzuweisen, der diesen Raum nutzt. Vorteile: 
+
+* Wenn Sie die Chargennummern hinterlegt haben und ein Produkt auf **inventurpflichtig** gesetzt haben, wird ja automatisch eine 
+Chargennummer gesetzt. Wenn in diesem Lagerort für diesen Behandler nur beispielsweise eine Charge aktuell als **gebucht** gesetzt ist im 
+Warenbestand, so spart der Behandler sich das Auswählen der Chargen 
+* Vor allem bei angewandten Medikamenten behalten Sie so immer den Überblick, welche Mengen in welchem Raum noch vorhanden sind, und 
+es bucht nicht aus Versehen ein Behandler in seinem Raum einen Verbrauch aus einem anderen Raum ein
+
+Um dem Behandler den Lagerort fest zuzuweisen klicken Sie am gewünschten Lagerort unten am gewünschten Behander auf die **Checkbox**, 
+um diese zu aktivieren.    
+ 
+![](../../static/img/Warenwirtschaft/lagerort_behandler_zuweisen.png)  
+
 
 ## Lagerorte suchen
 
