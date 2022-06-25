@@ -21,11 +21,44 @@ Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen kön
 
 Um einen AUA-Belege für ein Tier oder eine Gruppe von Tieren zu erstellen, müssen Sie sich in der Behandlungsmaske des Tieres/ der Gruppe befinden.  
 
-Wählen Sie zunächst die **Checkboxen** der gewünschten Medikamente an. Drücken Sie nun oben auf das **Buchsymbol**.  
+Wenn Sie das Medikament nun oben neben **Heute** eingeben und auf den Mengenrechner klicken, können Sie dort direkt die Mengen
+eingeben. Außerdem können Sie dort die Anweisung je nach Anwendungsfall wählen. KLicken Sie dazu auf den **Dropdown-Pfeil** neben 
+**Anweisung**. 
+
+![](../../static/img/Nutztiere/anweisung-wahl1.png)   
+
+:::caution Achtung  
+
+Die Anweisungsanwendungen werden nur auf dem AUA Beleg angezeigt, wenn Sie   
+1. diese am Produkt hinterlegt haben
+2. hier oder im nächsten Schritt die Anweisung auch auswählen   
+
+:::  
+
+Sie können auch die Anweisung noch im nächsten Schritt auswählen.
+
+Wählen Sie nun die **Checkboxen** der gewünschten Medikamente an. Drücken Sie nun oben auf das **Buchsymbol**.  
+
+:::caution Achtung  
+
+Achten Sie darauf, dass die korrekte Form gewählt ist, ob **Abgabe**(Pillensymbol) oder **Anwendung**(Spritzensymbol). 
+
+:::  
 
 ![](../../static/img/Nutztiere/aua_erstellen1.png)  
 
-Nun wird Ihnen die Vorschau angezeigt, wenn Sie oben rechts auf **Abgabebeleg anlegen** klicken, wird der Beleg erstellt. 
+Nun wird Ihnen der Entwurf angezeigt. Wenn Sie zuvor nicht aus den Anwendungsanweisungen schon eine Option gesetzt haben, müssen 
+Sie dies nun hier machen. Klicken Sie dazu noch einmal auf das Stiftsymbol neben dem Medikament.   
+
+![](../../static/img/Nutztiere/anweisung_wahl2.png)   
+
+Klicken Sie in der sich öffnenden Maske den *Dropsown-Pfeil** bei **Anweisungen**. Wählen Sie dort dann die gewünschte Anweisung.  
+
+![](../../static/img/Nutztiere/anweisung_wahl3.png)  
+
+Sie sehen direkt, dass die Felder ausgefüllt werden. Klicken Sie dann unten **Übernehmen**.  
+
+Wenn Sie oben rechts auf **Abgabebeleg anlegen** klicken, wird der Beleg erstellt. 
 
 ![](../../static/img/Nutztiere/aua_erstellen2.png)
 
