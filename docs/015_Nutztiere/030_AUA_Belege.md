@@ -46,11 +46,11 @@ Achten Sie darauf, dass die korrekte Form gewählt ist, ob **Abgabe**(Pillensymb
 ![](../../static/img/Nutztiere/aua_erstellen1.png)
 
 Nun wird Ihnen der Entwurf angezeigt. Wenn Sie zuvor nicht aus den Anwendungsanweisungen schon eine Option gesetzt haben, müssen
-Sie dies nun hier machen. Klicken Sie dazu noch einmal auf das Stiftsymbol neben dem Medikament.
+Sie dies nun hier machen. Klicken Sie dazu noch einmal auf das **Stift-Symbol** neben dem Medikament.
 
 ![](../../static/img/Nutztiere/anweisung_wahl2.png)
 
-Klicken Sie in der sich öffnenden Maske den *Dropsown-Pfeil** bei **Anweisungen**. Wählen Sie dort dann die gewünschte Anweisung.
+Klicken Sie in der sich öffnenden Maske den **Dropdown-Pfeil** bei **Anweisungen**. Wählen Sie dort dann die gewünschte Anweisung.
 
 ![](../../static/img/Nutztiere/anweisung_wahl3.png)
 
