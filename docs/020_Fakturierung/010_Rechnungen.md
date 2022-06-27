@@ -176,3 +176,41 @@ Dann wählen Sie am Dropdown **Erlösart** den Punkt **innergemeinschaftliche Li
 
 Klicken Sie auf **Speichern** und fahren mit der Abrechnung/Zahlung nun wie gewohnt fort.
 
+## Rechnung als bezahlt setzen  
+
+Damit der Rechnungsstatus auf "bezahlt" gesetzt wird, vor allem bei Rechnungen, die überwiesen werden, müssen Sie diesen selbst setzen.  
+
+:::caution Achtung  
+
+Wir empfehlen, in den Einstellungen der Buchhaltung die Rechnungen bei Zahlung via EC-Karte und Barzahlung so einzustellen, dass diese 
+direkt auf "Erledigt" gesetzt werden. Damit stehen diese dann automatisch auf "bezahlt".  
+
+:::  
+
+Klicken Sie auf **Fakturierung** und dann **Rechnungen**. In der Rechnungsliste können Sie anhand der farbigen Symbole direkt sehen,
+welche Rechnungen "gebucht" sind (gelbes Symbol), welche "noch zu buchen" sind (rotes Symbol) und welche bereits bezahlt sind (grünes Symbol).  
+
+![](../../static/img/Rechnungen/bezahlt_setzen1.png)  
+
+Wenn Sie es so eingestellt haben, dass nur die Zahlungen via Überweisung auf "gebucht (und nicht "erledigt") gesetzt sind, können Sie sich 
+diese nun in der Suche heraus filtern, um effizienter zu arbeiten.  
+
+Klicken Sie hierzu auf den **Dropdown-Pfeil** neben dem Suchenfeld. Setzen Sie dann in der Auswahl bei **Zahlungsbedingung** z.B. auf 
+"Überweisung 10 Tage".  
+
+![](../../static/img/Rechnungen/bezahlt_setzen2.png)  
+
+Auch können Sie den Filter setzen auf Status "gebucht". Nun klicken Sie eine bereits gebuchte Rechnung (gelbes Symbol) an und öffnen diese durch Klick auf die Rechnungsnummer.  
+
+![](../../static/img/Rechnungen/bezahlt_setzen3.png)  
+
+Anschließend klicken Sie oben rechts auf **Erweitert** und wählen dort **Zahlung erfassen**.  
+
+![](../../static/img/Rechnungen/bezahlt_setzen4.png)  
+
+Nun wählen Sie, wo diese Zahlung eingegangen ist (meistens dann ja Bankkonto). Klicken Sie dann den **grünen Button Zahlung erfassen** und die Rechnung ist
+dann auf "erledigt/bezahlt" gesetzt.  
+
+![](../../static/img/Rechnungen/bezahlt_setzen5.png)
+
+
