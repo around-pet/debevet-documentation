@@ -89,6 +89,8 @@ Wenn Sie den grünen Haken nicht klicken, sind die Daten nicht übernommen!
 
 ::: 
 
+![](../../static/img/Patienten/rasse_anlegen2.png)
+
 :::tip Tipp  
 
 Besonders im Nutztiersektor ist es sinnvoll, hier die Gewichte bestimmter Rassen zu hinterlegen. Sie sparen damit später bei entsprechender
