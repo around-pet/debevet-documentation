@@ -92,11 +92,11 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Docs',
+                        title: 'Links',
                         items: [
                             {
-                                label: 'Tutorial',
-                                to: '/docs/intro',
+                                label: 'Debevet Hauptseite',
+                                to: 'https://www.debevet.de',
                             },
                         ],
                     },
