@@ -69,3 +69,32 @@ Um sie zu löschen, drücken Sie das **Mülltonnensymbol**.
 
 ![](../../static/img/Patienten/tierarten_multi_bearbeitung.png)
 
+## Neue Rassen anlegen  
+
+Natürlich können Sie auch weitere Rassen anlegen, die in der Standardliste nicht enthalten sind.  
+
+KLicken Sie dazu auf **Praxis** und **Tierarten** und dann auf die Schrift in der Spalte Bezeichnung, unter welcher Tierart Sie 
+eine neue Rasse anlegen wollen.  
+
+![](../../static/img/Patienten/rasse_anlegen1.png)  
+
+Tragen Sie nun in die untere Reihe im freien Feld unter "Rassen" die gewünschte Rasse ein. Sie können noch weitere Daten wie Gewichte,
+Trächtigkeitsdauer etc. hinterlegen. 
+
+Bestätigen Sie Ihre Eingabe zunächst mit Klick auf den **grünen Haken** und klicken anschließen oben rechts auf **Speichern**.  
+
+::caution Achtung  
+
+Wenn Sie den grünen Haken nicht klicken, sind die Daten nicht übernommen!  
+
+::: 
+
+:::tip Tipp  
+
+Besonders im Nutztiersektor ist es sinnvoll, hier die Gewichte bestimmter Rassen zu hinterlegen. Sie sparen damit später bei entsprechender
+Auwahl dieser Rassen bei Ihren betreuten Betrieben den Schritt, die Gewichte jedes mal eingeben zu müssen.   
+
+:::   
+
+
+
