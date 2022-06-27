@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'debevet Handbuch',
-    tagline: 'debevet #1 cloud-app 4 vets',
     url: 'https://debevet.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -79,7 +78,7 @@ const config = {
                         type: 'doc',
                         docId: 'intro',
                         position: 'left',
-                        label: 'Hilfe',
+                        label: 'Handbuch',
                     },
 
                     {
@@ -106,7 +105,7 @@ const config = {
                         items: [
                             {
                                 label: 'Impressum',
-                                href: 'https://https://www.debevet.de/impressum/',
+                                href: 'https://www.debevet.de/impressum/',
                             },
                         ],
                     }

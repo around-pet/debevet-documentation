@@ -17,7 +17,7 @@ Liste Ihrer Lagerorte. Klicken Sie nun auf das **grüne Plussymbol**, um auf die
 Geben Sie in der Eingabeseite die gewünschten Informationen ein und speichern Sie den neuen Lagerort anschließend, 
 indem Sie auf **Speichern** klicken.  
 
-![](../../static/img/Warenwirtschaft/Neuen_Lagerort_anlegen2 (1).png) 
+![](../../static/img/Warenwirtschaft/Neuen_Lagerort_anlegen2.png)
 
 ## Lagerort einem Behandler zuweisen    
 

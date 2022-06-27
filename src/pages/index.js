@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Erste Schritte mit debevet - 5min ⏱️
+            Zum Handbuch
           </Link>
         </div>
       </div>
