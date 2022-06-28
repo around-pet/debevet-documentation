@@ -188,3 +188,11 @@ oben rechts im Dropdown Ihr Gerät und drücken danach auf das **grüne Plus Sym
 Nun öffnet sich die Maske, in der Sie dem Profil einen Namen geben können und die gewünschten Parameter anklicken können.   
 
 ![](../../static/img/Labor/labor_gereateprofil3.png)
+
+## Eigene Laborleistungen abrechnen  
+
+Um eigene Pauschalen für Laborangebote zu nutzen und abzurechnen können Sie neben den GOT Posten natürlich auch eigene anlegen.
+Diese werden dann als **Produkt** angelegt. Hier erfahren Sie, wie Sie Produkte anlegen:  
+
+[Produkte anlegen](docs/Warenwirtschaft/Produkte#neue-produkte-anlegen)  
+
