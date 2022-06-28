@@ -36,7 +36,17 @@ auf den **Dropdown-Pfeil** bei "Nuztungsart" und wählen dann die gewünschte Op
 Wählen Sie das Geschlecht, geben das Gewicht ein und klicken dann unbedingt rechts auf den **grünen Haken** zur Eingabe. (auch in der letzten Zeile,
 die Sie eingeben wollen!).  
 
-Wenn Sie nun Tiere anlegen und eine Nutzungsart angeben, ist direkt das passende Gewicht gesetzt. So sparen Sie sich den Schritt des Gewicht-eingebens.  
+![](../../static/img/Nutztiere/gewicht_tierart1.png)  
 
-![](../../static/img/Nutztiere/gewicht_tierart1.png)
+Wenn Sie nun in der Behandlung eines Tieres unten links eine Nutzungsart wählen, ist direkt das passende Gewicht gesetzt.
+So sparen Sie sich den Schritt des Gewicht-eingebens.  
+
+![](../../static/img/Nutztiere/gewichtanlegen4.png)  
+
+:::caution Achtung  
+
+Obwohl dann am Tier in dieser Ansicht das Feld bei "Gewicht" leer ist, wird beim Anlegen des AUA Beleges ein Gewicht eingetragen.  
+
+:::
+
 
