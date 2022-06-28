@@ -1,6 +1,6 @@
 # Gewichte im Nutztiersektor
 
-Für die Mengenberechnung bei der Abgabe/Anwendung ist es wichtig für Sie, Schätzgewichte für die Tiere zu haben. 
+Für Erstellung der AUA Belege bei der Abgabe/Anwendung ist es wichtig für Sie, Schätzgewichte für die Tiere zu haben. 
 
 Um diese zu hinterlegen, gibt es mehrere Wege:
 
