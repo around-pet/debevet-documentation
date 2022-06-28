@@ -43,4 +43,31 @@ Um sie zu löschen, drücken Sie das **Mülltonnen-Symbol**.
 
 ![](../../static/img/Warenwirtschaft/Mehrere_Lieferanten_bearbeiten_oder_loeschen.png)
  
+## Lieferanten-Rechnungen hinterlegen  
 
+Natürlich können Sie die Rechnungen Ihrer Lieferanten hinterlegen.   
+
+Um eine Rechnung hochzuladen oder eine bereits eingefügte aufzurufen, klicken Sie **Warenwirtschaft** und dann **Lieferantenrechnungen**. 
+
+![](../../static/img/Warenwirtschaft/Lieferantenrechnungen.png) 
+
+Um eine neue Rechnung hinzuzufügen, können Sie drei Wege gehen:  
+
+1. Um eine Rechnung mit mehr Informationen zu hinterlegen, klicken Sie auf das **Plus-Symbol**. Anschließend öffnet sich "Lieferantenrechnung anlegen".
+Dort tragen Sie den Lieferanten ein und laden die Datei hoch, indem Sie auf das **Wolken-Symbol** klicken.
+
+Danach können Sie weitere Angaben machen - bitte beachten Sie, dass Rechnung und Rechnungsdatum Pflichtfelder sind.   
+
+Wählen Sie außerdem, wenn gewünscht und vorhanden, eine Zahlungsbedingung aus und tragen Sie eine Beschreibung ein.  
+
+![](../../static/img/Warenwirtschaft/lieferantenrechnung_hinterlegen3.png) 
+
+2. Um sehr schnell eine Rechnung zu hinterlegen, können Sie einfach den **blauen Button** oben rechts klicken **Importieren**. 
+
+![](../../static/img/Warenwirtschaft/lieferantenrechnung_hochladen1.png)  
+
+Wenn Sie nun im Feld "Lieferant" beginnen, den Namen zu tippen, schlägt die Software Ihnen direkt die Lieferanten aus Ihrer Liste vor. Wählen Sie den 
+gewünschten und klicken dann auf das **Wolken-Symbol**, um die Rechnung hochzuladen.
+
+3. Lieferantenrechnungen können auch aus Lieferungen erzeugt werden. Dazu drücken Sie in der Detailansicht einer Lieferung auf den Button **Erweitert**
+und dann auf **Lieferantenrechnung anlegen**
