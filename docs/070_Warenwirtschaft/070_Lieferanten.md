@@ -70,4 +70,18 @@ Wenn Sie nun im Feld "Lieferant" beginnen, den Namen zu tippen, schlägt die Sof
 gewünschten und klicken dann auf das **Wolken-Symbol**, um die Rechnung hochzuladen.
 
 3. Lieferantenrechnungen können auch aus Lieferungen erzeugt werden. Dazu drücken Sie in der Detailansicht einer Lieferung auf den Button **Erweitert**
-und dann auf **Lieferantenrechnung anlegen**
+und dann auf **Lieferantenrechnung anlegen**  
+
+## Lieferantengutschriften 
+
+Sie haben eine Gutschrift eines Lieferanten erhalten?   
+
+Tragen Sie diese Gutschrift unter Lieferantengutschriften ein. Um eine bestehende Lieferantengutschrift anzusehen oder zu bearbeiten, 
+klicken Sie in die Rechnung unter "Lieferant".   
+
+Um eine neue Gutschrift anzulegen, klicken Sie auf das **grüne Plus-Symbol**.
+
+So gelangen Sie zum Punkt "Lieferantengutschrift anlegen", wo Sie alle Daten zur Gutschrift eintragen. Lieferant, Rechnungs-Nr. und Rechnungsdatum 
+sind dabei Pflichtfelder; die anderen Felder sind freiwillig.   
+
+![](../../static/img/Warenwirtschaft/Lieferantengutschriften.png)
