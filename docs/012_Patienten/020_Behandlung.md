@@ -42,6 +42,14 @@ Natürlich können Sie mit einem Klick rechts auf das **Stiftsymbol** den Eintra
 
 ### Eintrag für anderen Benutzer erstellen  
 
+Wenn Sie mit Ihrem Nutzerlogin eingeloggt sind, ist dies der "Haupt-Eintragende". 
+
+:::tip Tipp
+
+Die Auswahlmöglichkeiten werden Ihnen nur dann gegeben, wenn Sie vorher mehrere Benutzer anlegt haben.  
+
+:::
+
 Mit dieser Funktion könnnen Sie Karteikarteneinträge für andere Kollegen aus dem Praxisteam vornehmen. Der Eintrag wird
 dann mit Namen des anderen in der Kartei geführt, aber deutlich signalisiert, dass dieser den Eintrag nicht selbst 
 vorgenommen hat.  
@@ -54,13 +62,23 @@ Sichern Sie hierzu zunächst evtl. noch nicht gesicherte Einträge durch Klick a
 
 Wählen Sie dann oben mit dem Dropdown den Namen aus, unter dem Sie den Eintrag vornehmen wollen/sollen.  
 
+![](../../static/img/Patienten/nutzer_wechseln_in_Behandlung.png)
+
 Schreiben Sie dann den Eintrag und sichern diesen erneut mit dem **Plus Symbol**.  
+
+:::caution Achtung! 
 
 In der Übersicht sehen Sie dann anhand einer blau hinterlegten Farbe des Namens am Eintrag, dass dieser von jemand anderem stammt.  
 
 ![](../../static/img/Patienten/behandlung_eintrag_namen_1.png)  
 
-![](../../static/img/Patienten/eintrag_namen_2.png)
+![](../../static/img/Patienten/eintrag_namen_2.png)  
+
+::: 
+
+Natürlich könnte auf dieselbe Art ein anderer Nutzer "auf die Schnelle" mit Ihrem Account mit seinem Namen einen Eintrag erstellen. Gekennzeichnet ist 
+es dann nur so, als hätten Sie als eingeloggter Nutzer diesen Eintrag gemacht, dieser wäre also blau. 
+
 
 ## Leistungen/Medikamente hinzufügen 
 

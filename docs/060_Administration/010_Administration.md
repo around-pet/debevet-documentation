@@ -30,7 +30,18 @@ gilt erst dann, wenn dort beispielsweise 3/3 steht und Sie dann einen weiteren B
 
 Wenn Sie nun auf das **rote Plus-Symbol** klicken, öffnet sich eine Eingabe Maske, in der Sie die gewünschten Daten des Nutzers anlegen können.  
 
-![](../../static/img/Admin/benutzer_anlegen5.png)  
+:::tip Tipp 
+
+Nutzen Sie einen Benutzernamen, der für Ihre Praxis und den Arbeitsplatz sinnvoll ist. Vergeben Sie ein sicheres Passwort mit Sonderzeichen. 
+
+:::
+
+![](../../static/img/Admin/benutzer_anlegen5.png)   
+
+Bitte beachten Sie zu dem Thema "verschiedene Nutzer" und deren Einträge auch unsere Sektion in der Behandlung. Dort erklären wir,
+wie Sie für andere Benutzer einen Eintrag machen können.  
+
+[Eintrag für andere Benutzer erstellen](/docs/Patienten/Behandlung#eintrag-für-anderen-benutzer-erstellen)
 
 ## Email Versand und Einstellungen  
 
