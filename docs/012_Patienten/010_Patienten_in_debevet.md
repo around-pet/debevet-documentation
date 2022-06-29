@@ -162,10 +162,10 @@ Anschließend können auch wieder Behandlungen angelegt werden, Rechnungen storn
 
 ![](../../static/img/Patienten/patient_geloescht_wiederherstellen.png)
 
-## Patienten einem anderen Besitzer zuordnen  
+## Patienten einem anderen Besitzer übertragen
 
 Falls das Tier verkauft, vererbt oder abgegeben wurde, soll das Tier/ der Patient an einen neuen Besitzer übertragen werden. Es handelt sich also 
-um einen Besitzerwechsel.   
+um einen Besitzerwechsel. Sie möchten also ein bereits bestehendes Tier/Patienten einem neuen oder bereits bestehenden Besitzer/Kunden zuordnen.
 
 Öffnen Sie zunächst die Kartei des Patienten, indem Sie auf **Praxis** und dann **Patienten** klicken. Suchen Sie den Patienten mit seinem Namen und klicken dann in der 
 Liste auf seinen Namen. 
