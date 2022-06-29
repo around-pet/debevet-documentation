@@ -31,7 +31,7 @@ So lange die Rechnung noch nicht gebucht ist, können Sie die Zahlungsart noch �
 ## Rechnung direkt an den Kunden mailen  
 
 Wenn Sie am Kunden eine Email Adresse hinterlegt und den Haken bei "Email Versand erlauben" gesetzt haben, können Sie nun auf das
-**Mail Symbol** oben klicken und damit die Rechnung direkt an den Kunden mailen, um die Umwelt zu schonen und Papier zu sparen.  
+**Mail Symbol** oben klicken und damit die Rechnung direkt an den Kunden mailen, um die Umwelt zu schonen und Papier zu sparen.
 
 ## Rechnung drucken  
 
@@ -46,6 +46,38 @@ Um die Rechnung zu buchen, klicken Sie oben auf **Erweitert** und dann **Rechnun
 ![](../../static/img/Rechnungen/rechnung_buchen.png)  
 
 Nun ist die Rechnung festgeschrieben und muss für weitere Veränderungen zuerst storniert und dann neu erstellt werden!
+
+## Rechnungen automatisch buchen lassen  
+
+Wenn Sie den Schritt sparen möchten, Rechnungen manuell auf "gebucht" setzten zu müssen, können Sie debevet so einstellen, dass direkt
+mit Versand oder Druck jede Rechnung automatisch auf "gebucht" gesetzt wird.   
+
+Klicken Sie hierzu **Administration** und dann **Einstellungen**. Klicken Sie dann den Reiter **Fakturierung** und setzen dort ganz unten den
+Haken bei **Buchung verpflichtend**. (Abschnitt "Druck")  
+
+![](../../static/img/Rechnungen/buchung_verpflichtend.png)  
+
+## Rechnungsposten zusammenfassen  
+
+Sie haben am Kunden direkt die Möglichkeit, seine Rechnungen zusammenzufassen. So werden die Rechnungen gekürzt, um nicht zu lange
+und unübersichtliche Rechnungen zu erstellen.  
+
+Klicken Sie unter **Praxis** und **Kunden** auf den Namen des Kunden, so dass Sie in die Detailansicht seiner Daten gelangen. Klicken Sie nun den Reiter **Allgemein**.
+
+Hier können Sie beispielsweise dem Kunden auch eine Preisgruppe zuordnen oder ihm einen festen Rabatt eintragen (in Prozent). Auch die Zahlungsbedingungen des Kunden 
+können Sie hier einzeln ändern (abweichend von den global für Ihre Praxis gesetzen).  
+
+Um die Rechnungen zusammen zu fassen, klicken Sie den **Dropdown-Pfeil** bei "Rechnung zusammenfassen". Nun können Sie aus drei Optionen wählen:  
+
+* Nur angewandte Medikamente 
+* Tag/Typ 
+* Tag/Typ, angewandte Medikamente  
+
+:::tip Tipp  
+
+Denken Sie daran, dass diese Option selbstverständlich VOR der Erstellung der Rechnung gewählt sein muss.  
+
+:::  
 
 ## Rechnungen korrigieren/ stornieren/ löschen
 
