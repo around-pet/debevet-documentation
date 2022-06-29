@@ -162,3 +162,28 @@ Anschließend können auch wieder Behandlungen angelegt werden, Rechnungen storn
 
 ![](../../static/img/Patienten/patient_geloescht_wiederherstellen.png)
 
+## Patienten einem anderen Besitzer zuordnen  
+
+Falls das Tier verkauft, vererbt oder abgegeben wurde, soll das Tier/ der Patient an einen neuen Besitzer übertragen werden. Es handelt sich also 
+um einen Besitzerwechsel.   
+
+Öffnen Sie zunächst die Kartei des Patienten, indem Sie auf **Praxis** und dann **Patienten** klicken. Suchen Sie den Patienten mit seinem Namen und klicken dann in der 
+Liste auf seinen Namen. 
+
+Klicken Sie nun bei **Kontakt** den Namen des Besitzers mit Klick auf das **X** weg.  
+
+![](../../static/img/Patienten/besitzerwechsel1.png)  
+
+Nun tippen Sie in das Feld den neuen Besitzernamen ein. (Ggf. legen Sie diesen vorher unter **Kunden** an). Die Suche von debevet schlägt direkt alle Treffer vor,
+wählen Sie dann den neuen Besitzer und klicken Sie auf **Speichern**.  
+
+:::danger ACHTUNG 
+
+Nur ab diesem Punkt erstellte Behandlungen werden mit der Adresse des neuen Besitzers abgerechnet! Wenn es noch Behandlungen/Rechnungen 
+gibt, die nicht bezahlt sind, werden diese NICHT dem neuen Besitzer zugeordnet. Dort erscheint dann beim Erstellen noch die ALTE Besitzeradresse!
+
+Wenn die alten Posten dem neuen Besitzer zugeordnet werden sollen, muss die alte Rechnung storniert/ die Posten erneut eingegeben werden und dann abgerechnet werden!  
+
+:::  
+
+
