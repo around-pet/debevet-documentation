@@ -26,8 +26,14 @@ Nun müssen Sie mit einem der drei grünen Haken wählen, ob Sie von der berechn
 * die Menge zur nächsten Packungsgröße aufrunden wollen 
 * die Menge zur nächsten Packungsgröße abrunden wollen   
 
-Nach klicken von einem der drei **grünen Haken** wird die Menge übernommen. Nun müssen Sie noch den **orangenen Haken** klicken,
-um die Menge in diese Behandlung zu übernehmen. 
+Nach klicken von einem der drei **grünen Haken** wird die Menge übernommen.  
+
+![](../../static/img/Nutztiere/mengenrechner2.png)  
+
+Nun müssen Sie noch den **orangenen Haken** klicken,
+um die Menge in diese Behandlung zu übernehmen.   
+
+![](../../static/img/Nutztiere/mengenrechner3.png)
 
 :::danger ACHTUNG  
 
