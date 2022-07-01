@@ -174,12 +174,14 @@ Für die Meldung von Antibiotika ist es erforderlich, dass das jeweilige Präpar
 Da vor allem Praxen, die debevet testen oder Software vergleichen wollen, uns immer wieder fragen, wie unser AUA Beleg 
 aussieht, wenn mehrere Posten, verschiedene Tiere/Tiergruppen mit div. Medikamenten zur Abgabe und Anwendung genutzt werden,
 zeigen wir hier ein Beispiel. So  können sie sehen, auf welche Art die debevet Software die AUA Belege für einen Kunden/Besitzer/Landwirt 
-erstellt. 
+erstellt. (recht umfangreicher Beleg)
 
 :::caution Achtung  
 
 Der von uns erstellte Beleg ist nicht rechtskonform, da wir nicht für alle verwendeten Beispielmedikamente die Anwendungshinweise und 
-Wartezeiten hinterlegt haben. Dies muss pro Medikament jeweils einmalig hinterlegt werden!  
+Wartezeiten hinterlegt haben. Dies muss pro Medikament jeweils einmalig hinterlegt werden!    
+
+[Abgabe Beleg Beispiel](../../static/img/Nutztiere/Abgabebeleg_10055.pdf)  
 
 :::  
 
