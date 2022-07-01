@@ -63,5 +63,7 @@ Wenn Sie nun **Lieferung anlegen** klicken, wird die Bestellung direkt in eine L
 
 ![](../../static/img/Warenwirtschaft/bestellung_lieferung_ueberfuehrt.png)   
 
-Sie bekommen hier direkt eine grüne Erfolgsmeldung.
+Sie bekommen hier direkt eine grüne Erfolgsmeldung.  
+
+![](../../static/img/Warenwirtschaft/bestellung_lieferung_bestand.001.jpeg)
 
