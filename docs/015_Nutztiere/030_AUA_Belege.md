@@ -19,15 +19,30 @@ Wenn Sie das Medikament nun oben neben **Heute** eingeben und auf den Mengenrech
 eingeben. Außerdem können Sie dort die Anweisung je nach Anwendungsfall wählen. KLicken Sie dazu auf den **Dropdown-Pfeil** neben
 **Anweisung**.
 
-![](../../static/img/Nutztiere/anweisung-wahl1.png)
+![](../../static/img/Nutztiere/anweisung-wahl1.png)  
+
+Nun müssen Sie mit einem der drei grünen Haken wählen, ob Sie von der berechneten, benötigten Menge:  
+* die genau berechnete Menge abgeben wollen  
+* die Menge zur nächsten Packungsgröße aufrunden wollen 
+* die Menge zur nächsten Packungsgröße abrunden wollen   
+
+Nach klicken von einem der drei **grünen Haken** wird die Menge übernommen. Nun müssen Sie noch den **orangenen Haken** klicken,
+um die Menge in diese Behandlung zu übernehmen. 
+
+:::danger ACHTUNG  
+
+Die Anweisungsanwendungen werden nicht übernommen, wenn Sie nicht erst einen grünen Haken, sondern direkt den orangenen klicken!  
+
+:::
 
 :::caution Achtung
 
 Die Anweisungsanwendungen werden nur auf dem AUA Beleg angezeigt, wenn Sie
 1. diese am Produkt hinterlegt haben
 2. hier oder im nächsten Schritt die Anweisung auch auswählen   
+3. mit dem **grünen Haken** wählen, welche Menge Sie abgeben wollen!
 
-Wie Sie die Anwendungsanweisungen hinterlegen, erfahren Sie hier:   
+Wie Sie die Anwendungsanweisungen am Produkt/Medikament hinterlegen, erfahren Sie hier:   
 
 [Anwendungsanweisungen](/docs/Warenwirtschaft/Produkte#anwendungsanweisungen)
 
@@ -147,3 +162,19 @@ Für die Meldung von Antibiotika ist es erforderlich, dass das jeweilige Präpar
 **Warenwirtschaft** → **Produkte** für das Antibiotika-Monitoring gekennzeichnet ist, also im gleichnamigen Feld ein Haken gesetzt ist.
 
 :::
+
+## Darstellung eines langen AUA Beleges in debevet  
+
+Da vor allem Praxen, die debevet testen oder Software vergleichen wollen, uns immer wieder fragen, wie unser AUA Beleg 
+aussieht, wenn mehrere Posten, verschiedene Tiere/Tiergruppen mit div. Medikamenten zur Abgabe und Anwendung genutzt werden,
+zeigen wir hier ein Beispiel. So  können sie sehen, auf welche Art die debevet Software die AUA Belege für einen Kunden/Besitzer/Landwirt 
+erstellt. 
+
+:::caution Achtung  
+
+Der von uns erstellte Beleg ist nicht rechtskonform, da wir nicht für alle verwendeten Beispielmedikamente die Anwendungshinweise und 
+Wartezeiten hinterlegt haben. Dies muss pro Medikament jeweils einmalig hinterlegt werden!  
+
+:::  
+
+
