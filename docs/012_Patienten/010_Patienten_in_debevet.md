@@ -114,7 +114,25 @@ haben.
 :::  
 
 
-![](../../static/img/Patienten/patient_dokumententyp1.png)   
+![](../../static/img/Patienten/patient_dokumententyp1.png)    
+
+### Dokumente bearbeiten oder senden
+
+Falls Sie an einem Dokument die Beschreibung, Kategorie oder ähnliches noch einmal ändern wollen, können Sie dies entweder am
+Patienten oder in der Behandlungsansicht. 
+
+Wenn Sie das Dokument über die Patientenakte ändern wollen, klicken Sie **Praxis** und dann **Patienten**. Wählen Sie den 
+gewünschten Patienten, indem Sie in der Liste auf seinen Namen oder seine Patientennummer klicken.(linke Spalte)  
+
+An der Detailansicht klicken Sie nun den Reiter **Dokumente**. Am zu bearbeitenden Dokument klicken Sie in der unteren rechten 
+Ecke der Kachel/Vorschau die **drei Punkte**. Nun können Sie wählen, ob Sie das Dokument versenden, bearbeiten oder löschen wollen.   
+
+![](../../static/img/Patienten/dokument_bearbeiten1.png)  
+
+Dieselbe Variante funktioniert auch in der Behandlungsansicht am Reiter **Dokumente**. Auch dort hat das Dokument die **drei Punkte**.  
+
+![](../../static/img/Patienten/dokumente_bearbeiten2.png)
+
 
 ## Patienten ins Wartezimmer setzen  
 
