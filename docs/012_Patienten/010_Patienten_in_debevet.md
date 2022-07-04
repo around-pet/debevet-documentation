@@ -72,7 +72,17 @@ Patientenliste wieder ungefiltert angezeigt zu bekommen.
 Klicken Sie auf **Praxis** und auf **Patienten**. Klicken Sie in der Liste Ihrer Patienten auf den Link in der Spalte **Nummer **
 oder **Rufname**, um auf die Bearbeitungsseite des Patienten zu gelangen.
   
-![](../../static/img/Patienten/patienten_details1.png)  
+![](../../static/img/Patienten/patienten_details1.png)    
+
+## Patienten löschen  
+
+Wenn beispielsweise ein Tier verstorben ist und Sie dieses deswegen am Kunden nicht mehr anzeigen lassen wollen (oder aus anderen 
+Gründen), können Sie dieses Tier löschen. 
+
+Klicken Sie auf **Praxis** und dann **Patienten**. Öffnen Sie den Patienten, indem Sie ihn suchen und dann links in der Spalte
+Name/Nummer auf den Namen oder die Nummer klicken.  
+
+![](../../static/img/Patienten/patient_loeschen.png)
 
 ## Dokumente hinzufügen 
 
