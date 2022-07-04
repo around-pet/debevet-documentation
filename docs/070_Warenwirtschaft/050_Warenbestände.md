@@ -166,8 +166,8 @@ zum Beispiel dann "Inventur" oder "Zählung" zu schreiben.
 
 :::tip Tipp: 
 
-Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, drucken Sie zunächst mit klick auf das **Druckersymbol**. Nun kann jeder
-Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergänzen und am Ende können Sie alles digital eintippen.  
+Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, drucken Sie zunächstdie gesamte Intentusliste  mit klick auf das **Druckersymbol**. 
+Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergänzen und am Ende können Sie alles digital eintippen.  
 
 :::  
 
