@@ -1,1 +1,0 @@
-# Patienten stationär aufnehmen
