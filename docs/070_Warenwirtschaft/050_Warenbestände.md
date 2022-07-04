@@ -173,3 +173,28 @@ Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergänzen und am End
 
 ## Abgelaufene Chargen ausbuchen  
 
+Sie können sich in Ihrem Warenbestand direkt alle abgelaufenen Chargen anzeigen lassen. Klicken Sie dazu auf **Warenwirtschaft** und dann 
+**Warenbestände**. Nun klicken Sie oben rechts auf **Erweitert** und wählen dort **Abgelaufene Chargen**.  
+
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen1.png)  
+
+Nun listet debevet die abgelaufenen Chargen und bietet direkt die Korrektureinträge (also NULL) und ein Memo mit "abgelaufen am". 
+Wenn Sie hier noch etwas ändern wollen, können Sie das natürlich erledigen, ansonsten klicken Sie einfach auf **Speichern**. 
+
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen2.png)  
+
+## Zerbrochene Ware/ Verlust  
+
+Wenn Ihnen ein Fläschchen herunterfällt oder etwas kaputt geht, können Sie dieses über die Inventurliste ebenso eintragen. 
+Klicken Sie hierzu auf **Warenwirtschaft** und dann **Warenbestände** und öffnen Sie dann rechts oben die **Inventurliste**.  
+
+Suchen Sie das passende Medikament über die Suche. In das Feld **Korrektur** tragen Sie den neuen Bestand ein und schreiben sich als 
+Memo "Bruch" oder "Verlust". 
+
+Klicken Sie dann oben rechts auf **Speichern**. Der neue Bestand ist dann übernommen.  
+
+:::caution Achtung
+
+Falls Sie mehrere Chargen lagernd haben, achten Sie darauf, die korrekte Charge auszubuchen!  
+
+::: 
