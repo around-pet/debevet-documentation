@@ -18,7 +18,7 @@ Um eine Bestellung einzusehen oder zu bearbeiten, klicken Sie unter Nummer in di
 
 ## Neue Bestellung anlegen  
 
-KLicken Sie in der Übersicht der Bestellungen oben rechts auf das **grüne Plus-Symbol**. Nun gelangen Sie zur Eingabeseite.  
+Klicken Sie in der Übersicht der Bestellungen oben rechts auf das **grüne Plus-Symbol**. Nun gelangen Sie zur Eingabeseite.  
 
 Wenn Sie im Feld **Lieferant** beginnen zu tippen, schlägt debevet Ihnen automatisch passende Lieferanten aus Ihrer Liste vor. Wählen 
 Sie den gewünschten Lieferanten aus.  
@@ -28,18 +28,14 @@ Sie den gewünschten Lieferanten aus.
 Geben Sie eine Bestellnummer ein- diese ist Pflicht (wir empfehlen aus Gründen der Übersichtlichkeit, auch die reelle Bestellnummer zu nutzen).  
 
 Wenn Sie nun unten im Feld **Produkt** den Namen des bestellten Produktes eingeben,  wird Ihnen wieder alles passende vorgeschlagen und 
-Sie können wählen. Im Feld **Menge** geben Sie die bestellten Packungen an.
+Sie können wählen. Im Feld **Menge** geben Sie die bestellten Packungen an. Achten sie dabei auf die Packungsgrößen!
 Ergänzen Sie außerdem noch den Bruttopreis, zu dem Sie es bestellt haben.   
 
-Klicken Sie zur Bestätigung rechts auf den **grünen Haken**. 
+Wenn Sie aus der Liste der vorgeschlagenen Produkte eines anklicken, ist dieses direkt in die Liste übernommen. 
 
-:::caution Achtung  
+![](../../static/img/Warenwirtschaft/produkte_packungsgrößen.png)
 
-Vergessen Sie bitte in der letzten Zeile nicht, den grünen Haken zu setzen, sonst wird die Zeile nicht mit übernommen!  
-
-:::  
-
-Klicken Sie nach Eingabe aller bestellten Produkte oben rechts auf **Speichern**.  
+Klicken Sie nach Eingabe aller bestellten Produkte oben rechts auf **Speichern**.
 
 ![](../../static/img/Warenwirtschaft/bestelllung_anlegen2.png)  
 
