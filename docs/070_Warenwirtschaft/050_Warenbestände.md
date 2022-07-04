@@ -53,7 +53,8 @@ neben dem Feld **Produkt**. Und scannen Sie dann den Code auf der Verpackung.
 
 :::caution Achtung  
 
-Das System für die Barcodes ist nicht vereinheitlicht. Vor allem die Daten zu GTIN Nummern...?!
+Das System für die Barcodes ist nicht vereinheitlicht. Wir empfehlen immer, die Daten noch einmal kurz nach dem Einlesen abzugleichen,
+um Fehler zu vermeiden.
 
 ::: 
 
