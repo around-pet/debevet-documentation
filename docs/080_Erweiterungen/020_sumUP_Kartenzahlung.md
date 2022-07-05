@@ -10,6 +10,13 @@ Ein Kartenzahlgerät und die Anleitung dessen finden Sie hier:
 
 https://sumup.de/  
 
+## SumUp in debevet aktivieren 
+
+Zunächst müssen Sie SumUp aktivieren. Klicken Sie auf **Administration** und dann **Kundenregistrierung**. Dort wählen Sie
+den Reiter **Einstellungen** und setzen dann unten das Häkchen in die Checkbox "SumUp akivieren".   
+
+![](../../static/img/erweiterungen/sumup_aktivieren.png)
+
 ## Gerät anmelden/hinterlegen  
 
 Zunächst müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie hierzu auf 
