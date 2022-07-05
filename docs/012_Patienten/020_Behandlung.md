@@ -90,13 +90,13 @@ Aus der Liste Ihrer Produkte werden dann direkt die entsprechenden Posten (Vorsc
 
 Dabei können Sie Dienstleistungen, Medikamente oder alles weitere aus Ihren angelegten/importieren Produkten nutzen.  
 
-### Gebührenfaktor  
+### Gebührenfaktor / GOT Satz
 
 In diesem Feld finden Sie beim Betreten der Kartei den Gebührenfaktor, der gemäß **Administration** → **Einstellungen:** Faktor
 für Ihre Praxis hinterlegt ist.
 
 Sie können diesen Vorgabewert Ihrer Praxis im Bedarfsfall herauf- bzw. heruntersetzen.
-Alle Leistungen, die von Ihnen in die Kartei aufgenommen werden, werden jeweils mit dem aktuellen Gebührenfaktor,
+Alle Leistungen, die von Ihnen in die Kartei aufgenommen werden, werden jeweils mit dem aktuellen GOT-Satz,
 der zum Zeitpunkt des Eintrags hier steht, multipliziert. 
 
 :::caution Achtung   
@@ -109,6 +109,9 @@ Möchten Sie nur einzelne Posten im Faktor erhöhen, markieren Sie diese mit der
 
 
 ![](../../static/img/Patienten/faktor.png)   
+
+So können an einem Kunden unterschiedliche GOT Sätze verwendet werden, entweder ein GOT-Posten für alle Positionen, oder verschiedene 
+Sätze für verschiedene Positionen. 
 
 ## Behandlungen suchen und finden  
 
