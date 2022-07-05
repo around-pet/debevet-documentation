@@ -167,4 +167,93 @@ Preisgruppe. Bitte nicht vergessen, zu **Speichern**.
 
 ## Steuersätze  
 
+Die Steuersätze (Umsatzsteuer alias Mehrwertsteuer) in debevet Cloud Tierarztsoftware können von Ihnen anhand der in 
+Ihrem Land gültigen Sätze (Deutschland, Schweiz, Österreich, Niederlande u.v.m.) eigenständig gepflegt und geändert werden.
+
+Um Steuersätze zu ändern, klicken Sie im Hauptmenü auf **Administration** und wählen Sie dann **Steuersätze**.  
+
+:::caution Achtung  
+
+**Hinweis für externe Buchhaltungssysteme (Collmex Finanzbuchhaltung, lexoffice)**
+
+Die Änderung bestehender Steuersätze kann entscheidende Auswirkungen auf Ihre Buchhaltung haben und dort weitere Schritte notwendig machen. 
+Vor allem wenn Sie eigene Erlöskonten in debevet definiert haben, können weitere Schritte in Ihrer Finanzbuchhaltungssoftware notwendig sein.
+
+Für Fragen hierzu steht Ihnen der jeweilige Anbieter (www.collmex.de / www.lexoffice.de) zur Verfügung.
+
+Für die interne Buchführung (debevet Buchhaltung) ist keine Änderung notwendig, außer Sie saldieren nach Erlöstyp und Ihr
+Steuerberater wünscht ausdrücklich eine Anpassung der individuell pflegbaren Erlöskonten abweichend von Ihren bisher definierten Erlöskonten.   
+
+:::    
+
+![](../../static/img/Admin/steuersatz-liste.png)  
+
+### Steuersatz ändern 
+
+Wählen Sie aus der Liste der hinterlegten Steuersätze, den Steuersatz, den Sie ändern möchten, in dem Sie auf die Zahl 
+des Steuersatzes in der dargestellten Liste klicken. Die Zahl in der Spalte Produkte zeigt Ihnen an, wieviele Produkte (Medikamente,
+Leistungen, Futtermittel u.a.) diesen Steuersatz verwenden, den Sie aktuell ändern möchten.
+
+Hinweis: Der 0-%-Steuersatz kann nicht geändert oder gelöscht werden.  
+
+![](../../static/img/Admin/steuersatz-aufruf.png)  
+
+Auf der nun folgenden Seite müssen Sie den Hinweis zur vorherigen Erfassung und Abrechnung ausdrücklich bestätigen. 
+Sobald Sie den Hinweis bestätigt haben, können Sie den Steuersatz ändern und auf **Speichern** klicken.
+
+Als Steuersatz zulässig ist eine Ganzzahl oder eine Gleitkommazahl mit maximal zwei Nachkommastellen. 
+Ein Steuersatz muss außerdem eindeutig sein, das heißt, Sie können z.B. nicht zweimal den gleichen Steuersatz erfassen.   
+
+![](../../static/img/Admin/steuersatz-aenderung-ohne-zustimmung.png)  
+
+![](../../static/img/Admin/steuersatz-andern.png)  
+
+Auf der folgenden Seite, wählen Sie die Berechnungsmethode aus, mit der die Preise der Produkte, die bisher diesen Steuersatz verwendet haben, 
+neu berechnet werden sollen. Bitte beachten Sie die Hinweise zu den jeweiligen Berechnungsmethoden.
+
+:::danger Achtung! 
+
+**Tierarztpraxen und sonstigen Therapeuten, die auf der Grundlage von Gebührenverzeichnissen, Produktkatalogen (Laboklin, IDEXX u.a.) 
+abrechnen oder sogar eine Hausapotheke führen, raten wir dringend davon ab, die Nettopreise zu verändern.**  
+
+:::
+
+Bevor Sie die Neuberechnung durchführen, müssen Sie dieser ausdrücklich zustimmen.  
+
+![](../../static/img/Admin/steuersatz-anpassung-bestaetigen.png)  
+
+![](../../static/img/Admin/steuersatz-anpassung-bestaetigt-neuberechnen.png)  
+
+### Steuersätze löschen
+
+Klicken Sie im Hauptmenü auf **Administration** und dann auf **Steuersätze**.   
+
+![](../../static/img/Admin/steuersatzliste.png)    
+
+Wählen Sie den Steuersatz, den Sie unwiderruflich löschen wollen, aus und klicken Sie oben rechts auf das **Mülleimer-Symbol**.
+
+:::danger ACHTUNG!
+Beachten Sie, dass alle Produkte mit diesem Steuersatz mit 0% Steuer neuberechnet werden.
+
+:::
+
+![](../../static/img/Admin/steuersatz-auswaehlen-muelleimer.png)
+
+![](../../static/img/Admin/steuersatz-loeschen.png)
+  
+### Steuersatz hinzufügen
+
+Klicken Sie im Hauptmenü auf **Administration** und dann auf **Steuersätze**. 
+Auf der Liste der Steuersätze klicken Sie oben rechts auf das **grüne Plus-Symbol**.  
+
+![](../../static/img/Admin/steuersatzliste-neu-anlegen.png)  
+
+Auf der nun folgenden Seite tragen Sie in das Feld Steuersatz den Satz ein und klicken abschließend oben rechts auf **Speichern**.  
+
+![](../../static/img/Admin/steuersatz-neu_01.png)
+
+
+
+
+
 
