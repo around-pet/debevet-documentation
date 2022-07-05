@@ -71,8 +71,17 @@ Patientenliste wieder ungefiltert angezeigt zu bekommen.
 
 Klicken Sie auf **Praxis** und auf **Patienten**. Klicken Sie in der Liste Ihrer Patienten auf den Link in der Spalte **Nummer **
 oder **Rufname**, um auf die Bearbeitungsseite des Patienten zu gelangen.
-  
-![](../../static/img/Patienten/patienten_details1.png)    
+    
+![](../../static/img/Patienten/patienten_details1.png)     
+
+:::info Videotipp   
+
+Hierzu haben wir eine Videoanleitung erstellt:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xYjRLIqDbU" title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+:::
 
 ## Patienten löschen  
 
@@ -97,6 +106,15 @@ zu der gewünschten Datei auf Ihrem Rechner/Handy/Tablet. Drücken Sie danach au
 Übersichtlicher, vor allem bei mehreren Dokumenten wird es, wenn Sie **vor dem Hochladen** eine Bezeichnung des Dokumentes eintragen. 
 Außerdem können Sie angeben, um was für einen Typ Dokument es sich handelt. Wählen Sie dazu über dem Hochladen- Feld mit dem Pfeil aus 
 den Möglichkeiten den Dokumententyp. Wenn Sie wollen, können Sie auch das Datum hinterlegen.
+
+:::
+
+
+:::info Videotipp  
+
+Für das Hochladen von Dokumenten, entweder am Kunden/Patientenbesitzer oder am Tier/Patienten haben wir eine Videoanleitung: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1ufZKAzMx4" title="YouTube video player" frameborder="0"allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 :::
 

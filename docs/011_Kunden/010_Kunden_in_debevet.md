@@ -11,11 +11,22 @@ Klicken Sie im Hauptmenü auf **'Praxis'** und wählen Sie den Untermenüpunkt *
 ![Neuen_Kunden_anlegen.png](../../static/img/Kunden/Neuen_Kunden_anlegen.png)
   
 Geben Sie in der Eingabeseite die gewünschten Informationen ein und speichern Sie den neuen Kunden anschließend, in dem Sie auf **'Speichern'** klicken.  
-![Neuen_Kunden_anlegen2.png](../../static/img/Kunden/Neuen_Kunden_anlegen2.png)
+![Neuen_Kunden_anlegen2.png](../../static/img/Kunden/Neuen_Kunden_anlegen2.png)   
+
+:::info Videotipp  
+
+Hier zu gibt es auch eine Videoanleitung   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYyZxKCDvNk" title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+:::  
+
   
 ### Automatische Adressvervollständigung
 
-Für das Feld **'Straße'** ist die Online-Suche an eine Adressdatenbank angebunden. Bereits das Tippen weniger Buchstaben listet passende Treffer auf. Wählen Sie den passenden Eintrag aus, so werden die Adressdaten vollständig und automatisch in die Eingabefelder eingetragen.  
+Für das Feld **'Straße'** ist die Online-Suche an eine Adressdatenbank angebunden. Bereits das Tippen weniger Buchstaben listet passende 
+Treffer auf. Wählen Sie den passenden Eintrag aus, so werden die Adressdaten vollständig und automatisch in die Eingabefelder eingetragen.  
 
 ## Kunden suchen und finden  
 

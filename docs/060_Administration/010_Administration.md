@@ -3,6 +3,19 @@
 In diesem Sektor finden Sie diverse Tricks und Kniffe für verschiedene Einstellungen, Nutzerverwaltung, die Verwaltung 
 Ihrer Praxisdaten und vieles mehr.  
 
+## Gelöschte anzeigen und wieder herstellen  
+
+Da so häufig die Frage auftaucht, wie gelöschte Einträge (egal ob Kunden, Patienten, oder alle anderen Infos) angezeigt werden können,
+wenn Sie gelöscht sind, zeigen wir dies in einem Video. Dort lernen Sie ebenfalls, wie Sie die gelöschten Einträge wieder herstellen können.  
+
+:::info Videotipp  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bA9uTK_RFk" title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+:::  
+
 ## Benutzerverwaltung  
 
 Sie möchten, dass Ihre Mitarbeiter eigene Zugänge haben? Das ist bei debevet kein Problem, je nach Paket sind unterschiedlich

@@ -24,13 +24,23 @@ Nun öffnet sich die Eingabemaske für die Vorlage.
 ![](../../static/img/Patienten/vorlagen2.png)  
 
 Nun können Sie in jeder Zeile ein Produkt eingeben. Wenn Sie beginnen zu tippen, werden Ihnen automatisch passende Posten 
-aus der Liste Ihrer Produkte vorgeschlagen. Diese können Sie auswählen, damit wird diese direkt in die Liste gesetzt. 
+aus der Liste Ihrer Produkte vorgeschlagen. Diese können Sie auswählen, damit wird diese direkt in die Liste gesetzt.  
 
 ![](../../static/img/Patienten/vorlagen3.png)  
 
 Möchten Sie eine Position wieder löschen, klicken Sie rechts das **Mülleimer-Symbol** neben dem Posten.
 
-Wenn Sie fertig sind, klicken Sie oben rechts auf **Speichern**.  
+Wenn Sie fertig sind, klicken Sie oben rechts auf **Speichern**.    
+
+:::info Videotipp
+
+Hier haben wir noch eine Videoanleitung zum Erstellen einer Vorlage:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6wOK1ifyh8g" title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+:::  
+
 
 ## Vorlagen suchen  
 
