@@ -35,7 +35,16 @@ Klicken Sie dann unten links bei **Patient** auf das **Plus Symbol**.
 
 Es öffnet sich eine Eingabemaske, in der Sie Schritt für Schritt die Daten eingeben können. Klicken Sie anschließend auf **Speichern**.  
 
-![](../../static/img/Patienten/patient_anlegen_alternativ3.png)  
+![](../../static/img/Patienten/patient_anlegen_alternativ3.png)    
+
+::info Videotipp  
+
+Hier finden Sie ein Video zu diesem Thema 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdrdHHG6a_w" title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+:::
 
 ## Zwischen Patienten desselben Besitzers wechseln  
 

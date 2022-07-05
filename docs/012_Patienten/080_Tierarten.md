@@ -98,5 +98,15 @@ Auwahl dieser Rassen bei Ihren betreuten Betrieben den Schritt, die Gewichte jed
 
 :::   
 
+:::info Videotipp  
+Hierzu haben wir eine Videoanleitung erstelt:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JsIVulhbZB0" title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+:::  
+
+
+
 
 
