@@ -119,5 +119,52 @@ Die Maske, die sich nun öffnet, öffnet sich ebenso beim neu Anlegen einer Zahl
 Sie können hier auch den Text hinterlegen, welcher am Fuß der Rechnung erscheinen soll. Diesen können Sie frei gestalten oder 
 mit den Platzhaltern rechts ergänzen.
 
-![](../../static/img/Admin/zahlungsbedingungen2.png)
+![](../../static/img/Admin/zahlungsbedingungen2.png) 
+
+## Preisgruppen  
+
+Sie können in debevet verschiedene Preisgruppen anlegen. An jedem Patienten haben Sie dann die Möglichkeit, diesem Kunden
+eine dieser Preisgruppen zuzuordnen. 
+
+:::caution Achtung 
+
+An den Produkten müssen für die Preisgruppen dann auch veränderte Preise zu der passenden Preisgruppe hinterlegt werden, um diese dann
+für den entsprechenden Kundenstamm günstiger (oder teurer ;) in der jeweiligen Preisgruppe automatisch anders zu berechnen.  
+
+:::  
+
+### Eine Preisgruppe anlegen  
+
+Klicken Sie auf **Administration** und dann **Preisgruppen**. Nun sehen Sie, falls Sie schon Preisgruppen angelegt haben, eine Liste
+mit allen Ihren Preisgruppen.
+Um eine neue Preisgruppe zu erstellen, klicken Sie oben rechts auf das **grüne Plus-Symbol** und geben dann die Bezeichnung der gewünschten
+Gruppe ein.  
+
+![](../../static/img/Admin/preisgruppe1.png)
+
+Klicken Sie dann auf **Speichern**. Die Preisgruppe ist nun angelegt, Sie sehen eine grüne Erfolgsmeldung.  
+
+### Eine Preisgruppe an einem Produkt hinterlegen  
+
+Nehmen wir an, dass Sie das Erstellen von Impfbescheinigungen bei allen Personen der Gruppe "Züchter" für 2,50 Euro anbieten wollen.
+Öffnen Sie das Produkt "Impfbescheinigung" in der Produktliste. KLicken Sie auf den **Dropdown-Pfeil** unter dem bereits gesetzten 
+Preis "Standard", um eine Preisgruppe aus den von Ihnen angelegten zu wählen.
+ 
+![](../../static/img/Admin/preisgruppe2.png)  
+
+Nun geben Sie den gewünschten netto Preis ein und klicken dann oben rechts auf **Speichern**. 
+
+![](../../static/img/Admin/preisgruppe3.png)  
+
+### Einem Kunden eine Preisgruppe zuordnen  
+
+Um nun einen Kunden zu einer bestimmten Preisgruppe hinzuzufügen, öffnen Sie den Kunden über Ihre Kundenliste.  
+
+Klicken Sie dann auf den Reiter **Allgemein** und wählen dann bei "Preisgruppe" über den **Dropdown-Pfeil** die gewünschte 
+Preisgruppe. Bitte nicht vergessen, zu **Speichern**.  
+
+![](../../static/img/Admin/preisgruppe_kunde.png)
+
+## Steuersätze  
+
 
