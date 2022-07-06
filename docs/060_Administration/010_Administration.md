@@ -294,8 +294,39 @@ Sie können die Nummernkreise der verschiedenen Entitäten einsehen und ggf. än
 
 Bitte beachten Sie hier, dass die Nummernkreise Rechnung und Gutschrift sich nicht überschneiden dürfen.  
 
-![](../../static/img/Admin/nummernvergabe.png)
+![](../../static/img/Admin/nummernvergabe.png)   
 
+## Export/ Import  
+
+Um diverse Dinge zu importieren oder zu exportieren, klicken Sie auf **Administration** und dann **Export/Import**.  
+
+![](../../static/img/Admin/export_import.png)
+  
+Unter Export können Sie diverses exportieren, wie zum Beispiel:  
+* Kunden exportieren
+* Lieferanten exportieren
+* Patienten exportieren
+* Behandlungen exportieren
+* Befunde exportieren
+* Diagnosespiegel exportieren
+* Produkte exportieren
+* Wartezeiten exportieren
+* Anwendungsanweisungen exportieren
+* Diagnosen exportieren
+* Belege exportieren
+
+Unter Import können Sie divereses importieren, wie zum Beispiel:  
+
+* Daten von Kunden importieren
+* Patienten importieren
+* XML Barsoi-Liste importieren  
+
+:::tip Tipp 
+
+Wenn Sie aus einem anderen Praxisprogramm zu debevet wechseln möchten, können wir aus den meisten Programmen die Kundendaten ohne 
+Probleme und Kosten für Sie importieren!  
+
+:::
 
 
  
