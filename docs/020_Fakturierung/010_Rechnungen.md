@@ -79,6 +79,29 @@ Denken Sie daran, dass diese Option selbstverständlich VOR der Erstellung der R
 
 :::  
 
+## Sammelrechnungen erstellen
+
+Sie möchten für einen Kunden bzw. Besitzer für mehrere Tiere bzw. Patienten eine einzige Rechnung erstellen, also alle offenen Posten +auf einer Sammelrechnung drucken? 
+Sie möchten bei einem (oder mehreren) Kunden alle noch nicht abgerechneten Posten abrechnen. Klicken Sie hierzu auf **Praxis**
+und dann **Behandlungen**.
+
+Sie sehen die ungefilterte Liste Ihrer Behandlungen. Klicken Sie nun neben der Suchleiste auf den Dropdown Pfeil, um die Behandlungsliste zu filtern.
+Wählen Sie die Checkboxen bei **Rechnung ausstehend**, um alle Behandlungen bzw. Karteien anzuzeigen in denen für denen
+noch nicht fakturierte Positionen existieren.
+
+Wenn Sie zusätzlich die Checkbox  **Kunde** ankreuzen, werden die Beträge der noch nicht fakturierten Behandlungen bzw.
+Karteien eines Kunden summiert. Drücken Sie nun **Enter** oder klicken das **Lupen-Symbol**, um den Filter anzuwenden.
+
+![](../../static/img/Rechnungen/sammelrechnung1.png)
+
+Wählen Sie nun die Checkboxen der gewünschten Behandlungen (Wenn Sie den Haken bei Kunde gesetzt hatten, sind diese bereits an dem Kunden
+zusammen gefasst und Sie müssen die Checkbox des Kunden anhaken) an und drücken oben rechts auf das **€-Symbol**, um die gewählten
+Behandlungen abzurechnen. 
+
+Die Rechnungen werden erzeugt und liegen anschließend unter **Fakturierung** - **Rechnungen** vor.
+
+![](../../static/img/Rechnungen/sammelrechnungen2.png)
+
 ## Rechnungen korrigieren/ stornieren/ löschen
 
 Um Rechnungen zu korrigieren, müssen Sie diese immer zunächst stornieren und dann neu ausstellen.
@@ -123,26 +146,6 @@ genauso benötigen, wie ursprünglich ausgestellt, müssen Sie diese NEU ausstel
 
 :::  
 
-## Sammelrechnungen erstellen  
-
-Eventuell möchten Sie bei einem Kunden oder mehreren alle noch nicht abgerechneten Posten abrechnen. Klicken Sie hierzu auf **Praxis** 
-und dann **Behandlungen**.  
-
-Sie sehen die ungefilterte Liste Ihrer Behandlungen. Klicken Sie nun neben der Suchleiste auf den Dropdown Pfeil, um die Behandlungsliste zu filtern.
-Wählen Sie die Checkboxen bei **Rechnung ausstehend**, um alle Behandlungen bzw. Karteien anzuzeigen in denen für denen
-noch nicht fakturierte Positionen existieren.
-
-Wenn Sie zusätzlich die Checkbox  **Kunde** ankreuzen, werden die Beträge der noch nicht fakturierten Behandlungen bzw.
-Karteien eines Kunden summiert. Drücken Sie nun **Enter** oder klicken das **Lupen-Symbol**, um den Filter anzuwenden.  
-
-![](../../static/img/Rechnungen/sammelrechnung1.png)   
-
-Wählen Sie nun die Checkboxen der gewünschten Behandlungen an und drücken oben rechts auf das **€-Symbol**, um die gewählten 
-Behandlungen abzurechnen.
-
-Die Rechnungen werden erzeugt und liegen anschließend unter **Fakturierung** - **Rechnungen** vor.  
-
-![](../../static/img/Rechnungen/sammelrechnungen2.png)
 
 ## Reverse-Charge Rechnungen  
 
