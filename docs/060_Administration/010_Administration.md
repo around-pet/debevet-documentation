@@ -76,6 +76,12 @@ Klicken sie nun auf den Benutzernamen **Service**.
 
 Nun klicken sie oben rechts auf **Akltivieren**. 
 
+## Benutzer abmelden 
+
+Um sich abzumelden, klicken Sie unten links auf Ihr **Benutzersymbol** und dann **Abmelden**.  
+
+![](../../static/img/Admin/abmelden.png)
+
 ![](../../static/img/Admin/service4.png)  
 
 Ein Mitarbeiter des Supports hat nun die Möglichkeit, sich Ihr Anliegen näher anzuschauen. 
