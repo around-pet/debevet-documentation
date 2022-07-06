@@ -54,7 +54,36 @@ Nutzen Sie einen Benutzernamen, der für Ihre Praxis und den Arbeitsplatz sinnvo
 Bitte beachten Sie zu dem Thema "verschiedene Nutzer" und deren Einträge auch unsere Sektion in der Behandlung. Dort erklären wir,
 wie Sie für andere Benutzer einen Eintrag machen können.  
 
-[Eintrag für andere Benutzer erstellen](/docs/Patienten/Behandlung#eintrag-für-anderen-benutzer-erstellen)
+[Eintrag für andere Benutzer erstellen](/docs/Patienten/Behandlung#eintrag-für-anderen-benutzer-erstellen)   
+
+## Service Nutzer aktivieren 
+
+Sollten Sie wünschen, dass sich ein Mitarbeiter des Supports einen Sachverhalt innerhalb Ihres debevet anschaut, 
+so müssen Sie den Support dazu ausdrücklich legitimieren. Wie dies funktioniert, erfahren Sie im Folgenden.  
+
+Melden Sie sich in debevet mit den Daten des **Kontoadministrators** an. Nur dieser kann die folgenden Einstellungen 
+vornehmen. Klicken Sie unten links auf das **Benutzersymbol** und dann auf **Kundenkonto**.
+
+![](../../static/img/Admin/service1.png) 
+
+Klicken Sie dann entweder auf die Kachel **Benutzer** oder links in der Leiste das **Gruppen-Symbol**.  
+
+![](../../static/img/Admin/service2.png)  
+
+Klicken sie nun auf den Benutzernamen **Service**.  
+
+![](../../static/img/Admin/service3.png)  
+
+Nun klicken sie oben rechts auf **Akltivieren**. 
+
+![](../../static/img/Admin/service4.png)  
+
+Ein Mitarbeiter des Supports hat nun die Möglichkeit, sich Ihr Anliegen näher anzuschauen. 
+Nach 24 Stunden, wird der Service-Zugang automatisch deaktiviert.
+Wünschen Sie eine frühere Deaktivierung, können Sie den Zugang auch bereits vorher durch Klicken auf 'Deaktivieren' wieder sperren, 
+wo Sie zuvor 'Aktivieren' angeklickt haben.
+
+Um die Kontoverwaltung zu verlassen und zurück nach debevet zu wechseln, klicken Sie unten links im Hauptmenü auf das **Exit-Symbol**.
 
 ## Email Versand und Einstellungen  
 
