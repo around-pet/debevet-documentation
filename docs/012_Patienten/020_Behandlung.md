@@ -246,6 +246,21 @@ Um die Vorlagen für die Brief Funktion zu nutzen und neue Vorlagen zu erstellen
 Oben rechts wählen Sie dann im Dropdown **Brief** aus und klicken dann auf das **grüne Plus-Symbol**.  Nun  können Sie den 
 Text eingeben und die gewünschten Variablen einsetzen. Nach dem Speichern steht diese Vorlage nun bei der Brieffunktion zur Auswahl.
 
+:::info Videotipp  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUxQwRO3O_A" title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+:::  
+
+Sie können sich diverse Vorlagen erstellen, um diese im Praxisalltag ausgedruckt oder via Mail zu nutzen. Gängige Beispiele sind: 
+
+* Überweisung an eine Klinik 
+* Rücküberweisung an Kollegen  
+* Euthanasiebescheinigungen für Vorlage beim Ordnungsamt/ Stadt  
+* Einwilligungserklärungen Narkose  
+* Bericht an den Patientenbesitzer 
+
 
 
 
