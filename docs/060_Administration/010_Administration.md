@@ -287,6 +287,18 @@ Auf der nun folgenden Seite tragen Sie in das Feld Steuersatz den Satz ein und k
 
 ![](../../static/img/Admin/steuersatz-neu_01.png)
 
+## Nummernvergabe  
+
+Sie können die Nummernkreise der verschiedenen Entitäten einsehen und ggf. ändern. Klicken Sie auf **Administration** und dann
+**Nummernvergabe**. 
+
+Bitte beachten Sie hier, dass die Nummernkreise Rechnung und Gutschrift sich nicht überschneiden dürfen.  
+
+![](../../static/img/Admin/nummernvergabe.png)
+
+
+
+ 
 
 
 
