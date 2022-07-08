@@ -27,6 +27,15 @@ Konten für Zahlungsbedingungen
 
 ![](../../static/img/erweiterungen/debevet_buchhaltung2.png)    
 
+Bei den Zahlungsbedingungen stellen Sie außerdem ein, auf welchen Status diese nach Rechnungserstellung gesetzt werden sollen.
+:::tip Tipp:  
+
+Wir empfehlen, dort bei EC-Karte und Barzahlung direkt **Erledigt** zu setzen, denn dann sind diese Rechnungen immer direkt **bezahlt* und
+Sie sparen sich den Schritt, die Rechnung manuell auf bezahlt zu setzen.  
+
+:::
+
+
 Konten für Zahlungsarten
 
 ![](../../static/img/erweiterungen/debevet_buchhaltung3.png)    
