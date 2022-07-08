@@ -11,3 +11,25 @@ Geben Sie etwas in das Suchenfeld ein oder geben einen Filter ein und drücken d
 
 Wie immer erkennen Sie einen gesetzten Filter daran, dass der **Dropdown-Pfeil** nun *gelb* ist.  
 
+![](../../static/img/Buchhaltung/belege_suchen.png)  
+
+::: tip Tipp: 
+
+Direkt exportieren können Sie die Belege nicht hier, sondern nur über **Administration** und **Import/Export**.  
+
+::: 
+
+## Belege stornieren/löschen    
+
+Wenn Sie einen Beleg stornieren wollen, setzen Sie zunächst einen Haken in die Checkbox vor dem gewünschten Beleg.
+Natürlich können Sie auch direkt mehrere markieren, um diese zu stornieren. Anschließend klicken Sie auf das **Stift-Symbol** oben rechts.
+
+![](../../static/img/Buchhaltung/belege_bearbeiten.png)  
+
+Nun öffnet sich die Detailansicht des Beleges. Wenn Sie mehrere Belege gewählt haben, sehen Sie oben rechts die **Pfeile** < und > zum
+Blättern zwischen den Belegen. 
+
+Um den Beleg zu stornieren, klicken Sie nun oben rechts auf **Stornieren.  
+
+![](../../static/img/Buchhaltung/beleg_stornieren.png)
+
