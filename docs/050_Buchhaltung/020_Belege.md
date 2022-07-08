@@ -2,6 +2,13 @@
 
 Wenn Sie auf **Buchhaltung** und dann **Belege** klicken, erhalten Sie eine Auflistung Ihrer Buchhaltungsbelege.  
 
+:::caution Achtung  
+
+Sollten Sie die Lexoffice Erweiterung nutzen, steht diese Funktion nicht zur Verfügung, da Lexoffice dafür keine Schnittstelle bietet.  
+
+:::  
+
+
 ![](../../static/img/Buchhaltung/belege1.png)  
 
 Wenn Sie nun auf den **Dropdown-Pfeil** neben der Suche klicken, können Sie sich die angezeigten Belege mit einem beliebigen
