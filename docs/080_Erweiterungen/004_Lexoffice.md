@@ -31,7 +31,7 @@ Von der Bearbeitungs- und Voransichtsseite einer Rechnung steht Ihnen oben recht
 
 Im Lexoffice kann der Beleg dann direkt einem Kontoumsatz zugeordnet werden bzw. oftmals passiert dies voll automatisch.  
 
-
+![](../../static/img/erweiterungen/debevet-lexoffice-einnahme-rechnung-einzeln.png)
 
 ## Individuell gefilterte Rechnungsliste buchen  
 
