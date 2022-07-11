@@ -72,4 +72,26 @@ Um die Dokumente hochzuladen, klicken Sie auf das Wolkensymbol.
 
 ![](../../static/img/Admin/layout_wolekn.png)
 
+## Rechnungen Layout  
+
+Bei allen Dokumenten, die Rechnungsposten/Leistungen/Produkte beinhalten, haben Sie noch weitere Layout Möglichkeiten. 
+
+Unter dem Reiter **Druck** gibt es noch weitere Optionsfelder:  
+
+![](../../static/img/Admin/layout_rechnung.png)  
+
+Dort haben Sie beispielsweise die Möglichkeit, einen Girocode aufzudrucken, den der Kunde direkt scannen kann, um die
+Rechnung einfacher zu überweisen. 
+
+Auch können Sie den Patientenstandort und die Chipnummer mit auf die Rechnung drucken.  
+
+### Tabelle 
+
+Sie haben für Rechnungen/Lieferungen/Angebote und Mahnungen die Möglichkeit, die Darstellung der Rechnungsposten am Reiter 
+**Tabelle** zu ändern.  
+
+![](../../static/img/Admin/layout_tabelle.png)  
+
+In der Vorschau können Sie dann direkt sehen, was sich bei welcher Optiion ändert. 
+
 
