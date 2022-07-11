@@ -19,18 +19,27 @@ Nun wählen Sie an der gewünschten Kachel **Anlegen**.
 Nun sehen Sie einen Überblick über die Möglichkeiten, verschiedene Konten zu hinterlegen. Achten Sie darauf, dass Sie bei den allgemeinen
 Einstellungen den korrekten Kontenrahmen für Ihren Account hinterlegt haben. (**Administration** -> **Einstellungen** -> **Fakturierung**).
 
-Konten allgemein
+### Konten allgemein
 
 ![](../../static/img/erweiterungen/debevet_buchhaltung1.png)  
 
-Konten für Zahlungsbedingungen
+### Konten für Zahlungsbedingungen  
+
+Hier müssen Sie die Buchhaltungskonten für die Zahlungsbedingungen hinterlegen. 
+
+:::tip Tipp: 
+
+Wenn Sie die Häkchen bei **Anzeigen** setzen, werden diese Salden auf dem Dashboard angezeigt, wenn Sie dies in den Einstellungen
+als Anzeigeoption ausgewählt haben. 
+
+::: 
 
 ![](../../static/img/erweiterungen/debevet_buchhaltung2.png)    
 
 Bei den Zahlungsbedingungen stellen Sie außerdem ein, auf welchen Status diese nach Rechnungserstellung gesetzt werden sollen.
 :::tip Tipp:  
 
-Wir empfehlen, dort bei EC-Karte und Barzahlung direkt **Erledigt** zu setzen, denn dann sind diese Rechnungen immer direkt **bezahlt* und
+Wir empfehlen, dort bei EC-Karte und Barzahlung direkt **Erledigt** zu setzen, denn dann sind diese Rechnungen immer direkt **bezahlt** und
 Sie sparen sich den Schritt, die Rechnung manuell auf bezahlt zu setzen.  
 
 :::
