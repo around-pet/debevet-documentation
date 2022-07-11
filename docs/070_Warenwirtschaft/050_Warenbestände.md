@@ -53,8 +53,8 @@ neben dem Feld **Produkt**. Und scannen Sie dann den Code auf der Verpackung.
 
 :::caution Achtung  
 
-Das System für die Barcodes ist nicht vereinheitlicht. Wir empfehlen immer, die Daten noch einmal kurz nach dem Einlesen abzugleichen,
-um Fehler zu vermeiden.
+Um eine Lieferung scannen zu können, müssen Sie immer am Produkt einmalig die GTIN eingescannt haben. Das System ist leider nicht 
+einheitlich, was diesen Schritt unumgänglich macht.
 
 ::: 
 
