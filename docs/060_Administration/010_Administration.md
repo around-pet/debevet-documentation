@@ -326,9 +326,20 @@ Unter Import können Sie divereses importieren, wie zum Beispiel:
 Wenn Sie aus einem anderen Praxisprogramm zu debevet wechseln möchten, können wir aus den meisten Programmen die Kundendaten ohne 
 Probleme und Kosten für Sie importieren!  
 
-:::
+:::  
 
+## Statistiken  
 
+Unter **Administration** und dann **Statistiken** können Sie Ihre Umsätze und Verkäufe gefiltert nach Medikamenten, Dienstleistung, Tierart und
+Sonstige darstellen.   
+
+Darüber hinaus können Sie die Umsätze nach Tierarzt einsehen.   
+
+Auch die Top 5 Produkte und Top 5 Kunden können angezeigt werden.
+
+![](../../static/img/Admin/statistiken1.png)  
+
+![](../../static/img/Admin/statistiken2.png)
  
 
 
