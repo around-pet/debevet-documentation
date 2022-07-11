@@ -46,7 +46,8 @@ gesetzt.
 :::caution Achtung  
 
 Wenn Sie mehrere angebrochene Packungen (z.B. in verschiedenen Räumen, oder in einem Notfallkoffer) nutzen, müssen Sie 
-dennoch kontrollieren, dass Sie die richtige Charge nutzen und diese evtl. sonst manuell ändern.  
+dennoch kontrollieren, dass Sie die richtige Charge nutzen und diese evtl. sonst manuell ändern.  Sobald verschiedene Chargen aktiv gebucht
+sind, wird KEINE automatisch gesetzt!
 
 :::   
 
@@ -108,7 +109,7 @@ also dort "nicht abgerechnet" werden. Das Programm verweigert automatisch die Be
 ## Produkt GTIN scannen  
 
 Um Ihre Produkte (betrifft vor allem die Medikamente) schneller und leichter verwalten zu können, können Sie den Barcode scannen.
-Das ist zwar erstmalig etwas arbeit, erleichtert aber Ihren Mitarbeitern bei ankommenden Lieferungen die Zeit, die es braucht, um die 
+Das ist zwar erstmalig etwas Arbeit, erleichtert aber Ihren Mitarbeitern bei ankommenden Lieferungen die Zeit, die es braucht, um die 
 Lieferung einzugeben extrem.  
 
 Drücken Sie hierzu das grüne Symbol neben dem GTIN (EAN) Eingabefeld am Produkt und scannen Sie anschließend die Nummer.  
