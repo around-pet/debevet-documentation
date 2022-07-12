@@ -58,7 +58,7 @@ Sie werden nun auf die Startseite der Anwendung Collmex weitergeleitet.
 
 ![](../../static/img/erweiterungen/Collmex-Dashboard-Buchhaltung.png)  
 
-## Eigenen Benutzer für debevet anlegen  
+## Schnittstellen-Benutzer für debevet anlegen  
 
 Sie sind nun in der Cloud-Buchhaltung von Collmex angemeldet.
 
