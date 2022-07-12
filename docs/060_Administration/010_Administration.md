@@ -61,7 +61,18 @@ wie Sie für andere Benutzer einen Eintrag machen können.
 Eventuell möchten Sie nicht, dass alle Mitarbeiter Zugriff und Einsicht auf alle Interna, wie beispielsweise Umsätze oder Apotheke haben.
 In diesem Fall können Sie Ihren unterschiedlichen Mitarbeitern als Benutzer unterschiedliche Rechte bzw. Zugriffe in der debevet Software zuteilen.  
 
-Um einem Benutzer bestimmte Rechte zuzuweisen, klicken Sie in der Benutzerverwaltung auf den Namen 
+Um einem Benutzer bestimmte Rechte zuzuweisen, klicken Sie in der Benutzerverwaltung auf den Namen des gewünschten Mitarbeiters.  
+
+Dort klicken Sie nun den Reiter **Anwendungen** und dann rechts auf das kleine **Zahnrad-Symbol**. 
+
+![](../../static/img/Admin/benutzerrechte1.png)  
+
+In der sich nun öffnenden Seite klicken Sie den Reiter **Zugriffsrechte** und können dann Häkchen setzen oder deaktivieren, je nachdem,
+welche Rechte der Benutzer erhalten soll. 
+
+![](../../static/img/Admin/benutzerrechte2.png)  
+
+Klicken Sie anschließend oben rechts auf **Speichern**. 
 
 ## Service Nutzer aktivieren 
 
