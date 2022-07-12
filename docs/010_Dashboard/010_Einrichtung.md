@@ -21,7 +21,7 @@ Klicken Sie anschließend oben rechts auf "speichern"
 
 ## Wartezimmer
 
-Im **Wartezimmer** erhalten SIe einen Überblick oder die wartenden Kunden.  
+Im **Wartezimmer** erhalten Sie einen Überblick über die wartenden Kunden.  
 
 Es informiert Sie übersichtlich über die tagesaktuellen Sprechstundentermine, den behandelnden Tierarzt und den Status 
 der einzelnen Kunden bzw. Patienten (z.B. wartend, in Behandlung, fertig bzw. abzurechnen).  

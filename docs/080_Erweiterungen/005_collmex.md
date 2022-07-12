@@ -131,7 +131,7 @@ Damit der Export der Dateien für Datev problemlos funktioniert, müssen Sie die
 Klicken Sie **Buchhaltung** und dann an der Kachel **Schnittstellen** auf **Datev-Export**.  Dort klicken Sie
 auf **Einstellungen**.
 
-![](../../static/img/erweiterungen/collmex_datev.png)  
+![](../../static/img/erweiterungen/collmex_datev.png)  ƒ
 
 Hier müssen Sie nun Ihre Mandantennummer Ihres Steuerberaters eintragen und die Beraternummer Ihres Steuerberaters bei Datev. 
 
