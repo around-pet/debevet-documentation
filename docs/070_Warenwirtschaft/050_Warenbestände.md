@@ -156,19 +156,25 @@ Klicken Sie auf **Zurücksetzen**, um wieder alle Posten angezeigt zu bekommen.
  
 ## Inventur   
 
-Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Inventurlisten immer sehr gut geführt. Um Ihre Inventurliste anzuzeigen,
-klicken Sie auf **Warenwirtschaft** und dann **Warenbestände**. Dort klicken Sie nun oben rechts auf **Inventurliste**..  
+Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandlisten immer sehr gut geführt. Um eine Liste anzuzeigen bzw. zu drucken,
+klicken Sie auf **Warenwirtschaft** und dann **Warenbestände**. Dort klicken Sie nun oben rechts auf **Erweitert** und dann **Drucken**.  
 
-![](../../static/img/Warenwirtschaft/inventur1.png)  
-
-Nun sehen Sie eine Auflistung Ihrer Produkte inkl. des "theoretischen" Bestandes. Wenn Sie bei der Inventur also nun bemerkten, 
-dass es weniger ist als angegeben, können Sie im Feld **Korrektur** den aktuellen, reellen Bestand eintragen. Wir empfehlen, im Feld **Memo**
-zum Beispiel dann "Inventur" oder "Zählung" zu schreiben.  
+Nun öffnet sich eine Maske, in der Sie entweder nur einen Teil der Warenbewegungen drucken können oder aber alle. 
 
 :::tip Tipp: 
 
-Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, drucken Sie zunächstdie gesamte Intentusliste  mit klick auf das **Druckersymbol**. 
-Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergänzen und am Ende können Sie alles digital eintippen.  
+Sehr praktisch ist die Funktion, am Feld **Verschreibung** alle BTM ausdrucken zu lassen! 
+
+:::  
+
+![](../../static/img/Warenwirtschaft/inventur_drucken.png)
+
+Nun sehen Sie eine Auflistung Ihrer Produkte inkl. des "theoretischen" Bestandes. 
+
+:::tip Tipp: 
+
+Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, drucken Sie zunächst den gesamten Warenbestand aus. 
+Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergänzen und am Ende können Sie alles digital korrigieren. 
 
 :::  
 
@@ -186,11 +192,17 @@ Wenn Sie hier noch etwas ändern wollen, können Sie das natürlich erledigen, a
 
 ## Zerbrochene Ware/ Verlust  
 
-Wenn Ihnen ein Fläschchen herunterfällt oder etwas kaputt geht, können Sie dieses über die Inventurliste ebenso eintragen. 
-Klicken Sie hierzu auf **Warenwirtschaft** und dann **Warenbestände** und öffnen Sie dann rechts oben die **Inventurliste**.  
+Wenn Ihnen ein Fläschchen herunterfällt oder etwas kaputt geht, können Sie dieses über die Korrektur ebenso eintragen. 
+Klicken Sie hierzu auf **Warenwirtschaft** und dann **Warenbestände** und öffnen Sie dann das zu korrigierende Medikament.
 
-Suchen Sie das passende Medikament über die Suche. In das Feld **Korrektur** tragen Sie den neuen Bestand ein und schreiben sich als 
-Memo "Bruch" oder "Verlust". 
+Nun klicken Sie oben rechts **Erweitert** und dann  **Korrektur**. 
+
+![](../../static/img/Warenwirtschaft/korrektur_bestand.png)  
+
+Es öffnet sich eine Maske. Dort tragen Sie den neuen Bestand ein und 
+schreiben sich als Memo "Bruch" oder "Verlust".   
+
+![](../../static/img/Warenwirtschaft/korrektur_bestand2.png)
 
 Klicken Sie dann oben rechts auf **Speichern**. Der neue Bestand ist dann übernommen.  
 
