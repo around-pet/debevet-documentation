@@ -26,7 +26,8 @@ Nun wird ein neuer Export erstellt.
 
 Um den Export an Ihren Steuerberater zu verschicken, muss dessen Emailadresse hinterlegt sein. Diese hinterlegen Sie unter **Administration** und dann
 **Einstellungen**, klicken Sie dort den Reiter "Fakturierung". Dort gibt es das Feld **Steuerberater Email**. Wenn Sie dort die Adresse hinterlegen, wird
-diese für den Versand der Exporte genutzt.    
+diese für den Versand der Exporte genutzt. Hier können Sie auch selbst das Passwort für die Verschlüsselung der Datei vergeben und dieses
+dann Ihrem Steuerberater mitteilen. Geben Sie es im Feld **Passswort** ein. 
 
 ![](../../static/img/Buchhaltung/steuerberater_mailadresse.png)  
 
