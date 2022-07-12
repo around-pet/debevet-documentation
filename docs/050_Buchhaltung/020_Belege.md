@@ -20,7 +20,7 @@ Wie immer erkennen Sie einen gesetzten Filter daran, dass der **Dropdown-Pfeil**
 
 ![](../../static/img/Buchhaltung/belege_suchen.png)  
 
-::: tip Tipp: 
+:::tip Tipp: 
 
 Direkt exportieren können Sie die Belege nicht hier, sondern nur über **Administration** und **Import/Export**.  
 
@@ -36,7 +36,7 @@ Natürlich können Sie auch direkt mehrere markieren, um diese zu stornieren. An
 Nun öffnet sich die Detailansicht des Beleges. Wenn Sie mehrere Belege gewählt haben, sehen Sie oben rechts die **Pfeile** < und > zum
 Blättern zwischen den Belegen. 
 
-Um den Beleg zu stornieren, klicken Sie nun oben rechts auf **Stornieren.  
+Um den Beleg zu stornieren, klicken Sie nun oben rechts auf **Stornieren**.  
 
 ![](../../static/img/Buchhaltung/beleg_stornieren.png)
 
