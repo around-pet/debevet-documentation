@@ -105,19 +105,23 @@ also dort "nicht abgerechnet" werden. Das Programm verweigert automatisch die Be
 
 :::  
 
+## Barcode Scanner nutzen  
 
-## Produkt GTIN scannen  
-
-Um Ihre Produkte (betrifft vor allem die Medikamente) schneller und leichter verwalten zu können, können Sie den Barcode scannen.
-Das ist zwar erstmalig etwas Arbeit, erleichtert aber Ihren Mitarbeitern bei ankommenden Lieferungen die Zeit, die es braucht, um die 
+Um Ihre Produkte (betrifft vor allem die Medikamente) schneller und leichter verwalten zu können, können Sie den Barcode scannen. Leider muss 
+an jedem Medikament der Barcode einmalig eingelesen und hinterlegt werden, um dann bei eingehenen Lieferungen einfach scannen zu können.
+Das ist zwar *erstmalig* etwas Arbeit, erleichtert aber Ihren Mitarbeitern bei ankommenden Lieferungen die Zeit, die es braucht, um die 
 Lieferung einzugeben extrem.  
 
-Drücken Sie hierzu das grüne Symbol neben dem GTIN (EAN) Eingabefeld am Produkt und scannen Sie anschließend die Nummer.  
+Drücken Sie hierzu das grüne Symbol neben dem GTIN (EAN) Eingabefeld am Produkt und scannen Sie anschließend den Barcode. 
 
 ![](../../static/img/Warenwirtschaft/GTIN-einscannen.png)   
 
 Nun können Sie bei kommenden Lieferungen dieses Medikaments dieses einfach nur noch scannen, statt alle Daten bei der Lieferung 
 manuell einzutragen.  
+
+Hier ein Bild des zu scannenden Codes:  
+
+![](../../static/img/Warenwirtschaft/code_scanbar.png)
 
 ## Produkte suchen und finden   
 

@@ -47,14 +47,19 @@ die passende Menge vom Warenbestand abgezogen wird!
 ## Einlesen mit dem Barcodescanner  
 
 Sie können Ihre Wareneingänge auch mit einem Barcodescanner erfassen. Klicken Sie hierzu auf das grüne **Datamatrix** Symbol
-neben dem Feld **Produkt**. Und scannen Sie dann den Code auf der Verpackung.  
+neben dem **Suchenfeld** und scannen Sie dann den Code auf der Verpackung.   
 
-![](../../static/img/Warenwirtschaft/DataMatrix_einscannen.png)  
+![](../../static/img/Warenwirtschaft/neue_ware_scannen.png)  
+
+Hier ein Bild des Codes, der gescannt werden muss:  
+
+![](../../static/img/Warenwirtschaft/code_scanbar.png)
 
 :::caution Achtung  
 
 Um eine Lieferung scannen zu können, müssen Sie immer am Produkt einmalig die GTIN eingescannt haben. Das System ist leider nicht 
-einheitlich, was diesen Schritt unumgänglich macht.
+einheitlich, was diesen Schritt unumgänglich macht. Sobald dies aber einmalig geschehen ist, spart das Einlesen der Lieferungen mit 
+dem Scanner enorm Zeit.
 
 ::: 
 
