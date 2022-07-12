@@ -161,7 +161,7 @@ Den Beleg können sie dann im Lexoffice direkt sehen und zuordnen (bzw. dieser w
 ## Ausgewählte Liste von Lieferantenrechnungen buchen   
 
 Wechseln Sie in debevet auf **Warenwirschaft** → **Lieferantenechnungen**. Filtern Sie die Liste nach Ihren Suchkriterien, z.B.
-durch die Suche aller Rechnungen im **Status Zu buchen**. Wählen Sie die gewünschten Rechnungen durch Ankreuzen der *Checkboxen** aus. 
+durch die Suche aller Rechnungen im **Status Zu buchen**. Wählen Sie die gewünschten Rechnungen durch Ankreuzen der **Checkboxen** aus. 
 Klicken Sie oben rechts auf **Erweitert** und dann auf **Buchen**.
 
 Haben Sie mehr als fünf Rechnungen ausgewählt, wird der Prozess in das sogenannten Hintergrundfenster unten rechts gestellt. 
