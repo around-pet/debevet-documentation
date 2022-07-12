@@ -54,7 +54,14 @@ Nutzen Sie einen Benutzernamen, der für Ihre Praxis und den Arbeitsplatz sinnvo
 Bitte beachten Sie zu dem Thema "verschiedene Nutzer" und deren Einträge auch unsere Sektion in der Behandlung. Dort erklären wir,
 wie Sie für andere Benutzer einen Eintrag machen können.  
 
-[Eintrag für andere Benutzer erstellen](/docs/Patienten/Behandlung#eintrag-für-anderen-benutzer-erstellen)   
+[Eintrag für andere Benutzer erstellen](/docs/Patienten/Behandlung#eintrag-für-anderen-benutzer-erstellen) 
+
+## Benutzerrechte vergeben  
+
+Eventuell möchten Sie nicht, dass alle Mitarbeiter Zugriff und Einsicht auf alle Interna, wie beispielsweise Umsätze oder Apotheke haben.
+In diesem Fall können Sie Ihren unterschiedlichen Mitarbeitern als Benutzer unterschiedliche Rechte bzw. Zugriffe in der debevet Software zuteilen.  
+
+Um einem Benutzer bestimmte Rechte zuzuweisen, klicken Sie in der Benutzerverwaltung auf den Namen 
 
 ## Service Nutzer aktivieren 
 
