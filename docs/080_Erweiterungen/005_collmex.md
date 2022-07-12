@@ -16,7 +16,7 @@ kurz mit uns abgesprochen werden, damit wir Ihnen Tipps geben können, worauf Si
 
 ## Collmex registrieren und einrichten 
 
-Registrieren Sie sich bei Collmex für den kostenlosen und unverbindlichen 30-Tage-Test der Finanzbuchhaltung in der Variante Basic.  
+Registrieren Sie sich bei Collmex für den kostenlosen und unverbindlichen 30-Tage-Test der Finanzbuchhaltung in der Variante **Buchhaltung Basic**.
 
 [Collmex testen](https://www.collmex.de/kostenlos_testen.html?0,7?partnerId=133144)
 
@@ -81,27 +81,6 @@ Geben Sie nun ein von Ihnen bestimmtes Kennwort für den API-Benutzer an. Klicke
 
 ![](../../static/img/erweiterungen/Collmex-API-Benutzer-Kennwort-setzen-oder-aendern.png)  
 
-## Firewall-Regel für Schnittstellen-Benutzer anlegen  
-
-Klicken Sie im Hauptmenü auf **Verwaltung** und dann in der Kachel **Benutzer** auf den Link **Zugangsbeschränkung**.
-
-Tragen Sie in das Feld **Erlaubte IP-Adresse** 162.55.63.150 ein und geben Sie in das Feld **Bezeichnung** eine frei wählbare Bezeichnung ein
-(z.B. debevet.de, shopqueue.de, bank2swift.de).
-
-Abschließend klicken Sie auf den Button **Speichern**.  
-
-![](../../static/img/erweiterungen/Collmex-Zugangsbeschraenkung-ueber-IP-Adressen.png)   
-
-Klicken Sie oben auf den Button **Verwaltung** dann auf den Link **Benutzer anzeigen und ändern** in der Kachel **Benutzer**. 
-In der Spalte Benutzer der angezeigten Liste klicken Sie nun auf den Namen des Benutzers (hier: apidbv), den Sie 
-(soeben) für die Schnittstelle angelegt haben.  
-
-![](../../static/img/erweiterungen/Collmex-Benuzterliste.png)  
-
-Kreuzen Sie die Checkbox **Zugangsbeschränkung** an und klicken Sie abschließend auf **Benutzer speichern**, um die Änderung zu übernehmen.  
-
-![](../../static/img/erweiterungen/Collmex-API-Benuzter-Zugangsbeschraenkung-waehlen.png)  
-
 ## Buchhaltungseinstellungen in Collmex  
 
 Nun müssen Sie in Collmex noch einige Einstellungen vornehmen.  
@@ -145,6 +124,18 @@ Geben Sie die gewünschte Kontonummer in das Feld **Kontonummer** ein und klicke
 logische eigene Namen in das Feld Bezeichnung einzugeben. Klicken Sie abschließend auf **Speichern**.  
 
 ![](../../static/img/erweiterungen/Collmex-Fibu-Konten-aendern.png)  
+
+### Datev Export Einstellungen  
+
+Damit der Export der Dateien für Datev problemlos funktioniert, müssen Sie die Daten im Collmex hinterlegen. 
+Klicken Sie **Buchhaltung** und dann an der Kachel **Schnittstellen** auf **Datev-Export**.  Dort klicken Sie
+auf **Einstellungen**.
+
+![](../../static/img/erweiterungen/collmex_datev.png)  
+
+Hier müssen Sie nun Ihre Mandantennummer Ihres Steuerberaters eintragen und die Beraternummer Ihres Steuerberaters bei Datev. 
+
+![](../../static/img/erweiterungen/beraternummer_collmex.png)
 
 ## debevet mit Collmex verbinden  
 
