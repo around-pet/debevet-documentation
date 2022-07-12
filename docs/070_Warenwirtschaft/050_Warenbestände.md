@@ -178,6 +178,18 @@ Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergä
 
 :::  
 
+## Warenbestand korrigieren  
+
+Möchten Sie nun Änderungen vornehmen, weil in der Inventur doch eine andere Menge vorhanden ist als "theoretisch", öffnen Sie
+das Medikament, welches korrigiert werden soll. Geben Sie dazu z.B. den Namen des Medikamentes unter **Praxis** und **Produkte** in die Suche ein. 
+
+Am Medikament selbst klicken Sie nun oben rechts auf **Erweitert** und dann **Korrektur**. Geben Sie die aktuelle Menge und
+unter **Memo** den Grund ein, beispielweise "Inventur, vermutlich Verlust" oder ähnliches.  
+
+![](../../static/img/Warenwirtschaft/korrektur_bestand2.png)   
+
+Klicken Sie dann auf den grünen Button **Korrigieren**. Der neue Bestand ist dann übernommen.
+
 ## Abgelaufene Chargen ausbuchen  
 
 Sie können sich in Ihrem Warenbestand direkt alle abgelaufenen Chargen anzeigen lassen. Klicken Sie dazu auf **Warenwirtschaft** und dann 
@@ -188,7 +200,7 @@ Sie können sich in Ihrem Warenbestand direkt alle abgelaufenen Chargen anzeigen
 Nun listet debevet die abgelaufenen Chargen und bietet direkt die Korrektureinträge (also NULL) und ein Memo mit "abgelaufen am". 
 Wenn Sie hier noch etwas ändern wollen, können Sie das natürlich erledigen, ansonsten klicken Sie einfach auf **Speichern**. 
 
-![](../../static/img/Warenwirtschaft/abgelaufene_chargen2.png)  
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen2.png)
 
 ## Zerbrochene Ware/ Verlust  
 
@@ -204,7 +216,7 @@ schreiben sich als Memo "Bruch" oder "Verlust".
 
 ![](../../static/img/Warenwirtschaft/korrektur_bestand2.png)
 
-Klicken Sie dann oben rechts auf **Speichern**. Der neue Bestand ist dann übernommen.  
+Klicken Sie dann auf den grünen Button **Korrigieren**. Der neue Bestand ist dann übernommen.  
 
 :::caution Achtung
 
