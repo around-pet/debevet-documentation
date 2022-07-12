@@ -42,7 +42,7 @@ Diese Funktionen stehen Ihnen zur Verfügung:
 * **Euro:** Der Patient wird mit "Abrechnen" markiert.
 * **Kreuz:** Löschen Sie diesen Patienten aus dem Wartezimmer.
 
-### Patienten ins Wartezimmer sezten
+### Patienten ins Wartezimmer setzen
 
 Der Patient wird aus der Kundenkartei über das Sanduhr-Symbol in das Wartezimmer geschoben.  
 
