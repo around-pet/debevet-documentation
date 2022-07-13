@@ -37,7 +37,7 @@ Nun ist dieses Feld entsperrt und Sie können eine eigene Nummer manuell eintrag
 
 ### scil Auftrag erstellen  
 
-Wenn Sie beim Klick auf das **Mikroskop-Symbol** im Dropdown scil wählen,  öffnet sich ein Fenster für den Untersuchungsauftrag. 
+Wenn Sie beim Klick auf das **Mikroskop-Symbol** im Dropdown **scil** wählen,  öffnet sich ein Fenster für den Untersuchungsauftrag. 
 
 Es stehen Ihnen folgende Felder zur Verfügung:
 
@@ -51,8 +51,32 @@ Die Auswahl eines Untersuchungsprofil setzt entsprechende Laborgerät und wählt
   * beim Hinzuwählen von Parametern, wird das Untersuchungsprofil plus die Einzelparameter der Behandlungsmaske hinzugefügt
 * “Beschreibung” Freitextfeld
 
-![](../../static/img/Labor/scil_auftrag1.png)
+![](../../static/img/Labor/scil_auftrag1.png)  
 
+### Idexx Auftrag erstellen  
+
+Nach dem Klick auf das **Mikroskop-Symbol** können Sie entweder ihr Idexx Heimlabor Gerät wählen, oder zum Einsenden einer Probe
+wählen Sie **Vet Connect Plus**.  
+
+![](../../static/img/Labor/idexx_auftrag1.png)  
+
+Nun öffnet sich die Maske, in der Sie das gewünschte Laborprofil oder die Laborwerte, die Sie beauftragen wollen, angeben können.
+Ebenso können Sie wählen, ob die Rechnung an den Tierhalter oder an Sie erfolgen soll.  
+
+![](../../static/img/Labor/idexx_auftrag2.png)  
+
+Klicken Sie abschließend auf **Auftrag**.  
+
+### zoetis Auftrag erstellen  
+
+Um Ihr hausinternes zoetis Gerät mit einem Auftrag zu versehen, wählen Sie nach Klick auf das **Mikroskop-Symbol** 
+in der Liste **zoetis**. 
+
+Wenn Sie nun das gewünschte Gerät auswählen, bekommen Sie den Überblick, welche Untersuchungen beauftragt werden können. 
+
+![](../../static/img/Labor/zoetis_auftrag.png)
+
+Klicken Sie abschließend auf **Bestellung übermitteln**.  
 
 ## Laborbefunde einsehen  
 
