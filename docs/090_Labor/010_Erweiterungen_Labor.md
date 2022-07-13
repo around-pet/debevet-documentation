@@ -5,7 +5,8 @@ Die Zugangsdaten, die Sie dafür benötigen, bekommen Sie von Ihrem jeweiligen L
 
 * IDEXX
 * LABOKLIN
-* scil
+* scil  
+* Zoetis
 
 ##  IDEXX anbinden
 
@@ -211,6 +212,18 @@ danach folgen alle zur Verfügung stehenden Laborgeräte.
 Farbig hervorgehobene Laborgeräte werden nach dem Speichern Ihrer scil Erweiterung hinzugefügt oder bleiben bestehen. Ausgegraute werden entsprechend entfernt.  
 
 ![](../../static/img/Labor/scilext_7.png)  
+
+## Zoetis anbinden  
+
+Sie erhalten von Zoetis eine Client ID. Diese müssen Sie an der Erweiterung hinterlegen.  
+
+Klicken Sie **Administration** und dann **Erweiterungen** und wählen an der Kachel **Zoetis** dann **Anlegen**.
+
+![](../../static/img/Labor/zoetis_schnittstelle.png)  
+
+Auch hier können Sie am **Dropdown-Pfeil** wählen, wann die Untersuchungen der Behandlung hinzugefügt werden sollen.  
+
+Klicken Sie abschließend oben rechts auf **Speichern** und auf **Aktivieren**.
 
 
 
