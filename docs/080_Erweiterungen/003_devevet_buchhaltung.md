@@ -60,3 +60,25 @@ Die debevet Buchhaltungs-Software bietet aktuell keine TSE konforme Kasse.
 
 :::
 
+## Salden, Privateinlagen, Privatentnahmen
+
+Um in der debevet Buchhaltung Privatentnahmen oder Privateinlagen einzugeben, klicken Sie auf **Buchhaltung** und dann **Belege**. 
+
+Dort sehen Sie oben rechts **Vorlagen**  
+
+![](../../static/img/dashboard/salden_2.png)  
+
+Wenn Sie dort klicken, öffnet sich eine Maske, in der Sie aus verschiedenen Optionen wählen können. 
+
+* Kontoeröffnung  
+* Saldenvortrag  
+* Privateinlage  
+* Privatentnahme  
+
+![](../../static/img/dashboard/salden_3.png)  
+
+Bei Jahreswechsel können Sie hier beispielsweise die Saldenvorträge eintragen, die Ihnen auf dem Dashboard angezeigt werden sollen. 
+Bei Kontoeröffnung können Sie beim Start der Nutzung dann Einträge hinterlegen, damit diese korrekt angezeigt werden.
+
+![](../../static/img/dashboard/salden_4.png)
+
