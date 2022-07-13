@@ -116,17 +116,19 @@ Hier sehen Sie einen Überblick über die anstehenden Untersuchungsaufträge Ihr
 
 ## Salden  
 
-Um Ihre Salden nach dem Jahreswechsel im Dashboard anzeigen zu lassen, können Sie in der Buchhaltung unter "Belege" folgende Einstellung vornehmen: 
-Gehen Sie, wie in den unten abgebildeten Screenshots über Vorlagen (oben rechts) und wählen Sie die Vorlage "Saldenvortrag". 
-Diese können Sie mit einem gewünschten Datum, Konto, Betrag und Buchungstext speichern. Daraufhin wird sich der gespeicherte Saldenvortrag im Dashboard anzeigen.
+Um Ihre Salden im Dashboard anzeigen zu lassen, Sie den Haken bei **Salden** setzen.  
 
-![](../../static/img/dashboard/Salden.png)  
+:::caution Hinweis  
 
-![](../../static/img/dashboard/salden_2.png)  
+Bei der Nutzung von lexoffice als Buchhaltungserweiterung steht diese Anzeige auf dem Dashboard leider nicht zur Verfügung.  Sie müssen
+Collmex oder die debevet interne Buchhaltung nutzen, um diese Funktion zu nutzen.   
 
-![](../../static/img/dashboard/salden_3.png)  
+::: 
 
-![](../../static/img/dashboard/salden_4.png)
+Unter Ihrer Buchhaltungsschnittstelle können Sie dann einstellen, welche Konten Ihnen hier angezeigt werden können. Mehr dazu finden
+Sie in der Beschreibung der jeweiligen Buchhaltung hier in diesen Hilfeseiten.
+
+![](../../static/img/dashboard/Salden.png)
   
 ## Wiedervorstellungen
 
