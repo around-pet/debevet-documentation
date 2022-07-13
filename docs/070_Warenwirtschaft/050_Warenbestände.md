@@ -188,8 +188,11 @@ Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergä
 Möchten Sie nun Änderungen vornehmen, weil in der Inventur doch eine andere Menge vorhanden ist als "theoretisch", öffnen Sie
 das Medikament, welches korrigiert werden soll. Geben Sie dazu z.B. den Namen des Medikamentes unter **Praxis** und **Produkte** in die Suche ein. 
 
-Am Medikament selbst klicken Sie nun oben rechts auf **Erweitert** und dann **Korrektur**. Geben Sie die aktuelle Menge und
-unter **Memo** den Grund ein, beispielweise "Inventur, vermutlich Verlust" oder ähnliches.  
+Am Medikament selbst klicken Sie nun oben rechts auf **Erweitert** und dann **Korrektur**.    
+
+![](../../static/img/Warenwirtschaft/warenbestand_korrektur1.png)
+
+Geben Sie die aktuelle Menge und unter **Memo** den Grund ein, beispielweise "Inventur, vermutlich Verlust" oder ähnliches.  
 
 ![](../../static/img/Warenwirtschaft/korrektur_bestand2.png)   
 
