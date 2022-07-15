@@ -10,7 +10,13 @@ Wenn Sie den ersten Weg wählen, empfiehlt es sich, die Einstellungen in der Kun
 als "Anfragen" angelegt werden, und nicht direkt als Kunde.
 
 Bei der Variante "vor Ort am Tablet" ist es nützlich, dass der Kunde direkt als Kunde angelegt wird und dann direkt ins digitale Wartezimmer
-gesetzt wird.
+gesetzt wird.  
+
+:::tip Tipp:  
+Sie sollten entscheiden, ob Sie nach der Registrierung den Kunden direkt anlegen wollen oder eine **Anfrage** erstellen wollen. Sie können sich diese Anfragen 
+auch direkt auf dem Dashboard anzeigen lassen! 
+
+:::
 
 Doch zuerst müssen Sie die Kundenregistrierung anlegen, dabei können Sie einen individuellen Fragebogen und Datenschutzvereinbarungen oder
 sonstige Vereinbarungen hinterlegen, die der Kunde akzeptieren muss.
