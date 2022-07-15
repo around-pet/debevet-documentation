@@ -164,6 +164,8 @@ Klicken Sie auf **Zurücksetzen**, um wieder alle Posten angezeigt zu bekommen.
 Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandlisten immer sehr gut geführt. Um eine Liste anzuzeigen bzw. zu drucken,
 klicken Sie auf **Warenwirtschaft** und dann **Warenbestände**. Dort klicken Sie nun oben rechts auf **Erweitert** und dann **Drucken**.  
 
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen_drucken.png)
+
 Nun öffnet sich eine Maske, in der Sie entweder nur einen Teil der Warenbewegungen drucken können oder aber alle. 
 
 :::tip Tipp: 
@@ -203,7 +205,7 @@ Klicken Sie dann auf den grünen Button **Korrigieren**. Der neue Bestand ist da
 Sie können sich in Ihrem Warenbestand direkt alle abgelaufenen Chargen anzeigen lassen. Klicken Sie dazu auf **Warenwirtschaft** und dann 
 **Warenbestände**. Nun klicken Sie oben rechts auf **Erweitert** und wählen dort **Abgelaufene Chargen**.  
 
-![](../../static/img/Warenwirtschaft/abgelaufene_chargen1.png)  
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen_drucken.png)
 
 Nun listet debevet die abgelaufenen Chargen und bietet direkt die Korrektureinträge (also NULL) und ein Memo mit "abgelaufen am". 
 Wenn Sie hier noch etwas ändern wollen, können Sie das natürlich erledigen, ansonsten klicken Sie einfach auf **Speichern**. 
