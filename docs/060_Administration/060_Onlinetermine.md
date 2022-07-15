@@ -121,3 +121,14 @@ Wenn der Termin in weniger als 24h stattfindet, bekommt er den Hinweis, dass er 
 
 ![](../../static/img/Admin/termine_abgesagt.png)  
 
+## Termin ändern  
+
+Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt!
+
+## Dokumenten Service  
+
+Sie können alle Dokumente wie z. B. Röntgen, Laborergebnisse, Untersuchungsprofile usw. direkt für Ihren Kunden freigeben.
+Diese werden dann direkt in der App für den Kunden verfügbar und können nicht wie als Email evtl. gelöscht werden und sind dann für den 
+Kunden nicht mehr verfügbar.  
+
+![](../../static/img/Admin/doku_freigabe.png)
