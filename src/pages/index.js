@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Willkommen beim ${siteConfig.title}`}
+      description="Die debevet Cloud Tierarztsoftware bietet eine umfangreiche Anleitung mit Bildern und Videos zur einfachen Nutzung der Software in Ihrer Tierarztpraxis <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
