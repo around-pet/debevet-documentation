@@ -98,10 +98,28 @@ So können Sie alle Daten abfragen, die Sie gern vorab haben möchten.
 ## Kunden- und Patientendaten eingeben lassen  
 
 Egal, ob Sie es vor Ort am Tablet oder über einen Weblink (evtl. auf Ihrer Webseite) nutzen, Ihre Kunden werden Schritt für Schritt
-durch die Eingabemasken geleitet. 
+durch die Eingabemasken geleitet.  
+
+### Eingabe via Tablet   
 
 Um zu erfahren, wie Sie mit dem Tablet arbeiten, klicken Sie hier:  
 
+[Tablet nutzen](/docs/Administration/Tablet)  
+
+### Eingabe über Weblink / Browser 
+
+Falls Sie möchten, dass Ihre Kunden am eigenen Gerät vor Ort oder vor ab (eingebunden in Ihre Webseite oder vorab via Mail
+verschickt oder sonstiges) die Daten eintragen, können Sie den Weblink abrufen und dem Kunden dann schicken (bzw. diesen in Ihre Webseite einbinden).  
+
+Klicken Sie dazu auf **Administration** und dann *Kundenregistrierung**. Dort klicken Sie auf den blauen Button **Zur Kundenregistrierung**.  
+
+![](../../static/img/Admin/kundenregistrierung_formularlink.png)  
+
+Den Link, der dann oben in Ihrem Browser in der Adressleiste angezeigt ist, markieren und kopieren Sie, um diesen dann beliebig zu nutzen.  
+
+![](../../static/img/Admin/kundenregistrierung_formularlink2.png)  
+
+Für den Kunden stellt sich die Eingabe nun wie folgt dar: 
 
 Dabei werden im ersten Schritt die Kundendaten eingegeben:  
 
