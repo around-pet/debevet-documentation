@@ -18,7 +18,7 @@ auch direkt auf dem Dashboard anzeigen lassen!
 
 :::
 
-Doch zuerst müssen Sie die Kundenregistrierung anlegen, dabei können Sie einen individuellen Fragebogen und Datenschutzvereinbarungen oder
+Zuerst müssen Sie die Kundenregistrierung anlegen, dabei können Sie einen individuellen Fragebogen und Datenschutzvereinbarungen oder
 sonstige Vereinbarungen hinterlegen, die der Kunde akzeptieren muss.
 
 Klicken Sie **Administration** und dann **Kundenregistrierung**.
@@ -99,7 +99,11 @@ So können Sie alle Daten abfragen, die Sie gern vorab haben möchten.
 
 Egal, ob Sie es vor Ort am Tablet oder über einen Weblink (evtl. auf Ihrer Webseite) nutzen, Ihre Kunden werden Schritt für Schritt
 durch die Eingabemasken geleitet. 
-Dabei geben Sie im ersten Schritt die Kundendaten ein:  
+
+Um zu erfahren, wie Sie mit dem Tablet arbeiten, klicken Sie hier:  
+
+
+Dabei werden im ersten Schritt die Kundendaten eingegeben:  
 
 ![](../../static/img/Admin/kundendaten_eingeben1.png)  
 
