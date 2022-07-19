@@ -32,7 +32,7 @@ Die Patientenverwaltung finden Sie hier:
 
 
 ## 3. Kataloge importieren   
-
+n
 Wir bieten mit debevet die einfache Möglichkeit, diverse Kataloge (z.B. die GOT) zu importieren, um direkt alle nötigen Preise und Dienstleistungen
 nutzen und abrechnen zu können. Eine einfache Schritt-für-Schritt Anleitung finden Sie hier:  
 
