@@ -33,15 +33,16 @@ Die Patientenverwaltung finden Sie hier:
 
 ## 3. Kataloge importieren   
 
-Wir bieten mit debevet die einfache Möglichkeit, diverse Kataloge zu importieren, um direkt alle nötigen Preise und Dienstleistungen
+Wir bieten mit debevet die einfache Möglichkeit, diverse Kataloge (z.B. die GOT) zu importieren, um direkt alle nötigen Preise und Dienstleistungen
 nutzen und abrechnen zu können. Eine einfache Schritt-für-Schritt Anleitung finden Sie hier:  
 
 [Kataloge importieren](/docs/Warenwirtschaft/Kataloge)
 
 
-
 ## 4. Produkte anlegen  
 
+Als "Produkt" bezeichnet die debevet Software alles, was in Rechnung gestelt werden kann. 
+Neben Medikamenten/Marterial, Futter zählen hierzu auch die Dienstleistungen.   
 Neben dem Import von Katalogen können Sie auch individuelle Produkte/Dienstleistungen erstellen. Die Anleitung finden Sie hier:  
 
 [Produkte verwalten](/docs/Warenwirtschaft/Produkte)  
