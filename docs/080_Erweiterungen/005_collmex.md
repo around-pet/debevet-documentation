@@ -1,14 +1,18 @@
 # Collmex Buchhaltung 
 
-Collmex ist ein Buchhaltungsprogramm, welches sehr ideal mit unserer Software kompatibel ist. Wenn Sie wollen, 
-können wir die gesamte Einrichtung für Sie vornehmen und die Abrechnung der monatlichen Kosten kann über uns erfolgen. 
+:::tip Tipp:  
+Collmex ist ein Buchhaltungsprogramm, welches sehr ideal mit unserer Software kompatibel ist. 
+Wenn Sie wollen, können wir die gesamte Einrichtung für Sie vornehmen und die Abrechnung der monatlichen Kosten kann über uns erfolgen. 
+
+Wir benötigen dann von Ihnen die Emailadresse Ihres Steuerberaters, die Mandantennummer bei der Kanzlei und die Beraternummer Ihres Beraters bei Datev.  
+
+:::  
 
 Alternativ können Sie das Programm auch wie hier beschrieben selbst anbinden/aktivieren.
 
-
 :::danger ACHTUNG!
 
-Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekenntzeichnet sind (Collmex, lexoffice, debevet)
+Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekennzeichnet sind (Collmex, lexoffice, debevet)
 nicht GLEICHZEITIG betrieben werden können, und zu Konflikten miteinander führen können. Ein Wechsel zwischen den Systemen sollte
 kurz mit uns abgesprochen werden, damit wir Ihnen Tipps geben können, worauf Sie achten müssen.
 
