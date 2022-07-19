@@ -64,7 +64,7 @@ Nach Auswahl des gewünschen Dokumentes kann der Kunde unterschreiben.
 
 ## Kundenregistrierung vor Ort am Tablet  
 
-Wenn Sie den Kunden in Ihrer Praxis vor Ort das tablet mit ins Wartezimmer geben möchten, damit diese daran Ihre Daten als Neukunden
+Wenn Sie den Kunden in Ihrer Praxis vor Ort das Tablet mit ins Wartezimmer geben möchten, damit diese daran Ihre Daten als Neukunden
 eingeben können, haben Sie 2 Möglichkeiten, diese Funktion zu starten.
 
 Stellen Sie zunächst sicher, dass das Tablet aktiviert und angemeldet ist. 
