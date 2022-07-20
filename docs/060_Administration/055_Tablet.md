@@ -60,7 +60,7 @@ Nach Auswahl des gewünschen Dokumentes kann der Kunde unterschreiben.
 
 ![](../../static/img/Admin/tablet_docs.png)  
 
-![](../../static/img/Admin/tablet_signed.png)
+![](../../static/img/Admin/tablet_unterschrift.png)
 
 ## Kundenregistrierung vor Ort am Tablet  
 
