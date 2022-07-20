@@ -26,7 +26,7 @@ Wenn Sie mehrere Geräte angemeldet haben, z.B. noch ein Tablet zum Unterschreib
 Wenn sie nun mit dem Tablet mit einem QR Codescanner (zumeist vorinstalliert, sonst im Appstore/Google Play herunterladen) den linken 
 Code in der Kachel  **Geräteanmeldung** scannen, müssen Sie das Passwort für das wie oben beschrieben eingerichtete Gerät eingeben.  
 
-![](../../static/img/Admin/tablet_anmeldung_screen.png)
+![](../../static/img/Admin/tablet_anmeldung.png)
 
 Nun ist das Gerät aktiv und kann genutzt werden. 
 
