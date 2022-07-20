@@ -99,4 +99,31 @@ anmelden können!
 
 :::   
 
+## Den Kunden das eigene Smartphone nutzen lassen 
+
+Eine tolle Variante ist es, den Link zur Kundenregistrierung in einen QR-Code umzuwandeln und diesen im Wartezimmer aufzuhängen!
+
+Auf diese Art kann jeder neue Kunde diesen Code mit seinem Smartphone/ Handy scannen und dann alle Daten selbst eingeben.
+
+Um den Link zu Ihrer Kundenregistrierung umzuwandeln, öffnen Sie die debevet Anwendung (dies reicht auch einmalig!) im Chrome Browser. 
+
+Klicken Sie **Administration** und dann **Kundenregistrierung**.   
+
+Nun klicken Sie auf den blauen Button **zur Kundenregistrierung**. 
+
+Nun öffnet sich Ihre Kundenregistrierung im Browser- Klicken Sie nun oben rechts auf das **Teilen** Symbol.  
+
+![](../../static/img/Admin/qr_erzeugen1.png)  
+
+Dann wählen Sie **QR-Code**.   
+
+![](../../static/img/Admin/qr_erzeugen2.png)  
+
+Den nun erzeugten Code können Sie herunterladen und dann drucken.  
+
+![](../../static/img/Admin/qr_erzeugen3.png)
+
+
+
+
 

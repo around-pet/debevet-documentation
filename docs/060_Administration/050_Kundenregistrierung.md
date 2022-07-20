@@ -100,9 +100,9 @@ So können Sie alle Daten abfragen, die Sie gern vorab haben möchten.
 Egal, ob Sie es vor Ort am Tablet oder über einen Weblink (evtl. auf Ihrer Webseite) nutzen, Ihre Kunden werden Schritt für Schritt
 durch die Eingabemasken geleitet.  
 
-### Eingabe via Tablet   
+### Eingabe via Tablet oder Smartphone
 
-Um zu erfahren, wie Sie mit dem Tablet arbeiten, klicken Sie hier:  
+Um zu erfahren, wie Sie mit dem Tablet arbeiten, oder Kunden vor Ort mit deren eigenem Smartphone die Registrierung ausfüllen lassen, klicken Sie hier:  
 
 [Tablet nutzen](/docs/Administration/Tablet)  
 
