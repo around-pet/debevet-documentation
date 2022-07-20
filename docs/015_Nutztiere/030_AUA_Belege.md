@@ -185,4 +185,39 @@ Wartezeiten hinterlegt haben. Dies muss pro Medikament jeweils einmalig hinterle
 
 :::  
 
+## Restmengen abgeben 
+
+Bei aufgerundeten Packungen ist beim Landwirt eventuell noch Rest vorhanden, der für weitere Tiere natürlich genutzt werden kann,
+aber dann auf dem AUA Beleg mit Bezug zum alten (ursprünglichen) Beleg vermerkt werden muss. 
+
+Manche bezeichnen dieses Verfahren auch als "Nachverordnung", aber korrekt ist es eine Restmengenabgabe. 
+
+Um diese Restmenge abzugeben, die von einem alten Beleg bestanden hat, klicken Sie auf das kleine Symbol mit dem **R**. in der Behandlung. 
+
+![](../../static/img/Nutztiere/restmenge1.png)  
+
+Nun öffnet sich wie gewohnt die Abgabemaske. Tippen Sie den Namen des Medikamentes ein und wählen es dann aus. 
+
+:::caution Achtung  
+
+Der Bezug zu den vorherigen AUA Belegen kann nur erstellt werden, wenn Konzentration und Name des Medikamentes gleich sind!  
+
+:::
+
+Sofern es alte AUA Belege mit genau diesem Medikament gibt, wird nun rechts das Feld AUA weiß (und ist nicht mehr grau, gesperrt).  
+
+![](../../static/img/Nutztiere/restmengen2.png)  
+
+Wenn Sie hier nun auf den **Dropdown-Pfeil** klicken, können Sie aus allen AUA Belegen mit demselben Medikament auswählen. 
+
+![](../../static/img/Nutztiere/restmengen3.png)
+
+Später wird dann auf dem AUA Beleg automatisch der Bezug zum alten AUA Beleg vermerkt. 
+
+![](../../static/img/Nutztiere/restmenge4.png)
+
+
+
+
+
 
