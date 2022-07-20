@@ -41,7 +41,7 @@ Es gibt zwei Möglichkeiten, wie Sie diese dem Kunden zur Verfügung stellen an 
 
 Wenn Sie den QR Code gescannt haben und das Passwort eingegeben haben, geben Sie die Kundennummer in das Suchenfeld ein und drücken Sie die **Entertaste**.  
 
-![](../../static/img/Admin/tablet_neukunde_screen.png)
+![](../../static/img/Admin/tablet_neukunde.png)
 
 ### 2. Aus dem Kunden direkt  
 
