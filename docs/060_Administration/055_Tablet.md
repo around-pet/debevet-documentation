@@ -81,8 +81,7 @@ Barcode (zur Kundenregistrierung) und geben Sie dem Kunden dann das Tablet.
 Wenn Sie das Tablet angemeldet haben (gescannter linker Code) und es so aktiviert mit der geöffneten Browser Seite bei Ihnen an der
 Anmeldung liegt, können sie auch einfach auf "Neuer Kunde" am Tablet tippen und es dann dem Kunden in die Hand geben zum Ausfüllen seiner Daten.  
 
-![](../../static/img/Admin/tablet_neukunde_screen.png)
-
+![](../../static/img/Admin/tablet_neukunde.png)  
 
 :::tip Tipp:
 
