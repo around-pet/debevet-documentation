@@ -98,5 +98,12 @@ Anschließend klicken Sie auf **Hochladen**.
 
 ![](../../static/img/Warenwirtschaft/barsoi_import3.png)
 
+Wichtig ist, dass Sie sich entscheiden, ob existierende Einträge übersprungen werden sollen. Wenn Sie beispielsweise sehr viele
+indivduelle Anpassungen haben, kann dies sinnvoll sein, damit diese nicht überschrieben werden. Allerdings werden dann **GAR KEINE** Informationen 
+für diese Produkte aktualisiert, auch nicht der Preis. 
+
+Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen.
+
+![](../../static/img/Admin/barsoi_import_exist.png)
 
 
