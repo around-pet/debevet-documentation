@@ -12,6 +12,7 @@ Klicken Sie hierzu auf
 
 Klicken Sie dann auf den Reiter **Geräte**   
 Geben Sie einen Namen für das Gerät ein und setzen ein Passwort. Bitte klicken Sie danach unbedingt den Haken an, um beides zu aktivieren.
+KLicken sie anschließend oben rechts auf **Speichern**
 
 ![](../../static/img/erweiterungen/geraete_registrierung2.png)
 
@@ -26,9 +27,11 @@ Wenn Sie mehrere Geräte angemeldet haben, z.B. noch ein Tablet zum Unterschreib
 Wenn sie nun mit dem Tablet mit einem QR Codescanner (zumeist vorinstalliert, sonst im Appstore/Google Play herunterladen) den linken 
 Code in der Kachel  **Geräteanmeldung** scannen, müssen Sie das Passwort für das wie oben beschrieben eingerichtete Gerät eingeben.  
 
-![](../../static/img/Admin/tablet_anmeldung.png)
+Anschließend klicken Sie auf **Anmelden** auf dem Tablet.
 
-Nun ist das Gerät aktiv und kann genutzt werden. 
+Nun ist das Gerät aktiv und kann genutzt werden.  
+
+![](../../static/img/Admin/tablet_anmeldung.png)
 
 ## Den Kunden digital unterschreiben lassen  
 
@@ -61,6 +64,12 @@ Nach Auswahl des gewünschen Dokumentes kann der Kunde unterschreiben.
 ![](../../static/img/Admin/tablet_docs.png)  
 
 ![](../../static/img/Admin/tablet_unterschrift.png)
+
+:::tip Tipp: 
+
+Die unterschriebenen Dokumente sind dann automatisch in der Kundendatei in den Dokumenten hinterlegt!
+
+:::  
 
 ## Kundenregistrierung vor Ort am Tablet  
 
