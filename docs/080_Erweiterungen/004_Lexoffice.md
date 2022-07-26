@@ -12,6 +12,13 @@ Um die Erweiterung zu aktivieren, klicken Sie auf **Administration** und dann **
 
 Nun wählen Sie an der gewünschten Kachel **Anlegen**.
 
+:::info Zu Beachten:  
+
+Lexoffice bietet mit seiner Schnittstelle KEINE Möglichkeit, tierärztliche Leistungen, angewandte Medikamente und abgegebene Medikamente getrennt
+zu kontieren! Bitte sprechen Sie unbedingt mit Ihrem Steuerberater, ob Ihre Gewinne so liegen, dass Sie ansonsten ein Problem mit einer potentiellen Gewerbesteuerpflicht bekommen!   
+
+:::
+
 ![](../../static/img/erweiterungen/buchhaltung_anlegen.png)  
 
 ## Lexoffice einrichten  
