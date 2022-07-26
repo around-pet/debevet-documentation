@@ -45,7 +45,7 @@ Sie sparen sich den Schritt, die Rechnung manuell auf bezahlt zu setzen.
 :::
 
 
-Konten für Zahlungsarten
+### Konten für Zahlungsarten
 
 ![](../../static/img/erweiterungen/debevet_buchhaltung3.png)    
 
@@ -58,7 +58,29 @@ Wenn Sie diese gesetzt haben, klicken Sie oben rechts zunächst auf **Speichern*
 
 Die debevet Buchhaltungs-Software bietet aktuell keine TSE konforme Kasse.
 
-:::
+:::  
+
+## ### Erlöse nach Typ zusammenfassen
+
+Wenn Sie Ihre Erlöse je Typ (Leistung, Abgaben, Anwendungsprodukte und Sonstiges) auf verschiedene Erlöskonten buchen
+möchten, so aktiveren Sie dieses Merkmal durch ankreuzen und geben Sie für die Typen die jeweiligen Erlöskonten aus
+der Finanzbuchhaltung für die beiden Umsatzsteuersätze an. Bitte beachten Sie, dass Sie Konten, die nicht im
+Standardkontenplan enthalten sind zuvor auch in Collmex angelegt haben.
+
+Erzielen Sie ebenfalls Erlöse mit 0% Umstatzsteuer (z.B. durch Lieferung ins EU-Ausland), so können Sie
+weitere Zeilen hinzufügen für den jeweiligen Typ und bei Erlösart einen Grund für die Umsatzssteuerfreiheit auswählen.
+Wählen Sie dort z.B. den Eintrag 'innergemeinschaftliche Lieferung', so können Sie bei 0% USt. ein entsprechendes Erlöskonto vordefinieren.
+Wenn Sie abschließend das Häckchen am Ende der Zeile klicken, wird Ihr Eintrag in die Maske übernommen und eine weitere Zeile für weitere 0%-Regelen erzeugt.
+
+Klicken Sie abschließend auf **Speichern** oben rechts.
+
+![](../../static/img/erweiterungen/erloese_nach_typ.png)
+
+### Rundungs- und Differenzkonto nutzen
+
+Wenn Sie die Erlöse nach Typ zusammenfassen, sollten sie unbedingt ein Rundungs- /Differenzkonto anlegen. Je nach genutztem Kontenrahmen fragen Sie gern
+Ihren Steuerberater, welches dieses sein soll. Dort werden evtl. bei den getrennten Buchungen entstehende cent-Differenzen verbucht.
+
 
 ## Salden, Privateinlagen, Privatentnahmen
 
