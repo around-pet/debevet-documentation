@@ -262,6 +262,42 @@ Sie können sich diverse Vorlagen erstellen, um diese im Praxisalltag ausgedruck
 * Bericht an den Patientenbesitzer 
 
 
+## Behandlungsverlauf drucken 
+
+Wenn Sie den Verlauf einer Behandlung einsehen oder übersichtlich übermitteln oder ausdrucken möchten, können Sie dies sehr einfach erledigen.
+
+Wenn Sie sich in der Behandlung des gewünschten Patienten befinden, klicken Sie in der Werkzeugleiste oben auf das **Drucker-Symbol**. 
+
+![](../../static/img/Patienten/behandlung_drucken1.png)  
+
+Nun bekommen Sie die Möglichkeit zu wählen, was alles mit gedruckt werden soll. 
+
+![](../../static/img/Patienten/behandlung_drucken2.png)
+
+Wenn Sie nur die Befunde und Diagnosen drucken wollen, schauen Sie den nächsten Unterpunkt an. 
+
+## Diagnosen und Befunde/ Dokumentation drucken  
+
+Ob für eine Überweisung an einen Kollegen, eine Klinik oder nur für den Besitzer: Sie haben die Möglichkeit, nur die
+Befundungen, die Sie notiert haben und die Diagnosen zu drucken.   
+
+Klicken Sie hierzu in der Behandlung oben auf den Reiter  **Spiegel**.  
+
+![](../../static/img/Patienten/spiegel_drucken1.png)  
+
+Nun können Sie den Zeitraum setzen, für den Sie die Befundungen ausdrucken möchten, bei keiner Auswahl wird alles gewählt.
+
+Klicken Sie anschließend rechts auf das **Drucker-Symbol** , um den Spiegel als pdf zu erhalten. 
+
+:::tip Tipp: 
+
+Hier bieten wir keine direkte Mailoption, wenn sie die pdf per Mail verschicken wollen, laden Sie diese zunächst herunter und
+nutzen dann Ihr Mailprogramm, um dem Kunden diese als Anhang zu senden.  
+
+:::
+
+
+
 
 
 
