@@ -179,7 +179,12 @@ Wenn Sie abschließend das Häckchen am Ende der Zeile klicken, wird Ihr Eintrag
 
 Klicken Sie abschließend auf **Speichern** oben rechts.  
 
-![](../../static/img/erweiterungen/debevet-Collmex-Erweiterung-Erloesarten.png)  
+![](../../static/img/erweiterungen/erloese_nach_typ.png)
+
+### Rundungs- und Differenzkonto nutzen  
+
+Wenn Sie die Erlöse nach Typ zusammenfassen, sollten sie unbedingt ein Rundungs- /Differenzkonto anlegen. Je nach genutztem Kontenrahmen fragen Sie gern
+Ihren Steuerberater, welches dieses sein soll. Dort werden evtl. bei den getrennten Buchungen entstehende cent-Differenzen verbucht. 
 
 ### Zahlungsbedingungen  
 
