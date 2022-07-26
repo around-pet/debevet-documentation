@@ -25,7 +25,7 @@ Termin gesetzt, dies kann aber auf **Anruf** geändert werden).
 
 Variante 2: (die schnellere Variante)
 
-Um direkt aus der Behandulung am Patienten einen Termin zu erstellen, klicken Sie in der Behandlung auf das kleine **Kalender-Symbol** 
+Um direkt aus der Behandlung am Patienten einen Termin zu erstellen, klicken Sie in der Behandlung auf das kleine **Kalender-Symbol** 
 
 ![](../../static/img/Admin/kalender_termine4.png)  
 
