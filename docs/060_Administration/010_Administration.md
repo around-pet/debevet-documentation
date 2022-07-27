@@ -357,7 +357,21 @@ Auch die Top 5 Produkte und Top 5 Kunden können angezeigt werden.
 
 ![](../../static/img/Admin/statistiken1.png)  
 
-![](../../static/img/Admin/statistiken2.png)
+![](../../static/img/Admin/statistiken2.png)  
+
+## Kleinunternehmer  
+
+Sie sind Kleinunternehmer und somit umsatzsteuerbefreit? Natürlich kann debevet dann alle Ihre Rechnungen auch mehrwertsteuerbefreit ausstellen.
+
+Generell werden dann die Nettopreise am Kunden in der Rechnung abgerechnet.  
+
+Um diese Einstellung zu aktivieren, klicken Sie **Administration** und dann **Einstellungen**.  
+
+Dort klicken Sie den Reiter **Fakturierung** und setzen dann den Haken bei "Kleinunternehmen steuerbefreit".  
+
+![](../../static/img/Admin/kleinunternehmer1.png)  
+
+
  
 
 
