@@ -85,25 +85,37 @@ die Eingaben aus dem Katalog zurücksetzen indem Sie nach dem Aufrufen der Diens
 
 Natürlich haben Sie bei debevet die Möglichkeit, die Barsoi-Liste zu hinterlegen, um alle Medikamentenpreise direkt nutzen zu können.
 
-Dies geht allerdings nicht über einen Katalog, sondern über unsere Import Funktion. Klicken Sie hierzu auf **Administration** und dann **Import/Export**.
+Dies geht allerdings nicht über einen Katalog, sondern über unsere Import-Funktion. Klicken Sie hierzu auf **Administration** und dann **Import/Export**.
 
-![](../../static/img/Warenwirtschaft/barsoi_import1.png)  
+![](../../static/img/Admin/Import1.png)
 
-Nun klicken Sie bei Import auf den Dropdown-Pfeil und wählen ganz unten aus der Liste **Barsoi Liste - Produkte**.
+Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **Dropdown-Pfeil** und wählen ganz unten aus der Liste **Barsoi Liste - Produkte**.
 
-![](../../static/img/Warenwirtschaft/barsoi_import2.png)  
+![](../../static/img/Admin/import_dropdown.png) 
 
+![](../../static/img/Admin/import3.png)
+ 
 Nun klicken Sie auf das **Wolkensymbol** und wählen dann die Datei, die Sie auf Ihrem Rechner haben. (Diese können Sie bei Bardoi erwerben!).
-Anschließend klicken Sie auf **Hochladen**.  
-
-![](../../static/img/Warenwirtschaft/barsoi_import3.png)
 
 Wichtig ist, dass Sie sich entscheiden, ob existierende Einträge übersprungen werden sollen. Wenn Sie beispielsweise sehr viele
 indivduelle Anpassungen haben, kann dies sinnvoll sein, damit diese nicht überschrieben werden. Allerdings werden dann **GAR KEINE** Informationen 
 für diese Produkte aktualisiert, auch nicht der Preis. 
 
-Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen.
+Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen.  
 
-![](../../static/img/Admin/barsoi_import_exist.png)
+![](../../static/img/Admin/import4.png)
+
+Anschließend klicken Sie auf **Anlegen**.  
+
+:::caution Bitte beachten!
+
+Die Anforderung des Exportes wird nicht direkt durchgeführt. Es wird nur ein Auftrag, ein sogenannter "Job" erstellt, der dann zu einer
+bestimmten Uhrzeit erfolgt. Um die genannte Uhrzeit steht dann Ihr Export als CSV Datei zur Verfügung (Diese können dann im Excel eingelesen werden und be
+Bedarf in eine xml Datei umgewandelt werden).
+
+![](../../static/img/Admin/jonzeitpunkt.png)
+
+:::
+
 
 
