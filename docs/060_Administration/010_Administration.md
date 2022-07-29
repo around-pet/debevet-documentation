@@ -316,28 +316,84 @@ Bitte beachten Sie hier, dass die Nummernkreise Rechnung und Gutschrift sich nic
 
 ## Export/ Import  
 
-Um diverse Dinge zu importieren oder zu exportieren, klicken Sie auf **Administration** und dann **Export/Import**.  
+Um diverse Dateien zu importieren oder zu exportieren, klicken Sie auf **Administration** und dann **Export/Import**.  
+Oben rechts können Sie dann **Neuen Import** oder **Neuen Export**  wählen.  
 
-![](../../static/img/Admin/export_import.png)
+![](../../static/img/Admin/Import1.png)
   
-Unter Export können Sie diverses exportieren, wie zum Beispiel:  
+Unter Export können Sie je nach Kategorie exportieren:
+
+**Praxis**
 * Kunden exportieren
-* Lieferanten exportieren
 * Patienten exportieren
 * Behandlungen exportieren
 * Befunde exportieren
 * Diagnosespiegel exportieren
+* AUA exportieren 
+* Dokumente exportieren 
+
+**Warenwirtschaft**
+* Lieferanten exportieren
 * Produkte exportieren
 * Wartezeiten exportieren
 * Anwendungsanweisungen exportieren
 * Diagnosen exportieren
-* Belege exportieren
+* Warenbestände exportieren  
 
-Unter Import können Sie divereses importieren, wie zum Beispiel:  
+**Rechnungen**  
+* Rechnungen exportieren  
 
-* Daten von Kunden importieren
-* Patienten importieren
-* XML Barsoi-Liste importieren  
+**Buchhaltung**  
+* Belege exportieren 
+
+Wenn Sie die gewünschten Exporte angeklickt haben, klicken Sie unten auf **Anlegen**.  
+
+![](../../static/img/Admin/Export1.png)
+
+:::caution Bitte beachten!  
+
+Die Anforderung des Exportes wird nicht direkt durchgeführt. Es wird nur ein Auftrag, ein sogenannter "Job" erstellt, der dann zu einer
+bestimmten Uhrzeit erfolgt. Um die genannte Uhrzeit steht dann Ihr Export als CSV Datei zur Verfügung (Diese können dann im Excel eingelesen werden und be
+Bedarf in eine xml Datei umgewandelt werden).     
+
+![](../../static/img/Admin/jonzeitpunkt.png)  
+
+::: 
+
+
+
+Als Import stehen verschiedene Varianten (vor allem für den Wechsel aus anderen Programmen) zur Verfügung:
+
+Debevet Daten:
+
+Alle, die auch als Export zur Verfügung stehen
+
+Import aus EasyVet:  
+
+* Kunden
+* Patienten
+* Produkte
+* Eigene Dienstleistungen  
+
+Import aus Vetera:  
+
+* Kunden  
+* Patienten 
+
+Sonstiges: 
+* XML Barsoi-Liste importieren   
+
+
+:::caution Bitte beachten!
+
+Die Anforderung des Exportes wird nicht direkt durchgeführt. Es wird nur ein Auftrag, ein sogenannter "Job" erstellt, der dann zu einer
+bestimmten Uhrzeit erfolgt. Um die genannte Uhrzeit steht dann Ihr Export als CSV Datei zur Verfügung (Diese können dann im Excel eingelesen werden und be
+Bedarf in eine xml Datei umgewandelt werden).
+
+![](../../static/img/Admin/jonzeitpunkt.png)
+
+:::
+
 
 :::tip Tipp 
 
