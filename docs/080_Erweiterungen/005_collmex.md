@@ -157,7 +157,7 @@ kurz mit uns abgesprochen werden, damit wir Ihnen Tipps geben können, worauf Si
 
 :::  
 
-Im Bereich **Zugangsdaten** geben Sie im Feld Kunden Nr. Ihre Kundennummer bei Collmex ein. In das Feld Benutzername tragen Sie den Namen des Benutzers (API-Benutzer) 
+Im Bereich **Zugangsdaten** geben Sie im Feld Kunden Nr. Ihre Kundennummer(Mandantennummer!) bei Collmex ein. In das Feld Benutzername tragen Sie den Namen des Benutzers (API-Benutzer) 
 der Collmex-Schnittstelle (lt. Anleitung hier z.B. apidbv) ein und bei Kennwort, das Kennwort, das Sie diesem Benutzer in Collmex gegeben haben.
 
 In das Feld Firma Nr. tragen Sie den Wert '1' ein und kreuzen **Aktiv** an. Speichern Sie Ihre Eingabe abschließend durch 

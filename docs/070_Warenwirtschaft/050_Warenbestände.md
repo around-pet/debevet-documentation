@@ -185,6 +185,30 @@ Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergä
 
 :::  
 
+## Warenwert - Wert der Hausapotheke  
+
+Wenn Sie sich den Gesamtwert (oder auch nur den Wert bestimmter Produktgruppen) anzeigen lassen wollen, können Sie dies an 
+den Warenbeständen.  
+
+Klicken Sie auf **Warenwirtschaft** und dann **Warenbestände** und wählen oben rechts mit dem **Dropdown-Pfeil** bei **Erweitert** die Option
+**Drucken**  
+
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen_drucken.png)
+
+In der sich öffnenden Maske können Sie wählen, was Sie alles drucken wollen. Setzen Sie den Haken bei **Warenwert anzeigen** und 
+drucken Sie dann alles gewünschte. 
+
+![](../../static/img/Warenwirtschaft/warenwerte.png)  
+
+Auf der letzten Seite sehen Sie dann den Gesamtwert der Auswahl.  
+
+:::tip Tipp: 
+
+Die Warenwerte werden mit Einkaufspreisen berechnet. Für den Fall, dass Sie selbst angelegte Produkte nutzen, müssen Sie 
+die Einkaufspreise für eine korrekte Darstellung hinterlegen.   
+
+::: 
+
 ## Warenbestand korrigieren  
 
 Möchten Sie nun Änderungen vornehmen, weil in der Inventur doch eine andere Menge vorhanden ist als "theoretisch", öffnen Sie
