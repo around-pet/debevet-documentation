@@ -12,9 +12,7 @@ Bereits bestehende Layouts können Sie nun bearbeiten, indem Sie auf den Namen i
 ## Neues Layout anlegen  
 
 Wenn Sie ein komplett neues Layout anlegen wollen, wählen Sie oben rechts am **Dropdown-Pfeil** den Typ Dokument aus und klicken 
-anschließend das **grüne Plus-Symbol**. Sie gelangen nun auf die Detailseite (ebenso wie beim Bearbeiten eines Layouts).  
-
-debevet unterscheidet hier zwischen Dokumenten mit Rechnungsposten und allen anderen Dokumenten. 
+anschließend das **grüne Plus-Symbol**. Sie gelangen nun auf die Detailseite (ebenso wie beim Bearbeiten eines Layouts)
 
 ## Normale Dokumente
 
@@ -54,7 +52,7 @@ damit bei Nutzung von Fenster-Briefumschlägen diese korrekt lesbar sind!
 ### 2. Hintergrund  
 
 In dieser Option können Sie eine Art Briefpapier hinterlegen. Da wir viele Kunden haben, die Ihr Logo an verschiedene Stellen setzen wollen, 
-oder nur ein Wasserzeichen (oder div. Varianten) nutzen, haben Sie nur die Möglichkeit, ein **Dokument in DIN A 4** Größe als Vorlage zu nutzen.
+oder nur ein Wasserzeichen (oder div. Varianten) nutzen, haben Sie nur die Möglichkeit, ein **eine png Datei in DIN A 4** Größe als Vorlage zu nutzen.
 
 Hier ein Beispiel- Dokument 
 
@@ -76,6 +74,8 @@ Um die Dokumente hochzuladen, klicken Sie auf das Wolkensymbol.
 
 Bei allen Dokumenten, die Rechnungsposten/Leistungen/Produkte beinhalten, haben Sie noch weitere Layout Möglichkeiten. 
 
+(Beispiele: Gutschriften, Rechnungen, Angebote/Kostenvoranschläge, Mahnung)
+
 Unter dem Reiter **Druck** gibt es noch weitere Optionsfelder:  
 
 ![](../../static/img/Admin/layout_rechnung.png)  
@@ -92,6 +92,6 @@ Sie haben für Rechnungen/Lieferungen/Angebote und Mahnungen die Möglichkeit, d
 
 ![](../../static/img/Admin/layout_tabelle.png)  
 
-In der Vorschau können Sie dann direkt sehen, was sich bei welcher Optiion ändert. 
+In der Vorschau können Sie dann direkt sehen, was sich bei welcher Option ändert. 
 
 
