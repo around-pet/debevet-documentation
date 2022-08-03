@@ -52,7 +52,7 @@ damit bei Nutzung von Fenster-Briefumschlägen diese korrekt lesbar sind!
 ### 2. Hintergrund  
 
 In dieser Option können Sie eine Art Briefpapier hinterlegen. Da wir viele Kunden haben, die Ihr Logo an verschiedene Stellen setzen wollen, 
-oder nur ein Wasserzeichen (oder div. Varianten) nutzen, haben Sie nur die Möglichkeit, ein **Dokument in DIN A 4** Größe als Vorlage zu nutzen.
+oder nur ein Wasserzeichen (oder div. Varianten) nutzen, haben Sie nur die Möglichkeit, ein **eine png Datei in DIN A 4** Größe als Vorlage zu nutzen.
 
 Hier ein Beispiel- Dokument 
 
