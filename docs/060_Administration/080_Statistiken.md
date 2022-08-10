@@ -1,4 +1,4 @@
-(# Statistiken
+# Statistiken
 
 Unter **Administration** und dann **Statistiken** können Sie Ihre Umsätze und Verkäufe gefiltert nach Medikamenten, Dienstleistung, Tierart und
 Sonstige darstellen.
