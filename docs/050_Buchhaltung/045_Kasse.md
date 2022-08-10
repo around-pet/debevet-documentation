@@ -34,7 +34,7 @@ Bei Collmex könnten Sie es direkt mit dem Login im Collmex dort im Kassenbuch b
 gehen können, wenn Sie es direkt im debevet lösen möchten. 
 
 
-### Schritt 1:  
+### Schritt 1: Lieferant anlegen 
 
 Legen Sie zunächst einen Lieferanten an, der beispielsweise "Bareinzahlung Bank" heißt.   
 
@@ -44,7 +44,7 @@ Klicken Sie nun das **grüne Plus-Symbol** und geben dann den Namen ein und klic
 ![](../../static/img/Buchhaltung/barentnahme1.png)  
 
 
-### Schritt 2:  
+### Schritt 2: Lieferantenrechnung anlegen
 
 Legen Sie nun eine Lieferantenrechnung für diesen "Lieferanten" an.  Klicken Sie erneut auf **Warenwirtschaft** und nun **Lieferantenrechnung**.   
 Erneut klicken Sie das **grüne Plus-Symbol**.   
@@ -63,7 +63,7 @@ wird die Eingabe übernommen! (dies erkennen Sie daran, dass dann in der Zeile a
 
 Klicken Sie nun auf **Speichern**.  
 
-### Schritt 3 : 
+### Schritt 3 : Lieferantenrechung buchen
 
 Nun müssen Sie diese "Lieferantenrechnung" nur noch buchen. Klicken Sie auf **Erweitert** und dann **Lieferantenrechnung buchen**. Nun ist Ihr Kassenbestand 
 entsprechend geändert. 
