@@ -180,8 +180,14 @@ Nun sehen Sie eine Auflistung Ihrer Produkte inkl. des "theoretischen" Bestandes
 
 :::tip Tipp: 
 
-Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, drucken Sie zunächst den gesamten Warenbestand aus. 
-Nun kann jeder Mitarbeiter zunächst handschriftlich einen bestimmten Teil ergänzen und am Ende können Sie alles digital korrigieren. 
+Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, filtern Sie zunächst über die Suche den Bestand so, dass Sie sich jeweils eine Liste pro Lagerort
+erstellen lassen. Wenn Sie den Pfeil rechts vom Suchenfeld klicken, können Sie bei Lagerort einen Ihrer Lagerorte eingeben. Klicken Sie auf das **Lupensymbol**
+oder drücken Sie die **Entertaste**
+Nun drucken Sie diese Liste und verfahren mit jedem Lagerort so.
+Nun kann jeder Mitarbeiter zunächst handschriftlich einen Raum zählen und die veränderte Anzahl handschriftlich eintragen.
+Am Ende können Sie alles digital korrigieren.   
+
+![](../../static/img/Warenwirtschaft/lagerort_suche.png)
 
 :::  
 
