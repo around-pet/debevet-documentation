@@ -35,13 +35,32 @@ Wenn Sie mehrere Geräte angemeldet haben, z.B. noch ein Tablet zum Unterschreib
 
 :::
 
+
+## Geräte aktivieren
+
+Um die SumUp Zahlung nutzen zu können, muss das Endgerät (also Handy/Tablet) nicht nur eingerichtet sein, sondern unter **Administration**
+und dann **Kundenregistrierung**  muss am Reiter "Einstellungen" das Häkchen bei **Aktiv** gesetzt sein.
+
+**Aktiv:**
+Ist "Aktiv" ausgewählt, können Sie Ihre Geräte, die Sie angelegt haben nutzen. 
+
+:::caution Achtung:
+
+Setzen Sie diesen Haken nicht, bekommen Sie eine Fehlermeldung **Service unavailable**!
+
+![](../../static/img/Admin/geraete_aktiv.png)
+
+:::
+
+
 Nun können Sie auf dem Gerät einen QR Code Scanner (meist vorinstalliert, sonst im App Store suchen) öffnen und mit diesem den QR Code oben links scannen.  
 
 ![](../../static/img/erweiterungen/geraete_registrierung3.png)  
 
 Ihr Gerät zeigt dann einen Link an, diesen klicken Sie bitte an. Dort müssen Sie die gesetzen Daten (Passwort) nun eingeben.  
 
-Nun ist Ihr Gerät angemeldet und kann für die Abrechnung mit sumup genutzt werden.    
+Nun ist Ihr Gerät angemeldet und kann für die Abrechnung mit sumup genutzt werden.     
+
 
 ## Rechnung mit sumup Kartenzahlung abrechnen   
 

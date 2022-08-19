@@ -30,7 +30,15 @@ Klicken Sie **Administration** und dann **Kundenregistrierung**.
 Unter Einstellungen können Sie verschiedene Optionen auswählen.
 
 **Aktiv:**
-Ist "Aktiv" ausgewählt, können sich Ihre Kunden über den Registrierungs-Link registrieren.
+Ist "Aktiv" ausgewählt, können sich Ihre Kunden über den Registrierungs-Link registrieren. 
+
+:::caution Achtung:
+
+Setzen Sie diesen Haken nicht, bekommen Sie oder die Kunden eine Fehlermeldung **Service unavailable**!   
+
+![](../../static/img/Admin/geraete_aktiv.png)
+
+:::  
 
 **Kunden anlegen:**
 Ist das Häkchen unter "Kunden anlegen" aktiv, so werden Ihre Kunden direkt ins Wartezimmer übertragen. Falls nicht, erscheinen diese Kunden unter "Kundenregistrierungsanfragen" im Dashboard.
