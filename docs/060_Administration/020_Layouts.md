@@ -1,4 +1,16 @@
-# Layouts  
+# Layouts / Logo hinterlegen
+
+:::tip Hinweis 
+
+Anders als in anderen Programmen kann bei debevet nicht das Logo als jpeg/png einzeln hinterlegt werden um dann für Dokumente 
+genutzt zu werden. Da immer wieder Kunden sich beispielsweise nur ein Wasserzeichen im Hintergrund oder Ähnliches wünschen, haben wir uns für 
+einen anderen Weg entschieden:   
+Sie hinterlegen das komplette "Briefpapier" mit Ihrem Logo an der Stelle, an der Sie es haben wollen. 
+Sie müssen also das Logo in eine DinA 4 große png Datei so "einbauen", wie Sie es nutzen möchten. Deswegen heißt es im debevet nicht Logo,
+sondern unter **Layouts** nennt es sich **Hintergrund**.
+
+::: 
+
 
 Die debevet Software bietet Ihnen die Möglichkeit, diverse Dokumente (zum Beispiel Angebot, Rechnung und Brief) mit
 Ihrem indivdiduellen Design zu versehen und so anzeigen zu lassen, wie Sie es sich wünschen. 
@@ -49,10 +61,22 @@ festgelegt werden können.
 Hier setzen Sie die Abstände, die die Anschrift nach oben und nach links hat. Achten Sie dabei darauf, wenn Sie Dinge per Post versenden,
 damit bei Nutzung von Fenster-Briefumschlägen diese korrekt lesbar sind!
 
-### 2. Hintergrund  
+### 2. Hintergrund  / Logo
 
-In dieser Option können Sie eine Art Briefpapier hinterlegen. Da wir viele Kunden haben, die Ihr Logo an verschiedene Stellen setzen wollen, 
-oder nur ein Wasserzeichen (oder div. Varianten) nutzen, haben Sie nur die Möglichkeit, ein **eine png Datei in DIN A 4** Größe als Vorlage zu nutzen.
+Wenn Sie für bestimmte Dokumente Ihr Logo nutzen möchten, so muss dieses als Hintergrund hinterlegt werden. Dabei nutzen Sie bitte nicht nur die Logo-Datei,
+sondern fügen diese in eine DinA4 große Fläche ein und positionieren es so, wie gewünscht. 
+
+:::tip Tipp:  
+
+Besonders einfach geht dies, indem Sie in einem Präsentationsprogramm (beispielsweise Powerpoint, Keynote oder andere Varianten) eine Folie mit den DinA4 hochkant 
+Maßen erstellen. Dort fügen Sie dann Ihr Logo ein, positionieren und verändern es wie gewünscht (beispielsweise weniger Deckkraft und Nutzung über volle Fläche als Wasserzeichen)
+und exportieren diese Folie dann als png.  
+
+:::
+
+Ihr Logo wird also nicht einzeln hinterlegt, sondern vorher in **eine png Datei in DIN A 4** Größe eingebunden und dann als "Briefpapier" genutzt.
+Sie müssen diesen Hintergrund dann einmalig an jedem Layout, also jedem Dokument hinterlegen, für welches es genutzt werden soll. Das mag etwas umständlich wirken, 
+bietet Ihnen aber die optimale und individuelle Möglichkeit, jedes Design anzupassen.
 
 Hier ein Beispiel- Dokument 
 
