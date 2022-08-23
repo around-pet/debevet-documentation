@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Dieser Abschnitt hilft Ihnen, die 5 wichtigsten Schritte zur ersten Nutzung von debevet zu gehen. 
 
-## 1. Eigene Praxisdaten anlegen   
+## 1. Eigene Praxisdaten inkl. Logo anlegen   
 
 Damit auf Ihren Rechnungen/Briefen etc. Ihre Kontodaten und alle weiteren Daten korrekt hinterlegt sind (im Fußteil), müssen Sie diese 
 zunächst hinterlegen. Klicken Sie dafür am linken Bildrand auf das Zahnradsymbol und dann auf "Praxisdaten".  
@@ -16,6 +16,11 @@ zunächst hinterlegen. Klicken Sie dafür am linken Bildrand auf das Zahnradsymb
 Hier tragen Sie nun alle Ihre Daten ein und klicken dann oben rechts auf "Speichern".  
   
 ![](../static/img/ersteschritte/praxisdaten_anlegen2.png)  
+
+Die Hinterlegung eines Logos ist im debevet evtl. anders, als Sie es von anderen Programmen kennen. Sie hinterlegen nicht nur das Logo, sondern ein Briefpapier.
+Wir helfen Ihnen bei Bedarf gern dabei, eine Anleitung dazu finden Sie hier: 
+
+[Logo/Hintergrund anlegen](/docs/Administration/Layouts#2-hintergrund)  
 
 ## 2. Kunden und Patienten anlegen    
 
