@@ -101,7 +101,12 @@ Hier ein (nicht ganz ernst gemeintes ;) ) Beispiel für eine Auswahl:
 
 ![](../../static/img/Admin/quest3.png)  
 
-So können Sie alle Daten abfragen, die Sie gern vorab haben möchten.  
+So können Sie alle Daten abfragen, die Sie gern vorab haben möchten. 
+
+### Wo findet sich dann der Fragebogen?  
+
+Wenn Sie den Fragebogen im Rahmen Ihrer Kundenregistrierung nutzen, wird in dem Augenblick, wo der Kunde angelegt wird (also entweder durch Sie selbst manuell, wenn Sie
+die Einstellung auf "Kundenanfrage" gesetzt haben, oder direkt nach Abschluss der Registrierung) der Fragebogen am Kunden/Patienten in den Dokumenten hinterlegt.
 
 ## Kunden- und Patientendaten eingeben lassen  
 
