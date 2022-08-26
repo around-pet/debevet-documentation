@@ -5,7 +5,23 @@ mit Postkarten oder Briefen erledigt.
 
 Im Zeitalter der Digitalisierung empfiehlt sich, dies auch digital zu erledigen. Sie sparen Kosten, Zeit und Papier. 
 
-debevet bietet Ihnen die Möglichkeit, direkt auf dem Dashboard angezeigt zu bekommen, welche Kunden eine Impferinnerung bekommen sollen. 
+debevet bietet Ihnen die Möglichkeit, direkt auf dem Dashboard angezeigt zu bekommen, welche Kunden eine Impferinnerung bekommen sollen.   
+
+## Impferinnerung einzeln manuell erstellen  
+
+Sie können an einem Patienten auch manuell eine einzelne/mehrere Impferinnerungen anlegen. Klicken Sie dazu **Praxis** und dann **Patienten**. 
+Suchen Sie den Patienten und klicken Sie dann auf seinen Namen in der Spalte "Rufname".  
+
+![](../../static/img/Admin/Patient_impferinnerung1.png)  
+
+In der Detailansicht scrollen Sie dann etwas nach unten bis zum Abschnitt **Impferinnerungen**. Dort können Sie die Erinnerung mit Datum und Text eintragen. 
+
+Klicken sie zur Eingabe das grüne Häkchen und dann oben rechts auf **Speichern**.
+
+Am entsprechenden Datum erhält der Kunde bei Anbindung und Nutzung der around.pet App eine Push Nachricht, ansonsten erfahren Sie weiter unten, 
+wie Sie die Impferinnerung verschicken und wo Sie die fälligen Impferinnerungen sehen.  
+
+![](../../static/img/Admin/Patient_impferinnerung2.png)  
 
 ## Impferinnerung automatisch erstellen lassen  
 
