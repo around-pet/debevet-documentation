@@ -187,7 +187,10 @@ Wartezeiten hinterlegt haben. Dies muss pro Medikament jeweils einmalig hinterle
 
 ## Restmengen abgeben 
 
-Bei aufgerundeten Packungen ist beim Landwirt eventuell noch Rest vorhanden, der für weitere Tiere natürlich genutzt werden kann,
+Ein typisches Beispiel, wie es im Alltag immer wieder vorkommt: Es wird eine Menge von 150ml gebraucht, aber eine Packung enthält 200ml. Wie Sie
+bereits wissen, können Sie in debevet die Packungsmenge aufrunden.
+
+Bei aufgerundeten Packungen ist beim Landwirt dann also noch ein Rest vorhanden, der für weitere Tiere natürlich genutzt werden kann,
 aber dann auf dem AUA Beleg mit Bezug zum alten (ursprünglichen) Beleg vermerkt werden muss. 
 
 Manche bezeichnen dieses Verfahren auch als "Nachverordnung", aber korrekt ist es eine Restmengenabgabe. 
@@ -208,7 +211,8 @@ Sofern es alte AUA Belege mit genau diesem Medikament gibt, wird nun rechts das 
 
 ![](../../static/img/Nutztiere/restmengen2.png)  
 
-Wenn Sie hier nun auf den **Dropdown-Pfeil** klicken, können Sie aus allen AUA Belegen mit demselben Medikament auswählen. 
+Wenn Sie hier nun auf den **Dropdown-Pfeil** klicken, können Sie aus allen AUA Belegen mit demselben Medikament auswählen. Dort steht auch die jeweils verbleibende
+Menge, die aus den vorherigen Verordnungen/Belegen übrig ist (Funktion bei AUA Belgen mit Erstelldatum ab Ende August 2022 korrekt verfügbar!).
 
 ![](../../static/img/Nutztiere/restmengen3.png)
 
