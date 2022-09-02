@@ -63,6 +63,16 @@ dem Scanner enorm Zeit.
 
 ::: 
 
+:::info Videotip: 
+
+Zum Einscannen haben wir ein kleines Hilfevideo erstellt:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z699k1Q_1fU" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::  
+
+
 ## Verschiedene Chargen, Seriennummern oder Lagerorte auf einmal eingeben
 
 Um verschiedene Warenbestände *des gleichen Produktes und Lieferanten* hinzuzufügen, klicken Sie nach der Eingabe der ersten Charge auf **Neuen Warenbestand**.  
