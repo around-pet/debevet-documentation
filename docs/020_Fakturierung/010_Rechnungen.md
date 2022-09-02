@@ -1,4 +1,4 @@
-# Rechnungen 
+ # Rechnungen 
 
 Hier finden Sie alle wichtigen Punkte zum Thema Rechnungen, Gutschriften und Angebote.
 
@@ -46,6 +46,41 @@ Um die Rechnung zu buchen, klicken Sie oben auf **Erweitert** und dann **Rechnun
 ![](../../static/img/Rechnungen/rechnung_buchen.png)  
 
 Nun ist die Rechnung festgeschrieben und muss für weitere Veränderungen zuerst storniert und dann neu erstellt werden!
+
+### Probleme bzw. Fehlermeldung bei der Buchung 
+
+Teilweise kann es vorkommen, dass Sie beim Verbuchen der Rechnungen eine Fehlermeldung bekommen. Dies tritt vor allem dann auf, wenn 
+* ein Posten 0.00% Mwst hat
+* ein Posten mit 0.00 Euro eingetragen ist  
+
+Dies kommt dann vor, wenn Sie selbst angelegte Produkte nutzen, bei denen Sie entweder keinen Preis hinterlegt haben oder keine Mwst.  
+
+Um die Rechnungsposten zu prüfen, gehen Sie bitte wie folgt vor:  
+
+Gehen Sie in die Detailansicht der enstprechenden Rechnung. Hierfür gibt es mehrere Wege:
+* Klicken Sie Rechnungen und dann in der Spalte "Rechnungsnummer" auf die Rechnungsnummer 
+
+![](../../static/img/Rechnungen/rechnungskorr1.png)  
+
+* Klicken Sie in der Behandlung auf ein beliebiges blaues Euro Symbol an einem der Abrechnungsposten   
+
+![](../../static/img/Rechnungen/rechnungskorr2.png)   
+
+Nun öffnet sich die Detailansicht der Rechnung. Hier gibt es erneut ein **blaues Euro-Symbol** an jedem der Abrechnungsposten. 
+Klicken Sie auf dieses, um die Ansicht zu erweitern, und den Mehrwertsteuersatz des jeweiligen Postens zu sehen. 
+
+![](../../static/img/Rechnungen/rechnungskorr3.png)  
+
+![](../../static/img/Rechnungen/rechnungskorr4.png)  
+
+Wenn Sie nun am Mwst. Satz auf den Dropdownpfeil klicken, können Sie diesen ändern. Klicken Sie dann anschließend oben rechts auf **Speichern**. 
+Anschließend kann die Rechnung verbucht werden.
+
+![](../../static/img/Rechnungen/rechnungskorr5.png)  
+
+Sollten Sie Rechnungen mit 0,00 Euro Posten enthalten haben, müssen Sie zunächst die Rechnung stornieren, das Produkt verändern oder
+aus der Behandlung löschen und dann erneut eintragen. Die Rechnung muss dann erneut erstellt werden und sollte nun problemlos verbucht werden.
+
 
 ## Rechnungen automatisch buchen lassen  
 
