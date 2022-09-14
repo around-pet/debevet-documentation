@@ -28,12 +28,7 @@ Um sich einzustempeln, müssen Sie einige Sekunden auf das **Play-Symbol** klick
 Um eine Pause zu machen, klicken Sie unter dem Wort **Pause** dann erneut lange das **Play-Symbol**. 
 Um eine Pause zu beenden, klicken Sie dann, wenn dort **Pause** steht, das **Stop-Symbol** erneut lang. 
 
-Um eine Schicht zu beenden, klicken Sie unter dem Wort **Schicht** das **Stop-Symbol** lange.   
-
-![](../../static/img/dashboard/einstempeln.mov)  
-
-
-  
+Um eine Schicht zu beenden, klicken Sie unter dem Wort **Schicht** das **Stop-Symbol** lange.
 
 ## Personal 
 
