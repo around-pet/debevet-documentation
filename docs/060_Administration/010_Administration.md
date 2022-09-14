@@ -174,6 +174,13 @@ mit den Platzhaltern rechts ergänzen.
 
 ![](../../static/img/Admin/zahlungsbedingungen2.png) 
 
+### Skonto 
+
+Wenn Sie für eine bestimmte Zahlungsbedingung den Kunden Skonto gewähren möchten, kann diese hier ebenso pro Zahlungsbedingung 
+hinterlegt werden. Klicken Sie dazu auf die gewünschte Zahlungsbedingung und tragen Sie in "Skonto" den gewünschten Prozentsatz sein.
+
+![](../../static/img/Admin/skonto2.png)
+
 ## Preisgruppen  
 
 Sie können in debevet verschiedene Preisgruppen anlegen. An jedem Patienten haben Sie dann die Möglichkeit, diesem Kunden
