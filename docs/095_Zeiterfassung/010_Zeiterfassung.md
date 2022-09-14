@@ -118,6 +118,19 @@ In der Detailansicht können Sie nun zunächst oben einen **Gültigkeitszeitraum
 
 Nun sollte für jeden Tag, den der Mitarbeiter da ist, eine Arbeitszeit gesetzt werden.
 
+Es kann an jedem Tag eine Uhrzeit, oder mehrere Uhrzeiten gesetzt werden. Tragen Sie zunächst die Uhrzeiten ein und klicken Sie dann unbedingt auf den **grünen Haken**
+in der Zeile. Ansonsten wird diese Zeit nicht übernommen!
 
+Wiederholen Sie dies für jede Zeile. Klicken Sie anschließend oben rechts auf **Speichern**. 
 
+Es kann auch eine Vormittags- und Nachmittags Zeit angelegt werden und diese je in **A** und **B** eingestuft werden.  
 
+![](../../static/img/dashboard/zeiterfassung_arbeitszeit2.png)  
+
+### Arbeitszeitplanung bearbeiten  
+
+Natürlich kann auch ein bereits bestehender Plan erneut bearbeitet werden. Klicken Sie auf **Zeiterfassung** und **Arbeitszeitplanung**. 
+Nun können Sie am gewünschten Mitarbeiter auf den bestehenden Gültigkeitszeitraum in der Tabelle klicken und dieser öffnet sich. Wie im vorherigen Schritt beschrieben,
+kann dieser nun bearbeitet und verändert werden.
+
+![](../../static/img/dashboard/zeiterfassung_arbeitszeit4.png)
