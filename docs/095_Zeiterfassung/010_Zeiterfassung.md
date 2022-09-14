@@ -103,6 +103,20 @@ Pausenzeit hinterlegt werden. Klicken Sie auf **Speichern** und **Schließen**, 
 
 Wenn die Arbeitszeit bestätigt wurde, steht kein Button (weder "bearbeiten" noch "bestätigen") mehr zu Verfügung.
  
+## Arbeitszeitplanung  
+
+Hier kann der Admin die Arbeitszeiten der einzelnen Nutzer eintragen. Auf Basis dieser Zeiten werden bei der **Auswertung** der 
+Arbeitszeiten auch die **Soll Arbeitszeiten** festgesetzt. 
+
+Klicken Sie auf **Zeiterfassung** und dann **Arbeitszeitplanung**.  
+
+![](../../static/img/dashboard/zeiterfassung_arbeitszeit1.png)  
+
+Um nun für den einzelnen Mitarbeiter die Arbeitszeiten für einen gewissen Zeitraum zu setzen, klicken Sie auf dessen Namen.
+
+In der Detailansicht können Sie nun zunächst oben einen **Gültigkeitszeitraum** für diesen Mitarbeiter eingeben. (z.B. den Monat, oder eine Woche, etc.)   
+
+Nun sollte für jeden Tag, den der Mitarbeiter da ist, eine Arbeitszeit gesetzt werden.
 
 
 
