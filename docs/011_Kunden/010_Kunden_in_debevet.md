@@ -112,7 +112,7 @@ Hier können verschiedene Verwaltungsinformationen zum Kunden bearbeitet werden.
 
 **Zahlungsbedingung:** Wählen Sie für den Kunden eine Vorgabe-Zahlungsbedingung, so wird diese bei künftigen Rechnungen automatisch übernommen. Vor der Buchung einer Rechnung können Sie die Zahlungsbedingung auf der Rechnung noch ändern. 
 
-**Rabatt:** Hier können Sie für jeden einzelnen Kunden einen Rabatt in Prozent hinterlegen, der auf tierärztliche Leistungen gewährt wird. 
+**Rabatt:** Hier können Sie für jeden einzelnen Kunden einen Rabatt in Prozent hinterlegen, der auf die gesamte Rechnungssumme gewährt wird. 
 
 **Preisgruppen:** Sollten Sie mit verschiedenen Preis- bzw. Kundengruppen in debevet für Ihre Produkte (z.B. Medikamente, Futter, Dienstleistungen) arbeiten, so weisen Sie dem Kunden eine Preisgruppe zu. Ist keine gesetzt, wird der Standardpreis für die jeweiligen Produkte genommen. 
 
