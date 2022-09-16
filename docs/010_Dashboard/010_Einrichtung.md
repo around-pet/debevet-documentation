@@ -26,7 +26,7 @@ in welchem "Status" im Wartezimmer sind.
 
 Lesen Sie mehr dazu hier:  
 
-
+[Wartezimmer nutzen](/docs/Patienten/Wartezimmer)
 
 ## Untersuchungsaufträge
 
