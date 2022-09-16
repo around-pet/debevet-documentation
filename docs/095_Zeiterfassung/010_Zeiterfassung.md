@@ -33,7 +33,7 @@ Um eine Schicht zu beenden, klicken Sie unter dem Wort **Schicht** das **Stop-Sy
 ## Personal 
 
 Unter dieser Sektion können Sie einstellen, für welche Mitarbeiter die Zeiterfassung aktiv genutzt werden soll. Diese
-Mitarbeiter finden dann auch in Ihrem Account die Zeiterfassung (in einer Nicht-Admin Version!)
+Mitarbeiter finden dann auch in ihrem Account die Zeiterfassung (in einer Nicht-Admin Version!)
 
 Klicken Sie **Zeiterfassung** und **Personal**, um die Liste der Mitarbeiter zu sehen, für die die Zeiterfasssung aktiviert werden kann.
 In der Tabelle sehen Sie auch, ob schon eine Zeiterfassung auf "aktiv" gesetzt wurde.  
@@ -42,7 +42,7 @@ In der Tabelle sehen Sie auch, ob schon eine Zeiterfassung auf "aktiv" gesetzt w
 
 Klicken Sie auf den Namen eines Mitarbeiters, um in die Detailansicht zu gelangen. 
 
-Dort sehen Sie nun die Möglichkeit, auch eine DATEV Personalnummer zu hinterlegen, damit Ihr Steuerberater die Abrechnung dann direkt
+Dort sehen Sie nun die Möglichkeit, auch eine DATEV-Personalnummer zu hinterlegen, damit Ihr Steuerberater die Abrechnung dann direkt
 korrekt vornehmen kann. 
 
 Setzen Sie den Haken bei "aktiv", damit für den Mitarbeiter die Zeiterfassung aktiviert wird und somit genutzt werden kann.  
@@ -64,9 +64,9 @@ Mit einem Klick auf den blauen Button **Herunterladen** oben rechts kann die Üb
 
 ## Präsenzmonitor  
 
-Hierbei handelt es sich um die Admin Ansicht, diese können die Angestellten ohne Admin-Rechte also nicht einsehen. 
+Hierbei handelt es sich um die Admin-Ansicht, diese können die Angestellten ohne Admin-Rechte also nicht einsehen. 
 
-Klicken Sie auf ***Zeiterfassung** und **Präsenzmonitor**, um direkt einen Überblick zu haben, wer gerade aktiv eingestempelt ist. 
+Klicken Sie auf **Zeiterfassung** und **Präsenzmonitor**, um direkt einen Überblick zu haben, wer gerade aktiv eingestempelt ist. 
 
 ![](../../static/img/dashboard/zeiterfassung_praesenz1.png)
 
@@ -96,7 +96,7 @@ Nach dem Bestätigen der Schicht kann diese nicht mehr verändert werden, ebenso
 ![](../../static/img/dashboard/zeiterfassung_stechuhr2.png)  
 
 Wenn Sie dort auf **Bearbeiten** klicken, kommen Sie in die Detailansicht dieser gestempelten Arbeitszeit.
-Hier kann nun die Zeit bearbeitet und geändert werden. Außerdem kann oben recht am grünen Button **Pause hinzufügen** auch nachträglich noch die
+Hier kann nun die Zeit bearbeitet und geändert werden. Außerdem kann oben rechts am grünen Button **Pause hinzufügen** auch nachträglich noch die
 Pausenzeit hinterlegt werden. Klicken Sie auf **Speichern** und **Schließen**, wenn Sie alle Daten wie gewünscht geändert haben.
 
 ![](../../static/img/dashboard/zeiterfassung_stechuhr3.png)
@@ -106,7 +106,7 @@ Wenn die Arbeitszeit bestätigt wurde, steht kein Button (weder "bearbeiten" noc
 ## Arbeitszeitplanung  
 
 Hier kann der Admin die Arbeitszeiten der einzelnen Nutzer eintragen. Auf Basis dieser Zeiten werden bei der **Auswertung** der 
-Arbeitszeiten auch die **Soll Arbeitszeiten** festgesetzt. 
+Arbeitszeiten auch die **Soll-Arbeitszeiten** festgesetzt. 
 
 Klicken Sie auf **Zeiterfassung** und dann **Arbeitszeitplanung**.  
 
@@ -122,8 +122,6 @@ Es kann an jedem Tag eine Uhrzeit, oder mehrere Uhrzeiten gesetzt werden. Tragen
 in der Zeile. Ansonsten wird diese Zeit nicht übernommen!
 
 Wiederholen Sie dies für jede Zeile. Klicken Sie anschließend oben rechts auf **Speichern**. 
-
-Es kann auch eine Vormittags- und Nachmittags Zeit angelegt werden und diese je in **A** und **B** eingestuft werden.  
 
 ![](../../static/img/dashboard/zeiterfassung_arbeitszeit2.png)  
 

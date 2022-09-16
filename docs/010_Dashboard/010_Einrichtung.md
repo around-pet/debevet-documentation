@@ -19,94 +19,14 @@ Klicken Sie anschließend oben rechts auf "speichern"
 
 ![einstellungen_dashboard.png](../../static/img/dashboard/einstellungen_dashboard.png)
 
-## Wartezimmer
+## Wartezimmer  
 
-Im **Wartezimmer** erhalten Sie einen Überblick über die wartenden Kunden.  
+Die Nutzung des Wartezimmers ist noch einmal in einem gesonderten Artikel beschrieben. Auf dem Dashboard haben Sie einen Überblick, welche Patienten 
+in welchem "Status" im Wartezimmer sind. 
 
-Es informiert Sie übersichtlich über die tagesaktuellen Sprechstundentermine, den behandelnden Tierarzt und den Status 
-der einzelnen Kunden bzw. Patienten (z.B. wartend, in Behandlung, fertig bzw. abzurechnen).  
-
-Zudem können Sie Mitteilungen über einen Patienten/Kunden in der Behandlung dort anzeigen lassen.  
-
-![](../../static/img/dashboard/dashboard_wartezimmer1.png)  
-
-### Funktionen des Wartezimmers  
-
-Diese Funktionen stehen Ihnen zur Verfügung:
-
-* **Sanduhr:** Der Patient wir dem Wartezimmer hinzugefügt.
-* **Häkchen:** Der Patient wurde behandelt.
-* **Pfeil nach unten:** Verschieben Sie diesen Patienten eine Position nach unten bzw. hinten.
-* **Pfeil nach oben:** Verschieben Sie diesen Patienten eine Position nach oben bzw. vorne.
-* **Stern:** Der Patient wird mit "Erledigt" markiert.
-* **Euro:** Der Patient wird mit "Abrechnen" markiert.
-* **Kreuz:** Löschen Sie diesen Patienten aus dem Wartezimmer.
-
-### Patienten ins Wartezimmer setzen
-
-Der Patient wird aus der Kundenkartei über das Sanduhr-Symbol in das Wartezimmer geschoben.  
-
-![](../../static/img/dashboard/dashboard_wartezimmer1.png)  
-
-![](../../static/img/dashboard/dashboard_ins_wartezimmer2.png)  
+Lesen Sie mehr dazu hier:  
 
 
-Sie können auch direkt aus dem Terminkalender den Kunden annehmen und dort über das gleiche Symbol in das Wartezimmer hinzuzufügen.
-
-In dem Fall kommt der Betreff kommt aus dem Titel des Kalendereintrages und die Mitteilung wird aus der Behandlungsansicht dargestellt.
-
-:::caution Achtung:  
-
-Wenn Sie einen Kunden aus dem Terminkalender in das Wartezimmer setzen, wird automatisch als "Tierarzt" der Tierarzt in der Übersicht 
-angezeigt, auf dessen Namen der Kalender läuft! Wenn Sie also verschiedene Ärzte nutzen, funktioniert diese Übersicht nur dann korrekt,
-wenn der Patiententermin auch im passenden Kalender war.  
-
-:::  
-
-![](../../static/img/dashboard/wartezimmer_aus_kalender.png)  
-
-![](../../static/img/dashboard/wartezimmer_aus_kalender2.png)
-
-Hier im Beispiel ist der Termin im Kalender von Maria Müller eingetragen. Somit erscheint der Patient dann im Wartezimmer in der Übersicht auch
-für diesen Tierarzt. Wenn Sie in Ihrer Praxis also im Wartezimmer bereits Zuweisungen nutzen wollen, muss die Mitarbeiterin, die den Kunden ins Wartezimmer
-setzt, diesen in den passenden Kalender setzten, bevor Sie ihn ins Wartezimmer schiebt.  
-
-![](../../static/img/dashboard/wartezimmer_aus_kalender3.png)
-
-## Heutige Behandlungen 
-
-**Heutige Behandlungen** gibt Ihnen einen Überblick über die heute anstehenden Behandlungen.
-
-### Heutige Behandlungen einsehen  
-
-Unter **Heutige Behandlungen** erscheinen die Patienten, die Sie an diesem Tag behandelt haben. Wenn Sie auf das Plus-Symbol klicken, gelangen Sie zu **Behandlung**. 
-Dort können Sie im Suchfeld nach dem Patienten oder dem Kunden suchen. Haben Sie den richtigen Datensatz gefunden, gelangen Sie zur Datenübersicht und können die heutige Behandlung
-eintragen - zum Beispiel eine Impfung mit Chargennummer.
-
-Alternativ können Sie den Patienten ins Wartezimmer setzen, indem Sie auf Wartezimmer und "Hinzufügen" klicken. Von dort aus können Sie den Patienten direkt abrechnen. 
-Oder Sie nutzen das €-Symbol unter "Heutige Behandlungen", um den Kunden abzurechnen.
-
-Nach der Abrechnung ist der Patient aus dem Wartezimmer und "Heutige Behandlungen" verschwunden.
-
-Ist der Patient noch nicht vorhanden, legen Sie die Daten wie folgt an:   
-Klicken Sie auf das Plus-Symbol neben **Kunde** unter **Heutige Behandlungen** und ergänzen Sie in der Eingabemaske die Daten. 
-Im Anschluss können Sie durch Anwählen des Plus-Symbols neben **Patient** die Daten zum Tier eintragen.  
-
-![](../../static/img/dashboard/heutige_behandlungen.png)   
-
-## Patienten abrechnen oder abschließen  
-
-Haben Sie Ihre Behandlung in der debevet-Patientenakte eingetragen, erscheint der Eintrag automatisch unter Heutige Behandlungen. 
-Sie können den Kunden nun entweder aus dem Wartezimmer löschen, indem Sie das x klicken, oder bis zum gewünschten Zeitpunkt in der Wartezimmer-Übersicht stehen lassen.  
-
-### Sofortige Abrechnung
-
-Wenn Sie die Behandlung sofort abrechnen möchten, klicken Sie auf das €-Symbol im Bereich Wartezimmer oder im Bereich Heutige Behandlungen.
-
-Debevet erzeugt automatisch eine Rechnung auf der Grundlage der bei diesem Patienten eingetragenen Vorlagen-Behandlung. Sobald die Rechnung erzeugt wurde, 
-verschwindet der Kunde sowohl aus dem Wartezimmer als auch aus **Heutige Behandlungen**.
-
-![](../../static/img/dashboard/Heutige_Behandlung_Kunde_erscheint.png)   
 
 ## Untersuchungsaufträge
 
