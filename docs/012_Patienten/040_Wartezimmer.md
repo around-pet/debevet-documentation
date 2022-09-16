@@ -80,6 +80,8 @@ Wenn Sie als behandelnder Tierarzt mit dem Patienten fertig sind, können Sie di
 
 Das Kästchen im Wartezimmer ist nun **blau** und zeigt Ihren Mitarbeitern, dass dieser Kunde nun abgerechnet werden kann.  
 
+![](../../static/img/Patienten/Wartezimmer_blau.png)
+
 Alternativ kann direkt auf dem Dashboard im Wartezimmer das **Euro-Symbol** genutzt werden, um den Patienten zum Abrechnen zu kennzeichnen.  
 
 ![](../../static/img/Patienten/Patien_abrechnungskennzeichnung.png)
@@ -94,8 +96,6 @@ Am einfachsten nutzen das €-Symbol unter "Heutige Behandlungen", um den Kunden
 ![](../../static/img/Patienten/heutige_behandlungen1.png)
 
 Nach der Abrechnung ist der Patient aus dem Wartezimmer und "Heutige Behandlungen" verschwunden.
-
-![](../../static/img/Patienten/Wartezimmer_blau.png)
 
 ## Patienten abschließen/ erledigen  
 
