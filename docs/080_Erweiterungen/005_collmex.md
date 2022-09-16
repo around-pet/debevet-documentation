@@ -131,8 +131,8 @@ logische eigene Namen in das Feld Bezeichnung einzugeben. Klicken Sie abschließ
 
 ### Datev Export Einstellungen  
 
-Damit der Export der Dateien für Datev problemlos funktioniert, müssen Sie die Daten im Collmex hinterlegen. 
-Klicken Sie **Buchhaltung** und dann an der Kachel **Schnittstellen** auf **Datev-Export**.  Dort klicken Sie
+Damit der Export der Dateien für Datev problemlos funktioniert, müssen Sie die Daten zunächst im Collmex hinterlegen. 
+Klicken Sie **Buchhaltung** und dann an der Kachel **Schnittstellen** auf **Datev-Export**. Dort klicken Sie
 auf **Einstellungen**.
 
 ![](../../static/img/erweiterungen/collmex_datev.png)  ƒ
@@ -140,6 +140,13 @@ auf **Einstellungen**.
 Hier müssen Sie nun Ihre Mandantennummer Ihres Steuerberaters eintragen und die Beraternummer Ihres Steuerberaters bei Datev. 
 
 ![](../../static/img/erweiterungen/beraternummer_collmex.png)
+
+Anschließend müssen Sie die Beraternummer und die Mandantennummer ebenfalls im debevet hinterlegen. Klicken Sie dazu auf **Administration** und
+**Einstellungen**. Dort finden Sie unter dem Reiter **Fakturierung** die beiden passenden Felder.  
+
+Tragen Sie die Daten dort ein und klicken Sie **Speichern** (oben rechts).  
+
+![](../../static/img/Buchhaltung/debevet_beraternumer.png)
 
 ## debevet mit Collmex verbinden  
 
