@@ -228,7 +228,7 @@ die Einkaufspreise für eine korrekte Darstellung hinterlegen.
 ## Warenbestand korrigieren  
 
 Möchten Sie nun Änderungen vornehmen, weil in der Inventur doch eine andere Menge vorhanden ist als "theoretisch", öffnen Sie
-das Medikament, welches korrigiert werden soll. Geben Sie dazu z.B. den Namen des Medikamentes unter **Praxis** und **Produkte** in die Suche ein. 
+das Medikament, welches korrigiert werden soll. Geben Sie dazu z.B. den Namen des Medikamentes unter **Warenwirtschaft** und **Warenbestände** in die Suche ein. 
 
 Am Medikament selbst klicken Sie nun oben rechts auf **Erweitert** und dann **Korrektur**.    
 
