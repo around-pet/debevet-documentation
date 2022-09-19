@@ -64,4 +64,43 @@ Am Reiter **Zahlungen** finden Sie ein Grafik und Tabelle mit allen Zahlungen, s
 
 ![](../../static/img/dashboard/offene_posten_2.png)  
 
+## 5. Digitalte Verwaltung der Apotheke im laufenden Betrieb
+
+Sie wollen endlich die Warenwirtschaft, Ihre Apotheke und Ihr Lager mit debevet digital verwalten? Nun sind Sie etwas ratlos, wie
+das im laufenden Betrieb mit bereits angebrochenen Packungen funktioniert?
+
+Dieser Abschnitt hilft Ihnen, Step by Step zu verstehen, was zu tun ist. Wir empfehlen, die Umstellung im Rahmen einer sowieso
+geplanten Inventur zu erledigen.
+
+**Erster Schritt:** Sicherstellen, dass alle Produkte korrekt inkl. Packungsgrößen angelegt sind (entfällt bei Nutzung der Barsoi Liste).
+
+**Zweiter Schritt:** Packungen pro Medikament zählen, auch die angebrochenen zählen Sie zunächst als "ganze" Packung mit! Sortieren Sie dabei nach Chargen!
+
+**Dritter Schritt:** Legen Sie einen neuen Warenbestand an pro Medikament. Als Packungsmenge geben Sie bitte Ihre gezählten Packungen, inkl. der "aufgerundeten"
+Packungen, ein. Buchen Sie den Warenbestand aktiv.
+
+Hier erfahren Sie, wie das geht:
+
+[Warenbestand anlegen](https://debevet.com/docs/Warenwirtschaft/Warenbest%C3%A4nde#neuen-warenbestand-anlegen)   
+
+**Vierter Schritt:** Nun müssen Sie die Ware korrigieren auf die wirklich vorhandene Anzahl. Bei angebrochenen Flaschen müssen Sie vermutlich schätzen
+(und am Ende der Flasche dann erneut auf Null korrigieren, schätzen Sie also evtl. minimal mehr), bei Tabletten können Sie zählen. 
+
+Die neue, korrekte Summe Ihres Bestandes geben Sie dann im Korrekturfenster ein.
+
+:::caution Achtung  
+
+Achten Sie darauf, wenn es zwei verschiedene Chargen gibt, zu schauen, welche die angebrochene Charge ist. Nur von dem Warenbestand dieser Charge legen Sie dann 
+die Korrektur an und geben dort dann die korrigierte Zahl NUR dieser Charge ein - nicht ihren gesamten Bestand!  
+
+Beispiel: Sie haben 200 Tabletten Charge 1 angelegt und 200 Tabletten Charge 2. Von Charge 1 sind aber schon 30 Tabletten verbraucht. Sie korrigieren nun nur
+Charge 1auf 170 Tabletten!
+
+:::
+
+Wie Sie einen Warenbestand korrigieren, erfahren Sie hier:  
+
+[Wrenbestand korrigieren](https://debevet.com/docs/Warenwirtschaft/Warenbest%C3%A4nde#warenbestand-korrigieren)   
+
+
 
