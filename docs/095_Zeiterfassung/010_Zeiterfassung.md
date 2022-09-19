@@ -125,6 +125,15 @@ Wiederholen Sie dies für jede Zeile. Klicken Sie anschließend oben rechts auf 
 
 ![](../../static/img/dashboard/zeiterfassung_arbeitszeit2.png)  
 
+:::tip Tipp: 
+
+Wenn Sie in der Kalenderansicht auf "Belegung vertikal" Ansicht schalten, können Sie die hier eingeteilten Arbeitszeiten dort sehen.
+Die Zeiten, zu denen der Mitarbeiter verfügar ist, sind GRAU, und nicht eingefärbt. 
+
+![](../../static/img/Admin/arbeitszeit_kalenderbelegung.png)
+
+::: 
+
 ### Arbeitszeitplanung bearbeiten  
 
 Natürlich kann auch ein bereits bestehender Plan erneut bearbeitet werden. Klicken Sie auf **Zeiterfassung** und **Arbeitszeitplanung**. 
