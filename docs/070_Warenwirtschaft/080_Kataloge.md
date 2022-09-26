@@ -83,7 +83,8 @@ die Eingaben aus dem Katalog zurücksetzen indem Sie nach dem Aufrufen der Diens
 
 ## Barsoi Liste integrieren/ importieren  
 
-Natürlich haben Sie bei debevet die Möglichkeit, die Barsoi-Liste zu hinterlegen, um alle Medikamentenpreise direkt nutzen zu können.
+Natürlich haben Sie bei debevet die Möglichkeit, die Barsoi-Liste zu hinterlegen, um alle Medikamentenpreise direkt nutzen zu können. Allerdings muss die Liste manuell
+importiert werden, sie aktualisiert sich nicht von selbst.
 
 Dies geht allerdings nicht über einen Katalog, sondern über unsere Import-Funktion. Klicken Sie hierzu auf **Administration** und dann **Import/Export**.
 
@@ -116,6 +117,38 @@ Bedarf in eine xml Datei umgewandelt werden).
 ![](../../static/img/Admin/jonzeitpunkt.png)
 
 :::
+
+### Häufige Fragen zur Barsoi Liste  
+
+Hier möchten wir einige Fragen beantworten, die uns regelmäßig bezüglich der Nutzung der Barsoi Liste erreichen. 
+
+1. Muss ich die Liste immer wieder hochladen, wenn es ein Update gibt, oder geschieht dies automatisch?
+
+Aktuell gibt es keine Schnittstellen Lösung, deswegen müssen Sie die Liste, immer wenn sie aktualisiert wird, erneut hochladen.
+
+2. Wenn ich vorher manuell Produkte angelegt habe und nun die Barsoi Liste importiere und nutzen will, muss ich die inventurpflicht manuell neu setzen?
+
+Ja. Da die Liste alle Produkte mit neuen Produktnummern komplett neu liefert, kann die debevet Software nicht wissen, dass das diesebeln Produkte sind,
+die bei Ihnen im Schrank stehen. Wenn Sie also die Produkte aus der Liste nutzen wollen, empfehlen wir, ihren Bestand auf die neuen Produkte zu übertragen und die alten,
+manuell angelegten Produkte zu löschen- so bleibt es übersichtlicher.
+In diesem Rahmen müssen Sie dann, wenn Sie dies nutzen wollen, auch die Produkte wieder auf "inventurpflichtig" setzen. 
+
+:::info Zur Erinnerung: 
+
+"Inventurpflichtig" bedeutet, dass bei der Nutzung bereits die Charge automatisch gewählt ist, wenn Sie das Medikament in die Behandlung eingeben. 
+Wenn der Haken nicht gesetzt wird, muss immer erst noch manuell eine Charge gewählt werden. Nur bei gewählter Charge wird das Produkt im Bestand "abgezogen" bei Nutzung.
+
+:::
+
+3. Wenn ich bei einem Produkt aus der Barsoiliste etwas manuell ändere, wird das beim nächsten Import wieder überschrieben?
+
+Ja, wenn Sie den Haken bei "vorhandene überspringen" herausnehmen, werden alle Informationen zu Preis und Packung wieder zurückgesetzt auf das, was die Liste 
+überliefert. 
+
+
+4. Kann ich eine Übersicht einsehen, welche Posten aktualisiert wurden?
+
+Leider nein, tut uns leid.
 
 
 
