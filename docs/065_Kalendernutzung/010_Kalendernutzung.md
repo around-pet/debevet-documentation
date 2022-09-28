@@ -1,7 +1,29 @@
 # Kalender nutzen
 
 Der debevet Kalender bietet Ihnen die Möglichkeit, Termine zu hinterlegen, dabei können für mehrere Kollegen je eigene Kalender 
-genutzt werden.
+genutzt werden. 
+
+## Kalender erstellen
+
+Um einem Benutzer einen Kalender zu erstellen, klicken Sie auf das **Kalender-Symbol** links in der Leiste. Klicken Sie nun auf das **Plus-Symbol**. 
+
+![](../../static/img/Admin/kalender_anlegen1.png)  
+
+Nun öffnet sich die Detailansicht und Sie können alle Attribute für den Kalender wählen: 
+
+* Titel des Kalenders (evtl. sinnvoll, den Namen des Nutzers zu nehmen)
+* Benutzer (also den Mitarbeiter)
+* Farbe des Kalenders
+* Style (ob die Farbe als Rahmen oder Hintergrund genutzt werden soll)
+* Schriftfarbe (schwarz, weiß oder hoher Kontrast)
+
+
+Klicken Sie anschließend oben rechts auf **Speichern**. 
+Der Kalender steht nun zur Verfügung.
+
+![](../../static/img/Admin/kalender_anlegen2.png)
+
+## Termin erstellen 
 
 Termine können entweder direkt im Kalender eingetragen werden, oder vom Patienten aus. 
 
