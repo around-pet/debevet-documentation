@@ -1,7 +1,7 @@
 # Terminanlässe 
 
 Unsere debevet Software bietet seit  September 2022 die Möglichkeit, verschiedene Terminanlässe zu erstellen. In naher Zukunft 
-sollen diese dann Online buchbar werden, damit Sie in Ihrer Praxis Zeit und Ressourcen für die telefonische Terminvergabe sparen können.
+sollen diese dann online buchbar werden, damit Sie in Ihrer Praxis Zeit und Ressourcen für die telefonische Terminvergabe sparen können.
 
 Einem Terminanlass können Sie folgende Attribute zuweisen:
 * einen Kalender, also den Behandler, in dessen Kalender es eingetragen wird (wenn bestimmte Dienstleistungen nur von einem Tierarzt angeboten werden)
@@ -54,7 +54,7 @@ Sie können so viele Terminanlässe erstellen, wie Sie wollen.
 ## Termin erstellen mit Terminanlass 
 
 Nun ist es viel leichter, schnell einen Termin mit einem Terminanlass zu erstellen.
-Wenn Sie den Termin erstellen wollen, gehen Sie vor, wie gewohnt, klicken Sie am gewübschten Tag und Uhrzeit einmal in den Kalender, um das 
+Wenn Sie den Termin erstellen wollen, gehen Sie vor, wie gewohnt, klicken Sie am gewünschten Tag und Uhrzeit einmal in den Kalender, um das 
 Detailfeld zu öffnen.  
 
 Nun können Sie rechts an dem gewünschten Terminanlass die **Checkbox aktivieren**. 
