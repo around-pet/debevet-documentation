@@ -50,7 +50,7 @@ So können an einem Kunden unterschiedliche GOT Faktoren/Sätze verwendet werden
 Faktoren für verschiedene Positionen.  
 
 
-## Abweichenden Faktor für eine Leistung global hinterlegen
+## Abweichenden Faktor für eine Leistung hinterlegen
 
 Um an einzelnen Leistungen nun pauschal einen abweichenden Faktor zu hinterlegen, rufen Sie im Produktkatalog die gewünschte Leistung auf:
 
@@ -59,6 +59,7 @@ Klicken Sie **Warenwirtschaft** (LKW- Symbol) und dann **Produkte**.
 ![](../../static/img/Rechnungen/Gotsatz1.png)  
 
 Geben Sie nun im Suchenfeld die gewünschte Leistung ein und klciken auf das **Lupen-Symbol** oder drücken die **Enter-Taste**.
+In der Tabelle klicken Sie dann auf die Bezeichnung der gewünschten Dienstleistung. Nun öffnet sich die Detailansicht.
 
 ![](../../static/img/Rechnungen/GOTsatz2.png)  
 
@@ -82,8 +83,8 @@ immer dieser genutzt. Wichtig auch bei Notdiensten!
 
 :::tip Tipp:
 
-Es ist mgölich, den erhobenen Gebührensatz/ -faktor mit auf die Rechnung zu drucken, wenn Sie dies wünschen. Mehr Informationen dazu
-finden Sie unter den Layouts.  
+Es ist möglich, den erhobenen Gebührensatz/ -faktor mit auf die Rechnung zu drucken, wenn Sie dies wünschen. Mehr Informationen dazu
+finden Sie unter Layouts.  
 
 [Layout Rechnungen](https://debevet.com/docs/Administration/Layouts#rechnungen-layout)   
 
