@@ -109,7 +109,12 @@ Rechnung einfacher zu überweisen.
 
 Auch können Sie den Patientenstandort und die Chipnummer mit auf die Rechnung drucken.  
 
-### Tabelle 
+Eine weitere Option, die nach Wunsch eingefügt werden kann, ist der Faktor, also der Satz, mit dem Sie die einzelnen GOT Posten abgerechnet haben mit 
+zu drucken. Dies ist laut GOT nicht vorgeschrieben, aber wenn Sie es wünschen, können Sie dies einstellen, indem Sie den Haken bei **Faktor** setzen.  
+
+![](../../static/img/Rechnungen/rechnungslayout_faktor.png)
+
+Reiter **Tabelle**
 
 Sie haben für Rechnungen/Lieferungen/Angebote und Mahnungen die Möglichkeit, die Darstellung der Rechnungsposten am Reiter 
 **Tabelle** zu ändern.  
