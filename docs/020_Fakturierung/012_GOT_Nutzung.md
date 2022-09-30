@@ -1,5 +1,9 @@
 # GOT Nutzung in debevet  
 
+Generell bietet die debevet Software Ihnen die Möglichkeit, den GOT Faktor bzw. GOT Satz für Ihre Praxis individuell und global zu hinterlegen.
+
+Außerdem kann dann auch immer individuell in der Behandlung der Satz für alle oder einzelne Positionen geändert werden-
+
 Zur Einführung der neuen GOT bietet debevet ab Oktober 2022 (Gültigkeit der neuen GOT ist der 22.11.2022!) auf mehrfachen Kundenwunsch
 nun die Möglichkeit, für jeden einzelnen GOT-Posten einen eigenen Gebührensatz Faktor (kurz Faktor) zu hinterlegen.
 

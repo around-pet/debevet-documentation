@@ -88,7 +88,32 @@ Aus der Liste Ihrer Produkte werden dann direkt die entsprechenden Posten (Vorsc
 
 ![](../../static/img/Patienten/behandlung_medis1.png)  
 
-Dabei können Sie Dienstleistungen, Medikamente oder alles weitere aus Ihren angelegten/importieren Produkten nutzen.  
+Dabei können Sie Dienstleistungen, Medikamente oder alles Weitere aus Ihren angelegten/importieren Produkten nutzen. 
+
+## Diagnose einfügen 
+
+Um eine Diagnose zu hinterlegen, die auch auf der Rechnung gedruckt wird (Pflicht laut GOT!), geben Sie diese im Feld "**Behandlungseingabe** ein.   
+
+Wenn die Diagnose bereits bekannt ist, wird diese Ihnen in der Liste mit vorgeschlagen. Diagnosen sind dabei PINK farbend.   
+
+Wenn die gewünschte Diagnose nicht vorhanden ist, lernen Sie im nächsten Schritt, wie Sie diese mit einem Klick anlegen.
+
+![](../../static/img/Patienten/diagnose4.png)
+
+Ansonsten klicken Sie die Diagnose an und diese wird in PINK über dem Behandlungsfeld angezeigt.  
+
+![](../../static/img/Patienten/fiagnose5.png)
+
+## Diagnosen anlegen
+
+Klicken Sie oben auf das **Doktorhut-Symbol**, um eine neue Diagnose anzulegen.
+Nun öffnet sich ein Popup-Fenster, in dem Sie die Diagnose eingeben können. 
+
+![](../../static/img/Patienten/diagnosen_dienstleistungen_anlegen.png) 
+
+![](../../static/img/Patienten/diagnose_popup.png)  
+
+KLicken Sie auf **Anlegen**. 
 
 ### Gebührenfaktor / GOT Satz
 
@@ -211,15 +236,6 @@ Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als 
 
 :::  
 
-## Diagnosen oder Dienstleistungen anlegen
-
-Klicken Sie oben auf das **Doktorhut-Symbol**, um eine neue Diagnose anzulegen.
-
-Um eine neue Dienstleistung anzulegen, klicken Sie auf das **Personen-Symbol**.
-
-Geben Sie die benötigten Daten in die Felder ein und drücken danach Anlegen. 
-
-![](../../static/img/Patienten/diagnosen_dienstleistungen_anlegen.png)  
 
 ## Brief/Mail an den Patienten anlegen  
 
