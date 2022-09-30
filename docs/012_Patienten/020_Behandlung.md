@@ -95,7 +95,8 @@ Dabei können Sie Dienstleistungen, Medikamente oder alles weitere aus Ihren ang
 In diesem Feld finden Sie beim Betreten der Kartei den Gebührenfaktor, der gemäß **Administration** → **Einstellungen:** Faktor
 für Ihre Praxis hinterlegt ist.
 
-Sie können diesen Vorgabewert Ihrer Praxis im Bedarfsfall herauf- bzw. heruntersetzen.
+Sie können diesen Vorgabewert Ihrer Praxis im Bedarfsfall in der Behandlung herauf- bzw. heruntersetzen. 
+
 Alle Leistungen, die von Ihnen in die Kartei aufgenommen werden, werden jeweils mit dem aktuellen GOT-Satz,
 der zum Zeitpunkt des Eintrags hier steht, multipliziert. 
 
