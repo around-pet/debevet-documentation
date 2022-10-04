@@ -3,7 +3,7 @@
 Seit September 2022 bietet debevet eine eigene, im Programm integrierte Zeiterfassung als Add-On. (bis Ende 2022 kostenfrei zum Testen,
 danach gegen Aufpreis).
 
-Um in den Bereich zu gelangen, klicken Sie in der Menüleiste ganz unten auf **Zeiterfassung**. 
+Um in den Bereich zu gelangen, klicken Sie in der Menüleiste ganz unten auf **Verwaltung**. 
 
 ![](../../static/img/dashboard/Zeiterfassung.png)
 
@@ -17,7 +17,8 @@ Es können nur die Zeiten der Mitarbeiter erfasst werden, die einen Benutzer Acc
 
 ## Einstempeln /Ausstempeln  
 
-Jeder Mitarbeiter/Benutzer kann sich selbst direkt einstempeln, indem er auf seinen Benutzernamen und das **Personensymbol** ganz unten links klickt.
+Jeder Mitarbeiter/Benutzer, für den die Zeiterfassung aktiv gesetzt wurde kann sich selbst direkt einstempeln,
+indem er auf seinen Benutzernamen und das **Personensymbol** ganz unten links klickt.
 
 Wenn die Zeiterfassung aktiv ist, wird die folgende Ansicht angezeigt.  
 
