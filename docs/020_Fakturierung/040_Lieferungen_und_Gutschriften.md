@@ -67,3 +67,6 @@ um diese zu öffnen. Klicken Sie nun oben rechts **Erweitert** und dann **Zahlun
 Nun können Sie das Datum, die Summe und die Art der Zahlung wählen.  
 
 ![](../../static/img/Rechnungen/re_gutschrift5.png)
+
+
+test
