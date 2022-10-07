@@ -69,4 +69,3 @@ Nun können Sie das Datum, die Summe und die Art der Zahlung wählen.
 ![](../../static/img/Rechnungen/re_gutschrift5.png)
 
 
-test
