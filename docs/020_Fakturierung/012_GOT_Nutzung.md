@@ -89,3 +89,11 @@ finden Sie unter Layouts.
 [Layout Rechnungen](https://debevet.com/docs/Administration/Layouts#rechnungen-layout)   
 
 :::
+
+## Übergang alte und neue GOT
+
+Wir lassen vorraussichtlich die alte GOT noch eine Weile verfügbar und werden Sie informieren, bevor diese von unserem System gelöscht wird.
+
+Aktuell können Sie die neuen und alten Posten anhand der Buchstaben "GOT" voneinander unterscheiden. Die Posten mit **GOT** davor sind die neuen GOT Posten.
+
+![](../../static/img/Admin/neu_alte_GOT.png)
