@@ -117,8 +117,34 @@ Denken Sie daran, dass diese Option selbstverständlich VOR der Erstellung der R
 ## Sammelrechnungen erstellen
 
 Sie möchten für einen Kunden bzw. Besitzer für mehrere Tiere bzw. Patienten eine einzige Rechnung erstellen, also alle offenen Posten +auf einer Sammelrechnung drucken? 
-Sie möchten bei einem (oder mehreren) Kunden alle noch nicht abgerechneten Posten abrechnen. Klicken Sie hierzu auf **Praxis**
-und dann **Behandlungen**.
+Sie möchten bei einem (oder mehreren) Kunden alle noch nicht abgerechneten Posten abrechnen. 
+
+Hierfür gibt es zwei Wege: 
+
+### 1. Über den Kunden unter "Auswertungen"
+
+Klicken Sie hierzu in Ihrer Behandlung direkt auf den Kundennamen links.   
+
+![](../../static/img/Rechnungen/auswertung_sammelrechnung.png)
+
+Alternativ rufen Sie den Kunden über die Kundeliste auf.  
+
+![](../../static/img/Rechnungen/auswertung_abrechnen1.png)  
+
+Nun klicken Sie auf den Reiter "Auswertungen".  
+Dort sehen Sie einen Überblick über die offenen Posten der verschiedenen Tiere und die gesamten offenen Posten.  
+
+Klicken Sie auf den **grünen Button "Abrechnen"**. Es öffnet sich direkt die Rechnungsvorschau, in der Sie wie gewohnt die Zahlungsbedingung
+setzen können und die Rechnung dann speichern und versenden/drucken können. 
+
+Der Unterschied ist nun nur, dass alle offenen Posten verschiedener Tiere auf der Rechnung stehen.
+
+![](../../static/img/Rechnungen/auswertung_abrechnung3.png)
+
+
+### 2. Über die Behandlungen
+
+Klicken Sie hierzu auf **Praxis** und dann **Behandlungen**.
 
 Sie sehen die ungefilterte Liste Ihrer Behandlungen. Klicken Sie nun neben der Suchleiste auf den Dropdown Pfeil, um die Behandlungsliste zu filtern.
 Wählen Sie die Checkboxen bei **Rechnung ausstehend**, um alle Behandlungen bzw. Karteien anzuzeigen in denen für denen
