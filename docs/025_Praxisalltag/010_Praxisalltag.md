@@ -81,7 +81,7 @@ Packungen, ein. Buchen Sie den Warenbestand aktiv.
 
 Hier erfahren Sie, wie das geht:
 
-[Warenbestand anlegen](https://debevet.com/docs/Warenwirtschaft/Warenbest%C3%A4nde#neuen-warenbestand-anlegen)   
+[Warenbestand anlegen](https://handbuch.debevet.de/docs/Warenwirtschaft/Warenbest%C3%A4nde#neuen-warenbestand-anlegen)   
 
 **Vierter Schritt:** Nun müssen Sie die Ware korrigieren auf die wirklich vorhandene Anzahl. Bei angebrochenen Flaschen müssen Sie vermutlich schätzen
 (und am Ende der Flasche dann erneut auf Null korrigieren, schätzen Sie also evtl. minimal mehr), bei Tabletten können Sie zählen. 
@@ -100,7 +100,7 @@ Charge 1auf 170 Tabletten!
 
 Wie Sie einen Warenbestand korrigieren, erfahren Sie hier:  
 
-[Wrenbestand korrigieren](https://debevet.com/docs/Warenwirtschaft/Warenbest%C3%A4nde#warenbestand-korrigieren)   
+[Wrenbestand korrigieren](https://handbuch.debevet.de/Sdocs/Warenwirtschaft/Warenbest%C3%A4nde#warenbestand-korrigieren)   
 
 
 

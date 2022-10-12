@@ -86,7 +86,7 @@ immer dieser genutzt. Wichtig auch bei Notdiensten!
 Es ist möglich, den erhobenen Gebührensatz/ -faktor mit auf die Rechnung zu drucken, wenn Sie dies wünschen. Mehr Informationen dazu
 finden Sie unter Layouts.  
 
-[Layout Rechnungen](https://debevet.com/docs/Administration/Layouts#rechnungen-layout)   
+[Layout Rechnungen](https://handbuch.debevet.de/docs/Administration/Layouts#rechnungen-layout)   
 
 :::
 
