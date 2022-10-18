@@ -17,6 +17,17 @@ Dieser wird an allen Posten genutzt, solange Sie keinen abweichenden Faktor hint
 
 :::
 
+## Neue GOT 2022 importieren
+
+Hier zeigen wir in einem Video, wie Sie sich die neue GOT (gültig ab 22.11.2022) importieren können:
+
+:::info Videotipp
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqbn3z5Ha5o" title="YouTube video player
+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+::: 
+
 ## GOT Satz/Faktor global einrichten 
 
 Um den Faktor, der generell für die GOT Leistungen verwendet werden soll zu hinterlegen, gehen sie wie folgt vor:  
@@ -80,6 +91,12 @@ immer dieser genutzt. Wichtig auch bei Notdiensten!
 
 :::  
 
+:::info Videotipp:   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/amu9aEVgs8c" title="YouTube video player
+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::  
 
 :::tip Tipp:
 
