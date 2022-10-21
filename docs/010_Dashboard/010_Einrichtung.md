@@ -89,3 +89,7 @@ Bitte beachten Sie diese Ablaufdaten **unbedingt** und entsorgen Sie die entspre
 :::  
 
 ![](../../static/img/dashboard/Mindestbestand_Unterschritten.png)
+
+## Aufgaben 
+
+Wenn Sie den Haken in diesem Feld aktivieren, sehen Sie auch alle zu erledigenden Aufgaben, die im Bereich **Aufgaben** angelegt wurden.
