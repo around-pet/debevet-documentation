@@ -109,7 +109,12 @@ finden Sie unter Layouts.
 
 ## Übergang alte und neue GOT
 
-Wir lassen vorraussichtlich die alte GOT noch eine Weile verfügbar und werden Sie informieren, bevor diese von unserem System gelöscht wird.
+Wenn Sie die alte GOT komplett von Ihrem System löschen wollen, zeigen wir Ihnen hier in einem Video, wie Sie dies erledigen können:
+
+:::info Videotipp: Alte GOT löschen
+
+
+:::
 
 Aktuell können Sie die neuen und alten Posten anhand der Buchstaben "GOT" voneinander unterscheiden. Die Posten mit **GOT** davor sind die neuen GOT Posten.
 
