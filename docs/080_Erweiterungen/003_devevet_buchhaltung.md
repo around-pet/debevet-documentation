@@ -60,7 +60,7 @@ Die debevet Buchhaltungs-Software bietet aktuell keine TSE konforme Kasse.
 
 :::  
 
-## ### Erlöse nach Typ zusammenfassen
+### Erlöse nach Typ zusammenfassen
 
 Wenn Sie Ihre Erlöse je Typ (Leistung, Abgaben, Anwendungsprodukte und Sonstiges) auf verschiedene Erlöskonten buchen
 möchten, so aktiveren Sie dieses Merkmal durch ankreuzen und geben Sie für die Typen die jeweiligen Erlöskonten aus
