@@ -70,10 +70,25 @@ uns diese Dateien dann zusenden. Den Import übernehmen wir **kostenfrei** für 
 
 ## Wechsel von Animana zu debevet
 
+Um Ihre Daten von Animana zu importieren, benötigen wir zunächst den Export. 
+Bitte wenden Sie sich an das Animana Hilfe-Team, damit diese Ihnen die Daten zur Verfügung stellen.
+
 ## Wechsel von Vetinf zu debevet
+
+Um Ihre Daten von Vetinf zu importieren, benötigen wir zunächst den Export.
+Bitte wenden Sie sich an das Vetinf Service-Team, damit diese Ihnen die Daten zur Verfügung stellen.
 
 ## Wechsel von bte/Vet4.0 zu debevet
 
-## Wechsel von vetstar zu debevet
+Um Ihre Daten von bte zu importieren, benötigen wir zunächst den Export.
+Bitte wenden Sie sich an das bte-Team, damit diese Ihnen die Daten zur Verfügung stellen.
+
+## Wechsel von VetStar zu debevet
+
+Um Ihre Daten von VetStar zu importieren, benötigen wir zunächst den Export.
+Bitte wenden Sie sich an das VetStar Hilfe-Team, damit diese Ihnen die Daten zur Verfügung stellen.
 
 ## Wechsel von tpv zu debevet
+
+Um Ihre Daten von tpv zu importieren, benötigen wir zunächst den Export.
+Bitte wenden Sie sich an das tpv Betreuungs-Team, damit diese Ihnen die Daten zur Verfügung stellen.
