@@ -10,7 +10,7 @@ wir hier versuchen wollen, zu beantworten.
 Wir können aus sehr vielen Programmen problemlos die Stammdaten importieren. Dazu zählen:
 
 * Kundenstammdaten (Also Adressdaten, Name, Tel. Nummer, E-Mail etc.)
-* Patientenstammdaten (Also die Tiere, inkl. Namen, Fakten etc.)
+* Patientenstammdaten (Also die Tiere, inkl. Tierart, Namen, Geburtsdatum, Kastrationsstatus etc.)
 
 Je nachdem, welches Programm genutzt wurde, können wir auch Ihre Dienstleistungen und Produkte importieren.
 
