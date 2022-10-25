@@ -229,7 +229,7 @@ Kunden oder Lieferantendaten mit dem Speichern in debevet immer zeitgleich eins 
 
 :::
 
-![](../../static/img/erweiterungen/debevet-Collmex-Erweiterung-Start-Kunden-Lieferanten (1).png)  
+![](../../static/img/erweiterungen/debevet-Collmex-Erweiterung-Start-Kunden-Lieferanten.png)  
 
 ## Zahlungseingänge und Zahlungsausgänge  
 
