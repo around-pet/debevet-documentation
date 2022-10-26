@@ -1,11 +1,15 @@
 # Kundenkonto  
 
-Wenn Sie unten rechts auf Ihren Benutzernamen und das Personensymbol klicken, haben Sie die Option **Kundenkonto**.
+Wenn Sie unten links auf Ihren Benutzernamen und das Personensymbol klicken, haben Sie die Option **Kundenkonto**.
 Dort können Sie verschiedene Optionen einstellen und einsehen.  
 
-## Anwendungen  
+![](../../static/img/Admin/kundenkonto_aufrufen.png)
 
-Hier können Sie sehen, welches debevet Paket Sie aktuell nutzen und welche Anwendungen darin enthalten sind.
+## Anwendungen /Abonnement verwalten
+
+Hier können Sie sehen, welches debevet Paket, Abo Sie aktuell nutzen und welche Anwendungen darin enthalten sind.
+
+Das Abo kann hier verändert und umgebucht werden.
 
 Falls Sie ein höheres Paket buchen möchten, können Sie dies hier vornehmen. Sie können auch direkt sehen, welche kompatiblen 
 Anwendungen dann mit dem jeweiligen Paket nutzbar wären. 
