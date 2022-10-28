@@ -1,6 +1,6 @@
 # Geräteprofile 
 
-Für jedes Ihrer internen Laborgeräte stehen unterschiedliche Profile zur Verfügung. Um die gewünschten Profile einzurichten, müssen Sie wie folgt vorgehen.
+Für Ihre internen Laborgeräte können Sie Geräteprofile anlegen. Um die gewünschten Profile einzurichten, müssen Sie wie folgt vorgehen.
 
 ## Neues Geräteprofil anlegen  
 
