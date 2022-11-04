@@ -95,7 +95,38 @@ Sollten sie eine Meldung wie die folgende sehen, klicken Sie auf **Fortfahren**.
 
 ![](../../static/img/Admin/kalender4.png)  
 
-### Kalender mit Android synchronisieren  
+### Kalender mit Android synchronisieren   
+
+Mithilfe von CalDAV-Anwendungen, wie z.B. DAVdroid, können Sie Ihren Praxis-Kalender und Ihre Kunden mit dem Kalender
+oder der Kontaktliste Ihres Smartphones oder Tablets synchronisieren. Ebenfalls können Termine nach debevet geschrieben werden. 
+Kontaktinformationen (Name, Anschrift etc.) können aktuell nur gelesen über das Android-Gerät aber nicht verändert werden.   
+
+### Zugriffsrechte gewähren 
+
+Bevor Sie DAVdroid oder eine ähnliche Anwendung auf Ihrem Smartphone einrichten können, müssen Sie dem jeweiligen Benutzer die Zugriffsrechte gewähren.
+
+Wählen Sie hierzu unten links mit Klick auf das Personensymbol bei Ihrem Nutzernamen den Menüpunkt **Kundenkonto** und dann **Benutzer**.    
+
+![](../../static/img/Admin/davdroid-konto.png)  
+
+Alle Benutzer, die mit Ihrer Praxis verknüpft sind, werden aufgelistet.
+Wählen Sie nun aus der Liste den gewünschten Benutzer aus und öffnen seine Bearbeitungsseite, indem Sie auf den Link in der Spalte Benutzername klicken.  
+
+Drücken Sie nun oben rechts auf **Zugriffsrechte**. Sofern sie noch nicht aktiviert sind, wählen Sie die Checkboxen bei **Kalender** und ggf. bei **Kontakte** an.  
+
+![](../../static/img/Admin/davdroid-checkboxen.png)   
+
+### DAVdroid einrichten  
+
+Wenn Sie DAVdroid installiert und gestartet haben, melden Sie sich folgendermaßen an:
+
+In das Feld Basis-URL geben Sie "https://www.sync.debevet.de" ein
+
+Der Benutzername setzt sich aus Ihrer Praxisnummer und dem jeweiligen Benutzernamen zusammen: Wenn Ihre Praxisnummer 012345 und Ihr Benutzername benutzer wäre, müssten Sie in das Eingabefeld von DAVdroid 012345_benutzer eingeben.
+
+Das Passwort ist das Passwort des jeweiligen Benutzers.  
+
+![](../../static/img/Admin/davdroid-einrichten.png)  
 
 
 
