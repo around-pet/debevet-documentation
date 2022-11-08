@@ -253,8 +253,39 @@ Collmex bietet Ihnen zahlreiche Live-Auswertungen z.B. der offenen Posten (Liefe
 betriebswirtschaftlichen Status (EÜR, Bilanz, Gewinn- und Verlustrechnung, Saldenliste etc.).
 
 Ebenso bietet Ihnen Collmex ein bewährtes Mahnsystem, sollten Ihre Kunden ihre debevet-Rechnungen einmal vergessen zu 
-zahlen. Auch hier hilft die Online-Hilfe als auch der Support des Anbieters weiter.   
+zahlen. Sie müssen allerdings Ihre gewünschen Zahlungs- bzw. Mahnungsfristen einmalig im Collmex manuell einstellen, denn diese
+kann die Schnittstelle leider nicht automatisch übernehmen. Gehen Sie hierfür wie folgt vor:
 
+1. Die Zahlungsfrist bis zur ersten Mahnung wird im Collmex an der Zahlungsfrist der Zahlungsbedingung festgelegt. Sie müssen also auf
+der Collmex Seite abgleichen, ob die dort hinterlegte Frist auch Ihrer geewünschten entspricht. Schauen Sie dazu zunächst im debevet,
+welche Frist dort hinterlegt ist. Klicken Sie auf **Administration** und dann **Erweiterungen** und an der Collmex-Kachel dann **bearbeiten**.
+  
+Hier steht an der Zahlungsbedingung "Überweisung (Beispiel hier 10T)" eine Zahl (Beispiel hier **1**), diese sollten Sie nun auf die Nummer **6** ändern. 
+Klicken Sie anschleißend oben rechts auf **Speichern**.
 
+![](../../static/img/Buchhaltung/debevet_collmex_zahlung.png)
 
+2. Loggen Sie sich in Ihren Collmex Account ein und klicken Sie ganz oben auf **Verwaltung** und dann **Zahlungsbedingungen**.
+
+![](../../static/img/Buchhaltung/collmx_zahlungsbedingungen1.png)
+
+Nun öffnet sich eine Übersicht der Standard-Zahlungsbedingungen von Collmex. Dies sind mehr, als Sie nutzen, ignorieren Sie die nicht benötigten bitte.  
+
+Suchen Sie dort die Nummer **6**. Dies ist normalerweise die Zahlungsbedingung **Zahlbar in 14 Tagen ohne Abzug**. Klicken Sie dort auf **Anzeigen**. 
+
+![](../../static/img/Buchhaltung/collmex_zahlungsbedingungen2.png)  
+
+Hier können Sie nun die gewünschte Zahlungsfrist, nach der die **erste** Mahnung erstellt werden soll, eingeben. Die gewünschte Periode wird unten im Feld bei **Periode 1** eingegeben.
+Klicken Sie dann auf **Speichern**.
+
+Die Mahnungsfristen selbst, die zwischen den Mahnungen bestehen sollen, setzen Sie im Collmex im Bereich **Verwaltung** und dann **Mahnungen**.  
+
+:::caution Achtung: 
+
+Die Frist, die bei 1. Mahnung steht, bezieht sich auf den Zeitraum, bis wann diese Mahnung bezahlt sein muss, damit die zweite Mahnung erstellt wird. Die Frist bis zur
+ersten Mahnung wird über die Zahlungsbedingung gesetzt.  
+
+::: 
+
+![](../../static/img/Buchhaltung/collmex_mahnungen.png)
 
