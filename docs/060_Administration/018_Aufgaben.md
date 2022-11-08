@@ -5,7 +5,21 @@ Diese erscheinen sowohl im Kalender, als auch, wenn eingestellt, auf dem Dashboa
 
 Aufgaben können auch an Kunden/Patienten verknüpft werden, und als Besuche vor Ort beim Kunden angelegt werden.
 
-## Eine neue Aufgabe erstellen  
+Sie können Aufgaben jederzeit einzeln anlegen, oder aber direkt aus einer Behandlung heraus.
+
+## Eine Aufgabe aus einer Behandlung erstellen  
+
+Wenn Sie direkt zum Kunden eine Aufgabe erstellen wollen (z.B. Rückruf wegen Laborergebnissen), können Sie direkt in der Behandlung des 
+Patienten oben auf das **Pinnwand-Nadel-Symbol** klicken.  
+
+![](../../static/img/Kunden/aufgabe_aus_behandlung1.png)  
+
+Nun gelangen Sie in die Maske, in der Sie alle Daten eingeben können. Wie Sie beispielsweise Checklisten erstellen, erfahren Sie hier etwas weiter unten im Text. 
+Der Vorteil beim Erstellen aus der Behandlung ist, dass alle Kunden- und Patientendaten dann bereits eingetragen sind und nicht manuell zugewiesen werden müssen.  
+
+![](../../static/img/Kunden/aufgabe_aus_behandlung2.png)
+
+## Eine neue Aufgabe frei erstellen  
 
 Klicken Sie links in der Menüleiste auf **Aufgaben**. Dann klicken Sie oben rechts auf das **grüne Plus-Symbol**.
 
