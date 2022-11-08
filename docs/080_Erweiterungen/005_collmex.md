@@ -237,7 +237,7 @@ Kunden oder Lieferantendaten mit dem Speichern in debevet immer zeitgleich eins 
 
 Erhalten Sie für eine in debevet erstellte Rechnung von Ihrem Kunden Geld (Teilzahlung, Vollzahlung) zum Beispiel 
 über das Bankkonto, so wird dies ausschließlich in Collmex verbucht, z.B. automatisch durch Abruf der Bankumsätze via HBCI.
-(Diesen müssen Sie im Collmex einrichten!)
+(Diesen müssen Sie im Collmex einrichten, siehe unten!)
 
 Ist eine Rechnung in Collmex erledigt, erfährt debevet davon voll automatisch über die Schnittstelle und
 stellt die jeweilige Rechnung vom Status **Gebucht** auf **Erledigt** oder **Teilgezahlt** um. 
@@ -288,4 +288,34 @@ ersten Mahnung wird über die Zahlungsbedingung gesetzt.
 ::: 
 
 ![](../../static/img/Buchhaltung/collmex_mahnungen.png)
+
+## Collmex Onlinebanking 
+
+Um Onlinebanking zu nutzen, müssen Sie im Collmex Ihr Konto bzw. Ihre Konten via HBCI einbinden und synchronisieren.
+
+Sie benötigen hierfür folgende Daten, die Sie von Ihrer Bank bekommen: 
+
+* Komm-Adresse 
+* Benutzerkennung
+* Kunden-ID
+* PIN (Zugangsdaten, nicht EC PIN!)
+
+Klicken Sie in Ihrem Collmex Account auf **Buchhaltung** und dann **Kontoauszug abholen (HBCI)**. 
+
+![](../../static/img/Buchhaltung/collmex_hbci1.png)  
+
+Nun klicken Sie auf **HBCI Konfiguration**.  
+
+![](../../static/img/Buchhaltung/collmex_hbci2.png)  
+
+Dort geben Sie nun alle Daten ein und klicken auf **Synchronisisieren**. Speichern Sie außerdem oben mit *Speichern** die Daten.  
+
+![](../../static/img/Buchhaltung/collmex_hbci3.png)  
+
+:::tip Hinweis: 
+
+Sie müssen dennoch im Collmex regelmäßig dann über Kontoauszug abrufen die aktuellen Bankdaten synchronisieren. Die bezahlten Rechnungen werden normalerweise dann automatisch
+erkannt und als **erledigt** zurück an debevet gegeben.  
+
+:::  
 
