@@ -115,6 +115,15 @@ Nun öffnet sich ein Popup-Fenster, in dem Sie die Diagnose eingeben können.
 
 KLicken Sie auf **Anlegen**. 
 
+## Diagnosen löschen  
+
+Wenn Sie einige Diagnosen aus Versehen doppelt angelegt haben oder unnötige Diagnosen wieder löschen möchten, klicken Sie auf **Warenwirtschaft** und
+dann **Diagnosen**. 
+
+Setzen Sie nun eine Checkbox vor die Diagnosen, die Sie löschen wollen und klicken dann rechts oben auf das **Mülleimer-Symbol**.  
+
+![](../../static/img/Kunden/diagnosen_loeschen1.png)
+
 ### Gebührenfaktor / GOT Satz
 
 In diesem Feld finden Sie beim Betreten der Kartei den Gebührenfaktor, der gemäß **Administration** → **Einstellungen:** Faktor
