@@ -119,3 +119,23 @@ Wenn Sie die alte GOT komplett von Ihrem System löschen wollen, zeigen wir Ihne
 Aktuell können Sie die neuen und alten Posten anhand der Buchstaben "GOT" voneinander unterscheiden. Die Posten mit **GOT** davor sind die neuen GOT Posten.
 
 ![](../../static/img/Admin/neu_alte_GOT.png)
+
+## Zeitfaktor in der GOT    
+
+Viele von Ihnen suchen den früher vorhandenen "Zeitfaktor". Dieser wurde bereits in der GOT Neufassung von 2020 aus der GOT entfernt. Er
+ist auch in der Neufassung 2022 nicht vorhanden und kein offizieller GOT Posten.
+
+Auf dem Vortrag zur neuen GOT 2022 hat Dr. Thomas Steidl (Vorsitzender der AdHoc-AG GOT von BTK / bpt und stellvertretender 
+Vorsitzender des ehemaligen BTK-Ausschusses Gebühren) erklärt, dass es möglich ist, einen Posten zu erstellen, der mit 2,25 Euro pro Minute 
+im einfachen Satz genutzt wird. 
+Es wäre also evtl. eine Option, diesen mit §8 GOT (außerordentliche Leistungen) zu nutzen.
+
+Um dies zu nutzen, erstellen Sie unter **Produkte** eine neue Dienstleistung und benennen diese passend. Als Standard Preis hinterlegen Sie dann die
+2,25 Euro pro Minute netto.  
+
+![](../../static/img/Rechnungen/zeitaufwand_got.png)
+
+
+
+
+
