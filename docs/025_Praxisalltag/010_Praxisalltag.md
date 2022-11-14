@@ -64,6 +64,24 @@ Am Reiter **Zahlungen** finden Sie ein Grafik und Tabelle mit allen Zahlungen, s
 
 ![](../../static/img/dashboard/offene_posten_2.png)  
 
+Variante 2: 
+**Offene Rechnungen - offene Posten am Kunden**
+
+Leider ist es mit der Zahlungsmoral mancher Kunden nicht immer ideal gestellt, was leider eine Notwendigkeit erzwingt, direkt
+sehen zu können, ob beim Kunden offene Zahlungen vorliegen.
+
+Um direkt in der Behandlung (und nicht nur in der Übersicht der Zahlungen am Kunden) eine Warnung zu sehen, müssen Sie diese zunächst in den Einstelungen aktivieren.
+
+Klicken Sie **Administration** und dann **Einstellungen**. Dort wählen Sie den Reiter **Behandlung**
+
+![](../../static/img/Rechnungen/zahlungs_badge1.png)
+
+Setzen Sie das Häkchen bei **Warnung b. offenem Zahlstatus**. Klicken Sie anschließend oben rechts auf **Speichern**.
+
+Wenn Sie nun ein Tier behandeln, wird Ihnen am Kundennamen links eine rote Zahl angezeigt, welche patientenübergreifend offene Rechnungen anzeigt.
+
+![](../../static/img/Rechnungen/zahlungsbadge2.png)
+
 ## 5. Digitalte Verwaltung der Apotheke im laufenden Betrieb
 
 Sie wollen endlich die Warenwirtschaft, Ihre Apotheke und Ihr Lager mit debevet digital verwalten? Nun sind Sie etwas ratlos, wie
