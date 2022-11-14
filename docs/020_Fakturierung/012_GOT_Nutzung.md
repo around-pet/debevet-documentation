@@ -135,6 +135,18 @@ Um dies zu nutzen, erstellen Sie unter **Produkte** eine neue Dienstleistung und
 
 ![](../../static/img/Rechnungen/zeitaufwand_got.png)
 
+## Vorlagen in der Übergangszeit erstellen 
+
+Sie möchten Ihre Vorlagen schon mit der neuen GOT erstellen, aber die alten Vorlagen noch nutzen? Kein Problem! Gehen Sie wie folgt vor:  
+
+1. Neue GOT importieren und alte noch bestehen lassen
+2. Erstellen Sie eine Vorlage, die Sie genauso benennen wie die alte, nur mit dem Wort "NEU" dahinter
+3. Fügen Sie die gewünschten neuen GOT Posten ein, achten Sie dabei darauf, dass Sie neue Posten am GOT-Präfix erkennen
+4. Nutzen Sie ab dem 22.11. die neuen Vorlagen
+5. Löschen Sie am dem 22.11. die alten Vorlagen
+
+Wenn Sie möchten, entfernen Sie dann noch das Wort "NEU" aus der neuen Vorlage, sobald die alte gelöscht ist.
+
 
 
 
