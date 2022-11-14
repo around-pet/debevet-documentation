@@ -19,6 +19,31 @@ Dieser wird an allen Posten genutzt, solange Sie keinen abweichenden Faktor hint
 
 ## Neue GOT 2022 importieren
 
+:::caution  ACHTUNG!
+
+Die alte GOT wird nicht automatisch gelöscht, wenn Sie die neue importieren! Wann Sie die alte GOT löschen bleibt Ihre Entscheidung, auch dies
+muss proaktiv durch Sie selbst erfolgen. In welchem zeitlichen Abstand Sie das erledigen, ist Ihnen selbst überlassen!  
+
+:::  
+
+Um die neuen GOT zu importieren, klicken Sie auf **Warenwirtschaft** und dann **Kataloge**. 
+
+Dort klicken Sie bei GOT 2022 auf den Pfeil. 
+
+![](../../static/img/Admin/got_import1.png)  
+
+Nun sehen Sie eine Auflistung ALLER Posten der neuen GOT. Dabei ist vor den bereits importierten ein kleines Link-Symbol und vor
+den noch nicht importierten nur ein Kästchen.  
+
+![](../../static/img/Admin/got_import2.png)  
+
+Sie klicken oben rechts auf **Katalog importieren**. Nun öffnet sich ein Fenster, in dem Sie wählen können, für welche Tierarten Sie die den Katalog benötigen.  
+
+![](../../static/img/Admin/got_import3.png)
+
+Wählen Sie mit den Checkboxen, welche Tierarten Sie importieren möchten und klicken Sie dann **importieren**. Nun sind die neuen Posten 
+in Ihrer Praxis im Produktkatalog und können genutzt werden.
+
 Hier zeigen wir in einem Video, wie Sie sich die neue GOT (gültig ab 22.11.2022) importieren können:
 
 :::info Videotipp
