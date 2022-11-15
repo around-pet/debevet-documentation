@@ -92,15 +92,15 @@ Klicken sie nun auf den Benutzernamen **Service**.
 
 ![](../../static/img/Admin/service3.png)  
 
-Nun klicken sie oben rechts auf **Akltivieren**. 
+Nun klicken sie oben rechts auf **Aktivieren**. 
+
+![](../../static/img/Admin/service4.png)
 
 ## Benutzer abmelden 
 
 Um sich abzumelden, klicken Sie unten links auf Ihr **Benutzersymbol** und dann **Abmelden**.  
 
 ![](../../static/img/Admin/abmelden.png)
-
-![](../../static/img/Admin/service4.png)  
 
 Ein Mitarbeiter des Supports hat nun die Möglichkeit, sich Ihr Anliegen näher anzuschauen. 
 Nach 24 Stunden, wird der Service-Zugang automatisch deaktiviert.
