@@ -141,7 +141,7 @@ Klicken Sie auf **Praxis** und dann **Produkte**.
 ![](../../static/img/Rechnungen/got_loeschen1.png)  
 
 Klicken Sie nun auf den **Dropdownpfeil** neben dem Suchenfenster, um die erweiterte Suche/Filter zu nutzen.  Dort klicken Sie dann
-auf die Auswahl **Katalog**.  
+auf die Auswahl **Katalog** und anschleißend auf das **Lupensymbol**.
 
 ![](../../static/img/Rechnungen/got_loeschen2.png)  
 
