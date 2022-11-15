@@ -132,9 +132,36 @@ finden Sie unter Layouts.
 
 :::
 
-## Übergang alte und neue GOT
+## Alte GOT löschen
 
-Wenn Sie die alte GOT komplett von Ihrem System löschen wollen, zeigen wir Ihnen hier in einem Video, wie Sie dies erledigen können:
+Wenn Sie die alte GOT komplett von Ihrem System löschen wollen, finden Sie hier eine schrittweise Anleitung und ein Video. 
+
+Klicken Sie auf **Praxis** und dann **Produkte**.  
+
+![](../../static/img/Rechnungen/got_loeschen1.png)  
+
+Klicken Sie nun auf den **Dropdownpfeil** neben dem Suchenfenster, um die erweiterte Suche/Filter zu nutzen.  Dort klicken Sie dann
+auf die Auswahl **Katalog**.  
+
+![](../../static/img/Rechnungen/got_loeschen2.png)  
+
+Nun klicken Sie die Auswahl **GOT** (NICHT GOT 2022!)  
+
+![](../../static/img/Rechnungen/got_loeschen3.png)
+
+:::caution Hinweis: 
+
+Scrollen Sie nun zunächst immer weiter nach unten, dann werden immer wieder Positionen geladen. Scollen Sie so weit nach unten, bis
+alles geladen ist. Scrollen Sie anschließend wieder nach oben!  
+
+::: 
+
+Klicken Sie nun oben auf das kleine Häkchen, um alle Positionen zu markieren. Klicken Sie anschließend auf das **Mülleimer-Symbol** oben rechts. Bestätigen Sie 
+den Löschvorgang.
+
+![](../../static/img/Rechnungen/got_loeschen4.png)
+
+Nun ist die alte GOT komplett von Ihrem System gelöscht.
 
 :::info Videotipp: Alte GOT löschen
 
