@@ -164,8 +164,8 @@ den Löschvorgang.
 Nun ist die alte GOT komplett von Ihrem System gelöscht.
 
 :::info Videotipp: Alte GOT löschen
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3t7yuY1Dps" title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 :::
 
 Aktuell können Sie die neuen und alten Posten anhand der Buchstaben "GOT" voneinander unterscheiden. Die Posten mit **GOT** davor sind die neuen GOT Posten.
