@@ -38,9 +38,31 @@ Anhand der Farbe des Kästchens im Wartezimmer können Sie den Status erkennen. 
 
 ![](../../static/img/Patienten/wartend_grau.png)
 
-Sie können auch direkt aus dem Terminkalender den Kunden annehmen und dort über das gleiche Symbol in das Wartezimmer hinzuzufügen.
+## Notiz oder Beschreibung hinzufügen für das Wartezimmer
 
-In dem Fall kommt der Betreff kommt aus dem Titel des Kalendereintrages und die Mitteilung wird aus der Behandlungsansicht dargestellt.
+Sie möchten einen Grund sehen, warum der Patient bei Ihnen ist? Die Anmeldung kann dem Patienten entweder eine Notiz oder eine Beschreibung hinzufügen.
+
+So können Sie direkt auf dem Dashboard den **Grund des Besuchs** sehen.  
+
+Um eine Notiz (z.B. Durchfall, Verbandswechsel etc.) hinzuzufügen, setzen Sie den Patienten zuerst ins Wartezimmer.  
+Öffnen Sie anschließend einmal die Behandlungskartei des Patienten. 
+
+Links sehen Sie ein Feld **Notiz**. Schreiben Sie dort den Grund hinein und setzen Sie den Patienten ins Wartezimmer. Klicken Sie
+anschließend auf **Schließen** oben rechts.
+
+![](../../static/img/Patienten/wartezimmer_notiz1.png)
+
+Nun wird auf dem Dashboard diese Notiz mit angezeigt. 
+
+![](../../static/img/Patienten/wartezimmer_notiz2.png)
+
+Um das Feld **Beschreibung** zu nutzen, müssen Sie den Kunden über den Terminkalender hinzufügen. Erstellen Sie im **Kalender** einen Termin,
+wählen Sie den Kunden und den Patienten aus. Der Titel des Termins wird dann in der **Beschreibung** im Dashboard erscheinen.  
+
+![](../../static/img/Patienten/beschreibung_wartezimmer.png) 
+
+![](../../static/img/Patienten/beschreibung_wartezimmer2.png)
+
 
 :::caution Achtung:
 
