@@ -15,6 +15,37 @@ Wenn Sie keine Checkboxen setzen, werden ALLE noch nicht abgerechneten Posten de
 
 :::
 
+## Einzelne Posten nicht in Rechnung stellen 
+
+Eventuell möchten Sie einen Verbrauch (Beispiel Narkose Injektion etc.) zwar dokumentieren, aber die Beträge und Mengen nicht auf der Rechnung anzeigen 
+und auch nicht abrechnen. 
+In diesem Fall können Sie einmal auf das **orangene Euro-Symbol** des Postens klicken, nachdem Sie diesen eingetragen haben. Das Euro-Symbol wird dann **grau**. 
+
+![](../../static/img/Rechnungen/posten_nicht_berechnen1.png)  
+
+![](../../static/img/Rechnungen/posten_nicht_berechnen2.png)
+
+Der Posten wird nun weder in Rechnung gestellt, noch erscheint der Posten auf der Rechnung. Für Sie selbst bleibt er aber als Dokumentation in der Patientenkartei!
+
+![](../../static/img/Rechnungen/posten_nicht_berechnen3.png)
+
+## Posten nicht berechnen und auf der Rechnung auflisten  
+
+Sie möchten etwas nicht in Rechnung stellen, dem Besitzer aber klar machen, dass Sie es ihm "geschenkt" haben? Sie möchten also etwas mit 0,00 Euro in der Rechnung 
+aufführen?
+Beispiele hierfür wären:
+* KLeinste Verbrauchsmarterialien, die Sie nicht berechnen wollen, aber klar machen wollen, dass es dennoch erhalten wurde
+* Futtermessbecher
+* Beratung via Telefon, wenn Sie diese nicht abrechnen, aber dennoch klar machen wollen, dass es eine Leistung war
+
+Wir empfehlen, für diese Positionen dann "Null Euro Produkte" anzulegen und diese in die Behandlung dann wie alles andere mit einzugeben. 
+
+:::caution Hinweis:  
+
+Bitte denken Sie daran, dennoch die 19% Mwst. zu hinterlegen, damit es nicht zu Buchungsfehlern auf buchhalterischer Seite unserer Software kommt!  
+
+:::
+
 ## Zahlungsart wählen  
 
 Wenn Sie in der nun automatisch geöffneten Rechnungsansicht den Dropdownpfeil bei **Zahlungsart** klicken, können Sie die für Ihre Praxis hinterlegen
@@ -173,7 +204,7 @@ Zunächst öffnen Sie die gewünschte, zu stornierende Rechnung. Dafür gibt es 
 klicken dann auf die Rechnungsnummer, um zur Rechnungsansicht zu gelangen    
 * Klicken Sie in der Behandlung an der gewünschten Rechnung am Behandlungstag das **blaue Rechnungssymbol** (Brief)  
 
-![](../../static/img/Rechnungen/rechnung_stornieren4.png)
+![](../../static/img/Rechnungen/Rechnung_stornieren1a.png)
 
 Nun öffnet sich die Rechnungsansicht. In der Rechnungsansicht klicken Sie nun oben rechts **Erweitert** und wählen im 
 Dropdown dann **Rechnung stornieren**.  
