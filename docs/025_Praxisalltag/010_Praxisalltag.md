@@ -120,5 +120,46 @@ Wie Sie einen Warenbestand korrigieren, erfahren Sie hier:
 
 [Wrenbestand korrigieren](https://handbuch.debevet.de/Sdocs/Warenwirtschaft/Warenbest%C3%A4nde#warenbestand-korrigieren)   
 
+## Kunde hat zu viel Geld überwiesen/ Umgang mit Überzahlungen  
+
+Falls Sie Rechnungen via Überweisung zahlen lassen und ein Kunde zu viel Geld überweist, müssen Sie dieses ja dennoch als Zahlungseingang verbuchen. 
+
+:::caution Hinweis: 
+
+Wir bitten zunächst mit Ihrem Steuerberater zu sprechen, welche Variante er ihnen empfiehlt!
+1. Nur die Rechnungssumme einbuchen als gezahlt und den Rest ohne Belegerstellung zurück überweisen an den Kunden
+2. Die Überzahlung buchhalterisch als Überzahlung als Erlös buchen (eher üblich wenn Mahngebühren)
+3. Die Überzahlung buchhalterisch als Überzahlung mit Rückzahlung buchen  
+
+:::  
+
+Wenn Sie die Rechnung wie gewohnt als bezahlt kennzeichnen wollen und die höhere Summe eintragen als bezahlte Summe,
+bietet unsere debevet Software Ihnen die beiden Varianten
+
+* Überzahlung als Erlös
+* Überzahlung als Rückzahlung  
+
+![](../../static/img/Buchhaltung/ueberzahlung1.png)  
+
+Sprechen sie bitte mit Ihrem Steuerberater, aber wenn Sie die Summe zurücküberweisen wollen und der Steuerberater empfiehlt, hierfür Belege zu erstellen, wählen
+Sie zweiteres.
+
+Im Anschluss daran erstellen Sie eine Gutschrift, **wenn** ihr Steuerberater einen Beleg für die Rückzahlung empfiehlt. Wenn er sagt, dass das nicht nötig ist, 
+überweisen Sie die Summe einfach an den Kunden zurück. 
+
+Wir empfehlen, dann zwei Produkte anzulegen, Summe/Preis ist dabei erstmal egal, dieser kann immer in der Gutschrift später verändert werden:  
+
+* Rückzahlung aus Überzahlung (19% Mwst. angelegt als Sonstiges)
+* Rückzahlung aus Überzahlung Futtermittel (7% Mwst. angelegt als Sonstiges)  
+
+Erstellen Sie dann eine Gutschrift, **idealerweise aus der Rechnung des Kunden**, um den Bezug über die Rechnungsnummer auf der 
+Gutschrift zu haben. 
+
+Löschen Sie **ALLE**Posten in der Gutschrift und ergänzen dann das angelegte Produkt mit der passenden, auszuzahlenden Differenzsumme.
+
+Wie Sie eine Gutschrift aus einer Rechnung erstellen, erfahren Sie hier: 
+
+[Gutschriften erstellen](/docs/Fakturierung/Lieferungen_und_Gutschriften#gutschriften)
+
 
 

@@ -36,7 +36,44 @@ den Warenbestand buchen wollen.
 ## Gutschriften  
 
 Falls Sie einem Kunden aus verschiedenen Gründen etwas zurückerstatten möchten, können Sie dies über **Gutschriften** rechtlich korrekt
-erledigen. Klicken Sie auf **Fakturierung** und dann **Gutschriften**. Sie sehen (falls bereits vorhanden) eine Auflistung aller bereits
+erledigen. 
+
+Dafür gibt es zwei Wege: Aus der Rechnung des Kunden oder eine frei erstellte Gutschrift
+
+### 1. Aus der Rechnung des Kunden
+
+Um aus einer Rechnung  eine Gutschrift zu erstellen, klicken Sie in der Rechnungsansicht auf **Erweitert** und dann **Gutschrift erstellen**.
+
+![](../../static/img/Rechnungen/rechnung_zu_gutschrift.png)
+
+Sie befinden sich dann automatisch im Gutschrift-Entwurf. Nun können Sie entweder aus den bereits abgerechneten Posten zurückerstatten oder neue Posten eintragen. Löschen Sie Posten, die nicht gutgeschrieben werden sollen
+durch klicke auf das **Mülleimersymbol** heraus.   
+
+![](../../static/img/Rechnungen/rechnung_zu_gutschrift2.png) 
+
+Wenn Sie die Gutschrift passend erstellt haben,klicken sie oben rechts auf **Gutschrift anlegen**. 
+
+![](../../static/img/Rechnungen/gutschrift_anlegen_rechnung.png)
+
+Wenn Sie nun auf **Erweitert** klicken, können Sie die Gutschrift buchen.
+
+![](../../static/img/Rechnungen/re_gutschrift3.png)
+
+Nun hat die Gutschrift den Status "gebucht", aber ist noch nicht bezahlt. Wenn Sie dem Kunden die Summe ausgezahlt haben, können
+Sie, wie bei einer Rechnung, die Zahlung als "erfasst" eingeben.
+
+Klicken Sie dazu in der gebuchten Gutschrift (das geht nur, wenn das Symbol in der Übersicht gelb ist!!!) auf die Gutschriftnummer,
+um diese zu öffnen. Klicken Sie nun oben rechts **Erweitert** und dann **Zahlung erfassen**.
+
+![](../../static/img/Rechnungen/re_gutschrift4.png)
+
+Nun können Sie das Datum, die Summe und die Art der Zahlung wählen.
+
+![](../../static/img/Rechnungen/re_gutschrift5.png)
+
+### 2. Frei erstelle Gutschrift 
+
+Um eine freie Gutschrift zu erstellen, klicken Sie auf **Fakturierung** und dann **Gutschriften**. Sie sehen (falls bereits vorhanden) eine Auflistung aller bereits
 erstellten Gutschriften. Dabei wird symbolisch dasselbe System genutzt wie bei den Rechnungen:  
 
 * rot: noch nicht gebucht/endgültig anglegt
