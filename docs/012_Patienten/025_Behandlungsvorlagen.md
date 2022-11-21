@@ -75,4 +75,22 @@ Klicken Sie dann auf das **Stiftsymbol** oben rechts zum bearbeiten, oder dsa **
 
 ![](../../static/img/Patienten/voralgen_bearbeiten.png)
 
+## Vorlagen verwenden / anwenden  
+
+Um eine Vorlage nun in einer Behandlung zu nutzen, klicken Sie in der Behandlung oben auf das Symbol mit den **drei Strichen**.  
+
+Dort klicken Sie auf **Vorlage wählen**, wählen Ihre gewünschte Vorlage und dann den **grünen Button Anwenden**.  
+
+![](../../static/img/Patienten/vorlage_anwenden .png)
+
+Die debevet Software fügt nun direkt alle Posten der Vorlage in Ihre Behandlung ein, inklusive evtl. hinterlegter Diagnose. 
+
+:::caution Hinweis:  
+
+Falls Sie einen abweichenden Faktor eingegeben haben an einer der Leistungen wird der Preis in der Behandlung ein anderer sein, 
+als in der Übersicht der Vorlage angezeigt. Die Vorberechnung der Vorlage basiert aktuell immer auf einfachem GOT Satz.  
+
+:::  
+
+
 
