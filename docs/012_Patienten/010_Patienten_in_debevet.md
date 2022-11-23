@@ -55,6 +55,16 @@ Nun erscheint eine Liste aller Patienten dieses Kunden/Besitzers. Wählen Sie da
 
 ![](../../static/img/Patienten/patient_wechseln1.png)
 
+:::info Videotipp:  
+
+Hierzu auch noch ein kleines Video, wie Sie schnell von einem Patienten zum anderen wechseln/ zwischen Patienten wechseln
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNblqkYtWFc" title="YouTube video player
+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+:::
+
 ## Patienten suchen und finden  
 
 Klicken Sie auf **Praxis**, dann auf **Patienten**. Das System listet alle Patienten auf. Tippen Sie in das Suchfenster wie bei
