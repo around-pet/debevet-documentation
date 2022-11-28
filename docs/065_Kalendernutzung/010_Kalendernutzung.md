@@ -120,7 +120,7 @@ Drücken Sie nun oben rechts auf **Zugriffsrechte**. Sofern sie noch nicht aktiv
 
 Wenn Sie DAVdroid installiert und gestartet haben, melden Sie sich folgendermaßen an:
 
-In das Feld Basis-URL geben Sie "https://www.sync.debevet.de" ein
+In das Feld Basis-URL geben Sie "sync.debevet.de" ein
 
 Der Benutzername setzt sich aus Ihrer Praxisnummer und dem jeweiligen Benutzernamen zusammen: Wenn Ihre Praxisnummer 012345 und Ihr Benutzername benutzer wäre, müssten Sie in das Eingabefeld von DAVdroid 012345_benutzer eingeben.
 
