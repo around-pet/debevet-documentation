@@ -250,7 +250,13 @@ Sie können sich in Ihrem Warenbestand direkt alle abgelaufenen Chargen anzeigen
 Nun listet debevet die abgelaufenen Chargen und bietet direkt die Korrektureinträge (also NULL) und ein Memo mit "abgelaufen am". 
 Wenn Sie hier noch etwas ändern wollen, können Sie das natürlich erledigen, ansonsten klicken Sie einfach auf **Speichern**. 
 
-![](../../static/img/Warenwirtschaft/abgelaufene_chargen2.png)
+![](../../static/img/Warenwirtschaft/abgelaufene_chargen2.png
+
+Sie können auch alle abgelaufenen Chargen auf einmal ausbuchen. Markieren Sie dafür mit den Checkboxen alle abgelaufenen Chargen. 
+Klicken Sie dann oben rechts **abgelaufene Chargen ausbuchen**. Diese Chargen werden nun voll automatisiert mit dem Memo "abgelaufen am xxx (Ablaufdatum)" 
+ausgebucht.
+
+![](../../static/img/Warenwirtschaft/sammelausbuchung_chargen.png)
 
 ## Zerbrochene Ware/ Verlust  
 
