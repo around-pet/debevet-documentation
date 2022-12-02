@@ -22,7 +22,8 @@ Mahnlauf übernommen werden sollen und klicken dann oben rechts auf **Anlegen**.
 
 ![](../../static/img/Rechnungen/mahnlauf2.png)  
 
-Klicken Sie nun wieder **Fakturierung** und **Mahnungen**, dann sehen Sie die hinzugefügten Rechnungen nun in Ihrer Mahnungsübersicht.  
+Klicken Sie **schließen** oben rechts, um zurück zu der Mahnungsübersicht zu gelangen.
+Klicken Sie **schließen** oben rechts, um zurück zu der Mahnungsübersicht zu gelangen.
 
 ## Mahnstufen konfigurieren  
 
