@@ -92,5 +92,16 @@ als in der Übersicht der Vorlage angezeigt. Die Vorberechnung der Vorlage basie
 
 :::  
 
+## Vorlagen mit inventurpflichtigen Medikamenten nutzen  
+
+Es ist natürlich auch möglich, direkt inventurpflichtige Medikamente in einer Vorlage zu verwenden, so dass diese automatisch mit verwendet werden. Allerdings 
+kommt es bei der Nutzung von mehreren aktiven Chargen zu einem "Konflikt", da die debevet Software nicht wissen kann, welcher der aktiven Chargen genutzt wird.
+
+In diesem Fall erscheint ein Popup Fenster, welches erneut abfragt, welche Charge Sie nun nutzen wollen/werden. 
+
+![](../../static/img/Warenwirtschaft/charge_setzen_popup.png)
+
+Wählen Sie dort durch einen Klick die korrekte Charge und klicken Sie dann speichern. Nun ist die Vorlage inklusive der korrekten Charge verwendet und die Inventur 
+wird korrekt, da die Anzahl der verwendeten Medikamente abgezogen werden kann. 
 
 
