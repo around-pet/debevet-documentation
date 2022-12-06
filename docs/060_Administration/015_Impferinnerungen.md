@@ -18,8 +18,14 @@ In der Detailansicht scrollen Sie dann etwas nach unten bis zum Abschnitt **Impf
 
 Klicken sie zur Eingabe das grüne Häkchen und dann oben rechts auf **Speichern**.
 
-Am entsprechenden Datum erhält der Kunde bei Anbindung und Nutzung der around.pet App eine Push Nachricht, ansonsten erfahren Sie weiter unten, 
-wie Sie die Impferinnerung verschicken und wo Sie die fälligen Impferinnerungen sehen.  
+:::tip Tipp
+
+Nutzer der App aroundpet bekommen nicht nur einfach eine Email, sondern werden über Erinnerungen dieser Form direkt via
+push-Nachricht auf Ihrem Handy benachrichtigt.
+
+:::    
+
+Erfahren Sie weiter unten, wie Sie die Impferinnerung via Mail verschicken und wo Sie die fälligen Impferinnerungen sehen.  
 
 ![](../../static/img/Admin/Patient_impferinnerung2.png)  
 
@@ -78,3 +84,11 @@ Am Patienten müssen Sie nun folgende Schritte vornehmen:
 5. Klicken Sie nun das **Briefsymbol** um die Nachricht zu verschicken   
 
 ![](../../static/img/Admin/Impferinnerung_schicken.png)
+
+:::tip Tipp
+
+Nutzer der App aroundpet bekommen nicht nur einfach eine Email, sondern werden über Erinnerungen dieser Form direkt via
+push-Nachricht auf Ihrem Handy benachrichtigt.
+
+:::  
+
