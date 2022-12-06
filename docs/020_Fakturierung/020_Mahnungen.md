@@ -10,6 +10,14 @@ Für Nutzer von Collmex empfehlen wir aufgrund des weitaus größeren Funktionsu
 
 ## Mahnungen erstellen  
 
+:::caution Hinweis:
+
+Nur bereits gebuchte Rechnungen (in der Rechnungsübersicht "gelb") werden bei der Erstellung von Mahnungen berücksichtig. Prüfen Sie also bitte 
+immer,   
+
+:::  
+
+
 Klicken Sie auf **Fakturierung** (Euro Symbol) und dann **Mahnungen**. Wenn Sie diese Funktion noch nie genutzt haben, erscheinen
 hier zunächst keine Mahnungen aufgelistet.  
 
