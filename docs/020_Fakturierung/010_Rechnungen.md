@@ -303,7 +303,7 @@ Dann wählen Sie am Dropdown **Erlösart** den Punkt **innergemeinschaftliche Li
 
 Klicken Sie auf **Speichern** und fahren mit der Abrechnung/Zahlung nun wie gewohnt fort.
 
-## Rechnung als bezahlt setzen  
+## Rechnung als bezahlt setzen / Zahlung erfassen
 
 Damit der Rechnungsstatus auf "bezahlt" gesetzt wird, vor allem bei Rechnungen, die überwiesen werden, müssen Sie diesen selbst setzen.  
 
@@ -339,6 +339,29 @@ Nun wählen Sie, wo diese Zahlung eingegangen ist (meistens dann ja Bankkonto). 
 dann auf "erledigt/bezahlt" gesetzt.  
 
 ![](../../static/img/Rechnungen/bezahlt_setzen5.png)
+
+## Teilzahlungen erfassen  
+
+Sollte es vorkommen, dass ein Kunde nur einen Teil der Rechnung bezahlen kann und den Rest überweisen möchte, so empfehlen wir, mit einer Teilzahlung wie folgt umzugehen:
+
+1. Erstellen Sie die Rechnung mit der Zahlungsbedingung "Per Überweisung" 
+2. Buchen Sie die Rechnung und erfassen eine Zahlung
+3. Erfassen Sie die Zahlung, wie Sie erfolgte mit der Summe, die geleistet wurde
+(z.B. bar, 23,11, wenn Gesamtsumme 90,00 Euro und der Kunde 23,11 Euro bezahlt in bar) Die debevet Software fragt dann nach, ob es sich um eine Teilzahlung handelt, oder 
+Sie den Rest erlassen wollen (Skonto).   
+
+![](../../static/img/Rechnungen/teilzahlung_bei_rechnungzahlen.png)  
+
+Wenn Sie hier Teilzahlung wählen, wird dies so am Kunden hinterlegt.
+
+:::caution Achtung: 
+
+Die Summe der Rechnung wird nicht geändert- aber in der Übersicht der offenen Zahlungen am Kunden können Sie sehen, dass es eine Teilzahlung gab und welche Summe noch 
+offen ist. 
+
+![](../../static/img/Rechnungen/teilzahlungsansicht_kunde.png)  
+
+::: 
 
 ## Offene Rechnungen - offene Posten am Kunden
 
