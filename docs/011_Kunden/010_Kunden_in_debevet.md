@@ -121,13 +121,14 @@ Hier können verschiedene Verwaltungsinformationen zum Kunden bearbeitet werden.
 
 
 
-### Kunden E-Mail Adresse hinterlegen und verifizieren  
+### Kunden E-Mail Adresse hinterlegen und validieren
 
 **E-Mail:** Wenn Sie Dokumente (Rechnungen, Abgabebelege, Impferinnerungen, Briefe u.v.m.) über die integrierte Mailfunktion von debevet senden, so wird die hier hinterlegte Emailadresse verwendet.
 
 :::caution Achtung
 
-Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei "Emailversand an den Kunden erlaubt" auf aktiv gesetzt haben.
+Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei "Emailversand an den Kunden erlaubt" auf aktiv gesetzt haben. Sie haben aber auch die 
+Möglichkeit, stattdessen komplett die Validierung der Mailadresse zu nutzen.
 
 :::
 
@@ -145,9 +146,9 @@ können Sie vermeiden, dass evtl. falsche Mailadressen durch Tippfehler etc. ens
 Am Kunden ist nun das Feld zur Erlaubnis des Emailversandes grau. Die Verifzierung der Mailadresse stoßen Sie wie folgt an:
 
 1. Öffnen Sie den Kunden
-2. Klicken Sie auf **Erweitert** und dann **Email verfizieren**  
+2. Klicken Sie auf **Erweitert** und dann **Email validieren**  
 
-Der Kunde bekommt nun die Verifizierungsmail und muss diese bestätigen  
+Der Kunde bekommt nun die Bestätigungsmail und muss diese bestätigen. 
 
 ![](../../static/img/Kunden/email_ver2.png)
 
