@@ -116,17 +116,40 @@ Hier können verschiedene Verwaltungsinformationen zum Kunden bearbeitet werden.
 
 **Preisgruppen:** Sollten Sie mit verschiedenen Preis- bzw. Kundengruppen in debevet für Ihre Produkte (z.B. Medikamente, Futter, Dienstleistungen) arbeiten, so weisen Sie dem Kunden eine Preisgruppe zu. Ist keine gesetzt, wird der Standardpreis für die jeweiligen Produkte genommen. 
 
-**E-Mail:** Wenn Sie Dokumente (Rechnungen, Abgabebelege, Impferinnerungen, Briefe u.v.m.) über die integrierte Mailfunktion von debevet senden, so wird die hier hinterlegte Emailadresse verwendet.   
-
-:::caution Achtung  
-
-Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei "Emailversand an den Kunden erlaubt" auf aktiv gesetzt haben.   
-
-:::   
 
 **Umsatzsteuer-ID:** Im Bereich Steuerinformationen können Sie die Umsatzsteuer-ID des Kunden erfassen. Diese ist verpflichtend, sollten Sie ins europäische Ausland liefern (oder leisten) und keine Umsatzsteuer ausweisen. In der Druckausgabe der Rechnungen an diesen Kunden, kann debevet diese ID dann automatisch ausgeben, sofern gewünscht. 
 
-![Kunden_mailnutzen.png](../../static/img/Kunden/Kunden_mailnutzen.png)
+
+
+### Kunden E-Mail Adresse hinterlegen und verifizieren  
+
+**E-Mail:** Wenn Sie Dokumente (Rechnungen, Abgabebelege, Impferinnerungen, Briefe u.v.m.) über die integrierte Mailfunktion von debevet senden, so wird die hier hinterlegte Emailadresse verwendet.
+
+:::caution Achtung
+
+Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei "Emailversand an den Kunden erlaubt" auf aktiv gesetzt haben.
+
+:::
+
+![Kunden_mailnutzen.png](../../static/img/Kunden/Kunden_mailnutzen.png)  
+
+Wenn Sie auf diese manuelle Bestätigung mit dem Haken verzichten wollen und stattdessen die Mailadresse durch den Kunden verifizieren lassen wollen (so 
+können Sie vermeiden, dass evtl. falsche Mailadressen durch Tippfehler etc. enstehen können), gehen sie wie folgt vor: 
+
+1. Klicken Sie auf **Administration** und dann **Einstellungen**
+2. Klicken Sie auf den Reiter **Kunde** und setzen dort den Haken bei **Email-Versand an Kunde erlaubt sperren**
+3. Klicken Sie auf **Speichern**
+
+![](../../static/img/Kunden/email_ver1.png)  
+
+Am Kunden ist nun das Feld zur Erlaubnis des Emailversandes grau. Die Verifzierung der Mailadresse stoßen Sie wie folgt an:
+
+1. Öffnen Sie den Kunden
+2. Klicken Sie auf **Erweitert** und dann **Email verfizieren**  
+
+Der Kunde bekommt nun die Verifizierungsmail und muss diese bestätigen  
+
+![](../../static/img/Kunden/email_ver2.png)
 
 ## Auf gelöschte Kunden zugreifen
 
