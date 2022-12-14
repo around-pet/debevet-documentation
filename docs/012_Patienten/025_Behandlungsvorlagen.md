@@ -81,7 +81,7 @@ Um eine Vorlage nun in einer Behandlung zu nutzen, klicken Sie in der Behandlung
 
 Dort klicken Sie auf **Vorlage wählen**, wählen Ihre gewünschte Vorlage und dann den **grünen Button Anwenden**.  
 
-![](../../static/img/Patienten/vorlage_anwenden .png)
+![](../../static/img/Patienten/vorlage_anwenden.png)
 
 Die debevet Software fügt nun direkt alle Posten der Vorlage in Ihre Behandlung ein, inklusive evtl. hinterlegter Diagnose. 
 
