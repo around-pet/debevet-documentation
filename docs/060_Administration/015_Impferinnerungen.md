@@ -67,23 +67,17 @@ Im Vorschaufeld unten sehen Sie dann eine Vorschau, wie die Nachricht aussehen w
 
 ## Impferinnerung verschicken 
 
-Aktuell haben wir leider noch keine Möglichkeit für einen Massenversand der ausstehenden Impferinnerungen, aber wir arbeiten daran.
 
 Wenn Sie auf dem Dashboard die Anzeige der Impferinnerungen aktiviert haben, können Sie von dort direkt die ausstehenden Impferinnerungen aufrufen.  
 
-Klicken Sie entweder direkt auf den Patientennamen, oder unten auf "Mehr anzeigen", falls Ihre Liste sehr lang ist.  
+Klicken Sie in der Ansicht dieser Anzeige unten auf **Mehr anzeigen**.  
 
-![](../../static/img/Admin/Impferinnerung5.png)
+![](../../static/img/dashboard/impferinnerung_massenversand1.png)  
 
-Am Patienten müssen Sie nun folgende Schritte vornehmen:
+Nun können Sie in der Liste der Erinnerungen entweder alle oder einzelne mit klick in die **Checkboxen** markieren.
+Klicken Sie anschließend oben rechts auf das **Papierflieger-Symbol**. Direkt werden die Erinnerungen verschickt.
 
-1. Klicken Sie auf **Behandeln**  
-2. Klicken Sie oben in der Leiste das kleine **Briefsymbol**  
-3. Wählen Sie die passende Vorlage aus 
-4. Klicken Sie oben rechts **Speichern**
-5. Klicken Sie nun das **Briefsymbol** um die Nachricht zu verschicken   
-
-![](../../static/img/Admin/Impferinnerung_schicken.png)
+![](../../static/img/dashboard/impferinnerung_massenversand2.png)
 
 :::tip Tipp
 
