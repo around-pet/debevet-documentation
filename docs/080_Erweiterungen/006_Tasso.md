@@ -34,9 +34,9 @@ Klicken Sie dann auf **Aktivieren**.
 
 Um mit der debevet Software ein Tier direkt digital und live online zu registrieren, hinterlegen Sie zunächst alle Daten am Patienten (Chipnummer, Farbe, Name,etc.)  
 
-In der Ansicht des Patienten sehen Sie oben rechts den Button **Tasso**. Klicken Sie diesen.  
+In der Ansicht des Patienten sehen in der Sektion **Identifikation** den Tasso Button **registrieren**. Klicken Sie diesen an.
 
-![](../../static/img/erweiterungen/tasso_patient_button.png)  
+![](../../static/img/erweiterungen/tasso_button_reg.png)
 
 Eventuell fehlende Daten am Tier werden Ihnen nun als Fehlermeldung angezeigt. Sollte dies passieren, schließen sie das Fenster zunächst wieder und ergänzen die Daten.  
 
@@ -51,3 +51,7 @@ Klicken Sie nun unten den grünen Button **prüfen**.
 Die Daten werden geprüft, anschließend wird der grüne Button **registrieren** anklickbar. Klicken Sie diesen, um die Registrierung abzuschleießen.  
 
 ![](../../static/img/erweiterungen/tasso_registrieren.png)
+
+Bei einem durch Sie bei Tasso registrierten Patienten steht an der Sektion **Identifikation** nun das Datum der Registrierung und die Tasso Nummer.
+
+![](../../static/img/erweiterungen/tasso_fertig_reg.png)
