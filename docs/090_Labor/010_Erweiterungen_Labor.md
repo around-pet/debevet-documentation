@@ -33,13 +33,25 @@ Die Daten erhalten Sie direkt von IDEXX.
 
 ![](../../static/img/Labor/idexx-zugangsdaten.png)
 
-### Individuelle Praxis-Einstellungen
+### Individuelle Praxis-Einstellungen für Idexx
 
 Aktivieren Sie anschließend durch Ankreuzen, ob Sie externe (Untersuchungen im externen IDEXX-Labor) und/oder interne
 Laboraufträge (Untersuchung an Ihrer VetLab-Staion) in debevet managen möchten (beauftragen, abfragen und in der Kartei managen).
 
+![](../../static/img/erweiterungen/idexxpreise1.png)
+
 **Zur Behandlung hinzufügen:**   
 Legen Sie fest, ob und wann Labortests inkl. Preis in die Behandlungshistorie des Patienten (Kartei) übernommen werden.
+Dabei gibt es zwei Möglichkeiten: 
+1. Am Tag der Untersuchungsbeauftragung
+2. Am Tag des Endergebnisses
+
+:::caution Achtung
+
+Dabei handelt es sich NUR um die Abrechnungsposten. Das Ergebnis des Tests wird nach dem Import/Abrufen an den Tag zugeordnet, an dem
+Sie das Endergebnis abgerufen haben in die Kartei gelegt.
+
+:::
 
 **Fehlende Produkte autom. in Produktbestand übernehmen:**
 
@@ -59,11 +71,25 @@ Test zu deaktivieren, damit bei der nächsten Aktualisierung des Tests durch die
 Diese Funktion hat nur Auswirkung, wenn Sie im Bestellprozess keine Rechnung an den Tierhalter direkt veranlassen.
 Ist dies aktiviert, werden bei externen Tests die Preise für den Test in die Kartei übernommen, welche durch die IDEXX Ihrer Praxis berechnet werden.
 
+### Preisgestaltung 
+
+Sie haben mehrere Möglichkeiten:
+1. Sie berechnen nur den Tierarztpreis (Auslagen nicht berechnen)
+2. Sie berechnen den Brutto VK
+3. Sie lassen die Rechnung zum Brutto VK an den Tierhalter schicken 
+
 **Auslagen-Zuschlag:**
 
-Hier können Sie ein eigenes Auslagenprodukt (Dienstleistung) suchen und festlegen, dass dem Tierhalter für Ihre Auslage
-zusätzlich in Rechnung gestellt wird. Aktivieren Sie **Nur Auslagen berechnen** nicht und wählen keinen Auslagen-Zuschlag,
-werden die Verkausfspreise der IDEXX (Endkundenpreise) in die Kartei übernommen und können später von dort berechnet werden.
+Hier können Sie ein eigenes Auslagenprodukt (Dienstleistung, z.B. "GOT 144) suchen und festlegen, dass diese GOT Leistung beim 
+beantragen der Laborleistung immer direkt automatisch mit eingetragen und berechnet wird (das spart das manuelle eingeben). 
+
+Wenn Sie **Nur Auslagen berechnen** anklicken/aktivieren, rechnen Sie nur Ihren Tierarztpreis mit Ihrem Kunden ab. Der Auslagen Zuschlag bleibt davon unbeeinflusst.
+
+Aktivieren Sie **Nur Auslagen berechnen** nicht und wählen keinen Auslagen-Zuschlag,
+werden die Verkausfspreise der IDEXX (Endkundenpreise, brutto) in die Kartei übernommen und können später von dort berechnet werden.
+
+![](../../static/img/erweiterungen/idexxpreise2.png)
+
 
 Die weiteren Einstellungen für das interne Labor sind aktuell nicht abweichend einstellbar und werden aus den Einstellungen
 für das externe Labor übernommen.
