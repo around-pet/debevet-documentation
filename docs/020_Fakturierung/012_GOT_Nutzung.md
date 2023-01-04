@@ -37,6 +37,14 @@ den noch nicht importierten nur ein Kästchen.
 
 ![](../../static/img/Admin/got_import2.png)  
 
+Sie können nun entweder den gesamten Katalog, oder aber auch nur einzelne, evtl. fehlende Posten importieren. 
+
+Um einzelne Posten zu importieren, markieren Sie diese mit der Checkbox und klicken dann rechts das **Import-Symbol**.  
+
+![](../../static/img/Rechnungen/einzelnen_posten_import.png)
+
+Um den gesamten Katalog (nach Tierart gewählt) zu importieren, gehen Sie wie folgt vor:
+
 Sie klicken oben rechts auf **Katalog importieren**. Nun öffnet sich ein Fenster, in dem Sie wählen können, für welche Tierarten Sie die den Katalog benötigen.  
 
 ![](../../static/img/Admin/got_import3.png)
