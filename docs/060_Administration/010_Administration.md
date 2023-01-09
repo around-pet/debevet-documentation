@@ -421,6 +421,24 @@ Dort klicken Sie den Reiter **Fakturierung** und setzen dann den Haken bei "Klei
 
 ![](../../static/img/Admin/kleinunternehmer1.png)  
 
+Um die Rechnungen buchhalterisch korrekt verbuchen zu können, müssen Sie nun außerdem noch in der Buchhaltungserweiterung die 
+Steuerbefreiung hinterlegen. 
+Klicken Sie dazu auf **Administration** und dann **Erweiterungen**. Klicken Sie dann auf die Erweiterung, die Sie nutzen (hier im Beispiel
+in den Bildern die debevet Buchahltung, das Prinzip ist aber bei allen gleich). 
+
+Im Bereich der Erlöskonten müssen Sie den Dropdownpfeil an jeder Zeile klicken.
+
+![](../../static/img/Rechnungen/steuerfrei1.png)
+
+Dann öffnet sich die Auswahl, in der Sie "generell steuerbefreit" wählen.
+
+![](../../static/img/Rechnungen/steuerfrei2.png)  
+
+Nun ändern sich die grau hinterlegten Felder bei den Buchhaltungskonten und Sie müssen bei "Ust frei" das entsprechende Buchhaltungskonto
+hinterlegen. Fragen Sie hierzu bitte Ihren Steuerberater, welches Erlöskonto Sie nutzen sollen. (in SKR03 ist dies eigentlich 8195 und in SKR04 4185).
+
+![](../../static/img/Rechnungen/steuerfrei3.png)
+
 
  
 
