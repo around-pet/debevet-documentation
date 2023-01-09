@@ -145,6 +145,12 @@ Denken Sie daran, dass diese Option selbstverständlich VOR der Erstellung der R
 
 :::  
 
+Hier haben wir die Darstellung der verschiedenen Zusammenfassungen für Sie einmal dargestellt, damit Sie sich besser vorstellen können, was gemeint ist.
+
+1. Eine Rechnung, in der nichts zusammengefasst ist: [KLICK](../../static/img/Rechnungen/rechnung_nicht_zusammen.pdf)
+2. Dieselbe Rechnung, wenn Tag/Typ zusammengefasst ist: [KLICK](../../static/img/Rechnungen/tag_typ_zusammengefasst.pdf)
+3. Dieselbe Rechnung, wenn Tag/Typ und angewandte Medikamente zusammengefasst sind: [KLICK](../../static/img/Rechnungen/tagtypangewandtemedis_zusammengefasst.pdf)
+
 ## Sammelrechnungen erstellen
 
 Sie möchten für einen Kunden bzw. Besitzer für mehrere Tiere bzw. Patienten eine einzige Rechnung erstellen, also alle offenen Posten +auf einer Sammelrechnung drucken? 
