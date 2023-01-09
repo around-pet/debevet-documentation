@@ -145,9 +145,13 @@ Denken Sie daran, dass diese Option selbstverständlich VOR der Erstellung der R
 
 :::  
 
-Hier haben wir die Darstellung der verschiedenen Zusammenfassungen für Sie einmal dargestellt, damit Sie sich besser vorstellen können, was gemeint ist.
+:::info Beispiele:  
+
+Hier haben wir die Darstellung der verschiedenen Zusammenfassungen für Sie einmal nachgestellt, damit Sie sich besser vorstellen können, was gemeint ist.
+
 
 1. Eine Rechnung, in der nichts zusammengefasst ist: [KLICK](../../static/img/Rechnungen/rechnung_nicht_zusammen.pdf)
+2. Dieselbe Rechnung, in der die angewandten Medikamente (Abkürzung "M") zusammengefasst sind: [KLICK](../../static/img/Rechnungen/angewandte_medis_zusammengefasst.pdf)
 2. Dieselbe Rechnung, wenn Tag/Typ zusammengefasst ist: [KLICK](../../static/img/Rechnungen/tag_typ_zusammengefasst.pdf)
 3. Dieselbe Rechnung, wenn Tag/Typ und angewandte Medikamente zusammengefasst sind: [KLICK](../../static/img/Rechnungen/tagtypangewandtemedis_zusammengefasst.pdf)
 
