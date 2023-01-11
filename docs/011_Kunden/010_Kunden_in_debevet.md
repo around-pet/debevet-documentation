@@ -164,7 +164,6 @@ Klicken Sie auf **Kunden** und klicken dann den Dropdown Pfeil neben dem Suchenf
 Aktivieren Sie den Haken und bestätigen Sie Ihre Auswahl mit Klick auf das Lupensymbol.  
 
 
-
 ![kunden_geloeschte2.png](../../static/img/Kunden/kunden_geloeschte2.png)
   
 

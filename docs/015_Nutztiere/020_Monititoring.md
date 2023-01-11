@@ -1,6 +1,8 @@
 # Monitoring  
 
-Hier erklären wir die Nutzung der Monitoring Optionen mit HI-Tier und QS-Vetproof.  
+Hier erklären wir die Nutzung der Monitoring Optionen mit HI-Tier und QS-Vetproof. 
+Die Angaben am Kunden am Reiter "Betrieb" und der Sektion "Betrieb" sind für die HIT Schnittstelle nicht wichtig, sondern nur für
+QS(Vetproof).
 
 ## HI-Tier Anbindung einrichten
 
@@ -9,6 +11,11 @@ zunächst Ihre Praxisdaten, die Sie von HI-Tier bekommen haben, in Ihrem Account
 
 Klicken Sie dazu auf **Praxis** und dann **Einstellungen**. Dort gibt es den Reiter **Monitoring**. Dort können Sie die Zugangsdaten hinterlegen.
 Außerdem können Sie die Checkboxen setzen, welche Daten übermittelt werden sollen/müssen.
+
+Wenn Sie Bestände aus der HI-Tier abrufen möchten oder sogar Antibiotika-Anwendungen und Abgaben an HI-Tier melden möchten,
+so kreuzen Sie die Checkbox in diesem Bereich an und geben Sie in den entsprechenden Feldern Ihre Zugangsdaten zur HI-Tier ein. 
+Sollten Sie keine Mitbenutzer-Nummer besitzen, so lassen Sie dieses Feld bitte leer.
+
 Klicken Sie dann auf **Speichern**.
 
 ![](../../static/img/Nutztiere/HIT1.png)
@@ -36,6 +43,9 @@ Klicken Sie dazu auf den Kunden (oder legen diesen neu an) und klicken dann auf 
 ![](../../static/img/Nutztiere/betriebsdaten.png)
 
 Hier müssen nun die Daten des gewünschten Systems und die Daten des Betriebes generell eingegeben werden. Klicken Sie dann auf **Speichern**.
+Die Daten im obersten Feld **Betrieb** sind nur für Vetproof notwendig, für die HIT werden sie nicht benötigt.
+
+![](../../static/img/Nutztiere/betriebsdaten2.png)
 
 :::caution Achtung
 
