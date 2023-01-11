@@ -170,7 +170,7 @@ Aktivieren Sie den Haken und bestätigen Sie Ihre Auswahl mit Klick auf das Lupe
 
 Nun können Sie die gelöschten Kunden sehen, diese werden in der Übersicht rot hinterlegt.   
 
-![kunden_geloeschte_3.png](../../static/img/Kunden/kunden_geloeschte_3.png)
+![](../../static/img/Kunden/geloeschte_anzeigen_neu.png)
 
 :::tip Tipp  
 

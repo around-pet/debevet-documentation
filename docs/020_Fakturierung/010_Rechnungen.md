@@ -191,7 +191,7 @@ Sie sehen die ungefilterte Liste Ihrer Behandlungen. Klicken Sie nun neben der S
 Wählen Sie die Checkboxen bei **Rechnung ausstehend**, um alle Behandlungen bzw. Karteien anzuzeigen in denen für denen
 noch nicht fakturierte Positionen existieren.
 
-Wenn Sie zusätzlich die Checkbox  **Kunde** ankreuzen, werden die Beträge der noch nicht fakturierten Behandlungen bzw.
+Wenn Sie zusätzlich die Checkbox **Kunde** ankreuzen, werden die Beträge der noch nicht fakturierten Behandlungen bzw.
 Karteien eines Kunden summiert. Drücken Sie nun **Enter** oder klicken das **Lupen-Symbol**, um den Filter anzuwenden.
 
 ![](../../static/img/Rechnungen/sammelrechnung1.png)
