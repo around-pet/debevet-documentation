@@ -30,10 +30,6 @@ Klicken Sie dann auf **Speichern**.
 
 ![](../../static/img/Nutztiere/HIT1.png)
 
-Bitte beachten Sie die Anleitung weiter  zum Hinterlegen der Betriebsdaten. Besonders die Angaben im oberen Feld "Betrieb" sind
-für das QS-Vetproof von Bedeutung!
-
-![](../../static/img/Nutztiere/qsvetproof_1.png)
 
 ## Daten des Betriebes eingeben
 
