@@ -271,7 +271,11 @@ im passenden Feld ein. Anschließend müssen Sie mit Klick auf den **Haken** die
 :::danger ACHTUNG   
 
 Bedenken Sie, dass Sie vor Ausstellung von Reverse Charge Rechnungen verpflichtet sind, jede Umsatzsteuer ID Ihres Kunden selbst auf 
-Gültigkeit zu prüfen! Hierfür gibt es spezielle Online Portale.  
+Gültigkeit zu prüfen! Hierfür gibt es spezielle Online-Portale.  
+Sie müssen hier selbst manuell den blauen Haken anklicken, erst wenn dann blau unter der ID steht, dass diese von Ihnen bestätigt wird, funktioniert unser Reverse Charge
+System inkl. des Textes korrekt.   
+
+![](../../static/img/Patienten/umsatzsteuer_ver.png)
 
 :::  
 
