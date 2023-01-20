@@ -12,7 +12,38 @@ Dabei kann unterschieden werden in:
 
 Um eine Box zu erstellen, gibt es mehrere Wege. 
 
-### *1. Über die Patientenliste mit bereits vorhandenen Patienten*  
+Grundsätzlich unterscheidet man zwischen **anonymen Boxen** und **nicht anonymen Boxen**. Bei anonymen Boxen wird nur eine Gruppe erstellt, ohne zu wissen,
+welche Einzeltiere darin sind (also ohne Namen oder Ohrmarke bzw. Chipnummer).
+
+### *1. Tiere aus der HIT-Liste eines Landwirtes in Box zusammenfassen 
+
+Wenn Sie einen Betrieb als dessen zugelassener und bei der HIT hinterlegter Tierarzt betreuen, können Sie wie unter Monitoring beschrieben den Tierbestand abrufen.
+Ein typisches Anwendungsbeispiel wäre nun, eine Gruppe von 10 Tieren gemeinsam mit Trockenstellern versorgen zu wollen. Seit dem 1.1.2023 dürfen Sie dies nicht mer in einer 
+anonymen Box, sondern müssen mit den Ohrmarken eine nicht anonyme Box erstellen. 
+Bitten Sie den Landwirt, Ihnen die Ohrmarken der betreffenden Tiere mit der Tierkennung (5 Ziffern) vorzulesen.
+
+Sie öffnen am Kunden unter dem Reiter **Patienten** eine neue Box mit dem Klick auf das grüne Boxensymbol (wählen Sie die Tierart).  
+
+![](../../static/img/Nutztiere/hitbox1.png)   
+
+Benennen Sie nun die Box, z.B. Trockensteller" und geben unten in das Feld die 5 Ziffern der Ohrmarke ein. De debevet Software schlägt Ihnen dann direkt das passende
+Tier vor. Wählen Sie dies mit anklicken und verfahren nun nach und nach mit den gewünschten Tieren immer wieder genauso.
+
+![](../../static/img/Nutztiere/hitbox2.png)
+
+Klicken Sie dann oben rechts auf **Speichern** und behandeln Sie diese Box nun. 
+
+:::tip Tipp: 
+
+Wenn Sie nächstes mal eine andere Gruppe Tiere trockenstellen wollen, können Sie die Box erneut öffnen, die Tiere raus löschen und neue Tiere eintragen.
+Auf dem AUA Beleg waren ja die korrekten Ohrmarken einegtragen.
+Klicken Sie zum herauslöschen von Tieren aus der Box in der Box Ansicht einfach auf das **Mülleimer-Symbol**. 
+
+![](../../static/img/Nutztiere/hitboxaendern.png)  
+
+:::
+
+### *2. Über die Patientenliste mit bereits vorhandenen Patienten*  
 
 Klicken Sie **Praxis** und dann **Patienten**. Geben Sie in die Suche den Namen des Kunden (Patientenbesitzers) ein und drücken 
 Sie die **Entertaste** oder klicken auf das **Lupensymbol**.  
@@ -31,7 +62,7 @@ Bestätigen Sie diesen dann mit **Speichern**. Anschließend können Sie den **B
 
 ![](../../static/img/Patienten/boxen3.png)  
 
-### *2. Über die Patientenliste mit neuen Tieren*  
+### *3. Über die Patientenliste mit neuen Tieren*  
 
 Klicken Sie in der Patientenliste oben rechts den **Dropdown-Pfeil** und wählen Sie die **Tierart**, aus der die Box bestehen soll.  
 
