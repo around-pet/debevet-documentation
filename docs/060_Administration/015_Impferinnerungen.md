@@ -1,20 +1,26 @@
-# Impferinnerungen  
+# Impferinnerungen und Wiedervorstellungen
 
-Vor allem in der Kleintierpraxis ist das Verschicken von Impferinnerungen ein wichtiger Punkt. Viele von Ihnen haben dies bisher
+Vor allem in der Kleintierpraxis ist das Verschicken von Impferinnerungen und Wiedervorstellungen ein wichtiger Punkt. Viele von Ihnen haben dies bisher
 mit Postkarten oder Briefen erledigt. 
 
 Im Zeitalter der Digitalisierung empfiehlt sich, dies auch digital zu erledigen. Sie sparen Kosten, Zeit und Papier. 
 
-debevet bietet Ihnen die Möglichkeit, direkt auf dem Dashboard angezeigt zu bekommen, welche Kunden eine Impferinnerung bekommen sollen.   
+debevet bietet Ihnen die Möglichkeit, direkt auf dem Dashboard angezeigt zu bekommen, welche Kunden eine Impferinnerung bekommen sollen oder zur Wiedervorstellung 
+erinnert werden sollen.
 
-## Impferinnerung einzeln manuell erstellen  
+## Impferinnerung bzw. Wiedervorstellun einzeln manuell erstellen  
 
-Sie können an einem Patienten auch manuell eine einzelne/mehrere Impferinnerungen anlegen. Klicken Sie dazu **Praxis** und dann **Patienten**. 
+Sie können an einem Patienten auch manuell eine einzelne/mehrere Impferinnerungen bzw. Erinnerung zur Wiedervorstellung anlegen. Klicken Sie dazu **Praxis** und dann **Patienten**. 
 Suchen Sie den Patienten und klicken Sie dann auf seinen Namen in der Spalte "Rufname".  
 
 ![](../../static/img/Admin/Patient_impferinnerung1.png)  
 
-In der Detailansicht scrollen Sie dann etwas nach unten bis zum Abschnitt **Impferinnerungen**. Dort können Sie die Erinnerung mit Datum und Text eintragen. 
+In der Detailansicht scrollen Sie dann etwas nach unten bis zum Abschnitt **Erinnerungen**. Dort können Sie die Erinnerung mit Datum und Text eintragen. 
+
+Dort wählen Sie via Klick auf den **Dropdown-Pfeil**, welcher Typ Erinnerung erstellt werden soll (Impferinnerung oder Wiedervorstellung). Setzen Sie
+dann das Datum, an dem erinnert werden soll und Tragen den Namen der Erinnerung ein.  
+
+![](../../static/img/Patienten/erinnerungstyp.png)
 
 Klicken sie zur Eingabe das grüne Häkchen und dann oben rechts auf **Speichern**.
 
@@ -65,8 +71,21 @@ Im Vorschaufeld unten sehen Sie dann eine Vorschau, wie die Nachricht aussehen w
 
 ![](../../static/img/Admin/Impferinnerung3.png)
 
-## Impferinnerung verschicken 
+## Erinnerung verschicken 
 
+Sie können die Erinnerungen einzeln oder gesammelt verschicken. Entweder gehen Sie den Weg über Ihre Dashboard Anzeige, oder direkt über die Erinnerungen.
+
+### Über das Erinnerungen Menü  
+
+Klicken Sie **Praxis** und dann **Erinnerungen**. 
+
+![](../../static/img/Patienten/erinnerung_menue.png)
+
+Setzen Sie nun die Checkboxen der Erinnerungen auf aktiv, die verschickt werden sollen und klicken Sie dann oben rechts das **Papierflieger-Symbol**. 
+
+![](../../static/img/Patienten/erinnerung_menue_verschicken.png)
+
+### Über die Dashboard Übersicht
 
 Wenn Sie auf dem Dashboard die Anzeige der Impferinnerungen aktiviert haben, können Sie von dort direkt die ausstehenden Impferinnerungen aufrufen.  
 
@@ -85,4 +104,18 @@ Nutzer der App aroundpet bekommen nicht nur einfach eine Email, sondern werden �
 push-Nachricht auf Ihrem Handy benachrichtigt.
 
 :::  
+
+## Erinnerungen löschen 
+
+Falls Sie aus Versehen falsche oder doppelte Erinnerungen erstellt haben oder eine Erinnerung nicht mehr brauchen, können Sie diese 
+selbstverständlich auch wieder löschen. Dabei können Sie sowohl Wiedervorstelungen löschen, als auch Impferinnerungen löschen.  
+
+Klicken Sie unter **Praxis** auf **Erinnerungen**.  
+
+![](../../static/img/Patienten/erinnerung_menue.png)
+
+In der Liste wählen Sie nun mit Klick in die Checkboxen die Erinnerungen aus, die gelöscht werden sollen. Klicken Sie anschließend oben rechts auf das
+**Mülleimer-Symbol**.  
+
+![](../../static/img/Patienten/erinnerungen_loechen.png)
 
