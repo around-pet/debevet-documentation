@@ -35,6 +35,63 @@ zu bestätigen.
 
 ![](../../static/img/Warenwirtschaft/produkt_preise_best.png)  
 
+### Preise der Produkte 
+
+Wenn Sie die Barsoiliste nutzen, sind die Preise der Produkte damit bereits gesetzt.   
+
+Sollten Sie jedoch eigene Produkte anlegen wollen oder so wenige Medikamente haben, dass sich die Nutzung der Barsoiliste nicht lohnt, können Sie auch selbst die Preise der Medikamente oder Dienstleistungen 
+anlegen bzw. die Preise selbst eintragen. 
+
+Dabei gibt es beim Anlegen von **Medikamenten** einen automatisch eingebauten Rechner, der Ihnen die Arbeit abnimmt, die korrekten Verkaufspreise mit Mindermengenzuschlag etc.
+korrekt nach §3 der Arzneimittelverordnung  auszurechnen. 
+
+Hier erklären wir zunächst die Bereiche der Preise, damit Sie diese verstehen können.
+
+**Packungsgröße**   
+
+Bei Medikamenten müssen Sie die Packungsgröße setzen, damit bei der Berechnung der Einzelmengenpreise alles am Ende bei der Abgabe korrekt berechnet wird. 
+
+Wenn es beispielsweise eine Packung mit 60 Tabletten ist, geben Sie 60 ein und wählen aus dem Dropdown Menü "Tabletten".
+
+![](../../static/img/Warenwirtschaft/produktpreise1.png)   
+
+:::caution Achtung  
+
+Die Packungsgröße und der Bereich der automatischen Preisberechnung fehlt bei der Anlage von "Dienstleistungen" und "Sonstiges".
+
+:::  
+
+Tragen Sie nach der Packungsgröße nun den Mehrwertsteuersatz mit dem Dropdownmenü ein und Ihren Einkaufspreis (netto) in das Feld **Ek Netto**. 
+Klicken Sie dann auf den blauen Button **§3 AMPreisV**. 
+
+![](../../static/img/Warenwirtschaft/produktpreise2.png)  
+
+Die debevet Software berechnet den korrekten Preis nun automatisch. (Hier im Bild gut zu erkennen, da ich einen Beispielpreis von 100 Euro netto EK gesetzt habe). 
+
+![](../../static/img/Warenwirtschaft/produktpreise3.png)
+
+Um bei Dienstleistungen oder Medikamenten korrekt die Preise zu hinterlegen, müssen Sie verstehen, dass die Zeile neben **Standard** die
+Preise sind, die Ihre "normalen" Kunden dann bezahlen werden (die also in der Behandlung genutzt werden). Weitere Preise für Mitarbeiter, Züchter o.ä. legen Sie über
+Preisgruppen fest.
+
+Dabei tragen Sie idealerweise den Netto Preis ein, über den gewählten Mwst. Satz (bei Futtermitteln dann 7%) rechnet die debevet Software den Brutto Preis direkt aus. 
+
+![](../../static/img/Warenwirtschaft/standard_preise.png)
+
+Hier noch ein Bild, wie es aussehen kann, wenn in der nächsten Zeile die Beispielpreisgruppe "Züchter" (muss vorher angelegt werden) dann einen eigenen Preis bekommen 
+soll. 
+
+![](../../static/img/Warenwirtschaft/preise_verschiedene.png)
+
+:::danger ACHTUNG!
+
+Achten Sie darauf, dass Sie nicht bei "Ek netto" bzw. "Ek brutto" die Preise eintragen, die Sie verdienen wollen! Beim selbst Anlegen der Preise
+ist dies der Hauptfehler, den wir bei unseren Nutzern beobachten. Die Verkaufspreise (also die, die das Programm in der Behandlung dann nutzt) müssen 
+in der Zeile "Standard" stehen!  
+
+:::  
+
+
 ### Inventurpflicht  
 
 Eine praktische Funktion ist die Checkbox **Inventurpflichtig** bei Medikamenten. Wenn Sie dieses Feld aktivieren, wird bei
