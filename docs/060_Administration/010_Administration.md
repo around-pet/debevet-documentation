@@ -21,6 +21,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 Sie möchten, dass Ihre Mitarbeiter eigene Zugänge haben? Das ist bei debevet kein Problem, je nach Paket sind unterschiedlich
 viele Nutzer im Monatspreis bereits inbegriffen. Darüberhinaus können Sie jederzeit schnell und eigenständig mehr Nutzer zu buchen.  
 
+### Einen neuen oder weiteren Benutzer hinzufügen  
+
 Um einen neuen Benutzer anzulegen, müssen Sie in die Nutzerverwaltung. Klicken Sie unten links auf das **Personen-Symbol** mit Ihrem Admin Namen. 
 
 ![](../../static/img/Admin/benutzer_anlegen1.png)  
@@ -73,6 +75,44 @@ welche Rechte der Benutzer erhalten soll.
 ![](../../static/img/Admin/benutzerrechte2.png)  
 
 Klicken Sie anschließend oben rechts auf **Speichern**. 
+
+## Die Tierarzt ID am Benutzer hinterlegen 
+
+Um dem Mitarbeiter eine Tierarzt ID zuzuordnen (wichtig für die AUA Belege), gehen Sie wie folgt vor: 
+
+Klicken Sie unten links auf Ihren Namen und dann auf "Kundenkonto".   
+
+![](../../static/img/Admin/taid_hinterlegen1.png)  
+
+Dort klicken Sie auf "Benutzer"  
+
+![](../../static/img/Admin/taid_hinterlegen2.png)  
+
+Anschließend klicken Sie auf den Namen/ die Bezeichnung des betreffenden Mitarbeiters.  
+
+![](../../static/img/Admin/taid_hinterlegen3.png)  
+
+Nun klicken Sie den Reiter "Anwendungen"  
+
+![](../../static/img/Admin/taid_hinterlegen4.png)   
+
+Klicken Sie nun rechts das **kleine Zahnrädchen-Symbol**.  
+
+![](../../static/img/Admin/taid_hinterlegen5.png)   
+
+Nun finden Sie das Feld für **Tierarzt ID**. Tragen Sie die ID ein und klicken Sie dann oben rechts **Speichern**.  
+
+![](../../static/img/Admin/taid_hinterlegen6.png)  
+
+:::info Videotipp:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1c_6SG6ao4Y" title="YouTube video player" frameborder="0" allow="accelerometer; 
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+
+
+:::  
+
+
 
 ## Service Nutzer aktivieren 
 
