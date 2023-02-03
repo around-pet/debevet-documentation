@@ -109,6 +109,17 @@ das **Filtersymbol** und setzen dann den Haken bei "nur lagernd". In der nächst
 
 ![](../../static/img/Admin/nurlagernd2.png)
 
+### Symbole an den Medikamenten  
+
+Wenn Sie ein Medikament eingeben, wird Ihnen eine Vorschau an Treffern angezeigt. Um bei verschiedenen Packungsgrößen die korrekte zu wählen, 
+erklären wir hier kurz die kleinen Symbole:
+
+Das Symbol mit den vier Strichen zeigt die Packungsgröße und Einheit an, in diesem Beispiel einmal 30 und einmal 60, jeweils eine Tablette als Einheit.
+
+Das Symbol mit dem Warenkorb zeigt, wie viel Sie von dem Produkt aktuell in Ihrem Lagerbestand haben, in diesem Beispiel Null.   
+
+![](../../static/img/Kunden/wareerkennen.png)
+
 
 ## Diagnose einfügen 
 
