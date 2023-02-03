@@ -195,6 +195,28 @@ debevet heraus via Mail verschicken.
 Im Feld **Unterschrift** können Sie nun Ihre Signatur hinterlegen. Außerdem können Sie auf Wunsch auch weitere Mailadressen 
 eingeben, an die beispielsweise immer eine Kopie verschickt werden soll, oder eine alternative Antwortadresse setzen.  
 
+### Über eigenen Server Emails verschicken  
+
+Wenn Sie Ihren eigenen Mailserver hinterlegen wollen, um über IMAP Emails zu versenden, können Sie dies problemlos anlegen. Bedenken Sie aber bitte,
+dass wir keinen Support bieten, wenn Mails bei Ihren Kunden als Spam erkannt werden. 
+Bitte prüfen Sie Ihre eigene Mailadresse auf Spam-empfindlichkeit und sprechen dann mit dem IT Support, der für Ihren Mailserver verantwortlich ist. 
+Ein Beispiel Link zur Spam Prüfung ist hier zu finden (wir bieten KEINEN Support dafür):  
+
+[https://www.mail-tester.com/?lang=de](https://www.mail-tester.com/?lang=de)
+
+Klicken Sie in der Detailansicht bei dem Email Einstellungen auf den Haken "Standard", um diesen zu entfernen. 
+Nun können Sie weiter unten auf der Seite Ihre Server Daten hinterlegen.
+
+![](../../static/img/Admin/imapserver.png)
+
+:::tip Tipp zum Mailversand:  
+
+Wenn Sie sicher gehen möchten, ob Ihre Mails verschickt werden, können Sie bei jedem Mailversand eine Blindkopie an sich selbst verschicken lassen.
+Tragen Sie dazu oben im Feld "Blindkopie" Ihre eigene Mailadresse ein.  
+
+:::
+
+
 ## Zahlungsbedingungen  
 
 Natürlich haben Sie die Möglichkeit, selbst Zahlungsbedingungen anzugeben. Um die Zahlungsbedingungen zu bearbeiten oder neue hinzuzufügen
