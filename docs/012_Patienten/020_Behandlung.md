@@ -90,6 +90,17 @@ Aus der Liste Ihrer Produkte werden dann direkt die entsprechenden Posten (Vorsc
 
 Dabei können Sie Dienstleistungen, Medikamente oder alles Weitere aus Ihren angelegten/importieren Produkten nutzen. 
 
+### Nur lagernde Produkte suchen  
+
+Sie finden die gesuchten Medikamente nicht, oder finden die Ansicht zu unübersichtlich? Sie können sich, wenn Sie Warenbestände bereits angelegt haben,
+nur Ihre Lagernden Produkte anzeigen lassen.
+
+KLicken Sie dazu auf **Administration**, dann **Einstellungen** und dann den Reiter **Behandlung**
+
+Dann setzen Sie den Haken bei "nur lagernde Produkte suchen" und klicken anschließend oben rechts auf **Speichern**. 
+
+![](../../static/img/Admin/lagerndeprodukte.png)
+
 ## Diagnose einfügen 
 
 Um eine Diagnose zu hinterlegen, die auch auf der Rechnung gedruckt wird (Pflicht laut GOT!), geben Sie diese im Feld "**Behandlungseingabe** ein.   

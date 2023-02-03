@@ -92,7 +92,7 @@ Sie bekommen in der Auflistung direkt diverse wichtige Informationen:
 ![](../../static/img/Labor/labor_uebersicht1.png)  
 
 
-## Laborbefunde aktualisieren  
+## Laborbefunde abrufen
 
 :::caution Achtung  
 
@@ -104,6 +104,11 @@ Wählen Sie die Checkboxen der gewünschten Laborbefunde (oder alle durch Klick 
 Klicken Sie dann in der Laborübersicht oben rechts auf das **Aktualisierungs- Symbol**. 
 
 ![](../../static/img/Labor/labor_aktualisieren2.png)
+
+Alternativ können Sie auch an dem Patienten, den Sie gerade behandeln, die Laborbefunde einzeln noch einmal abrufen.
+Klicken Sie dazu in der Behandlung auf den Reiter **Labor**. Dort klicken Sie dannauf das **Aktualisierungs-Symbol**.  
+
+![](../../static/img/Labor/labor_update_patient.png)
 
 
 ## Laboraufträge suchen und finden  
