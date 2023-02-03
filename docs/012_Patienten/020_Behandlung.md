@@ -93,13 +93,22 @@ Dabei können Sie Dienstleistungen, Medikamente oder alles Weitere aus Ihren ang
 ### Nur lagernde Produkte suchen  
 
 Sie finden die gesuchten Medikamente nicht, oder finden die Ansicht zu unübersichtlich? Sie können sich, wenn Sie Warenbestände bereits angelegt haben,
-nur Ihre Lagernden Produkte anzeigen lassen.
+nur Ihre Lagernden Produkte anzeigen lassen. Dies geht entweder global (also für immer, bis auf erneut Änderung) oder nur für die eine Behandlungsansicht.
 
-KLicken Sie dazu auf **Administration**, dann **Einstellungen** und dann den Reiter **Behandlung**
+ **Global:** 
+ Klicken Sie dazu auf **Administration**, dann **Einstellungen** und dann den Reiter **Behandlung**
 
 Dann setzen Sie den Haken bei "nur lagernde Produkte suchen" und klicken anschließend oben rechts auf **Speichern**. 
 
 ![](../../static/img/Admin/lagerndeprodukte.png)
+
+**Nur für eine Behandlung:**  
+
+Um nur dieses eine Mal, in der aktuellen Eingabe nur lagernde Produkte anzuzeigen, klicken Sie rechts neben der Behandlungseingabe auf
+das **Filtersymbol** und setzen dann den Haken bei "nur lagernd". In der nächsten Behandlung werden Ihnen wieder alle Produkte angezeigt.  
+
+![](../../static/img/Admin/nurlagernd2.png)
+
 
 ## Diagnose einfügen 
 
