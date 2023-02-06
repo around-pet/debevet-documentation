@@ -18,7 +18,7 @@ Nun klicken Sie auf **registrieren**.
 
 In dem Fenster, was sich nun öffnet, tragen Sie Ihre Daten ein. Wenn Sie dann auf **Registrieren**.    
 
-![](../../static/img/erweiterungen/tasso_ registrierung1.png)  
+![](../../static/img/erweiterungen/tasso_registrierung1.png)
 
 Nun kommt der Registrierungssschlüssel via Email. Den Schlüssel müssen Sie nun noch aktivieren, indem Sie auf den Button in der Email klicken.
 
