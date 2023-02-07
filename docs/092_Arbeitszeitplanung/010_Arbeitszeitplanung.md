@@ -135,10 +135,13 @@ benötigt, kann außerdem eine DATEV Personalnummer hinterlegt werden.
 ![](../../static/img/arbeitszeit/mitarbeiterdaten.png)  
 
 Rechts haben Sie außerdem die Möglichkeit, die Gesamtstunden der Arbeitszeit pro Tag einzutragen sowie anzuklicken, ob die Arbeitszeiterfassung für diesen
-Mitarbeiter genutzt werden soll.   
+Mitarbeiter genutzt werden soll.
 
+![](../../static/img/arbeitszeit/arbeitszeitmitarbeiter.png) 
 
-![](../../static/img/arbeitszeit/arbeitszeitmitarbeiter.png)
+Wenn Sie eine Farbe und ein Bild an einem Mitarbeiter hinterlegt haben, sieht eine Ansicht beispielsweise in der Wochen-Schichtplanung so aus: 
+
+![](../../static/img/arbeitszeit/anschtmitbildundfarbe.png)
 
 
 
