@@ -319,3 +319,77 @@ erkannt und als **erledigt** zurück an debevet gegeben.
 
 :::  
 
+## Rechnungen via Lastschrifteinzug zahlen lassen  
+
+Sie haben Kunden, die Ihnen ein SEPA Mandat erteilt haben und möchten die Rechnungen per Lastschrift einziehen? Wenn Sie die Collmex Buchhaltung
+nutzen, ist dies problemlos machbar.
+
+
+### Lastschrift als Zahlungsbedingung anlegen   
+
+Zunächst müssen Sie allerdings die Zahlungsbedingung Bankeinzug (oder Lastschrifteinzug, oder Sepa, diese können Sie benennen, wie Sie mögen) anlegen.
+Klicken Sie dazu auf **Administration** und **Zahlungsbedingungen**.  
+Dort klicken Sie oben rechts das grüne **Plus-Symbol** und tragen anschließend die Daten inkl. Ihres gewünschten Rechnungstextes ein und klicken auf **Speichern**. 
+
+![](../../static/img/Rechnungen/lseinzug_zahlungsbedingung1.png)
+
+Nun klicken Sie **Administration** und  **Erweiterungen** und wählen dann bei Collmex "bearbeiten".  
+
+Scrollen Sie herunter bis zu den Zahlungsbedingungen und tragen wählen in der untersten Zeile via Dropdown die neue Zahlungsbedingung aus. Hinterlegen
+Sie die Buchhaltungskonten wie mit Ihrem Steuerberater besprochen (meistens dieselben wie bei Zahlung per Überweisung) und tragen diese ein. Bei **Nummer** können 
+Sie die "5" eintragen, diese ist bei Collmex als Bankeinzug hinterlegt. Klicken Sie den grünen Haken in der Zeile (rechts) 
+und dann oben rechts **Speichern**.  
+
+![](../../static/img/Rechnungen/lseinzug_zahlungsbedingungen2.png)  
+
+Ebenso verfahren Sie ein wenig weiter unten mit den Zahlungsarten. Vergessen Sie bitte nicht zu speichern!
+
+![](../../static/img/Rechnungen/lseinzug_zahlungsarten.png)
+
+### SEPA Daten am Kunden hinterlegen   
+
+Nun können Sie den Kunden öffnen, der via Bankeinzug zahlen möchte. Klicken Sie dort auf den Reiter **Konten**. Anschließend 
+klicken Sie auf **Bankverbindung anlegen**.  
+
+![](../../static/img/Rechnungen/lseinzug_kundenkonto.png)  
+
+Tragen Sie nun alle Daten ein und denken Sie vor allem an die SEPA Mandatsreferenz.Bei Fragen dazu sprechen Sie bitte mit Ihrem Bankberater.    
+
+Nachdem Sie diese Daten hinterlegt haben, können Sie beim Erstellen von Rechnungen nun einfach am Kunden die Zahlungsbedingung "Lastschrifteinzug" wählen.
+
+### Lastschrift mit Collmex einziehen   
+
+Natürlich können Sie nur Lastschriften einziehen, wenn Ihr Konto im Onlinebanking an Collmex angebunden ist. Um die Zeitspanne einzustellen, wann Collmex eine 
+Lastschriftrechnung als "offen" erkennt, müssen Sie diese Frist in den Zahlungsbedingungen auf die gewünschte Zeit setzen. (Standard sind dort 14 Tage!).
+
+Klicken Sie dazu, wenn Sie bei Collmex eingeloggt sind, auf **Verwaltung** und dann **Zahlungsbedingungen**. 
+
+![](../../static/img/Rechnungen/collmex_zahlungsbed1.png)   
+
+Dort wählen Sie bei **Bankeinzug** dann **Anzeigen**.  
+
+![](../../static/img/Rechnungen/collmex_bankeinzug1.png)  
+
+Hier setzen Sie nun bei "Einzug nach x Tagen" die gewünschte Zahl und speichern.  
+
+![](../../static/img/Rechnungen/collmex_bankeinzug2.png)  
+
+Wenn Sie nun den Einzug erstellen wollen, klicken Sie wieder den Reiter **Buchhaltung**. In der Sektion "Überweisung/Lastschrift" wählen Sie
+**Zahlung anlegen**.  
+
+![](../../static/img/Rechnungen/lastschrifteinzug_collmex.png)  
+
+Am Dropdownmenü wählen Sie bitte aus Lastschrift und Überweisung die Option **Lastschrift**.   
+
+![](../../static/img/Rechnungen/lseinzug_collmex2.png)  
+
+Klicken Sie nun auf **Offene Posten suchen**.  
+
+![](../../static/img/Rechnungen/lseinzu_collmex3.png)  
+
+Wenn die oben eingestellten Tage nach Erstellung der Rechnung nun verstrichen sind, werden diese (und andere offene) Rechnungen nun hier aufgelistet. 
+Sie können markieren, welche Sie einziehen möchten und dann auf **Zahlung anlegen und bearbeiten** klicken. 
+
+![](../../static/img/Rechnungen/lseinzug_collmex4.png)  
+
+Folgen Sie dann den weiteren Schritten, um die Summe einzuziehen. 
