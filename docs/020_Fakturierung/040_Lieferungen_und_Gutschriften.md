@@ -127,7 +127,7 @@ Klicken Sie zunächst auf **Administration** und dann **Zahlungsbedingungen**. K
 
 ![](../../static/img/Rechnungen/gutschriftzahlung1.png)  
 
-Tragen Sie nun den Namen und den gewünschten Gutschriftstext ein. Wir empfehlen, einmal eien Zahlungsbedingung für eine Barauszahlung und einmal eine für eine 
+Tragen Sie nun den Namen und den gewünschten Gutschriftstext ein. Wir empfehlen, einmal eine Zahlungsbedingung für eine Barauszahlung und einmal eine für eine 
 Rücküberweisung anzulegen.   
 
 :::caution Achtung:  
