@@ -38,6 +38,12 @@ den Warenbestand buchen wollen.
 Falls Sie einem Kunden aus verschiedenen Gründen etwas zurückerstatten möchten, können Sie dies über **Gutschriften** rechtlich korrekt
 erledigen. 
 
+:::tip Tipp: 
+Damit die Texte auf der Gutschrift nicht die einer Rechnung sind, sollten Sie eigene Zahlungsbedingungen und Texte für Gutschriften anlegen. Wie Sie dies 
+erledigen, erfahren Sie weiter unten auf dieser Seite.  
+
+:::  
+
 Dafür gibt es zwei Wege: Aus der Rechnung des Kunden oder eine frei erstellte Gutschrift
 
 ### 1. Aus der Rechnung des Kunden
@@ -104,5 +110,58 @@ um diese zu öffnen. Klicken Sie nun oben rechts **Erweitert** und dann **Zahlun
 Nun können Sie das Datum, die Summe und die Art der Zahlung wählen.  
 
 ![](../../static/img/Rechnungen/re_gutschrift5.png)
+
+## Text und Rückzahlungsbedingungen der Gutschrift anlegen 
+
+Normalerweise würde bei der Gutschrift der Standard Rechnungstext verwendet werden, was für Ihre Kunden natürlich verwirrend ist.  
+
+Da im debevet die Texte an Zahlungsbedingungen geknüpft sind, müssen Sie zwei Schritte erledigen, damit die Texte auf der Gutschrift klarer verständlich für Ihre 
+Kunden sind:
+
+* Zahlungsbedingunen inkl. Text und Buchhaltungsbedingungen hinterlegen
+* Texte (Email und Gutschriftstext) hinterlegen
+
+### Gutschrift Zahlungsbedingungen anlegen  
+
+Klicken Sie zunächst auf **Administration** und dann **Zahlungsbedingungen**. Klicken Sie nun auf das **grüne Plus-Symbol** oben rechts.
+
+![](../../static/img/Rechnungen/gutschriftzahlung1.png)  
+
+Tragen Sie nun den Namen und den gewünschten Gutschriftstext ein. Wir empfehlen, einmal eien Zahlungsbedingung für eine Barauszahlung und einmal eine für eine 
+Rücküberweisung anzulegen.   
+
+:::caution Achtung:  
+
+Die debevet Software kann niemals Gutschriften automatisch bei folgenden Rechnungen abziehen oder verrechnen. Gutschriften müssen immer an den Kunden
+ausbezahlt werden.  
+
+:::   
+
+Anschließend müssen Sie in Ihrer Buchhaltungserweiterung (außer bei Nutzung von Lexoffice) die beiden Zahlungsbedingungen korrekt hinterlegen. 
+
+Klicken Sie **Administration** und dann **Erweiterungen** und dann an Ihrer genutzten Buchhaltungserweiterung auf **bearbeiten**. 
+
+Nun wählen Sie unter **Zahlungsbedingungen** via Dropdown-Pfeil in der untersten Zeile eine der neuen Zahlungsbedingungen.   
+
+![](../../static/img/Rechnungen/gutschriftzahlung3.png)   
+
+Bei den Konten tragen Sie bei der Barauszahlung der Gutschrift dieselben Daten wie bei "Barzahlung" ein und bei "Rückzahlung per Überweisung" dieselben wie
+bei "Überweisung".  
+Setzen Sie außerdem das Häkchen bei **Anzeigen**, wenn Sie diese Zahlungsbedingung auch auf dem Dashboard sehen möchten.  
+
+![](../../static/img/Rechnungen/gutschriftzahlung4.png)
+
+Klicken Sie anschließend oben rechts auf **Speichern**.
+
+### Gutschrift Texte hinterlegen  
+
+Nun sollten Sie, damit es für Ihre Kunden noch verständlicher ist, die Texte der Gutschriften und der Gutschrifts-Email (falls Sie diese via Mail versenden) anlegen. 
+
+Klicken Sie auf **Administration** und dann **Textbausteine**. 
+
+Hier gibt es unter den Standardtexten 3 Texte, die zu den Gutschriften gehören. Diese können Sie sich nun nach Ihren Wünschen anpassen. 
+Um einen Text zu bearbeiten, klicken sie auf den Namen des jeweiligen Textes. Passen Sie diesen an und klicken Sie anschließend auf **Speichern**. 
+
+![](../../static/img/Rechnungen/gutschrift_texte.png)
 
 
