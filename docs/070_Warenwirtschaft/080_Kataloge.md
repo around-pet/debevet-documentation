@@ -96,13 +96,19 @@ Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **
 
 ![](../../static/img/Admin/import3.png)
  
-Nun klicken Sie auf das **Wolkensymbol** und wählen dann die Datei, die Sie auf Ihrem Rechner haben. (Diese können Sie bei Bardoi erwerben!).
+Nun klicken Sie auf das **Wolkensymbol** und wählen dann die zip Datei, die NUR die Barsoi.xml Datei enthalten darf. 
+
+:::tip Tip:  
+
+Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten in den Fragen zur Barsoi dazu einen Hilfetext angelegt.   
+
+:::
 
 Wichtig ist, dass Sie sich entscheiden, ob existierende Einträge übersprungen werden sollen. Wenn Sie beispielsweise sehr viele
 indivduelle Anpassungen haben, kann dies sinnvoll sein, damit diese nicht überschrieben werden. Allerdings werden dann **GAR KEINE** Informationen 
 für diese Produkte aktualisiert, auch nicht der Preis. 
 
-Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen.  
+**Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen. ** 
 
 ![](../../static/img/Admin/import4.png)
 
@@ -150,5 +156,23 @@ Ja, wenn Sie den Haken bei "vorhandene überspringen" herausnehmen, werden alle 
 
 Leider nein, tut uns leid.
 
+### Was ist eine zip Datei?
 
+Für diejenigen von Ihnen mit weniger Computer Erfahrung haben wir hier eine kleine, sehr stark vereinfachte Erklärung eingefügt, was eine zip Datei ist.
+
+Sie können sich eine zip Datei vorstellen, wie ein Paket: 
+
+* Eine oder mehrere Dateien sind in diesem Paket verpackt ( das nennt man "gepackt" oder "gezipped")
+* So können die Dateien einfacher und kompakter transportiert/verschickt werden (sie sind auch im Datenvolumen dann kleiner)
+
+Um an die Dateien heranzukommen, muss man die Datei dann "entpacken" oder "entzippen". 
+
+Jeder Computer kann zip Dateien sowohl **packen/zippen** als auch **entpacken/entzippen**. Bei Windows Rechnern muss dazu mit der rechten Maustaste auf eine Datei
+geklickt werden und dann entweder das packen oder entpacken gewählt werden.
+Beim Mac muss zum entpacken mit einem Doppelklick auf die zip Datei geklickt werden, zum packen mit "Rechtsklick" und dann "xxx (Dateiname) komprimieren" gewählt werden. 
+
+Die Barsoi liefert beim Download eine zip Datei, in der die Datei barsoi.xml enthalten ist. Sollten noch weitere Dateien in der zip Datei enthalten sein, 
+müssen Sie die korrekte Datei "Barsoi.xml" einzeln packen. Hilfetexte, wie Sie dies erledigen können, finden Sie bei Google. 
+
+![](../../static/img/Warenwirtschaft/zipdatei.png)
 

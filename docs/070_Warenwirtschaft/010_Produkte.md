@@ -127,7 +127,8 @@ Denken Sie daran, nach der Eingabe erst den **grünen Haken** zu klicken und ans
 
 :::danger  ACHTUNG  
 
-Die Wartezeiten werden leider nicht aus der Barsoi Liste überliefert, Sie müssen diese also manuell anlegen. 
+Die Wartezeiten werden in einigen Versionen der Barsoi Liste überliefert, aber oftmals fehlen die Verabreichungsformen und oder Tierarten.
+Wenn diese Daten fehlen, hat Barsoi diese nicht überliefert. Tragen Sie diese bitte manuell ein und/oder wenden sich direkt an Barsoi.
 
 :::
 
