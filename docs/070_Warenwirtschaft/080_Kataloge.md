@@ -98,9 +98,12 @@ Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **
  
 Nun klicken Sie auf das **Wolkensymbol** und wählen dann die zip Datei, die NUR die Barsoi.xml Datei enthalten darf. 
 
+Wenn Sie Mac User sind, bitten wir Sie, die Dateien nicht direkt mit dem Mac zu zippen, sondern beispielsweise hier:
+https://www.ezyzip.com/dateien-online-komprimieren.html
+
 :::tip Tip:  
 
-Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten in den Fragen zur Barsoi dazu einen Hilfetext angelegt.   
+Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten (in den Fragen zur Barsoi) dazu einen Hilfetext angelegt.   
 
 :::
 
@@ -169,10 +172,16 @@ Um an die Dateien heranzukommen, muss man die Datei dann "entpacken" oder "entzi
 
 Jeder Computer kann zip Dateien sowohl **packen/zippen** als auch **entpacken/entzippen**. Bei Windows Rechnern muss dazu mit der rechten Maustaste auf eine Datei
 geklickt werden und dann entweder das packen oder entpacken gewählt werden.
-Beim Mac muss zum entpacken mit einem Doppelklick auf die zip Datei geklickt werden, zum packen mit "Rechtsklick" und dann "xxx (Dateiname) komprimieren" gewählt werden. 
+Beim Mac muss zum entpacken mit einem Doppelklick auf die zip Datei geklickt werden, zum packen nutzen Sie mit einem Mac bitte den weiter unten aufgeführten Link.  
 
 Die Barsoi liefert beim Download eine zip Datei, in der die Datei barsoi.xml enthalten ist. Sollten noch weitere Dateien in der zip Datei enthalten sein, 
 müssen Sie die korrekte Datei "Barsoi.xml" einzeln packen. Hilfetexte, wie Sie dies erledigen können, finden Sie bei Google. 
+
+Hier haben wir noch einen Link, der Ihnen sehr einfach eine zip Datei erstellen kann, wenn Sie dort die barsoi.xml Datei hochladen. Auf diesem Weg können Sie dann sicher sein,
+dass nur eine Datei gepackt wird (besonders wichtig für Mac Nutzer, da dort sonst im Hintergrund noch MacOS Dateien erstellt werden, weshalb der Upload dann nicht funktioniert).
+
+https://www.ezyzip.com/dateien-online-komprimieren.html
+
 
 ![](../../static/img/Warenwirtschaft/zipdatei.png)
 
