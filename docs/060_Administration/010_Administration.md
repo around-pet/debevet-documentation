@@ -212,7 +212,9 @@ Nun können Sie weiter unten auf der Seite Ihre Server Daten hinterlegen.
 :::tip Tipp zum Mailversand:  
 
 Wenn Sie sicher gehen möchten, ob Ihre Mails verschickt werden, können Sie bei jedem Mailversand eine Blindkopie an sich selbst verschicken lassen.
-Tragen Sie dazu oben im Feld "Blindkopie" Ihre eigene Mailadresse ein.  
+Tragen Sie dazu oben im Feld "Blindkopie" Ihre eigene Mailadresse ein.    
+
+![](../../static/img/Admin/blindkopie.png)
 
 :::
 
