@@ -19,6 +19,12 @@ Wenn Sie das Medikament nun oben neben **Heute** eingeben und auf den Mengenrech
 eingeben. Außerdem können Sie dort die Anweisung je nach Anwendungsfall wählen. KLicken Sie dazu auf den **Dropdown-Pfeil** neben
 **Anweisung**.
 
+:::tip Tipp:  
+Wenn Sie für mehere Tiere/Gruppen eines Landwirtes einen gesammelten AUA erstellen möchten, schauen Sie weiter unten hier im Text.  
+
+:::  
+
+
 ![](../../static/img/Nutztiere/anweisung-wahl1.png)  
 
 Nun müssen Sie mit einem der drei grünen Haken wählen, ob Sie von der berechneten, benötigten Menge:  
@@ -159,6 +165,17 @@ oben rechts auf das **Buch-Symbol**.
 Wenn Sie direkt mehrere angewählt haben, können Sie  mit den Pfeilen oben rechts <  > von Beleg zu Beleg wechseln.
 
 :::
+
+### Sammel AUA erstellen  
+
+Sie haben bei einem Landwirt mehrere Tiere bzw. Tiergruppen behandelt und möchten nicht für jede Gruppe einzeln den AUA erstellen, sondern einen
+gesammelten?
+Die Vorgehensweise ist dieselbe, wie im Schritt "ausstehehende AUA Belege anzeigen", nur, dass Sie in der erweiterten Suche auch den Haken "Kunde" setzen 
+müssen. 
+Wenn Sie anschließend die AUA Belege erstellen, sind diese gesammelt für alle Tiere dieses Landwirtes.  
+
+![](../../static/img/Nutztiere/sammel_aua.png)
+
 
 ### Antibiotika-Monitoring
 
