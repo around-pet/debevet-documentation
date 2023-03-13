@@ -1,17 +1,22 @@
 # Gewichte im Nutztiersektor
 
-Für Erstellung der AUA Belege bei der Abgabe/Anwendung ist es wichtig für Sie, Schätzgewichte für die Tiere zu haben. 
+Für Erstellung der AUA Belege bei der Abgabe/Anwendung ist es wichtig für Sie, Schätzgewichte für die Tiere zu haben.  
 
-Um diese zu hinterlegen, gibt es mehrere Wege:
+Bitte beachten Sie, dass beim Import aus der HIT nicht automatisch Gewichte an den Nutzungarten hinterlegt werden. (Selbst, wenn Sie Gewichte 
+an den jeweiligen Nutzungsarten hinterlegt haben, Stand März 2023)
 
-1. **Direkt beim Behandeln**
+## Gewicht anlegen Rind/Schwein  
+
+Um die Gewichte zu hinterlegen, gibt es mehrere Wege:
+
+### 1. **Direkt beim Behandeln**
 
 Um hier schnell ein Gewicht bei einem einzelnen Tier (oder bei einer Box das Gewicht pro Tier) zu hinterlegen, können Sie dies
 direkt links unten in der Patientenkartei eintragen.  
 
 ![](../../static/img/Nutztiere/gewichteintragen1.png)   
 
-2. **Beim Anlegen des Patienten**
+### 2. **Beim Anlegen des Patienten**
 
 Wenn Sie auf **Praxis** und dann **Patienten** klicken, können Sie sowohl beim neuen Erstellen, als auch beim Bearbeiten eines Patienten 
 das Gewicht beim Patienten hinterlegen. 
@@ -23,7 +28,7 @@ um dieses einzugeben. KLicken Sie anschließend oben rechts auf **Speichern**.
 
 ![](../../static/img/Nutztiere/gewichtanlegen2.png)  
 
-3. Pauschale Gewichte pro Nutzungsart anlegen  
+### 3. Pauschale Gewichte pro Nutzungsart anlegen  
 
 Nützlich, um dauerhaft Zeit zu sparen ist es, bei den Nutzungsarten die Gewichte zu hinterlegen.  
 Um diese Funktion zu nutzen, klicken Sie **Patienten** und dann **Tierarten**. 
@@ -48,5 +53,36 @@ So sparen Sie sich den Schritt des Gewicht-eingebens.
 Obwohl dann am Tier in dieser Ansicht das Feld bei "Gewicht" leer ist, wird beim Anlegen des AUA Beleges ein Gewicht eingetragen.  
 
 :::
+
+### 4. Für eine Box ein Gewicht hinterlegen  
+
+Für anonyme Boxen ist es sehr einfach, ein Schätzgewicht pro Tier einzutragen. Dieses können Sie direkt in der Behandlung eingeben wie bei einem Einzeltier:
+
+![](../../static/img/Nutztiere/anonyme_box_gewicht.png)  
+
+Für nicht-anonyme Boxen müssen Sie den Weg über die Nutzungsarten gehen. Sie können die gewünschten Tiere einfach in einer nicht anonymen Box gruppieren. 
+
+Achten Sie dabei darauf, dass Sie die Tiere so gruppieren, dass diese alle in eine Nutzungsart fallen. Die Nutzungsarten legen Sie ja selbst an,
+dabei kann das Gewicht aus dieser Liste nur dann korrekt übernommen werden, wenn die Faktoren  
+
+* Geschlecht  
+* Alter   
+
+der Gruppe (Box) auch zueinander passt.   
+
+Der Grund hierfür liegt darin, dass es nicht möglich wäre, auf einem Gruppen-AUA Beleg verschiedene Gewichte für jedes Tier einer Gruppe darzustellen.   
+
+Handelt es sich beispielweise um eine Gruppe männlicher Mastkälber, die ein gewisses Alter nicht überschreiten, können Sie diese in die entsprechende Nutzungsart 
+einordnen (nachdem Sie die Nutzungsarten Tabelle ausgefüllt haben).  Dies kann an der Patientenansicht oder in der Behandlungsansicht ausgewählt werden.  
+
+![](../../static/img/Nutztiere/boxen_gewicht1.png)  
+
+![](../../static/img/Nutztiere/boxen_gewicht2.png)   
+
+Auf dem AUA-Beleg für diese nicht anonyme Gruppe/Box wird oben eine Referenzierung angezeigt, welche weiter unten dann mit den Gewichten erläutert wird.   
+
+![](../../static/img/Nutztiere/aua_boxengewicht.png)
+
+
 
 
