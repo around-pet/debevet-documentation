@@ -9,14 +9,14 @@ an den jeweiligen Nutzungsarten hinterlegt haben, Stand März 2023)
 
 Um die Gewichte zu hinterlegen, gibt es mehrere Wege:
 
-### 1. **Direkt beim Behandeln**
+### 1. Direkt beim Behandeln
 
 Um hier schnell ein Gewicht bei einem einzelnen Tier (oder bei einer Box das Gewicht pro Tier) zu hinterlegen, können Sie dies
 direkt links unten in der Patientenkartei eintragen.  
 
 ![](../../static/img/Nutztiere/gewichteintragen1.png)   
 
-### 2. **Beim Anlegen des Patienten**
+### 2. Beim Anlegen des Patienten
 
 Wenn Sie auf **Praxis** und dann **Patienten** klicken, können Sie sowohl beim neuen Erstellen, als auch beim Bearbeiten eines Patienten 
 das Gewicht beim Patienten hinterlegen. 
@@ -54,7 +54,7 @@ Obwohl dann am Tier in dieser Ansicht das Feld bei "Gewicht" leer ist, wird beim
 
 :::
 
-### 4. Für eine Box ein Gewicht hinterlegen  
+### 4. Gewicht für eine Box hinterlegen  
 
 Für anonyme Boxen ist es sehr einfach, ein Schätzgewicht pro Tier einzutragen. Dieses können Sie direkt in der Behandlung eingeben wie bei einem Einzeltier:
 
@@ -82,6 +82,15 @@ einordnen (nachdem Sie die Nutzungsarten Tabelle ausgefüllt haben).  Dies kann 
 Auf dem AUA-Beleg für diese nicht anonyme Gruppe/Box wird oben eine Referenzierung angezeigt, welche weiter unten dann mit den Gewichten erläutert wird.   
 
 ![](../../static/img/Nutztiere/aua_boxengewicht.png)
+
+
+:::tip Tipp: 
+
+Wenn die Tiere älter werden und somit in eine andere Nutzungsart fallen, können Sie ganz einfach die Nutzungsart ändern. Damit wird dann auch das Gewicht der 
+Gruppe geändert. (Eben enstprechend der von Ihnen angelegten Werte für das entsprechende Alter).   
+
+:::  
+
 
 
 
