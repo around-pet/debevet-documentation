@@ -2,7 +2,8 @@
 
 Für Erstellung der AUA Belege bei der Abgabe/Anwendung ist es wichtig für Sie, Schätzgewichte für die Tiere zu haben.  
 
-Bitte beachten Sie, dass beim Import aus der HIT die  
+Bitte beachten Sie, dass beim Import aus der HIT die Nutzungsarten NICHT mit importiert werden. 
+
 ## Gewicht anlegen Rind/Schwein  
 
 Um die Gewichte zu hinterlegen, gibt es mehrere Wege:
