@@ -2,9 +2,7 @@
 
 Für Erstellung der AUA Belege bei der Abgabe/Anwendung ist es wichtig für Sie, Schätzgewichte für die Tiere zu haben.  
 
-Bitte beachten Sie, dass beim Import aus der HIT nicht automatisch Gewichte an den Nutzungarten hinterlegt werden. (Selbst, wenn Sie Gewichte 
-an den jeweiligen Nutzungsarten hinterlegt haben, Stand März 2023)
-
+Bitte beachten Sie, dass beim Import aus der HIT die  
 ## Gewicht anlegen Rind/Schwein  
 
 Um die Gewichte zu hinterlegen, gibt es mehrere Wege:
@@ -22,9 +20,9 @@ Wenn Sie auf **Praxis** und dann **Patienten** klicken, können Sie sowohl beim 
 das Gewicht beim Patienten hinterlegen. 
 
 Öffnen Sie den gewünschten Patienten und klicken Sie dann den Reiter **Gewicht**.
-
+ 
 Dort sehen Sie rechts eine Liste mit Gewichtsverlauf, wobei Sie ein neues Gewicht eintragen können und dann den **grünen Haken** klicken
-um dieses einzugeben. KLicken Sie anschließend oben rechts auf **Speichern**.  
+um dieses einzugeben. Klicken Sie anschließend oben rechts auf **Speichern**.  
 
 ![](../../static/img/Nutztiere/gewichtanlegen2.png)  
 
