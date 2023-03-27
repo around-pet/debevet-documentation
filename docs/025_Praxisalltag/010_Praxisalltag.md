@@ -120,7 +120,7 @@ Wie Sie einen Warenbestand korrigieren, erfahren Sie hier:
 
 [Wrenbestand korrigieren](https://handbuch.debevet.de/Sdocs/Warenwirtschaft/Warenbest%C3%A4nde#warenbestand-korrigieren)   
 
-## Kunde hat zu viel Geld überwiesen/ Umgang mit Überzahlungen  
+## 6. Kunde hat zu viel Geld überwiesen/ Umgang mit Überzahlungen  
 
 Falls Sie Rechnungen via Überweisung zahlen lassen und ein Kunde zu viel Geld überweist, müssen Sie dieses ja dennoch als Zahlungseingang verbuchen. 
 
@@ -160,6 +160,37 @@ Löschen Sie **ALLE**Posten in der Gutschrift und ergänzen dann das angelegte P
 Wie Sie eine Gutschrift aus einer Rechnung erstellen, erfahren Sie hier: 
 
 [Gutschriften erstellen](/docs/Fakturierung/Lieferungen_und_Gutschriften#gutschriften)
+
+## 7. Die Umsätze aus Futterverkauf / 7% MwSt. einsehen  
+
+Oftmals erreichen uns Anfragen, wie Sie für den Steuerberater darstellen können, welche Umsätze aus den 7% Verkäufen (also Futttermittel und Futterzusatz-Präparate)
+generiert wurden. 
+Wenn Sie Ihre Belege digital an den Steuerberater senden, sollte dies zwar automatisch erledigt sein, aber hier noch eine Anleitung:
+
+Klicken Sie auf "Administration"(Zahnräder) und dann "Import/Export". Dort erstellen Sie oben recht mit Klick auf "neuen Export".
+
+![](../../static/img/erweiterungen/export_belege.png) 
+
+Nun setzen Sie den Haken bei "Belege" und klicken dann "Anlegen". 
+
+![](../../static/img/erweiterungen/export_belege2.png)
+
+Der Job wird nun so angelegt, dass Sie am Abend ab 19 Uhr die Belege in diesem Bereich herunterladen können. 
+
+In der hier nun herunterladbaren CSV Datei (als zip gepackt) kann Ihr Steuerberater (oder sie selbst) sehr einfach Filtern und einsehen, welche Erlöse auf das
+entsprechende Erlöskonto gebucht wurden. 
+
+
+
+
+:::caution Achtung: 
+
+Die Schnittstelle zu Lexoffice bietet uns leider nicht die Möglichkeit, die Belegbilder im debevet abzubilden. Wenn Sie Lexoffice nutzen, führen Sie den Beleg-Export
+bitte direkt im Lexoffice durch. Bei Fragen dazu wenden Sie sich bitte an den Lexoffice Support.  
+
+:::  
+
+
 
 
 
