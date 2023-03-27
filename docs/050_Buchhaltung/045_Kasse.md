@@ -86,7 +86,7 @@ Legen Sie zunächst einen Lieferanten an, der beispielsweise "Post" heißt.
 Klicken Sie dazu auf **Warenwirtschaft** (LKW Symbol) und dann **Lieferanten**.   
 Klicken Sie nun das **grüne Plus-Symbol** und geben dann den Namen ein und klicken **Speichern**.
 
-![](../../static/img/erweiterungen/postlieferant.png)
+![](../../static/img/Buchhaltung/lieferant_post.png)  
 
 ### Schritt 2: Lieferantenrechnung anlegen
 
