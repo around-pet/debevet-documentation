@@ -1,7 +1,7 @@
 # Antibiotika Meldungen
 
 Ab dem 1.01.2023 ist es Pflicht, dass Tierärzte die Verbrauchsmengen von Antibiotika melden müssen. Hierzu gibt es auf der Seite 
-des BVL eine Reihe von Tipps, sowie Angaben, welche Felder und wie diese Daten übermittel werden müssen.
+des BVL eine Reihe von Tipps, sowie Angaben, welche Felder und wie diese Daten übermittelt werden müssen.
 
 Die Meldungen sollen halbjährlich erfolgen und sind damit zu Ende Juni 2023 das erste Mal nötig.
 
@@ -32,7 +32,7 @@ https://www.hi-tier.de/Entwicklung/Konzept/Sonstiges/TAM002.htm#download
 
 Aktuell muss die Packungs-ID manuell eingetragen werden. Diese können Sie auf der HITier Seite in einer Liste finden. 
 
-Öffnen Sie diese Liste als CSV und suchen Sie die passende Packung/Medikament. Die Packungs-Id finden Sie in einer gesonderten Spalte.
+Öffnen Sie diese Liste als CSV und suchen Sie die passende Packung/Medikament. Die Packungs-Id finden Sie in einer gesonderten Spalte. (TAMA_PID)
 Tragen Sie diese dann am Produkt in debevet ein. (Es handelt sich nur um eine einstellige Zahl!).   
 
 ![](../../static/img/Nutztiere/tamrzv.png)
