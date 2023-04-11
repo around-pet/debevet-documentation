@@ -33,10 +33,18 @@ Mahnlauf übernommen werden sollen und klicken dann oben rechts auf **Anlegen**.
 Klicken Sie **schließen** oben rechts, um zurück zu der Mahnungsübersicht zu gelangen.
 Klicken Sie **schließen** oben rechts, um zurück zu der Mahnungsübersicht zu gelangen.
 
-## Mahnstufen konfigurieren  
+## Mahnstufen konfigurieren/ Mahngebühren festlegen
 
 Wichtig ist, dass Sie die Einstellungen für die Mahnungen im Bereich **Administration** (Zahnradsymbol)
 über **Einstellungen** in dem Reiter "Fakturierung" vornehmen und Daten für die Mahnstufen und die Frist bis zur Mahnung hinterlegen.  
+
+:::caution Achtung: 
+
+Sie müssen für jede Mahnstufe eine Mahngebühr eingeben bzw. hinterlegen, damit das Erstellen von Mahnungen funktioniert. Dabei können 
+Sie auch die Zahl "0" eintragen, aber es muss eine Zahl eingetragen werden.   
+
+:::  
+
 
 ![](../../static/img/Rechnungen/mahnlauf3.png)  
 
