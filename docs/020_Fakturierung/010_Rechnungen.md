@@ -235,6 +235,19 @@ Bestätigen Sie die Löschung.
 Wenn Sie nun erneut in die Behandlung wechseln, indem Sie oben rechts auf **Schließen** klicken, sind die Behandlungs/Medikamtenposten, die Sie
 abgerechnet hatten, wieder freigegeben, um verändert oder einzeln gelöscht zu werden.  
 
+### Fehlermeldung "enthält inventurpflichtige Positionen und muss in eine Lieferung überführt werden"  
+
+Diese Meldung erhalten Sie beim Löschen einer Rechnung, wenn in dieser inventurpflichtige Medikamente (oder anderes Zubehör, welches Sie selbst auf
+inventurpflichtig gesetzt haben) enthalten ist. Die debevet Software möchte Ihnen damit helfen, zu bedenken, dass die ursprünglich berechneten, inventurpflichten 
+Posten weiterhin im Warenbestand "abgezogen" sind, also "fehlen".   
+
+Wenn Sie nur eine andere Kleinigkeit in der Rechnung korrigieren und diese dann erneut ausstellen, können Sie diesen Hinweis ignorieren.
+
+Sollten die Medikamten aber gar nicht mit abgegeben worden sein, müssen Sie diese manuell in der Behandlung des Patienten löschen (orangenes Mülleimer-Symbol),
+damit diese dem Warenbestand wieder zugeführt werden. Somit sind diese wieder "in eine Lieferung überführt" (der Ausdruck kann "Lieferung" ist hier evtl. irreführend).   
+
+![](../../static/img/Rechnungen/lieferungueberfuehren1.png)
+
 ### Gelöschte Rechnungen anzeigen  
 
 Um sich gelöschte/stornierte Rechnungen anzeigen zu lassen, klicken Sie auf **Fakturierung**(Euro-Symbol) und dann **Rechnungen**. 
