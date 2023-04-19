@@ -335,6 +335,8 @@ Klicken Sie auf **Speichern** und fahren mit der Abrechnung/Zahlung nun wie gewo
 ## Rechnung als bezahlt setzen / Zahlung erfassen
 
 Damit der Rechnungsstatus auf "bezahlt" gesetzt wird, vor allem bei Rechnungen, die überwiesen werden, müssen Sie diesen selbst setzen.  
+Wenn Sie die Buchhaltugnserweiterungen Collmex oder Lexoffice nutzen, können Sie dort Ihr Konto mit HBCI direkt online anbinden und Zahlungen werden
+dann nach Abruf der Umsätze automatisch als "bezahlt" gesetzt.
 
 :::caution Achtung  
 
@@ -409,4 +411,26 @@ Wenn Sie nun ein Tier behandeln, wird Ihnen am Kundennamen links eine rote Zahl 
 
 ![](../../static/img/Rechnungen/zahlungsbadge2.png)
 
+## Darstellungen der Rechnungen (brutto/ netto)  
 
+Egal, ob Sie eine Nettorechnung oder Bruttorechnung erstellen: 
+Die Rechnungssumme ist immer identisch. Der Unterschied zwischen Brutto Netto Rechnung bezieht sich nur auf die Darstellung der einzelnen Rechnungspositionen.
+
+Bei einer **Nettorechnung** werden alle Rechnungspositionen mit Nettopreis angeführt. Daraus ergibt sich der Nettogesamtbetrag der Rechnung – 
+also der Rechnungsbetrag OHNE Umsatzsteuer. Von ihm ausgehend wird dann in einem zweiten Schritt durch Hinzurechnung der Umsatzsteuer von 19 % oder 7 % der Bruttobetrag ermittelt.
+
+Erstellen Sie eine **Bruttorechnung**, werden alle Rechnungspositionen sind mit Bruttopreis angeführt. Zentral ist hier der Gesamtbruttobetrag
+– also der Rechnungsbetrag MIT Umsatzsteuer. Im Anschluss wird dann die Umsatzsteuer herausgerechnet und separat ausgewiesen. 
+
+Dabei ist es in Deutschland üblich, dass eine Rechnung an einen Endkunden/Verbraucher immer als **Bruttorechnung** dargestellt wird (sogenannte B2C Rechnungen).   
+
+Wenn Sie einzelne Kunden haben, die ein Unternehmen führen/eine Firma als Rechnungsadresse hinterlegt ist, sollten Sie diesen eine **Nettorechnung**
+ausstellen (Sogenannte B2B Rechnung), damit der Nettobetrag direkt ersichtlich ist. 
+
+Wir empfehlen also als **globale Einstellung** unter **Administration**, **Einstellungen** am Reiter **Kunde** die Einstellung
+auf "brutto" zu setzen. Alle Kunden, die eine GbR sind oder anders firmieren, können Sie dann einzeln am Kunden am Reiter **Allgemein** 
+mit "netto" kennzeichnen.   
+
+Bitte beachten Sie, dass diese Regelung und Einstellung so nur dann greift, wenn Sie NICHT die Kleinunternehmer Einstellung gesetzt haben.
+
+![](../../static/img/Rechnungen/kunde_netto.png)
