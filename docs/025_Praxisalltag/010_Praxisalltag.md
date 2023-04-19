@@ -190,7 +190,42 @@ bitte direkt im Lexoffice durch. Bei Fragen dazu wenden Sie sich bitte an den Le
 
 :::  
 
+## 8. Listen über Impfungen oder Betäubungsmittel (BTM) erstellen
+
+Uns erreichen immer wieder Anrufe, dass Veterinärämter von Kleintierpraxen eine Liste wünsche, welcher Impfstoff an welchem Tag in welches
+Tier (Mit Namen des Besitzers) angewendet wurde. Wir können in der debevet Software keine Liste mit Tiernamen erstellen lassen, aber 
+eine mit den Namen der Besitzer, worüber dann zumindest in der Kartei schnell dargestellt werden kann, welches Tier es war.  
+
+Der kleine Nachteil ist (Stand 04.2023), dass Sie die entsprechenden Medikamente bzw. Impfstoffe über den Produktnamen einzeln abbilden müssen. Dies bedeutet dann,
+dass nicht für alle Impfstoffe auf einmal eine Liste erstellt werden kann, sondern nur pro Produkt/ Produktname.
+
+Klicken Sie dazu auf **Warenwirtschaft**, dann **Warenbestände** und oben rechts **Warenbewegungen**.  
+
+![](../../static/img/Admin/warrenbestand1.png)    
+
+Öffnen Sie nun mit dem **Dropdown-Pfeil** die erweiterte Suche und wählen den gewünschten Datumsbereich aus.  
 
 
+![](../../static/img/Admin/datum_listendrucken.png)  
+
+Geben Sie dann den gewünschten Namen ein (wenn Sie z.B. Nobivac Impfstoffe nutzen, geben Sie nur Nobivac ein, dann werden auch ALLE 
+in diesem Zeitraum genutzten Impfstoffe mit Nobivac im Namen gelistet). Klicken Sie dann auf das **Lupensymbol**.   
+
+![](../../static/img/Admin/namen_listendrucken.png)    
+
+Nun wird Ihnen die passende Liste angezeigt.  
+
+![](../../static/img/Admin/nobivac_warenbewegung.png)   
+
+
+
+:::tip Unser Tipp:   
+
+Sparen Sie Papier! Klicken Sie auf das Druckersymbol und dann auf den **Download-Pfeil**. Speichern Sie die Liste in einem Ordner auf Ihrem 
+Rechner oder einer Cloud, um dann bei Kontrollen alle Listen zeigen zu können. Klare Benennung (z. B. "2023_quartal1_nobivacimpfungen.pdf" ) helfen bei einer
+klaren Organisation.   
+
+![](../../static/img/Admin/download_liste.png)
+::: 
 
 
