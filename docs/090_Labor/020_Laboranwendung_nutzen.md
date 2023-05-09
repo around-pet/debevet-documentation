@@ -22,18 +22,32 @@ gesetzt.
 
 :::danger ACHTUNG  
 
-Wenn Sie bereits Befundbögen haben und die dort aufgedruckten Barcodenummern nutzen wollen, müssen Sie diese wie folgt manuell anlegen!  
-
+Bitte beachten Sie, dass Sie in jedem Fall den Anforderungsbogen über debevet ausdrucken und mitsenden müssen! 
+Eine Anleitung finden Sie in den folgenden Schritten!
 :::
+### Eigene Barcodes nutzen  
 
-### Eigene Barcodenummern nutzen  
+Um die von Laboklin gelieferten Abreißbögen mit Barcodes zu nutzen, kleben Sie immer EINEN auf den Auftragsbogen, den Sie wie
+folgt erstellen bzw drucken, und die anderen auf die Proben wie gewohnt. Ansonsten kann KEINE voll automatische Zuordnung erfolgen!
 
-Um eine eigene Barcode-Nummer zu nutzen, klicken Sie in der Maske (z.B. Laboklin), die sich beim Erstellen des Auftrags geöffnet hat auf das **Schloß-Symbol**
-neben der Barcodenummer.  
+### Anforderungsbogen nutzen und drucken
 
-![](../../static/img/Labor/labor_eigene_barcodenummer.png)  
+Klicken Sie zunächst am gewünschten Patienten den Reiter **Labor**. Alternativ können Sie auch über **Praxis** und dann **Labor**
+ALLE beauftragten Laboranträge einsehen. 
 
-Nun ist dieses Feld entsperrt und Sie können eine eigene Nummer manuell eintragen.
+![](../../static/img/Labor/kunde_laborliste.png)  
+
+Klicken Sie nun auf die Auftragsnummer. 
+
+![](../../static/img/Labor/auftragsnummer_klicken.png)  
+
+In der Ansicht klicken Sie dann das Druckersymbol.   
+
+![](../../static/img/Labor/begleitschein_drucken.png)  
+
+Und dort erneut auf das Druckersymbol. Nun kann Ihr Drucker den Begleitschein drucken und Sie können diesen mitschicken.   
+
+![](../../static/img/Labor/untersuchungsauftrag1.png)
 
 ### scil Auftrag erstellen  
 
