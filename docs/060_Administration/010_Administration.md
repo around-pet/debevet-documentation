@@ -195,6 +195,16 @@ debevet heraus via Mail verschicken.
 Im Feld **Unterschrift** können Sie nun Ihre Signatur hinterlegen. Außerdem können Sie auf Wunsch auch weitere Mailadressen 
 eingeben, an die beispielsweise immer eine Kopie verschickt werden soll, oder eine alternative Antwortadresse setzen.  
 
+### Praxis in Blindkopie setzen  
+
+:::tip Tipp zum Mailversand:
+
+Wenn Sie sicher gehen möchten, ob Ihre Mails verschickt werden, können Sie bei jedem Mailversand eine Blindkopie an sich selbst verschicken lassen.
+Tragen Sie dazu oben im Feld "Blindkopie" Ihre eigene Mailadresse ein.
+
+![](../../static/img/Admin/blindkopie.png)
+
+:::
 ### Über eigenen Server Emails verschicken  
 
 Wenn Sie Ihren eigenen Mailserver hinterlegen wollen, um über IMAP Emails zu versenden, können Sie dies problemlos anlegen. Bedenken Sie aber bitte,
@@ -209,14 +219,6 @@ Nun können Sie weiter unten auf der Seite Ihre Server Daten hinterlegen.
 
 ![](../../static/img/Admin/imapserver.png)
 
-:::tip Tipp zum Mailversand:  
-
-Wenn Sie sicher gehen möchten, ob Ihre Mails verschickt werden, können Sie bei jedem Mailversand eine Blindkopie an sich selbst verschicken lassen.
-Tragen Sie dazu oben im Feld "Blindkopie" Ihre eigene Mailadresse ein.    
-
-![](../../static/img/Admin/blindkopie.png)
-
-:::
 
 
 ## Zahlungsbedingungen  
