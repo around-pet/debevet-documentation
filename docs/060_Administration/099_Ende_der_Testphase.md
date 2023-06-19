@@ -16,5 +16,4 @@ Gehen Sie bitte nun wie folgt vor:
 2. Klicken Sie bei Ihrer gewünschten Paketversion auf **Buchen**
 
 Geben Sie Ihre Kontodaten ein, wenn noch nicht erfolgt, denn eine Zahlung ist bei uns nur via SEPA Lastschrift möglich.
-Geben Sie Ihre Kontodaten ein, wenn noch nicht erfolgt, denn eine Zahlung ist bei uns nur via SEPA Lastschrift möglich.
 

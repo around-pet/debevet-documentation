@@ -1,9 +1,14 @@
 # Online Termine vergeben
 
-Aktuell können Terminanfragen durch Ihre Kunden nur via App (hierzu nutzen wir die around.pet App erfolgen. Die können diese
-Anfragen dann annehmen oder ablehnen.
+Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. Dabei steht ab ca. Juli 2023 ein 
+Webwidget zur Verfügung, ansonsten kann auch über die around.pet App gebucht werden. Beide sind miteinander verbunden, so dass Ihre Kunden (und Sie)
+wählen können, ob und wie Sie welche Möglichkeit nutzen können. Das eine schließt das andere nicht aus und unsere Empfehlung ist,
+einfach beides anzubieten, je nach Vorlieben können Ihre Kunden dann wählen.
 
-Ein Webservice ist in Arbeit!
+Dabei wird unterschieden (und das stellen Sie selbst ein) in   
+
+* Terminanfragen (die Sie dann bestätigen müssen))
+* Direkte Terminbuchung (ohne, dass Sie noch etwas manuell tun müssen, ist der Termin fix eingebucht)
 
 ## around.pet Schnittstelle aktivieren
 
@@ -19,21 +24,30 @@ Anschließend können Sie die Schnittstelle aktivieren.
 
 ## Zeiten für Termine vorgeben
 
-Natürlich können Sie die Zeiten, in denen Termine buchbar sein sollen, frei vergeben. 
+Damit die Termine buchbar sind, muss der Mitarbeiter, der diese Termine anbietet, in der Zeit in der Arbeitszeitplanung unbedingt eine aktive 
+Schicht haben.  
 
-1. Gehen Sie auf Administration (drei Zahnrädchen-Symbol) → Einstellungen (ein Zahnrad-Symbol) → Reiter „API“.
+:::danger ACHTUNG!   
 
-2. Wählen Sie im Bereich Kalender aus der Auswahlliste ggf. around.pet aus.
+Es reicht nicht, dass die Praxis einfach nur geöffnet ist, auch nicht, wenn Sie nur sich selbst als Mitarbeiter nutzen!   
 
-3. Hinterlegen Sie bei den entsprechenden Wochentagen Ihre Öffnungszeiten (z.B 10:00-12:00, 14:00-18:00). Wenn Sie einen Wochentag komplett leer lassen, ist an diesem Tag keine Online-Terminbuchung möglich.
+:::  
 
-4. Unter "Vorlaufzeit" können Sie die Vorlaufzeit in Stunden einstellen. Diese Vorlaufzeit bezieht sich auf die Zeit, wie kurzfristig Ihre Kunden einen Termin bei Ihnen buchen können.
+Lesen Sie in der Sektion **Arbeitszeitplanung**, wie Sie sich selbst oder Mitarbeiter einplanen. Keine Angst, das ist nicht schwierig!   
 
-5. Unter "Max. buchbar bis (in Tagen)" können Sie die Anzahl an Tagen hinterlegen, bis wann in die Zukunft Kunden bei Ihnen Termine buchen können.
+https://handbuch.debevet.de/docs/Zeiterfassung/Zeiterfassung#arbeitszeitplanung  
 
-6. Unter "Betriebsurlaub" können Sie Ihren nächsten Urlaub hinterlegen. In diesem Zeitraum können Ihre Kunden dann keine Termine buchen.
+## Mögliche Buchungsvarianten /Zeitvorgaben  
 
-![](../../static/img/Admin/aroundpet3.png)  
+Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese   
+* Extern buchbar sein sollen (also über Web oder App) 
+* Sofort buchbar sein soll (oder Sie es als Termin-Anfrage nutzen wollen)  
+
+Bei Termin-Anfragen müssen Sie die Termine noch einmal bestätigen, bei "Sofort buchbar" wird der Termin direkt fest eingebucht ohne, 
+dass Sie manuell noch einmal tätig werden müssen.
+
+![](../../static/img/arbeitszeit/terminanlass_direkt.png)
+
 
 ## Tierbesitzer zur App einladen 
 
