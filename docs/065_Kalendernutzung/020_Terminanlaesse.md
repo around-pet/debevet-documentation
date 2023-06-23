@@ -27,7 +27,7 @@ Nun öffnet sich die Detailansicht und Sie können alle Informationen zum Termin
 * Anlass/Name des Terminanlasses (z. B. Impfung)
 * Kalender, also Nutzer, der es anbieten soll
 * Termindauer (diese Zeit wird dann automatisch als Dauer gesetzt und muss nicht mehr manuell gesetzt werden)
-* Checkbox Extern buchbar (aktuell noch nicht nutzbar, aber später bedeutet dies, dass der Terminanlass als online buchbar zur Verfügung steht)
+* Checkbox Extern buchbar (bedeutet, dass der Kunde den Termin selbst buchen kann)
 
 Klicken Sie anschließend oben rechts auf **Speichern**.  
 

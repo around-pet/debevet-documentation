@@ -104,41 +104,4 @@ Pausenzeit hinterlegt werden. Klicken Sie auf **Speichern** und **Schließen**, 
 
 Wenn die Arbeitszeit bestätigt wurde, steht kein Button (weder "bearbeiten" noch "bestätigen") mehr zu Verfügung.
  
-## Arbeitszeitplanung  
 
-Hier kann der Admin die Arbeitszeiten der einzelnen Nutzer eintragen. Auf Basis dieser Zeiten werden bei der **Auswertung** der 
-Arbeitszeiten auch die **Soll-Arbeitszeiten** festgesetzt. 
-
-Klicken Sie auf **Zeiterfassung** und dann **Arbeitszeitplanung**.  
-
-![](../../static/img/dashboard/zeiterfassung_arbeitszeit1.png)  
-
-Um nun für den einzelnen Mitarbeiter die Arbeitszeiten für einen gewissen Zeitraum zu setzen, klicken Sie auf dessen Namen.
-
-In der Detailansicht können Sie nun zunächst oben einen **Gültigkeitszeitraum** für diesen Mitarbeiter eingeben. (z.B. den Monat, oder eine Woche, etc.)   
-
-Nun sollte für jeden Tag, den der Mitarbeiter da ist, eine Arbeitszeit gesetzt werden.
-
-Es kann an jedem Tag eine Uhrzeit, oder mehrere Uhrzeiten gesetzt werden. Tragen Sie zunächst die Uhrzeiten ein und klicken Sie dann unbedingt auf den **grünen Haken**
-in der Zeile. Ansonsten wird diese Zeit nicht übernommen!
-
-Wiederholen Sie dies für jede Zeile. Klicken Sie anschließend oben rechts auf **Speichern**. 
-
-![](../../static/img/dashboard/zeiterfassung_arbeitszeit2.png)  
-
-:::tip Tipp: 
-
-Wenn Sie in der Kalenderansicht auf "Belegung vertikal" Ansicht schalten, können Sie die hier eingeteilten Arbeitszeiten dort sehen.
-Die Zeiten, zu denen der Mitarbeiter verfügar ist, sind GRAU, und nicht eingefärbt. 
-
-![](../../static/img/Admin/arbeitszeit_kalenderbelegung.png)
-
-::: 
-
-### Arbeitszeitplanung bearbeiten  
-
-Natürlich kann auch ein bereits bestehender Plan erneut bearbeitet werden. Klicken Sie auf **Zeiterfassung** und **Arbeitszeitplanung**. 
-Nun können Sie am gewünschten Mitarbeiter auf den bestehenden Gültigkeitszeitraum in der Tabelle klicken und dieser öffnet sich. Wie im vorherigen Schritt beschrieben,
-kann dieser nun bearbeitet und verändert werden.
-
-![](../../static/img/dashboard/zeiterfassung_arbeitszeit4.png)

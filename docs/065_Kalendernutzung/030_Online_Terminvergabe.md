@@ -10,6 +10,10 @@ Dabei wird unterschieden (und das stellen Sie selbst ein) in
 * Terminanfragen (die Sie dann bestätigen müssen))
 * Direkte Terminbuchung (ohne, dass Sie noch etwas manuell tun müssen, ist der Termin fix eingebucht)
 
+Neu ist seit Juni 2023, dass es nun einen Webwidget Service gibt, das bedeutet, dass Sie direkt über Ihre Webseite die Kunden Termine 
+buchen lassen können, ohne, dass die App genutzt werden muss. Die Kunden haben also immer die freie Wahl, ob Sie über die App oder das Webwidget buchen
+möchten, die zur Verfügung stehenden Termine sind dieselben.
+
 ## around.pet Schnittstelle aktivieren
 
 Zunächst müssen Sie in der debevet Software die around.pet Verbindung einmalig einrichten. Klicken Sie dazu auf **Administration** und dann
@@ -24,20 +28,27 @@ Anschließend können Sie die Schnittstelle aktivieren.
 
 ## Zeiten für Termine vorgeben
 
-Damit die Termine buchbar sind, muss der Mitarbeiter, der diese Termine anbietet, in der Zeit in der Arbeitszeitplanung unbedingt eine aktive 
-Schicht haben.  
+Natürlich können Sie die Zeiten, in denen Termine buchbar sein sollen, frei vergeben. Wichtig ist, hier zu verstehen, wie die Logik
+des Programms funktioniert.   
 
-:::danger ACHTUNG!   
+:::tip Hinweis:   
 
-Es reicht nicht, dass die Praxis einfach nur geöffnet ist, auch nicht, wenn Sie nur sich selbst als Mitarbeiter nutzen!   
+Damit ein Termin als extern buchbar erscheint, müssen folgende Bedingungen erfüllt sein:  
+
+1. Ein Mitarbeiter muss im Arbeitszeitplan verfügar sein 
+2. Es muss einen Terminanlass geben, der als "extern buchbar" (das bedeutet, dass der Kunde es selbst buchen kann) für den Kalender 
+des Mitarbeiters freigeben ist   
 
 :::  
 
-Lesen Sie in der Sektion **Arbeitszeitplanung**, wie Sie sich selbst oder Mitarbeiter einplanen. Keine Angst, das ist nicht schwierig!   
+Alles zu Terminanlässen finden Sie hier:   
+https://handbuch.debevet.de/docs/Kalendernutzung/Terminanlaesse  
 
-https://handbuch.debevet.de/docs/Zeiterfassung/Zeiterfassung#arbeitszeitplanung  
+Alles zu den Arbeitszeitplänen finden Sie hier:    
 
-## Mögliche Buchungsvarianten /Zeitvorgaben  
+https://handbuch.debevet.de/docs/Arbeitszeitplanung/Arbeitszeitplanung  
+
+## Mögliche Buchungsvarianten /Zeitvorgaben
 
 Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese   
 * Extern buchbar sein sollen (also über Web oder App) 
@@ -49,7 +60,10 @@ dass Sie manuell noch einmal tätig werden müssen.
 ![](../../static/img/arbeitszeit/terminanlass_direkt.png)
 
 
-## Tierbesitzer zur App einladen 
+## Tierbesitzer zur App einladen   
+
+Wenn Sie die Kunden auf die App hinweisen möchten (falls diese eher App-affin sind, vor allem bei jüngerem Klientel), können Sie 
+dies direkt aus der Kundenkartei erledigen.
 
 :::caution Hinweis: 
 
@@ -137,7 +151,7 @@ Wenn der Termin in weniger als 24h stattfindet, bekommt er den Hinweis, dass er 
 
 ## Termin ändern  
 
-Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt!
+Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt und per Mail mitgeteilt!
 
 ## Dokumenten Service  
 
