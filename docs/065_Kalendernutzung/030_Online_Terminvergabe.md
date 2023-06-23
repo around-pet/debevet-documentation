@@ -142,8 +142,7 @@ Ihrem Dashboard.
 
 :::caution Hinweis:   
 
-Ihr Kunde hat diese Möglichkeit nur, wenn der Termin mit Ihnen mehr als 24h in der Zukunft liegt. 
-Wenn der Termin in weniger als 24h stattfindet, bekommt er den Hinweis, dass er sich per Telefon bei Ihnen melden muss.  
+In den Terminanlässen können Sie selbst bestimmen, welche Terminart wie früh VOR einem Termin storniert werden darf.   
 
 ::: 
 
