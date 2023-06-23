@@ -3,7 +3,9 @@
 Aktuell können Terminanfragen durch Ihre Kunden nur via App (hierzu nutzen wir die around.pet App erfolgen. Die können diese
 Anfragen dann annehmen oder ablehnen.
 
-Ein Webservice ist in Arbeit!
+Neu ist seit Juni 2023, dass es nun einen Webwidget Service gibt, das bedeutet, dass Sie direkt über Ihre Webseite die Kunden Termine 
+buchen lassen können, ohne, dass die App genutzt werden muss. Die Kunden haben also immer die freie Wahl, ob Sie über die App oder das Webwidget buchen
+möchten, die zur Verfügung stehenden Termine sind dieselben.
 
 ## around.pet Schnittstelle aktivieren
 
@@ -19,23 +21,33 @@ Anschließend können Sie die Schnittstelle aktivieren.
 
 ## Zeiten für Termine vorgeben
 
-Natürlich können Sie die Zeiten, in denen Termine buchbar sein sollen, frei vergeben. 
+Natürlich können Sie die Zeiten, in denen Termine buchbar sein sollen, frei vergeben. Wichtig ist, hier zu verstehen, wie die Logik
+des Programms funktioniert.   
 
-1. Gehen Sie auf Administration (drei Zahnrädchen-Symbol) → Einstellungen (ein Zahnrad-Symbol) → Reiter „API“.
+:::tip Hinweis:   
 
-2. Wählen Sie im Bereich Kalender aus der Auswahlliste ggf. around.pet aus.
+Damit ein Termin als extern buchbar erscheint, müssen folgende Bedingungen erfüllt sein:  
 
-3. Hinterlegen Sie bei den entsprechenden Wochentagen Ihre Öffnungszeiten (z.B 10:00-12:00, 14:00-18:00). Wenn Sie einen Wochentag komplett leer lassen, ist an diesem Tag keine Online-Terminbuchung möglich.
+1. Ein Mitarbeiter muss im Arbeitszeitplan verfügar sein 
+2. Es muss einen Terminanlass geben, der als "extern buchbar" (das bedeutet, dass der Kunde es selbst buchen kann) für den Kalender 
+des Mitarbeiters freigeben ist   
 
-4. Unter "Vorlaufzeit" können Sie die Vorlaufzeit in Stunden einstellen. Diese Vorlaufzeit bezieht sich auf die Zeit, wie kurzfristig Ihre Kunden einen Termin bei Ihnen buchen können.
+:::  
 
-5. Unter "Max. buchbar bis (in Tagen)" können Sie die Anzahl an Tagen hinterlegen, bis wann in die Zukunft Kunden bei Ihnen Termine buchen können.
+Alles zu Terminanlässen finden Sie hier:   
+https://handbuch.debevet.de/docs/Kalendernutzung/Terminanlaesse  
 
-6. Unter "Betriebsurlaub" können Sie Ihren nächsten Urlaub hinterlegen. In diesem Zeitraum können Ihre Kunden dann keine Termine buchen.
+Alles zu den Arbeitszeitplänen finden Sie hier:   
+
+https://handbuch.debevet.de/docs/Arbeitszeitplanung/Arbeitszeitplanung  
+
 
 ![](../../static/img/Admin/aroundpet3.png)  
 
-## Tierbesitzer zur App einladen 
+## Tierbesitzer zur App einladen   
+
+Wenn Sie die Kunden auf die App hinweisen möchten (falls diese eher App-affin sind, vor allem bei jüngerem Klientel), können Sie 
+dies direkt aus der Kundenkartei erledigen.
 
 :::caution Hinweis: 
 
@@ -123,7 +135,7 @@ Wenn der Termin in weniger als 24h stattfindet, bekommt er den Hinweis, dass er 
 
 ## Termin ändern  
 
-Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt!
+Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt und per Mail mitgeteilt!
 
 ## Dokumenten Service  
 
