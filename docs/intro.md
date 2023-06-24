@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Erste Schritte mit Debevet  
+# Erste Schritte mit debevet  
 
 Dieser Abschnitt hilft Ihnen, die 5 wichtigsten Schritte zur ersten Nutzung von debevet zu gehen. 
 
