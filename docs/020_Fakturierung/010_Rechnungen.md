@@ -13,7 +13,29 @@ Anschließend klicken Sie oben auf das **Euro Symbol**, um die Posten in die Rec
 
 Wenn Sie keine Checkboxen setzen, werden ALLE noch nicht abgerechneten Posten des Patienten, auch aus der Vergangenheit, mit auf die Rechnung gesetzt.  
 
-:::
+:::    
+
+## Rechnungen als Entwurf erstellen lassen  
+
+Wenn Sie debevet noch nicht lange nutzen oder evtl. Ihre Rechnungen noch einmal kontrolliert werden sollen vor dem endgültigen Versand, haben 
+Sie die Möglichkeit, jede Rechnung zunächst als Entwurf zu erstellen. So ist die Rechnung zwar erstellt, aber es können noch Posten verändert oder 
+storniert sowie hinzugefügt werden, bevor die Rechnung revisionssicher erstellt wird.  
+
+Um diese Funktion zu nutzen, gehen Sie wie folgt vor:   
+1. Klicken Sie auf **Administration**, dann **Einstellungen** und wählen den Reiter **Fakturierung**.    
+
+![](../../static/img/Rechnungen/re_entwurf1.png)  
+
+2. Scrollen Sie herunter bis zum Feld "Rechnungsstellung"   
+3. Setzen Sie dort den Haken bei "Beh. Rechnung als Entwurf"  
+
+![](../../static/img/Rechnungen/re_entwurf2.png)  
+
+Wennn Sie nun eine Rechnung am Patienten erstelen, wird diese nicht direkt fest erstellt, sondern Sie sehen oben einen Button 
+"Rechnung anlegen". So können Sie, bevor Sie diesen Button klicken, alles noch einmal in Ruhe kontrollieren und verändern.   
+
+![](../../static/img/Rechnungen/re_entwurf3.png)
+
 
 ## Einzelne Posten nicht in Rechnung stellen 
 
