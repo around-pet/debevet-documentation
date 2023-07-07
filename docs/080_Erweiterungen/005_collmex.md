@@ -212,7 +212,36 @@ sofern Sie dies in der Administration unter Einstellungen für das Dashboard ein
 Kreuzen Sie dies z.B. für die Methode 'Barzahlung' an, sehen Sie den Stand des Kassenkontos 1000 bzw. 1200 jeweils live
 aus Collmex auf Ihrem Dashoard. 
 
-![](../../static/img/erweiterungen/debevet-collmex-Zahlungsbedingungen.png)  
+![](../../static/img/erweiterungen/debevet-collmex-Zahlungsbedingungen.png)     
+
+### Weitere Zahlungsbedingungen im Collmex anlegen  
+
+Sollten Sie besondere oder neue Zahlungsbedingungen wünschen oder die im Collmex bereits vorhandenen einsehen wollen, loggen Sie sich bitte
+in Ihren Collmex Login Bereich ein. Klicken Sie dann auf den Sektor **Verwaltung**.    
+
+Dort klicken Sie dann auf **Zahlungsbedingungen**.
+
+![](../../static/img/erweiterungen/collmex_sumup1.png)   
+
+Schauen Sie die Liste der Zahlungsbedingungen an, ob es die gewünschte Zahlungsbedingung bereits gibt. Möchten Sie eine neue anlegen,
+klicken Sie nun auf **Anlegen**.    
+
+![](../../static/img/erweiterungen/collmex_sumup2.png)
+
+Anschließend klicken Sie den Dropdown-Pfeil bei **Zahlart** und wählen dort für die sumup Einrichtung **Karte**. Für andere Zahlarten müssen Sie
+evtl. mit Ihrem Steuerberater oder uns Rücksprache halten, wie diese angelegt werden sollen.  
+
+Geben Sie den Namen genauso ein, wie Sie ihn im debevet sehen (Groß- und Kleinschreibung sicherheitshalber beachten).  
+Klicken Sie dann auf **Zahlungsbedingung anlegen**.  
+
+![](../../static/img/erweiterungen/collmex_sumup4.png)   
+
+Anschließend können Sie in der Liste der Zahlungsbedingungen die Nummer der Zahlungsbedingung sehen, welche in der Buchhaltungserweiterung im 
+debevet dann benötigt wird.   
+
+![](../../static/img/erweiterungen/nummer_sumup_zahlung.png)   
+
+![](../../static/img/erweiterungen/nummer_sumup_in_debevet.png)
 
 ### Kunden und Lieferanten übertragen
 
@@ -304,7 +333,9 @@ Klicken Sie in Ihrem Collmex Account auf **Buchhaltung** und dann **Kontoauszug 
 
 ![](../../static/img/Buchhaltung/collmex_hbci1.png)  
 
-Nun klicken Sie auf **HBCI Konfiguration**.  
+Nun klicken Sie auf **HBCI Konfiguration**.    
+
+
 
 ![](../../static/img/Buchhaltung/collmex_hbci2.png)  
 
