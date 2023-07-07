@@ -86,3 +86,39 @@ Bestätigen Sie diese Auswahl, stellt es automatisch die Verbindung zu Ihrem Kar
 Der Kunde muss nun das Kartenzahlgerät bedienen. Die Rechnung ist im debevet direkt automatisch als verbucht hinterlegt. 
 
 Sie können dem Kunden wie gewohnt direkt die Rechnung mailen.
+
+## Rechnung mit sumup buchen /Buchungsprobleme sumup  
+
+Sollten Sie eine Fehlermeldung bekommen, dass das Buchen der Rechnung nicht möglich ist, prüfen Sie bitte, ob die Buchhaltungskonten
+für die Zahlung mit sumup korrekt hinterlegt sind.  
+
+Gehen Sie hierfür wie folgt vor:  
+
+Klicken Sie auf **Administration** und dann **Erweiterungen**. Prüfen Sie, welche der Buchhaltungserweiterungen Sie nutzen.   
+
+Klicken Sie an der von Ihnen genutzten Buchhaltungsweiterung auf **Bearbeiten**.  
+
+![](../../static/img/erweiterungen/sumup_konten1.png)   
+
+Scrollen Sie nun nach unten, bis Sie die Konten unter Zahlungsbedingungen sehen. Dort klicken Sie in der untersten Zeile den 
+Dropdown-Pfeil und wählen "sumup" aus.   
+
+![](../../static/img/erweiterungen/sumup_konten2.png)  
+
+Tragen Sie nun dieselben Daten wie bei "Ec-Karte" ein und setzen den Status auf "Erledigt". 
+
+:::caution Achtung:   
+
+Wenn Sie Collmex als Buchhaltungserweiterung nutzen, müssen Sie die Zahlungsbedingung sumup dort noch einmal gesondert anlegen. Diese bekommt dann
+meistens die Nummer 100, welche dann hier auch einzutragen ist. 
+Schauen Sie hier, wie Sie die Zahlungsbedingung im Collmex anlegen:   
+
+https://handbuch.debevet.de/docs/Erweiterungen/collmex#zahlungsbedingungen   
+
+:::  
+~~~~
+Klicken Sie den Haken in der Zeile und erst danach **Speichern** oben rechts.   
+
+![](../../static/img/erweiterungen/sumup_konten3.png)  
+
+Alle Rechnungen sollten nun auch mit der Zahlungsart "sumup" buchbar sein.
