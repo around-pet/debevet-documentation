@@ -393,7 +393,7 @@ dann auf "erledigt/bezahlt" gesetzt.
 
 ![](../../static/img/Rechnungen/bezahlt_setzen5.png)
 
-## Teilzahlungen erfassen  
+## Teilzahlung/ Anzahlung erfassen  
 
 Sollte es vorkommen, dass ein Kunde nur einen Teil der Rechnung bezahlen kann und den Rest überweisen möchte, so empfehlen wir, mit einer Teilzahlung wie folgt umzugehen:
 
