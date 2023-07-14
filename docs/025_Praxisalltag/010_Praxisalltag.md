@@ -228,4 +228,24 @@ klaren Organisation.
 ![](../../static/img/Admin/download_liste.png)
 ::: 
 
+## 9. Rundschreiben, Email an alle Kunden, Rundbrief   
+
+Immer wieder erreichen uns Anfragen, dass Praxen eine Sammelinformation in Form eines Rundschreibens an alle Kunden verschicken möchten.
+Dies geht leider nicht direkt aus dem debevet, aber wir zeigen Ihnen ein kleines Workaround.
+
+Erstellen Sie einen Export Ihrer Kundendaten:  
+
+https://handbuch.debevet.de/docs/Administration/Administration#export-import  
+
+Wenn Sie die CSV Datei nun öffnen (mit Excel oder Numbers), können Sie die Spalte mit der Emailadresse kopieren und in Ihrem 
+Mailprogramm in die "BCC" Adressempfängerzeile einfügen. 
+
+:::caution Achtung!  
+
+Viele Mailanbieter limitieren den Massenversand von Mails pro Nachricht und/oder pro Tag. Ob und wie Ihr Mailanbieter diese Möglichkeit unterstützt,
+erfahren Sie direkt bei Ihrem Anbieter (oder bei google).   
+
+:::   
+
+Alternativ können Sie unsere MailChimp Erweiterung nutzen und dort die CSV Datei einfügen, allerdings ist MailChimp selbst kostenpflichtig.
 
