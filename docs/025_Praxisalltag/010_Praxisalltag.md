@@ -228,10 +228,10 @@ klaren Organisation.
 ![](../../static/img/Admin/download_liste.png)
 ::: 
 
-## 9. Rundschreiben, Email an alle Kunden, Rundbrief   
+## 9. Rundschreiben, E-mail an alle Kunden, Rundbrief   
 
 Immer wieder erreichen uns Anfragen, dass Praxen eine Sammelinformation in Form eines Rundschreibens an alle Kunden verschicken möchten.
-Dies geht leider nicht direkt aus dem debevet, aber wir zeigen Ihnen ein kleines Workaround.
+Dies geht leider nicht direkt aus dem debevet, aber wir zeigen Ihnen ein kleines "Workaround".
 
 Erstellen Sie einen Export Ihrer Kundendaten:  
 
