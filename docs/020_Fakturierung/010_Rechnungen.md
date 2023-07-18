@@ -395,9 +395,10 @@ dann auf "erledigt/bezahlt" gesetzt.
 
 ## Teilzahlung/ Anzahlung erfassen  
 
-Sollte es vorkommen, dass ein Kunde nur einen Teil der Rechnung bezahlen kann und den Rest überweisen möchte, so empfehlen wir, mit einer Teilzahlung wie folgt umzugehen:
+Sollte es vorkommen, dass ein Kunde nur einen Teil der Rechnung bezahlen kann und den Rest überweisen oder später zahlen möchte, 
+so empfehlen wir, mit einer Teilzahlung wie folgt umzugehen:
 
-1. Erstellen Sie die Rechnung mit der Zahlungsbedingung "Per Überweisung" 
+1. Erstellen Sie die Rechnung mit der Zahlungsbedingung **"Per Überweisung"**
 2. Buchen Sie die Rechnung und erfassen eine Zahlung
 3. Erfassen Sie die Zahlung, wie Sie erfolgte mit der Summe, die geleistet wurde
 (z.B. bar, 23,11, wenn Gesamtsumme 90,00 Euro und der Kunde 23,11 Euro bezahlt in bar) Die debevet Software fragt dann nach, ob es sich um eine Teilzahlung handelt, oder 
