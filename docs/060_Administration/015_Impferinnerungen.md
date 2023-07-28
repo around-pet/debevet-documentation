@@ -8,7 +8,7 @@ Im Zeitalter der Digitalisierung empfiehlt sich, dies auch digital zu erledigen.
 debevet bietet Ihnen die Möglichkeit, direkt auf dem Dashboard angezeigt zu bekommen, welche Kunden eine Impferinnerung bekommen sollen oder zur Wiedervorstellung 
 erinnert werden sollen.
 
-## Impferinnerung bzw. Wiedervorstellun einzeln manuell erstellen  
+## Impferinnerung bzw. Wiedervorstellung einzeln manuell erstellen  
 
 Sie können an einem Patienten auch manuell eine einzelne/mehrere Impferinnerungen bzw. Erinnerung zur Wiedervorstellung anlegen. Klicken Sie dazu **Praxis** und dann **Patienten**. 
 Suchen Sie den Patienten und klicken Sie dann auf seinen Namen in der Spalte "Rufname".  
@@ -38,7 +38,58 @@ Erfahren Sie weiter unten, wie Sie die Impferinnerung via Mail verschicken und w
 ## Impferinnerung automatisch erstellen lassen  
 
 Damit Sie nicht bei jeder Impfung händisch am Patienten eine Impferinnerung anlegen müssen, können Sie im debevet eine Aktion 
-mit einem Produkt verknüpfen. In diesem Fall wäre das der verwendete Impfstoff.
+mit einem Produkt oder einer Diagnose verknüpfen. 
+
+### Variante 1: Die Nutzung von Diagnosen zum automatischen Erstellen einer Impferinnerung 
+
+Der Vorteil dieser Variante besteht darin, dass Sie z.B. die Diagnosen "Grundimmunisierung Katze 1", "Grundimmunisierung Katze 2" erstellen
+könnten, um dann nach jeweils 3 Wochen eine Impferinnerung zu erzeugen. Für Jahresimpfungen kann dann eine weitere Diagnose, z.B. "Jahresimpfung Katze" 
+erstellt werden, welche die Impferinnerung beispielsweise nach 340 Tagen erzeugt (so sind noch Vorlaufzeiten für die Kunden eingeplant).   
+
+Klicken Sie auf **Warenwirtschaft" und dann *+Diagnosen**. Klicken Sie oben rechts das **grüne Plus-Symbol**, um eine neue Diagnose anzulegen.  
+
+![](../../static/img/Warenwirtschaft/diagnose_aktion1.png)   
+
+Geben Sie den Namen der Diagnose sinnvoll für die geplante Impferinnerung ein. Wählen Sie bei Klassifizierung das gewünschte Tier. Ratsam ist es ebenso, bei
+Kategorie etwas einzutragen, z.B. Impfung. So bleibt es für Sie übersichtlicher. Klicken Sie anschließend oben rechts **Speichern**.
+
+![](../../static/img/Warenwirtschaft/diagnose_aktion2.png)  
+
+Wenn sie nun eine angelegte Diagnose wieder öffnen, sehen Sie den Reiter **Aktionen**. Klicken Sie diesen an. 
+
+![](../../static/img/Warenwirtschaft/diagnose_aktion3.png)  
+
+Klicken Sie auf das Dropdown-Menü und wählen dort **Impferinnerung**.  
+
+![](../../static/img/Warenwirtschaft/diagnose_aktion4.png)  
+
+![](../../static/img/Warenwirtschaft/diagnose_aktion5.png)  
+
+Nun tragen Sie die gewünschten Werte ein. Bei Grundimmunisierungen macht es z.B. Sinn, die Impferinnerung bereits nach 3 Wochen zu verschicken, 
+damit die Kunden noch eine Vorlaufzeit haben um den Termin zu buchen.   
+
+![](../../static/img/Warenwirtschaft/diagnose_aktion6.png)
+
+:::tip  Tipp:  
+
+Wenn Sie unten auf "Variablen" klicken, können Sie z.B. eine Variable für den Tiernamen mit einfügen in den Text.   
+
+:::  
+
+Klicken Sie erneut oben rechts **Speichern**. Wann immer diese Diagnose nun genutzt wird, wird die Impferinnerung automatisch erstellt.
+Bedenken Sie aber bitte, dass Sie diese dennoch manuell versenden müssen!
+
+:::tip Tipp:  
+
+Sie können eine Diagnose in Ihren Behandlungsvorlagen einfügen. So werden dann nicht nur alle benötigten Posten automatisch in die
+Behandlung eingefügt, sondern auch die Diagnose- und mit dieser die nun hieran gebundene Impferinnerung!   
+
+:::
+
+
+### Variante 2: Die Nutzung eines Produktes zum automatischen Erstellen einer Impferinnerung
+
+Eine weitere Variante wäre es, die Erinnerung an die Nutzung eines bestimmten Impfstoffes zu verknüpfen. 
 
 Klicken Sie hierfür am gewünschten Produkt den Reiter **Aktionen**.
 
