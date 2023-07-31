@@ -477,7 +477,7 @@ Probleme und Kosten für Sie importieren!
 
 ## Kleinunternehmer  
 
-Sie sind Kleinunternehmer und somit umsatzsteuerbefreit? Natürlich kann debevet dann alle Ihre Rechnungen auch mehrwertsteuerbefreit ausstellen.
+Sie sind Kleinunternehmer und somit umsatzsteuerbefreit? Natürlich kann debevet alle Ihre Rechnungen auch mehrwertsteuerbefreit ausstellen.
 
 Generell werden dann die Nettopreise am Kunden in der Rechnung abgerechnet.  
 
@@ -486,6 +486,23 @@ Um diese Einstellung zu aktivieren, klicken Sie **Administration** und dann **Ei
 Dort klicken Sie den Reiter **Fakturierung** und setzen dann den Haken bei "Kleinunternehmen steuerbefreit".  
 
 ![](../../static/img/Admin/kleinunternehmer1.png)  
+
+Sie sind verpflichtet, der Rechnung einen schriftlichen Zusatz hinzuzufügen, dass es sich um eine Kleinunternehmerrechnung handelt. 
+Wir empfehlen, diese als Schlusstext unter die Zahlungsbedingung zu setzen.  
+
+Klicken Sie auf **Administration** und dann **Textbausteine**. Dort finden Sie unter den Standard Texten den **Schlusstext**.
+
+![](../../static/img/Rechnungen/schlusstext.png)  
+
+Klicken Sie auf das Wort **Schlusstext**, um diesen zu bearbeiten/neu anzulegen.  
+
+![](../../static/img/Rechnungen/schlusstext_anlegen.png)  
+
+:::tip Tipp: 
+
+Wenn Sie es wünschen, können sogar (wie bei vielen Textvorlagen im debevet) individuelle Texte mit den Variablen rechts hinzugefügt werden.  
+
+:::  
 
 Um die Rechnungen buchhalterisch korrekt verbuchen zu können, müssen Sie nun außerdem noch in der Buchhaltungserweiterung die 
 Steuerbefreiung hinterlegen. 
