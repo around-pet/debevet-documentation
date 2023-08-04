@@ -93,9 +93,13 @@ Diese zeigt die von Ihnen zur Verfügung gestellten Tierärzte und die Terminanl
 Wenn beispielsweise nur einer Ihrer Tierärzte Herz-Ultraschall anbietet, wird auch nur bei Wahl dieses Tierarztes das Feld mit diesem Terminanlass buchbar gesetzt. 
 Andersherum, wenn der Kunde den Terminanlass Herz-Ultraschall wählt, wird entsprechend jeder Tierarzt, der diesen nicht anbietet, ausgegraut.   
 
+Videosprechstunden sind mit einem kleinen Headset-Symbol gekennzeichnet (siehe Pfeil).
+
 Im nächsten Schritt sieht der Kunde in schwarz hinterlegt die Tage, an denen sein gewählter Terminanlass verfügbar ist. Wenn der Tag ausgewählt wird, sind die
 verfügbaren Zeiten anschließend direkt sichtbar. Dabei können Sie selbst in den Einstellungen festlegen, ob die Terminabstände immer in 15 Min. Abständen oder mit Abständen
 der Länge des Terminanlasses angepasst angeboten werden soll. (Siehe Terminanlässe)
+
+
 
 ![](../../static/img/Kunden/webwidget3.png) 
 
