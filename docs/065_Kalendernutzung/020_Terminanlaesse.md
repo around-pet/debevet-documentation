@@ -1,15 +1,26 @@
 # Terminanlässe 
 
-Unsere debevet Software bietet seit  September 2022 die Möglichkeit, verschiedene Terminanlässe zu erstellen. In naher Zukunft 
-sollen diese dann online buchbar werden, damit Sie in Ihrer Praxis Zeit und Ressourcen für die telefonische Terminvergabe sparen können.
+Unsere debevet Software bietet seit  September 2022 die Möglichkeit, verschiedene Terminanlässe zu erstellen. Jeden Terminanlass
+können Sie auf Wunsch auch als online buchbar einstellen, damit Sie in Ihrer Praxis Zeit und Ressourcen für die telefonische 
+Terminvergabe sparen können.
 
 Einem Terminanlass können Sie folgende Attribute zuweisen:
 * einen Kalender, also den Behandler, in dessen Kalender es eingetragen wird (wenn bestimmte Dienstleistungen nur von einem Tierarzt angeboten werden)
 * eine Termindauer
 * den Grund des Anlasses (z.B. Impfung, Wurmkur, Kastration Kater, Lahmheitsuntersuchung, Chiropraktische Behandlung etc.)
+* eine individuelle Stornierungsfrist in Stunden 
+* Zeiten, in denen dieser Terminanlass buchbar werden soll (von extern, also online, außerhalb der Zeiten kann dieser dennoch manuell
+erstellt werden)
 
 Vorteile, die sich Ihnen dadurch bieten sind vor allem die schnellere Anlage von Terminen im Praxis Kalender und bessere Strukturierung der
 Termine.
+
+:::caution Achtung: 
+
+Bitte denken Sie daran, dass Termine nur dann online buchbar sind, wenn der entsprechende Mitarbeiter, der den Terminanlass anbietet, im Arbeitszeitplan
+als verfügbar eingetragen ist.  
+
+:::  
 
 ## Terminanlass erstellen 
 
@@ -28,10 +39,11 @@ Nun öffnet sich die Detailansicht und Sie können alle Informationen zum Termin
 * Kalender, also Nutzer, der es anbieten soll
 * Termindauer (diese Zeit wird dann automatisch als Dauer gesetzt und muss nicht mehr manuell gesetzt werden)
 * Checkbox Extern buchbar (bedeutet, dass der Kunde den Termin selbst buchen kann)
+* Zeiten, zu denen der Terminanlass extern buchbar sein soll
 
 Klicken Sie anschließend oben rechts auf **Speichern**.  
 
-![](../../static/img/Admin/terminanlass3.png)  
+![](../../static/img/Kunden/terminanlass_zeiten.png)
 
 :::tip Tipp: 
 
@@ -43,9 +55,9 @@ Wenn Sie möchten, dass diese Terminart durch mehrere Angestellte durchgeführt 
 
 In der Übersichtsseite sehen Sie nun die erstellten Terminanlässe mit kleinen Symbolen, die Ihnen direkt einen Überblick geben:
 
-* Weltkugel: ist extern buchbar (noch in Entwicklung)
+* Weltkugel: ist extern buchbar 
 * Termindauer
-* Kalender (Farbsymbol)  
+* Kalender, also welcher Tierarzt diesen Terminanlass anbieten kann (Farbsymbol)  
 
 ![](../../static/img/Admin/terminanlass5.png)
 
