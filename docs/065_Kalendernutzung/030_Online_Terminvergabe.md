@@ -1,14 +1,15 @@
 # Online Termine vergeben
 
-Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. Dabei steht ab ca. Juli 2023 ein 
-Webwidget zur Verfügung, ansonsten kann auch über die around.pet App gebucht werden. Beide sind miteinander verbunden, so dass Ihre Kunden (und Sie)
-wählen können, ob und wie Sie welche Möglichkeit nutzen können. Das eine schließt das andere nicht aus und unsere Empfehlung ist,
-einfach beides anzubieten, je nach Vorlieben können Ihre Kunden dann wählen.
+Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. 
+Dabei stehen zwei Möglichkeiten zur Verfügung, wie Ihre Kunden bei Ihnen buchen können: 
 
-Dabei wird unterschieden (und das stellen Sie selbst ein) in   
+- Ein Webwidget, also eine Möglichkeit, direkt über den Browser zu buchen (Sie können dieses über Ihre Webseite verlinken)
+- Eine App wie bereits bisher (around.pet App) 
 
-* Terminanfragen (die Sie dann bestätigen müssen))
-* Direkte Terminbuchung (ohne, dass Sie noch etwas manuell tun müssen, ist der Termin fix eingebucht)
+Beide sind miteinander verbunden, so dass Ihre Kunden (und Sie) wählen können, ob und wie Sie welche Möglichkeit nutzen können.
+Das eine schließt das andere nicht aus und unsere Empfehlung ist, einfach beides anzubieten, je nach Vorlieben können Ihre Kunden selbst wählen.
+
+Dabei wird unterschieden (und das stellen Sie selbst pro Terminanlass ein) in:
 
 Neu ist seit Juni 2023, dass es nun einen Webwidget Service gibt, das bedeutet, dass Sie direkt über Ihre Webseite die Kunden Termine 
 buchen lassen können, ohne, dass die App genutzt werden muss. Die Kunden haben also immer die freie Wahl, ob Sie über die App oder das Webwidget buchen
@@ -44,21 +45,71 @@ des Mitarbeiters freigeben ist
 Alles zu Terminanlässen finden Sie hier:   
 https://handbuch.debevet.de/docs/Kalendernutzung/Terminanlaesse  
 
-Alles zu den Arbeitszeitplänen finden Sie hier:    
+Alles zu den Arbeitszeitplänen finden Sie hier:   
 
 https://handbuch.debevet.de/docs/Arbeitszeitplanung/Arbeitszeitplanung  
 
-## Mögliche Buchungsvarianten /Zeitvorgaben
 
-Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese   
-* Extern buchbar sein sollen (also über Web oder App) 
-* Sofort buchbar sein soll (oder Sie es als Termin-Anfrage nutzen wollen)  
+## Das Webwidget nutzen  
 
-Bei Termin-Anfragen müssen Sie die Termine noch einmal bestätigen, bei "Sofort buchbar" wird der Termin direkt fest eingebucht ohne, 
-dass Sie manuell noch einmal tätig werden müssen.
+Wenn Sie das Webwidget nutzen möchten, gehen Sie wie folgt vor: 
+Klicken Sie den Link mit der Übersicht aller Tierärzte, die mit debevet eine Onlinebuchung anbieten und suchen Sie Ihre eigene Praxis. 
 
-![](../../static/img/arbeitszeit/terminanlass_direkt.png)
+[https://https://termine.around.pet/](https://termine.around.pet/)
 
+Suchen Sie Ihre Praxis in der Liste unserer Tierärzte, die die Onlinebuchung aktiviert haben und klicken Sie **Termin buchen**-  
+
+![](../../static/img/Kunden/webwidget_praxis1.png)  
+
+Wenn Sie in die nächste Ansicht gelangen, nutzen Sie den Link aus der Browser Adresszeile und kopieren diesen. Dieser sollte nun 
+mit einem Button "Termin direkt online buchen" (oder ähnlichem) auf Ihrer Homepage eingebunden werden.   
+
+![](../../static/img/Kunden/webwidgetpraxis2.png)
+
+Auf diesem Wege sehen die Kunden nicht ALLE Praxen, sondern gelangen immer direkt in den Buchungssektor Ihrer eigenen Praxis. Dort können Sie nun 
+online Ihre Termine direkt buchen oder Terminanfragen stellen (je nach Ihren Vorgaben).   
+
+Die Kunden sehen zunächst diese Übersichtsseite Ihrer Praxis:  
+
+![](../../static/img/Kunden/webwidet1.png)
+
+Wenn Sie dort auf **Termin vereinbaren** klicken, gelangen Sie zur nächsten Seite:  
+
+![](../../static/img/Kunden/webwidget2.png) 
+
+Diese zeigt die von Ihnen zur Verfügung gestellten Tierärzte und die Terminanlässe. Dabei werden entsprechend nicht verfügbare Kombinationen ausgegraut.
+Wenn beispielsweise nur einer Ihrer Tierärzte Herz-Ultraschall anbietet, wird auch nur bei Wahl dieses Tierarztes das Feld mit diesem Terminanlass buchbar gesetzt. 
+Andersherum, wenn der Kunde den Terminanlass Herz-Ultraschall wählt, wird entsprechend jeder Tierarzt, der diesen nicht anbietet, ausgegraut.   
+
+Im nächsten Schritt sieht der Kunde in schwarz hinterlegt die Tage, an denen sein gewählter Terminanlass verfügbar ist. Wenn der Tag ausgewählt wird, sind die
+verfügbaren Zeiten anschließend direkt sichtbar. Dabei können Sie selbst in den Einstellungen festlegen, ob die Terminabstände immer in 15 Min. Abständen oder mit Abständen
+der Länge des Terminanlasses angepasst angeboten werden soll. (Siehe Terminanlässe)
+
+![](../../static/img/Kunden/webwidget3.png) 
+
+Im nächsten Schritt kann der Kunde noch etwas als Kommentar an Sie übermitteln. 
+
+![](../../static/img/Kunden/webwidget4.png)  
+
+Die Kunden müssen sich einen around.pet account erstellen (können diesen aber auch mit google login oder apple login sehr schnell erzeugen), um den Termin abschließend 
+zu buchen.  
+
+![](../../static/img/Kunden/webwidget_einloggen.png)
+
+Bei Ihnen im debevet wird automatisch eine Kartei erstellt, in der die Adress- und Kontaktdaten des Besitzers bereits eingegeben sind. Außerdem wird eine Kartei
+für das Tier erstellt. Dazu werden vorerst nur Name und Tierart übermittelt, für die Abfrage weiterer Tierdaten lesen Sie bitte weiter unten.
+
+:::tip Anmerkung: 
+Das sogenannte Mapping (also die Prüfung, ob dieser Kunde in Ihrer Praxis bereits existiert) erfolgt immer über seine Mailadresse. Sollte
+also eine zweite Kartei angelegt werden, prüfen Sie bitte die Mailadressen. 
+Auf diese Art versuchen wir sicherzustellen, dass es keine doppelten Karteien gibt. Dennoch kann bei Kunden mit mehreren Mailadressen natürlich eine Dublette 
+entstehen.   
+
+:::   
+
+## Abfrage erweiterter Tierdaten (bei Neukunden)
+
+## Den Fragebogen in die Terminbuchung einbinden (bei Neukunden)
 
 ## Tierbesitzer zur App einladen   
 
@@ -79,6 +130,11 @@ registriert. Nur dann kann die richtige Zuordnung stattfinden.
 3. Gehen Sie im Bereich Einladungsmail auf den Button „around.pet“. Dadurch wird an die hinterlegte E-Mail-Adresse des Kunden eine Einladungsmail versendet.  
 
 ![](../../static/img/Admin/aroundpet_einladung.png)  
+
+## Bestätigungsmail und Erinnerungsmail   
+
+Egal, ob die Kunden mit der App oder dem Webwidget buchen: Es werden immer automatisch eine Buchungs-Bestätigung via Mail sowie 24 Stunden vor dem 
+Termin eine Erinnerungsmail verschickt. Kunden, die die App installiert haben, erhalten die Termin Erinnerung außerdem via Push auf Ihr Handy.
 
 ## Neukunden über die App  
 
@@ -137,7 +193,13 @@ Klick auf **Abbrechen** absagen. Der Patientenbesitzer erhält sofort eine Benac
 
 ## Terminabsage durch Kunden  
 
-Wenn Kunden durch die App einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
+Die Kunden können in der App im Rahmen der von Ihnen gesetzten Absagefristen (Siehe Terminanlässe) die Termine einfach mit einem
+Klick absagen.
+
+Für Kunden, die via Webwidget gebucht haben, hängt an der Bestätigungsmail ein Link, mit welchem der Kunde nach seinem Login ein 
+Portal sieht. In diesem sind seine Termine sichtbar und stornierbar innerhalb der Fristen.
+
+Wenn Kunden einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
 Ihrem Dashboard.  
 
 :::caution Hinweis:   
