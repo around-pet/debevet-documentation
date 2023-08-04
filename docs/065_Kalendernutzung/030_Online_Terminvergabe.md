@@ -47,10 +47,20 @@ des Mitarbeiters freigeben ist
 Alles zu Terminanlässen finden Sie hier:   
 https://handbuch.debevet.de/docs/Kalendernutzung/Terminanlaesse  
 
-Alles zu den Arbeitszeitplänen finden Sie hier:   
+Alles zu den Arbeitszeitplänen finden Sie hier:    
 
 https://handbuch.debevet.de/docs/Arbeitszeitplanung/Arbeitszeitplanung  
 
+## Mögliche Buchungsvarianten /Zeitvorgaben
+
+Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese   
+* Extern buchbar sein sollen (also über Web oder App) 
+* Sofort buchbar sein soll (oder Sie es als Termin-Anfrage nutzen wollen)  
+
+Bei Termin-Anfragen müssen Sie die Termine noch einmal bestätigen, bei "Sofort buchbar" wird der Termin direkt fest eingebucht ohne, 
+dass Sie manuell noch einmal tätig werden müssen.
+
+![](../../static/img/arbeitszeit/terminanlass_direkt.png)
 
 ## Das Webwidget nutzen  
 
