@@ -2,6 +2,7 @@
 
 Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. 
 Dabei stehen zwei Möglichkeiten zur Verfügung, wie Ihre Kunden bei Ihnen buchen können: 
+>>>>>>>>> Temporary merge branch 2
 
 - Ein Webwidget, also eine Möglichkeit, direkt über den Browser zu buchen (Sie können dieses über Ihre Webseite verlinken)
 - Eine App wie bereits bisher (around.pet App) 
@@ -11,9 +12,10 @@ Das eine schließt das andere nicht aus und unsere Empfehlung ist, einfach beide
 
 Dabei wird unterschieden (und das stellen Sie selbst pro Terminanlass ein) in:
 
-Neu ist seit Juni 2023, dass es nun einen Webwidget Service gibt, das bedeutet, dass Sie direkt über Ihre Webseite die Kunden Termine 
-buchen lassen können, ohne, dass die App genutzt werden muss. Die Kunden haben also immer die freie Wahl, ob Sie über die App oder das Webwidget buchen
-möchten, die zur Verfügung stehenden Termine sind dieselben.
+1. Terminanfragen (die Sie dann bestätigen müssen))
+2. Direkte Terminbuchung (ohne, dass Sie noch etwas manuell tun müssen, ist der Termin fix eingebucht)
+
+Da beides über around.pet läuft, müssen Sie in jedem Fall die Schnittstelle aktivieren.
 
 ## around.pet Schnittstelle aktivieren
 
@@ -38,17 +40,28 @@ Damit ein Termin als extern buchbar erscheint, müssen folgende Bedingungen erf�
 
 1. Ein Mitarbeiter muss im Arbeitszeitplan verfügar sein 
 2. Es muss einen Terminanlass geben, der als "extern buchbar" (das bedeutet, dass der Kunde es selbst buchen kann) für den Kalender 
-des Mitarbeiters freigeben ist   
+des Mitarbeiters freigeben ist  
+3. Sie können Zeiten für Terminanlässe setzten, aber der Mitarbeiter muss mit seiner Arbeitszeit für diese dann verfügbar sein, damit sie buchbar werden
 
 :::  
 
-Alles zu Terminanlässen finden Sie hier:   
+Die Zeiten, zu denen die Termine buchbar sind, werden in den Terminanlässen festgelegt. Alles zu Terminanlässen finden Sie hier:   
 https://handbuch.debevet.de/docs/Kalendernutzung/Terminanlaesse  
 
-Alles zu den Arbeitszeitplänen finden Sie hier:   
+Alles zu den Arbeitszeitplänen finden Sie hier:    
 
 https://handbuch.debevet.de/docs/Arbeitszeitplanung/Arbeitszeitplanung  
 
+## Mögliche Buchungsvarianten /Zeitvorgaben
+
+Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese   
+* Extern buchbar sein sollen (also über Web oder App) 
+* Sofort buchbar sein soll (oder Sie es als Termin-Anfrage nutzen wollen)  
+
+Bei Termin-Anfragen müssen Sie die Termine noch einmal bestätigen, bei "Sofort buchbar" wird der Termin direkt fest eingebucht ohne, 
+dass Sie manuell noch einmal tätig werden müssen.
+
+![](../../static/img/arbeitszeit/terminanlass_direkt.png)
 
 ## Das Webwidget nutzen  
 
@@ -110,6 +123,7 @@ entstehen.
 ## Abfrage erweiterter Tierdaten (bei Neukunden)
 
 ## Den Fragebogen in die Terminbuchung einbinden (bei Neukunden)
+>>>>>>>>> Temporary merge branch 2
 
 ## Tierbesitzer zur App einladen   
 
@@ -199,7 +213,7 @@ Klick absagen.
 Für Kunden, die via Webwidget gebucht haben, hängt an der Bestätigungsmail ein Link, mit welchem der Kunde nach seinem Login ein 
 Portal sieht. In diesem sind seine Termine sichtbar und stornierbar innerhalb der Fristen.
 
-Wenn Kunden einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
+Wenn Kunden durch die App einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
 Ihrem Dashboard.  
 
 :::caution Hinweis:   
