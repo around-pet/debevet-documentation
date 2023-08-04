@@ -2,7 +2,6 @@
 
 Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. 
 Dabei stehen zwei Möglichkeiten zur Verfügung, wie Ihre Kunden bei Ihnen buchen können: 
->>>>>>>>> Temporary merge branch 2
 
 - Ein Webwidget, also eine Möglichkeit, direkt über den Browser zu buchen (Sie können dieses über Ihre Webseite verlinken)
 - Eine App wie bereits bisher (around.pet App) 
@@ -123,7 +122,6 @@ entstehen.
 ## Abfrage erweiterter Tierdaten (bei Neukunden)
 
 ## Den Fragebogen in die Terminbuchung einbinden (bei Neukunden)
->>>>>>>>> Temporary merge branch 2
 
 ## Tierbesitzer zur App einladen   
 
