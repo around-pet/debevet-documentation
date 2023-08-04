@@ -44,7 +44,7 @@ des Mitarbeiters freigeben ist
 
 :::  
 
-Alles zu Terminanlässen finden Sie hier:   
+Die Zeiten, zu denen die Termine buchbar sind, werden in den Terminanlässen festgelegt. Alles zu Terminanlässen finden Sie hier:   
 https://handbuch.debevet.de/docs/Kalendernutzung/Terminanlaesse  
 
 Alles zu den Arbeitszeitplänen finden Sie hier:    
