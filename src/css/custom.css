@@ -28,3 +28,24 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.vertical-image-wrapper {
+  text-align: center;
+}
+
+.vertical-image-wrapper > img {
+  width: 80%;
+}
+
+@media (min-width: 640px) {
+  .vertical-image-wrapper > img {
+    width: 60%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .vertical-image-wrapper > img {
+    width: 40%;
+  }
+}
+
