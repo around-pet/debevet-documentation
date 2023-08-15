@@ -1,6 +1,6 @@
 # Online Termine vergeben
 
-Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. 
+Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Onlinebuchung. 
 Dabei stehen zwei Möglichkeiten zur Verfügung, wie Ihre Kunden bei Ihnen buchen können: 
 
 - Ein Webwidget, also eine Möglichkeit, direkt über den Browser zu buchen (Sie können dieses über Ihre Webseite verlinken)
@@ -14,7 +14,7 @@ Dabei wird unterschieden (und das stellen Sie selbst pro Terminanlass ein) in:
 1. Terminanfragen (die Sie dann bestätigen müssen))
 2. Direkte Terminbuchung (ohne, dass Sie noch etwas manuell tun müssen, ist der Termin fix eingebucht)
 
-Da beides über around.pet läuft, müssen Sie in jedem Fall die Schnittstelle aktivieren.
+**Da beides über around.pet läuft, müssen Sie in jedem Fall die Schnittstelle aktivieren.**
 
 ## around.pet Schnittstelle aktivieren
 
@@ -60,6 +60,15 @@ Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese
 Bei Termin-Anfragen müssen Sie die Termine noch einmal bestätigen, bei "Sofort buchbar" wird der Termin direkt fest eingebucht ohne, 
 dass Sie manuell noch einmal tätig werden müssen.
 
+:::tip Tipp:  
+
+Auch OPs könnten mit dieser Variante zur Onlinebuchung angeboten werden. Vor allem Kastrationen, bei diesen könnten Sie dann direkt in der Terminanfrage sehen,
+ob es sich um ein Ihnen bekanntes Tier handelt. Unbekannte Tiere oder Tiere, die Sie lange nicht gesehen haben, könnten Sie zunächst erneut kontaktieren, um das Tier zu sehen,
+bevor der OP Termin bestätigt werden kann. Nach Vorgesprächen zur Kastration mit Ihnen bekannten Kunden könnten diese aber durchaus über eine Onlineterminbuchung
+angenommen werden.   
+
+:::  
+
 ![](../../static/img/arbeitszeit/terminanlass_direkt.png)
 
 ## Das Webwidget nutzen  
@@ -81,34 +90,12 @@ mit einem Button "Termin direkt online buchen" (oder ähnlichem) auf Ihrer Homep
 Auf diesem Wege sehen die Kunden nicht ALLE Praxen, sondern gelangen immer direkt in den Buchungssektor Ihrer eigenen Praxis. Dort können Sie nun 
 online Ihre Termine direkt buchen oder Terminanfragen stellen (je nach Ihren Vorgaben).   
 
-Die Kunden sehen zunächst diese Übersichtsseite Ihrer Praxis:  
+Wie das fertige Webwidget bzw. der Buchungsprozess für die Kunden aussieht, sehen Sie hier: 
 
-![](../../static/img/Kunden/webwidet1.png)
+https://handbuch.debevet.de/docs/Online_Terminbuchung/Kundenansicht  
 
-Wenn Sie dort auf **Termin vereinbaren** klicken, gelangen Sie zur nächsten Seite:  
-
-![](../../static/img/Kunden/webwidget2.png) 
-
-Diese zeigt die von Ihnen zur Verfügung gestellten Tierärzte und die Terminanlässe. Dabei werden entsprechend nicht verfügbare Kombinationen ausgegraut.
-Wenn beispielsweise nur einer Ihrer Tierärzte Herz-Ultraschall anbietet, wird auch nur bei Wahl dieses Tierarztes das Feld mit diesem Terminanlass buchbar gesetzt. 
-Andersherum, wenn der Kunde den Terminanlass Herz-Ultraschall wählt, wird entsprechend jeder Tierarzt, der diesen nicht anbietet, ausgegraut.   
-
-Videosprechstunden sind mit einem kleinen Headset-Symbol gekennzeichnet (siehe Pfeil).
-
-Im nächsten Schritt sieht der Kunde in schwarz hinterlegt die Tage, an denen sein gewählter Terminanlass verfügbar ist. Wenn der Tag ausgewählt wird, sind die
-verfügbaren Zeiten anschließend direkt sichtbar. Dabei können Sie selbst in den Einstellungen festlegen, ob die Terminabstände immer in 15 Min. Abständen oder mit Abständen
-der Länge des Terminanlasses angepasst angeboten werden soll. (Siehe Terminanlässe)
-
-
-
-![](../../static/img/Kunden/webwidget3.png) 
-
-Im nächsten Schritt kann der Kunde noch etwas als Kommentar an Sie übermitteln. 
-
-![](../../static/img/Kunden/webwidget4.png)  
-
-Die Kunden müssen sich einen around.pet account erstellen (können diesen aber auch mit google login oder apple login sehr schnell erzeugen), um den Termin abschließend 
-zu buchen.  
+Die Kunden müssen sich einen around.pet account erstellen (können diesen aber auch mit google login oder apple login sehr schnell erzeugen), um den 
+Termin abschließend zu buchen.  
 
 ![](../../static/img/Kunden/webwidget_einloggen.png)
 
@@ -188,7 +175,7 @@ Beschreibung des Kalendereintrages als Grund des Termines. Das Feld des Titels e
 ## Terminanfragen vom Kunden annehmen  
 
 Auf Ihrem Dashboard gibt es ein Fenster für **Aktualisierte Termine**. Dort sehen Sie alle Terminanfragen von Kunden, die über die 
-around.pet App hereinkommen.  
+around.pet App hereinkommen. (mit einem orangenen Punkt erkenntlich) 
 
 ![](../../static/img/Admin/terminanfrage1.png)  
 
@@ -203,20 +190,20 @@ Der Eintrag ist dann aus dem Dashboard Feld **Aktualisierte Termine** verschwund
 ## Termin absagen oder Anfrage ablehnen  
 
 In der Detailansicht eines Termines können Sie über **Erweitert** eine Terminanfrage bzw. einen Termin durch 
-Klick auf **Abbrechen** absagen. Der Patientenbesitzer erhält sofort eine Benachrichtigung.  
+Klick auf **Abbrechen** absagen. Der Patientenbesitzer erhält sofort eine Benachrichtigung. (Via App und Email) 
 
 ![](../../static/img/Admin/terminanfrage_ablehnen.png)  
 
 ## Terminabsage durch Kunden  
 
-Die Kunden können in der App im Rahmen der von Ihnen gesetzten Absagefristen (Siehe Terminanlässe) die Termine einfach mit einem
+Die Kunden können in der App oder im Webwidget im Rahmen der von Ihnen gesetzten Absagefristen (Siehe Terminanlässe) die Termine einfach mit einem
 Klick absagen.
 
 Für Kunden, die via Webwidget gebucht haben, hängt an der Bestätigungsmail ein Link, mit welchem der Kunde nach seinem Login ein 
 Portal sieht. In diesem sind seine Termine sichtbar und stornierbar innerhalb der Fristen.
 
-Wenn Kunden durch die App einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
-Ihrem Dashboard.  
+Wenn Kunden einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
+Ihrem Dashboard.
 
 :::caution Hinweis:   
 
@@ -228,7 +215,8 @@ In den Terminanlässen können Sie selbst bestimmen, welche Terminart wie früh 
 
 ## Termin ändern  
 
-Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt und per Mail mitgeteilt!
+Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt
+und per Mail mitgeteilt.
 
 ## Dokumenten Service  
 
