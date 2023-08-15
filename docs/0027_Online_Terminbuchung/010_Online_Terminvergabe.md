@@ -60,6 +60,15 @@ Sie können an den buchbaren Terminanlässen immer selbst entscheiden, ob diese
 Bei Termin-Anfragen müssen Sie die Termine noch einmal bestätigen, bei "Sofort buchbar" wird der Termin direkt fest eingebucht ohne, 
 dass Sie manuell noch einmal tätig werden müssen.
 
+:::tip Tipp:  
+
+Auch OPs könnten mit dieser Variante zur Onlinebuchung angeboten werden. Vor allem Kastrationen, bei diesen könnten Sie dann direkt in der Terminanfrage sehen,
+ob es sich um ein Ihnen bekanntes Tier handelt. Unbekannte Tiere oder Tiere, die Sie lange nicht gesehen haben, könnten Sie zunächst erneut kontaktieren, um das Tier zu sehen,
+bevor der OP Termin bestätigt werden kann. Nach Vorgesprächen zur Kastration mit Ihnen bekannten Kunden könnten diese aber durchaus über eine Onlineterminbuchung
+angenommen werden.   
+
+:::  
+
 ![](../../static/img/arbeitszeit/terminanlass_direkt.png)
 
 ## Das Webwidget nutzen  
@@ -83,8 +92,7 @@ online Ihre Termine direkt buchen oder Terminanfragen stellen (je nach Ihren Vor
 
 Wie das fertige Webwidget bzw. der Buchungsprozess für die Kunden aussieht, sehen Sie hier: 
 
-
-
+https://handbuch.debevet.de/docs/Online_Terminbuchung/Kundenansicht  
 
 Die Kunden müssen sich einen around.pet account erstellen (können diesen aber auch mit google login oder apple login sehr schnell erzeugen), um den 
 Termin abschließend zu buchen.  
@@ -167,7 +175,7 @@ Beschreibung des Kalendereintrages als Grund des Termines. Das Feld des Titels e
 ## Terminanfragen vom Kunden annehmen  
 
 Auf Ihrem Dashboard gibt es ein Fenster für **Aktualisierte Termine**. Dort sehen Sie alle Terminanfragen von Kunden, die über die 
-around.pet App hereinkommen.  
+around.pet App hereinkommen. (mit einem orangenen Punkt erkenntlich) 
 
 ![](../../static/img/Admin/terminanfrage1.png)  
 
@@ -182,20 +190,20 @@ Der Eintrag ist dann aus dem Dashboard Feld **Aktualisierte Termine** verschwund
 ## Termin absagen oder Anfrage ablehnen  
 
 In der Detailansicht eines Termines können Sie über **Erweitert** eine Terminanfrage bzw. einen Termin durch 
-Klick auf **Abbrechen** absagen. Der Patientenbesitzer erhält sofort eine Benachrichtigung.  
+Klick auf **Abbrechen** absagen. Der Patientenbesitzer erhält sofort eine Benachrichtigung. (Via App und Email) 
 
 ![](../../static/img/Admin/terminanfrage_ablehnen.png)  
 
 ## Terminabsage durch Kunden  
 
-Die Kunden können in der App im Rahmen der von Ihnen gesetzten Absagefristen (Siehe Terminanlässe) die Termine einfach mit einem
+Die Kunden können in der App oder im Webwidget im Rahmen der von Ihnen gesetzten Absagefristen (Siehe Terminanlässe) die Termine einfach mit einem
 Klick absagen.
 
 Für Kunden, die via Webwidget gebucht haben, hängt an der Bestätigungsmail ein Link, mit welchem der Kunde nach seinem Login ein 
 Portal sieht. In diesem sind seine Termine sichtbar und stornierbar innerhalb der Fristen.
 
-Wenn Kunden durch die App einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
-Ihrem Dashboard.  
+Wenn Kunden einen Termin abgsagen, erscheint dieser in **Rot** auf der Liste **Aktualisierte Termine** auf 
+Ihrem Dashboard.
 
 :::caution Hinweis:   
 
@@ -207,7 +215,8 @@ In den Terminanlässen können Sie selbst bestimmen, welche Terminart wie früh 
 
 ## Termin ändern  
 
-Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt und per Mail mitgeteilt!
+Wenn Sie wie gewohnt im Kalender den Eintrag (z.B. Datum, Uhrzeit) ändern, bekommt Ihr Kunde dieses direkt via Push Nachricht angezeigt
+und per Mail mitgeteilt.
 
 ## Dokumenten Service  
 

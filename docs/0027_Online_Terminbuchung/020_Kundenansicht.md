@@ -97,3 +97,22 @@ des Termins seitens des Tierarztes eine endgültige Bestätigung erneut versandt
 ## Terminerinnerungen  
 
 Aktuell werden 24 Stunden und 1 Stunde vor Termin eine Mail mit einer Terminerinnerung verschickt.
+
+## Termine einsehen und Termine absagen
+
+Um Termine einzusehen (Terminliste) oder abzusagen, muss der Kunde sich in den around.pet Account einloggen. Dies kann mit einem Klick oben rechts 
+mit Klick auf **Einloggen** erfolgen.   
+
+![](../../static/img/Kunden/webwidget_login1.png)  
+
+Anschließend kann mit einem Klick auf das Kreis-Symbol oben rechts **Terminübersicht** gewählt werden.  
+
+![](../../static/img/Kunden/kunden_terminübersicht.png)
+
+Nun werden alle gebuchten Termine sichtbar und können im Rahmen der vorgegebenen Stornierungszeiten mit Klick auf **Termin absagen** storniert 
+werden. Die Termine bleiben in der Liste sichtbar, werden aber als abgesagt gekennzeichnet. Dabei wird unterschieden in "Vom Tierarzt abgesagte" und 
+"Vom Kunden abgesagte" Termine.
+
+![](../../static/img/Kunden/kundeseitig_termin_absagen.png)
+
+In Bearbeitung: Am Termin wird zeitnah der Tiername zu sehen sein, damit Kunden mit mehreren Tieren den Überblick behalten.
