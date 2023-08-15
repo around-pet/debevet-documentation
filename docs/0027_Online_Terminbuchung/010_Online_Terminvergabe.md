@@ -1,6 +1,6 @@
 # Online Termine vergeben
 
-Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Online Buchung. 
+Die debevet Software bietet Ihnen ein ideales System zur Vergabe von Terminen via Onlinebuchung. 
 Dabei stehen zwei Möglichkeiten zur Verfügung, wie Ihre Kunden bei Ihnen buchen können: 
 
 - Ein Webwidget, also eine Möglichkeit, direkt über den Browser zu buchen (Sie können dieses über Ihre Webseite verlinken)
@@ -14,7 +14,7 @@ Dabei wird unterschieden (und das stellen Sie selbst pro Terminanlass ein) in:
 1. Terminanfragen (die Sie dann bestätigen müssen))
 2. Direkte Terminbuchung (ohne, dass Sie noch etwas manuell tun müssen, ist der Termin fix eingebucht)
 
-Da beides über around.pet läuft, müssen Sie in jedem Fall die Schnittstelle aktivieren.
+**Da beides über around.pet läuft, müssen Sie in jedem Fall die Schnittstelle aktivieren.**
 
 ## around.pet Schnittstelle aktivieren
 
@@ -81,34 +81,13 @@ mit einem Button "Termin direkt online buchen" (oder ähnlichem) auf Ihrer Homep
 Auf diesem Wege sehen die Kunden nicht ALLE Praxen, sondern gelangen immer direkt in den Buchungssektor Ihrer eigenen Praxis. Dort können Sie nun 
 online Ihre Termine direkt buchen oder Terminanfragen stellen (je nach Ihren Vorgaben).   
 
-Die Kunden sehen zunächst diese Übersichtsseite Ihrer Praxis:  
-
-![](../../static/img/Kunden/webwidet1.png)
-
-Wenn Sie dort auf **Termin vereinbaren** klicken, gelangen Sie zur nächsten Seite:  
-
-![](../../static/img/Kunden/webwidget2.png) 
-
-Diese zeigt die von Ihnen zur Verfügung gestellten Tierärzte und die Terminanlässe. Dabei werden entsprechend nicht verfügbare Kombinationen ausgegraut.
-Wenn beispielsweise nur einer Ihrer Tierärzte Herz-Ultraschall anbietet, wird auch nur bei Wahl dieses Tierarztes das Feld mit diesem Terminanlass buchbar gesetzt. 
-Andersherum, wenn der Kunde den Terminanlass Herz-Ultraschall wählt, wird entsprechend jeder Tierarzt, der diesen nicht anbietet, ausgegraut.   
-
-Videosprechstunden sind mit einem kleinen Headset-Symbol gekennzeichnet (siehe Pfeil).
-
-Im nächsten Schritt sieht der Kunde in schwarz hinterlegt die Tage, an denen sein gewählter Terminanlass verfügbar ist. Wenn der Tag ausgewählt wird, sind die
-verfügbaren Zeiten anschließend direkt sichtbar. Dabei können Sie selbst in den Einstellungen festlegen, ob die Terminabstände immer in 15 Min. Abständen oder mit Abständen
-der Länge des Terminanlasses angepasst angeboten werden soll. (Siehe Terminanlässe)
+Wie das fertige Webwidget bzw. der Buchungsprozess für die Kunden aussieht, sehen Sie hier: 
 
 
 
-![](../../static/img/Kunden/webwidget3.png) 
 
-Im nächsten Schritt kann der Kunde noch etwas als Kommentar an Sie übermitteln. 
-
-![](../../static/img/Kunden/webwidget4.png)  
-
-Die Kunden müssen sich einen around.pet account erstellen (können diesen aber auch mit google login oder apple login sehr schnell erzeugen), um den Termin abschließend 
-zu buchen.  
+Die Kunden müssen sich einen around.pet account erstellen (können diesen aber auch mit google login oder apple login sehr schnell erzeugen), um den 
+Termin abschließend zu buchen.  
 
 ![](../../static/img/Kunden/webwidget_einloggen.png)
 
