@@ -116,3 +116,115 @@ werden. Die Termine bleiben in der Liste sichtbar, werden aber als abgesagt geke
 ![](../../static/img/Kunden/kundeseitig_termin_absagen.png)
 
 In Bearbeitung: Am Termin wird zeitnah der Tiername zu sehen sein, damit Kunden mit mehreren Tieren den Überblick behalten.
+
+## Kundenansicht der around.pet App  
+
+Generell ist unsere App ein Multitool: Der Kunde kann viele Vorteile nutzen, die auch Sie als Tierarzt genießen können:
+
+* Terminbuchung möglich
+* Terminerinnerungen via Push Nachricht
+* Termine einfach Absagen 
+* Alle wichtigen Daten vom Tier dokumentieren: 
+  * Unterlagen wie z.B. Versicherungen abspeichern, um diese immer griffbereit zu haben
+  * Krankheitstagebuch (vor allem zur Dokumentation von chronisch kranken Tieren perfekt)
+  * Impfungen und Wurmkuren eintragen
+  * Medikamentenpläne erstellen 
+  * Operationen eintragen 
+  * Gewicht dokumentieren (mit Grafiken, sehr motivierend beim Abspecken)
+* Erste Hilfe Lexikon von Tierärzten geschrieben
+* Gesundheitstipps im Blog von Tierärzten geschrieben, Fachwissen zu diversen Themen 
+
+Nach dem Herunterladen der App kann ein Account mit Apple, Google oder einfach manuell erstellt werden. Die eigenen Tiere können, 
+sogar mit Foto, angelegt werden. Auch alle gewünschten Daten und Informationen können im Tier hinterlegt werden.
+
+Download im Appstore: (iphone, ipad)
+https://apps.apple.com/de/app/around-pet/id1538220356
+
+Download für Android:  
+https://play.google.com/store/apps/details?id=pet.around.pet&pli=1  
+
+Die Startseite sieht so aus (Beispiel mit bereits angelegten Tieren):  
+
+![](../../static/img/Kunden/app_startseite.png)
+
+### Tier anlegen  
+
+Mit einem Klick unten im Menü auf **Tiere** erscheint eine Übersicht über alle Tiere. Mit einem Klick auf das Plus-Symbol oben rechts kann 
+ein neues Tier angelegt werden.   
+
+![](../../static/img/Kunden/app_tieranlegen.png)  
+
+Zunächst muss die Tierart und die Rasse angegeben werden.  
+
+![](../../static/img/Kunden/app_tierneu2.png)  
+
+Mit dem Klick unten rechts auf **Weiter** werden in jedem Schritt weitere Details abgefragt und es besteht die Möglichkeit, ein 
+Bild einzufügen.  
+
+Am Ende kann das Tier angelegt werden und ist dann in der Übersicht verfügbar. 
+
+### Termine buchen mit der App  
+
+Mit einem Klick auf **Termine** unten wird die Option **Neuen Termin vereinbaren** angezeigt.  
+
+Anschließend kann dann eine Tierarztpraxis nach Standort oder Namen gesucht werden. Die bereits mit dem Kunden verbundenen Tierarztpraxen werden
+direkt zur Auswahl angeboten.   
+![](../../static/img/Kunden/app_termine.png)  
+
+
+![](../../static/img/Kunden/app_ta_wahl1.png)
+
+Anschließend kann ein Tierarzt und eine Dienstleistung gebucht werden. Wenn ein Tierarzt eine bestimmte Dienstleistung nicht anbietet,
+wird diese ausgegraut und ist nicht wählbar. Gewählte Elemente werden in gelb dargestellt. 
+
+![](../../static/img/Kunden/app_tagrau.png)  
+
+Mit einem Klick auf **Weiter** unten rechts wird die Kalenderansicht angezeigt. Tage, an denen die gewünschte Dienstleistung verfügbar ist,
+sind schwarz. 
+
+![](../../static/img/Kunden/app_tagewahl.png)  
+
+Anschließend muss die Tageszeit gewählt werden, anschließend werden die Zeiten angeboten. 
+
+![](../../static/img/Kunden/app_vormittag.png)   
+
+![](../../static/img/Kunden/app_zeitwahl.png)  
+
+Nach Auswahl und Klick **Weiter** gelangt man zur Tierauswahl.  
+
+![](../../static/img/Kunden/app_tierwahl3.png)  
+
+Nach dem Wählen des Tieres kann eventuell eine Auswahl nötig sein, falls der Tierarzt schon Tiere kennt. In diesem Fall 
+muss das Tier dem bereits im Tierarztprogramm bekannten Tier zugewiesen werden, um eine doppelte Kartei zu vermeiden:  
+
+![](../../static/img/Kunden/app_tiermapping.png)  
+
+Nach dem Klick auf **Weiter** kann ein Kommentar übermittelt werden.    
+
+![](../../static/img/Kunden/app_kommentar.png)  
+
+Anschließend wird eine Übersicht der Daten angezeigt und der Termin muss abschließend bestätigt werden. Er erscheint dann in der 
+Terminübersicht, entweder als "angefragt" oder direkt als "bestätigt", je nach Vorgaben des Tierarztes.  
+
+![](../../static/img/Kunden/app_terminbest.png)
+
+### Termine einsehen und absagen mit der App
+
+Mit dem Klick auf **Termine** im Menü unten wird eine Übersicht der gebuchten Termine erstellt. Mit wischen nach rechts und links
+kann zwischen den Terminen gewechselt werden. 
+
+Jeder Termin kann angeklickt werden und zeigt eine Übersicht, mit welchem Tier, bei welchem Tierarzt zu welcher Uhrzeit und an welchem Tag
+der Termin stattfindet. Ganz unten gibt es die Option **Termin absagen**. Damit kann der Termin (im Rahmen der Absagefristen) storniert werden. 
+
+![](../../static/img/Kunden/app_terminabsagen.png)  
+
+Anschließend wird der Termin in der Terminübersicht als "abgesagt" gekennzeichnet.  
+
+![](../../static/img/Kunden/app_terminabgesagt.png)
+
+### Tipps und Erste Hilfe Lexikon lesen
+
+Wird unten die Auswahl **Wissen** angeklickt, stehen unsere Wissensartikel (von Tierärzten geschrieben) sowie ein Erste Hilfe Lexikon
+zur Verfügung(ebenfalls tierärztlich verfasst). Ein Klick auf den Pfeil oben links leitet zurück auf die Hauptseite.
+
+![](../../static/img/Kunden/app_erstehilfe.png)
