@@ -231,14 +231,42 @@ klaren Organisation.
 ## 9. Rundschreiben, E-mail an alle Kunden, Rundbrief   
 
 Immer wieder erreichen uns Anfragen, dass Praxen eine Sammelinformation in Form eines Rundschreibens an alle Kunden verschicken möchten.
-Dies geht leider nicht direkt aus dem debevet, aber wir zeigen Ihnen ein kleines "Workaround".
 
-Erstellen Sie einen Export Ihrer Kundendaten:  
+Öffnen Sie hierzu Ihre Kundenliste mit Klick auf **Praxis** und dann **Kunden**.  
 
-https://handbuch.debevet.de/docs/Administration/Administration#export-import  
+![](../../static/img/Kunden/serienbrief1.png)   
 
-Wenn Sie die CSV Datei nun öffnen (mit Excel oder Numbers), können Sie die Spalte mit der Emailadresse kopieren und in Ihrem 
-Mailprogramm in die "BCC" Adressempfängerzeile einfügen. 
+Nun markieren Sie mit einem Klick in die Checkbox die Kunden, die Ihre Email erhalten sollen. Sie können auch alle Kunden markieren, 
+indem Sie ganz oben in der Tabelle die Checkbox aktivieren. Denken Sie jedoch daran, dass Sie vorab einmal die gesamte Seite nach unten
+scrollen müssen, vor allem bei großen Kundenzahlen. Wir raten bei zu großen Zahlen von Kunden davon ab, diese Funktion zu nutzen! 
+
+Wenn Sie einen sehr großen Kundenstamm haben, exportieren Sie bitte Ihre Kundendaten als CSV Datei und senden mit einem Mailprogramm
+eine Email an alle Kunden, bei denen eine Mailadresse hinterlegt ist.  
+
+Um den Inhalt der Mail zu erstellen, klicken Sie nun oben rechts auf das **Brief-Symbol**.  
+
+![](../../static/img/Kunden/serienbrief2.png)
+
+In der sich öffnenden Seite können Sie den Betreff und Mailtext festlegen oder eine Vorlage nutzen.  Klicken Sie anschließend
+oben rechts **Speichern**.
+
+![](../../static/img/Kunden/serienbrief3.png)
+
+In der folgenden Seite wird Ihnen der Überblick der erstellten Serienbriefe gezeigt. Markieren Sie mit einem Klick oben in die Checkbox
+alle Nachrichten und klicken anschließend oben rechts auf das **Papierflieger-Symbol**.  
+
+
+![](../../static/img/Kunden/serienbrief4.png)
+
+Falls keine Mailadresse hinterlegt ist, bzw. der Mailversand für den Kunden nicht erlaubt ist, erhalten Sie unten rechts eine kleine Fehlermeldung. 
+Klicken Sie rechts unten auf das **Kästchensymbol**,  dieses ist zunächst überlagert vom Hilfe Button, lässt sich aber anklicken. Dann klicken Sie auf das
+kleine **Dokumenten-Symbol**, um die Fehlermeldung zu sehen. Dort können Sie detailliert lesen, welchen Kunden die Email nicht zugestellt wurde.  
+
+![](../../static/img/Kunden/fehlemeldung_lesen1.png)  
+
+![](../../static/img/Kunden/fehlermeldung_lesen2.png)  
+
+![](../../static/img/Kunden/fehlermeldung_lesen3.png)
 
 :::caution Achtung!  
 
