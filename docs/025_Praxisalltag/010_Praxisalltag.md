@@ -258,6 +258,15 @@ alle Nachrichten und klicken anschließend oben rechts auf das **Papierflieger-S
 
 ![](../../static/img/Kunden/serienbrief4.png)
 
+:::caution Bitte beachten Sie:   
+
+Die Informationen werden auf diesem Wege nur als Anhang in Form eines Dokumentes verschickt. Möchten Sie eine reelle Mail mit dem direkten
+Text versenden, müssen Sie den Weg über den Export der Kundendaten als CSV Datei gehen. Aus der Tabelle können Sie dann die Mailadressen kopieren und
+mit Ihrem Mailprogramm eine Sammelmail erstellen.  
+
+:::   
+
+
 Falls keine Mailadresse hinterlegt ist, bzw. der Mailversand für den Kunden nicht erlaubt ist, erhalten Sie unten rechts eine kleine Fehlermeldung. 
 Klicken Sie rechts unten auf das **Kästchensymbol**,  dieses ist zunächst überlagert vom Hilfe Button, lässt sich aber anklicken. Dann klicken Sie auf das
 kleine **Dokumenten-Symbol**, um die Fehlermeldung zu sehen. Dort können Sie detailliert lesen, welchen Kunden die Email nicht zugestellt wurde.  
