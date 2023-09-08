@@ -1,6 +1,6 @@
-# Behandlungsvorlagen  
+# Behandlungsvorlagen / Standardbehandlung
 
-Die debevet Software bietet Ihnen die Möglichkeit, individuelle Vorlagen zu erstellen für häufige Behandlungen.  
+Die debevet Software bietet Ihnen die Möglichkeit, individuelle Vorlagen bzw. Standardbehandlungen zu erstellen für häufige Behandlungen.  
 
 Was kann so eine Vorlage?  
 
@@ -26,11 +26,28 @@ Nun öffnet sich die Eingabemaske für die Vorlage.
 Nun können Sie in jeder Zeile ein Produkt eingeben. Wenn Sie beginnen zu tippen, werden Ihnen automatisch passende Posten 
 aus der Liste Ihrer Produkte vorgeschlagen. Diese können Sie auswählen, damit wird diese direkt in die Liste gesetzt.  
 
-![](../../static/img/Patienten/vorlagen3.png)  
+![](../../static/img/Kunden/vorlage_produkt_eingeben.png)
 
 Möchten Sie eine Position wieder löschen, klicken Sie rechts das **Mülleimer-Symbol** neben dem Posten.
 
-Wenn Sie fertig sind, klicken Sie oben rechts auf **Speichern**.    
+Wenn Sie fertig sind, klicken Sie oben rechts auf **Speichern**.   
+
+### Faktor wählen in einer Vorlage  
+
+Um Ihnen mehr Möglichkeiten zur Nutzung der Vorlagen einzuräumen, wurde im September 2023 die Funktion der Faktorisierung in den Vorlagen 
+in der debevet Software hinzugefügt. 
+
+Sie können also nun auch Vorlagen für Notfalldienste oder "Tierschutz" (falls erwünscht, z.B. alles im einfachen Satz) erstellen.
+Sie sehen in der Vorlage nach dem hinzufügen eines Produktes den Grundpreis im einfachen Satz. In der Spalte "Faktor" haben Sie immer die Möglichkeit,
+einen abweichenden Faktor **nur für diese Vorlage** zu hinterlegen.   
+
+Sollte ein Produkt bereits einen abweichenden Faktor hinterlegt haben, wird dieser direkt nach dem Auswählen des Produkts für diese Vorlage 
+bereits im Feld "Faktor" eingetragen, ist aber individuell veränderbar. 
+
+Die Summe der Preise wird immer direkt bei jeder Veränderung (Fakto, Anzahl, hinzufügen oder löschen von Produkten) live angezeigt.  
+
+
+![](../../static/img/Patienten/vorlagen_faktor1.png)
 
 :::info Videotipp
 
@@ -85,12 +102,6 @@ Dort klicken Sie auf **Vorlage wählen**, wählen Ihre gewünschte Vorlage und d
 
 Die debevet Software fügt nun direkt alle Posten der Vorlage in Ihre Behandlung ein, inklusive evtl. hinterlegter Diagnose. 
 
-:::caution Hinweis:  
-
-Falls Sie einen abweichenden Faktor eingegeben haben an einer der Leistungen wird der Preis in der Behandlung ein anderer sein, 
-als in der Übersicht der Vorlage angezeigt. Die Vorberechnung der Vorlage basiert aktuell immer auf einfachem GOT Satz.  
-
-:::  
 
 ## Vorlagen mit inventurpflichtigen Medikamenten nutzen  
 
