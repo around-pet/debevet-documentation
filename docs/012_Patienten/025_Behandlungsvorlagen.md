@@ -53,8 +53,8 @@ Die Summe der Preise wird immer direkt bei jeder Veränderung (Faktor, Anzahl, h
 
 Hier haben wir noch eine Videoanleitung zum Erstellen einer Vorlage:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6wOK1ifyh8g" title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B4SU4DMhxTk?si=NAFUu056JVmz5tHd" title="YouTube video player
+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :::  
 
