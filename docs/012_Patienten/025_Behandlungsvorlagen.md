@@ -44,7 +44,7 @@ einen abweichenden Faktor **nur für diese Vorlage** zu hinterlegen.
 Sollte ein Produkt bereits einen abweichenden Faktor hinterlegt haben, wird dieser direkt nach dem Auswählen des Produkts für diese Vorlage 
 bereits im Feld "Faktor" eingetragen, ist aber individuell veränderbar. 
 
-Die Summe der Preise wird immer direkt bei jeder Veränderung (Fakto, Anzahl, hinzufügen oder löschen von Produkten) live angezeigt.  
+Die Summe der Preise wird immer direkt bei jeder Veränderung (Faktor, Anzahl, hinzufügen oder löschen von Produkten) live angezeigt.  
 
 
 ![](../../static/img/Patienten/vorlagen_faktor1.png)
@@ -96,11 +96,39 @@ Klicken Sie dann auf das **Stiftsymbol** oben rechts zum bearbeiten, oder dsa **
 
 Um eine Vorlage nun in einer Behandlung zu nutzen, klicken Sie in der Behandlung oben auf das Symbol mit den **drei Strichen**.  
 
-Dort klicken Sie auf **Vorlage wählen**, wählen Ihre gewünschte Vorlage und dann den **grünen Button Anwenden**.  
+Sie sehen nun eine Vorschau Ihrer Vorlagen und den Basispreisen sowie dem Preis zum einfachen Satz. 
 
-![](../../static/img/Patienten/vorlageanwenden.png)
+Der links angezeigte Preis ist dabei der Preis, wie er in der Vorlage, samt den dort abweichend hinterlegten Faktoren entsteht.
+Der rechts angezeigte Preis wäre der, der mit allen Positionen zum einfachen Satz entstehen würde. 
 
-Die debevet Software fügt nun direkt alle Posten der Vorlage in Ihre Behandlung ein, inklusive evtl. hinterlegter Diagnose. 
+Um die Vorlage zum "normalen" Preis einzufügen, klicken Sie den grünen Haken links.
+Um einen anderen Faktor für die gesamte Vorlage zu nutzen, können Sie im Feld "Faktor" eine andere, gewünschte Zahl eingeben und anschließend
+den grünen Haken rechts setzen.
+
+![](../../static/img/Patienten/voralge_faktoren4.png)
+
+Die Vorlage "beispiel" sieht wie folgt aus: (hier sehen Sie die abweichenden Faktoren, die erklären, warum die beiden Vorschaupreise 
+voneinander abweichen)
+
+![](../../static/img/Patienten/vorlagen_faktoren3.png)
+
+In dem Feld "Faktor" können Sie auf Wunsch die gesamte Vorlage (bzw. alle Posten, die eine tierärztliche Leistung darstellen) im Faktor
+verändern (Beispiel: Notdienst, Tierschutz auf Wunsch einfachen Satz etc.)
+
+![](../../static/img/Patienten/vorlage_einfuegen_faktor_setzen.png)  
+
+:::tip Tipp:   
+
+Wenn Sie "schnell" noch einmal nachschauen wollen, welche Leistungen in der Vorlage enthalten sind, fahren Sie mit dem Mauszeiger über das 
+Info-Icon. Ihnen wird direkt eine Vorschau der Leistungen in der Vorlage angezeigt.  
+
+![](../../static/img/Patienten/vorlagen_info.png)   
+
+
+:::   
+
+Mit dem Klick auf den grünen Haken fügt die debevet Software nun direkt alle Posten der Vorlage in Ihre Behandlung ein, 
+inklusive evtl. hinterlegter Diagnose und/oder Befunden. 
 
 
 ## Vorlagen mit inventurpflichtigen Medikamenten nutzen  
