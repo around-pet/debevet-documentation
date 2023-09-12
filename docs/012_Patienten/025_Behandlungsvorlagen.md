@@ -51,31 +51,13 @@ Die Summe der Preise wird immer direkt bei jeder Veränderung (Faktor, Anzahl, h
 
 :::info Videotipp
 
-Hier haben wir noch eine Videoanleitung zum Erstellen einer Vorlage:
+Hier haben wir noch eine Videoanleitung zum Erstellen und Anwenden einer Vorlage:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B4SU4DMhxTk?si=NAFUu056JVmz5tHd" title="YouTube video player
 " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :::  
 
-
-## Vorlagen suchen  
-
-Klicken Sie auf **Praxis**, dann auf **Vorlagen**. Das System listet alle Vorlagen auf. Tippen Sie in das **Suchfenster** wie bei
-einer Suchmaschine Begriffe ein, die auf die gewünschte Vorlage passen und drücken Sie die **Entertaste** oder klicken Sie auf das **Lupensymbol**. 
-
-![](../../static/img/Patienten/vorlage_suchen1.png)  
-
-Wenn Sie neben dem Eingabefeld für die Schnellsuche oben auf den **Dropdownpfeil** klicken, können Sie auch nach 
-gezielten Parametern bzw. weiteren Suchbegriffen filtern.  
-
-![](../../static/img/Patienten/vorlage_suchen2.png)  
-
-### Suchenfilter zurücksetzen  
-
-Wenn Sie eine Suche ausgeführt haben, ist die Vorlagenliste gefiltert, was dadurch angezeigt wird, dass der Pfeil nach
-unten neben den der Schnellsuche *gelb* ist. Klicken Sie auf den Pfeil nach unten und dann auf **Zurücksetzen**, um die Vorlagenliste 
-wieder ungefiltert angezeigt zu bekommen.  
 
 ![](../../static/img/Patienten/vorlagen_filter_zurueck.png)  
 
@@ -129,6 +111,21 @@ Info-Icon. Ihnen wird direkt eine Vorschau der Leistungen in der Vorlage angezei
 
 Mit dem Klick auf den grünen Haken fügt die debevet Software nun direkt alle Posten der Vorlage in Ihre Behandlung ein, 
 inklusive evtl. hinterlegter Diagnose und/oder Befunden. 
+
+### Vorlagen suchen 
+
+Sie haben eine sehr umfangreiche Liste mit Vorlagen und es ist unübersichtlich beim Anwenden einer Vorlage? 
+
+Sie können nach dem Klick auf das Vorlagen-einfügen-Symbol in das Feld klicken wie hier gezeigt:  
+
+![](../../static/img/Patienten/vorlagen_suchen_2.png)  
+
+Nun tippen Sie mindestens 3 Buchstaben ein, um die Auswahl der Vorlagen nach Ihrer Wahl zu beschränken, in diesem Beispiel habe ich
+nach "Impfung" gesucht (Impf hätte auch gereicht).  
+
+![](../../static/img/Patienten/vorlagen_suchen3.png)  
+
+So ersparen Sie sich langes suchen und scrollen und können sehr schnell die gewünschte Vorlage einfügen.
 
 
 ## Vorlagen mit inventurpflichtigen Medikamenten nutzen  
