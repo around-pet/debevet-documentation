@@ -6,6 +6,15 @@ sidebar_position: 1
 
 Dieser Abschnitt hilft Ihnen, die 5 wichtigsten Schritte zur ersten Nutzung von debevet zu gehen. 
 
+:::caution Achtung  
+
+Um das Programm ideal nutzen zu können, empfehlen wir eine Bildschirmauflösung von 1.080 Pixel (HD): 1.920 x 1.080. Ansonsten kann
+es zu einer unklaren Darstellung kommen, bei der einige Buttons evtl. ausgeblendet sind. Es wird eine Nutzung an Tablet oder PC/Laptop
+empfohlen.   
+
+:::
+
+
 ## 1. Eigene Praxisdaten inkl. Logo anlegen   
 
 Damit auf Ihren Rechnungen/Briefen etc. Ihre Kontodaten und alle weiteren Daten korrekt hinterlegt sind (im Fußteil), müssen Sie diese 
