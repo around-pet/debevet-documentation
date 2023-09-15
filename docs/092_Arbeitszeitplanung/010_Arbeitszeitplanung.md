@@ -84,6 +84,15 @@ Maus über eine Schicht fahren sehen Sie Detailinformationen.
 
 :::   
 
+:::info Videotipp:
+
+Hier haben wir das Erstellen eines Arbeitszeitplans noch einmal in einem Video erklärt. (bezugnehmend vor allem auch auf die Online-Terminbuchung)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv6iOCI4NQs?si=0G9OwuB8CP9-6qON" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+:::   
+
 ## Einzelne Schichten löschen  
 
 Um eine Schichtplanung eines Mitarbeiters zu löschen, öffnen Sie diese, indem Sie diese in der Übersicht der Arbeitszeitplanung 

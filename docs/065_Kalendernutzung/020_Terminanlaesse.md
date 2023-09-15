@@ -63,6 +63,15 @@ In der Übersichtsseite sehen Sie nun die erstellten Terminanlässe mit kleinen 
 
 Sie können so viele Terminanlässe erstellen, wie Sie wollen.
 
+:::info Videotipp:  
+
+Hier finden Sie eine Videoanleitung, wie Sie in debevet einen Terminanlass erstellen und einem Tierarzt zuweisen. Für das Anbieten von
+Online-Terminbuchung ist dies ein unverzichtbarer Schritt.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sxtAFw4mVD0?si=9BuAt8bdZLwlTjpQ" title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+
+:::  
+
 ## Termin erstellen mit Terminanlass 
 
 Nun ist es viel leichter, schnell einen Termin mit einem Terminanlass zu erstellen.

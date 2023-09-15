@@ -28,6 +28,16 @@ Anschließend können Sie die Schnittstelle aktivieren.
 
 ![](../../static/img/Admin/aroundpet2.png)   
 
+:::info Videotipp:  
+
+Hier finden Sie ein Video, welches die grundsätzliche Aktivierung der Schnittstelle und die Basis Einstellungen der Online-Terminbuchung
+erklärt:   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqN9BBbicqE?si=fg0g1AzLU7oVv46H" title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+
+:::  
+
 ## Zeiten für Termine vorgeben
 
 Natürlich können Sie die Zeiten, in denen Termine buchbar sein sollen, frei vergeben. Wichtig ist, hier zu verstehen, wie die Logik
