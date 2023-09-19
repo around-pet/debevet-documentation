@@ -86,7 +86,7 @@ angenommen werden.
 Wenn Sie das Webwidget nutzen möchten, gehen Sie wie folgt vor: 
 Klicken Sie den Link mit der Übersicht aller Tierärzte, die mit debevet eine Onlinebuchung anbieten und suchen Sie Ihre eigene Praxis. 
 
-[https://https://termine.around.pet/](https://termine.around.pet/)
+[https://termine.around.pet/](https://termine.around.pet/)
 
 Suchen Sie Ihre Praxis in der Liste unserer Tierärzte, die die Onlinebuchung aktiviert haben und klicken Sie **Termin buchen**-  
 
