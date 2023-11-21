@@ -70,7 +70,18 @@ Bei erfolgreicher Anmeldung sind Felder “Zugriffstoken”, “Aktualisierungst
 ![](../../static/img/Labor/scilext_6.png)
 
 
-Wählen Sie, wenn gewünscht, die Option “Kundendaten anonymisieren” aus. (NICHT empfohlen)  
+Wählen Sie, wenn gewünscht, die Option “Kundendaten anonymisieren” aus. (NICHT empfohlen) 
+
+## Synchonisierungsordner erstellen   
+
+Damit die Schnittstelle und das Gerät perfekt "zusammen arbeiten" können, müssen Sie nun auf Ihrem Rechner noch einen Ordner mit dem
+Namen "EiVIS GDT" erstellen. 
+
+Klicken Sie im Anschluss per Rechtsklick auf diesen Ordner und wählen Sie aus der Liste "Diesen Ordner synchronisieren oder sichern".
+
+Anschließend wählen Sie in der  debevet Erweiterung "EiVIS" den soeben erstellten Synchronisationsordner ("EiVIS GDT").
+
+![](../../static/img/erweiterungen/eivis_ordner.png)
 
 ## EiVIS Anbindung in der Behandlung nutzen  
 
