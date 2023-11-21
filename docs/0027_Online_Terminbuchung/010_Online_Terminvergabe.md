@@ -81,6 +81,22 @@ angenommen werden.
 
 ![](../../static/img/arbeitszeit/terminanlass_direkt.png)
 
+
+## Wie lange vorab sollen Ihre Termine buchbar sein? (Vorlauf)
+
+Bisher haben wir im debevet nur die Möglichkeit, eine globale Vorlaufzeit in Stunden festzulegen, die Ihre Kunden maximal vorher buchen
+dürfen. Wenn Sie beispielsweise nicht wünschen, dass die Kunden noch am selben Tag buchen können, setzen Sie die Vorlaufzeit auf mind. 24 Stunden.
+Bitte beachten Sie dabei, dass Buchungen auch Sonntags erfolgen könnten!
+
+Um die Vorlaufzeit festzulegen, klicken Sie auf **Administation** und dann **Einstellungen**. Dort wählen Sie den Reiter **API**.  
+
+Dort finden Sie das Feld "Vorlauf", in das Sie die gewünschte Stundenzahl eintragen können.  
+
+![](../../static/img/Kunden/vorlaufzeit.png)   
+
+Auf Wunsch können Sie auch festlegen, wie viele Tage die Kunden maximal im voraus Termine buchen können, z.B. 28 Tage.
+
+
 ## Das Webwidget nutzen  
 
 Wenn Sie das Webwidget nutzen möchten, gehen Sie wie folgt vor: 
