@@ -12,7 +12,7 @@ Gängige Beispiele hierfür sind:
 * Kastrationen 
 * generell individuell angelegte Posten  
 
-## Eine Vorlage erstellen  
+## Eine Vorlage für eine Behandlung erstellen  
 
 Klicken Sie im Hauptmenü auf **Praxis** und wählen Sie den Untermenüpunkt **Vorlagen**. Sie sehen die ungefilterte Liste 
 Ihrer Vorlagen. Klicken Sie nun auf das grüne **Plussymbol**, um auf die Seite zur Eingabe einer neuen Vorlage zu gelangen.   
@@ -140,4 +140,21 @@ In diesem Fall erscheint ein Popup Fenster, welches erneut abfragt, welche Charg
 Wählen Sie dort durch einen Klick die korrekte Charge und klicken Sie dann speichern. Nun ist die Vorlage inklusive der korrekten Charge verwendet und die Inventur 
 wird korrekt, da die Anzahl der verwendeten Medikamente abgezogen werden kann. 
 
+## Vorlagen ein- und ausklappen  
+
+Die Vorlagen werden immer als "Stapel" angewendet und auch als ein solcher in der Behandlung abgebildet. Dabei sieht der Tierbesitzer 
+auf der Rechnung den Namen bzw. die Überschrift ihrer Vorlage nicht, sondern nur die abgerechneten Positionen.
+Sie selbst können die Vorlagen entweder aus- oder wieder einklappen, indem Sie auf den kleinen Pfeil klicken, den nach oben oder unten zeigt
+(je nach Ansicht).  
+
+![](../../static/img/Patienten/vorlage_ausgeklappt.png)  
+
+![](../../static/img/Patienten/vorlage_eingeklappt.png)   
+
+Außerdem haben Sie die Möglichkeit, die Vorlagen als immer ausgeklappt darstellen zu lassen, wenn das für Sie praktikabler ist. 
+
+Klicken Sie dazu auf **Administration** und dann **Einstellungen**. Dort finden Sie am Reiter **Behandlung** die Checkbox
+"Vorlagen immer offen". Wenn Sie diese aktivieren, werden die Vorlagen nicht mehr "zugeklappt".  
+
+![](../../static/img/Patienten/vorlagen-immer_offen.png)
 
