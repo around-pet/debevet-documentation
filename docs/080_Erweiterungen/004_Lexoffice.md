@@ -47,7 +47,7 @@ Sie müssen nun debevet den Zugriff auf lexoffice erlauben, indem Sie den grüne
 
 Nun werden Sie automatisch zurück zu debevet geleitet und sehen an dem Zugriffstoken, dass die Authentifizierung erfolgreich war.  
 
-![](../../static/img/erweiterungen/token-gesichert.png)  
+![](../../static/img/erweiterungen/token-gesichert.png)
 
 ### Synchronisiseren  
 
@@ -224,3 +224,30 @@ betriebswirtschaftlichen Status (EÜR, Bilanz, Gewinn- und Verlustrechnung, Sald
 
 Ebenso bietet Ihnen lexoffice ein Mahnsystem, sollten Ihre Kunden ihre debevet-Rechnungen einmal vergessen zu zahlen.  
 Auch hier hilft die Online-Hilfe als auch der Support des Anbieters weiter. 
+
+## Token aktualisieren/ erneut authentifizieren
+
+Teilweise kann es dazu kommen, dass im laufenden Praxisbetrieb Ihre Rechnungen bei Nutzung der Schnittstelle zu Lexoffice nicht buchen können. Dies liegt zu 99% daran, dass
+der Authentifierungs-Token abgelaufen ist.
+Um diesen erneut zu aktualisieren, gehen Sie wie folgt vor:
+
+Klicken Sie im debevet (als Administrator angemeldet) auf **Administration** und dann **Erweiterungen**. An der Kachel "lexoffice"
+klicken Sie auf **Bearbeiten**.
+
+![](../../static/img/erweiterungen/lexoffice_bearbeiten.png)
+
+Klicken Sie nun auf der sich öffnenden Seite auf den blauen Button **Authentifizieren**.
+
+![](../../static/img/erweiterungen/lxo-authentifizieren.png)
+
+Das Programm leitet Sie nun zur Anmeldeseite von lexoffice weiter. Dort müssen Sie Ihre lexoffice Zugangsdaten eingeben.
+
+![](../../static/img/erweiterungen/lxo-anmelden.png)
+
+Sie müssen nun debevet den Zugriff auf lexoffice erlauben, indem Sie den grünen Button **Zugriff erlauben** klicken.
+
+![](../../static/img/erweiterungen/lxo-zugriff-erlauben.png)
+
+Nun werden Sie automatisch zurück zu debevet geleitet und sehen an dem Zugriffstoken, dass die Authentifizierung erfolgreich war.
+
+Alle Rechnungen können nun wieder gebucht werden.

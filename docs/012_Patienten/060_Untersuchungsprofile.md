@@ -10,7 +10,30 @@ Beispiele, für was das häufig angewendet wird sind:
 * Neurologischer Untersuchungsgang 
 * Kotuntersuchungen
 
-## Neues Untersuchungsprofil anlegen  
+Wir liefern Ihnen im debevet etliche Untersuchungsprofile bereits vorab, diese können mit einem kleinen "Trick" auch individuell
+verändert werden. Schauen Sie gern immer wieder in die Untersuchungsprofile, da wir immer wieder unsererseits neue hinzufügen. 
+
+## Mitgelieferte Untersuchungsprofile verändern 
+
+An sich können Sie das "Original" nicht direkt verändern. Um dieses jedoch dennoch zu individualisieren, können Sie es kopieren. Diese 
+Kopie ist dann für Sie frei zu bearbeiten. 
+Gehen Sie wie folgt vor. 
+Klicken Sie auf **Praxis** und dann **Untersuchungsprofile** und öffnen mit Klick auf den Namen des Profils das gewünschte Profil.
+
+Nun klicken Sie oben rechts "kopieren".
+
+![](../../static/img/Patienten/untersuchungsprofil_kopieren.png)
+
+Sofort befinden Sie sich in der kopierten Version und können diese bearbeiten, erweitern und für ihre Zwecke individualisieren. 
+Vergessen Sie bitte nicht, die Veränderungen mit Klick auf "Speichen" oben rechts zu speichern!
+
+:::tip Tipp:  
+
+Denken Sie daran, das Profil anders zu benennen, damit Sie hinter in der Anwendung erkennen können, welches "Ihre" Version ist.  
+
+:::
+
+## Neues (Eigenes) Untersuchungsprofil anlegen  
 
 Um ein eigenes, neues Untersuchungsprofil zu hinterlegen, klicken Sie **Praxis** und dann **Untersuchungsprofile**.  
 
@@ -87,6 +110,26 @@ noch verändert/bearbeitet/gelöscht werden.
 
 Um etwas zu verändern oder zu löschen, markieren Sie die gewünschte **Checkbox* und klicken dann oben rechts zum Bearbeiten das 
 **Stiftsymbol** und zum Löschen das **Mülltonnensymbol**. 
+
+## Mitgelieferte Untersuchungsprofile verändern
+
+An sich können Sie das "Original" nicht direkt verändern. Um dieses jedoch dennoch zu individualisieren, können Sie es kopieren. Diese
+Kopie ist dann für Sie frei zu bearbeiten.
+Gehen Sie wie folgt vor.
+Klicken Sie auf **Praxis** und dann **Untersuchungsprofile** und öffnen mit Klick auf den Namen des Profils das gewünschte Profil.
+
+Nun klicken Sie oben rechts "kopieren".
+
+![](../../static/img/Patienten/untersuchungsprofil_kopieren.png)
+
+Sofort befinden Sie sich in der kopierten Version und können diese bearbeiten, erweitern und für ihre Zwecke individualisieren.
+Vergessen Sie bitte nicht, die Veränderungen mit Klick auf "Speichen" oben rechts zu speichern!
+
+:::tip Tipp:
+
+Denken Sie daran, das Profil anders zu benennen, damit Sie hinter in der Anwendung erkennen können, welches "Ihre" Version ist.
+
+:::
 
 ## Untersuchungsprofil am Patienten nutzen  
 
