@@ -16,12 +16,6 @@ Anwendungen dann mit dem jeweiligen Paket nutzbar wären.
 
 ![](../../static/img/Admin/paketu__bersicht.png)
 
-:::danger  Achtung 
-
-Wir bitten zu beachten, dass Sie zwar jederzeit auch ein Paket herunterstufen können, aber NICHT zurück auf die Free Version.
-Falls dies unbedingt notwendig sein sollte, kontaktieren Sie uns via Mail.  
-
-:::  
 
 ## Mein Konto
 

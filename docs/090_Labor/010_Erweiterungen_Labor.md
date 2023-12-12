@@ -174,7 +174,7 @@ Ob die Rechnung bei externen Laboraufträgen direkt an den Tierhalter erfolgt od
   
 ## scil anbinden  
 
-Die Einrichtung der Schnittstelle für scil Laborgeräte funktioniert ein wenig anders, als die beiden zuvor genannten.
+Die Einrichtung der Schnittstelle für scil Laborgeräte funktioniert ein wenig anders, als die beiden zuvor genannten.  
 
 ### G-Drive einrichten  
 
@@ -187,10 +187,24 @@ Registrieren Sie sich ein kostenloses Google Konto oder nutzen Sie ein vorhanden
 
 ### G-Drive für Desktop herunterladen  
 
-Laden Sie G-Drive Desktop herunter und installieren Sie es. Dies kann bereits durch Techniker bei der Einrichtung Ihrer
-scil vIP vorgenommen wurden. In diesem Fall springen Sie direkt zur Einrichtung in debevet.  
+Laden Sie G-Drive Desktop herunter und installieren Sie es. Wenn Sie dies bereits erledigen, kann die Einrichtung durch den Servce Techniker 
+von Scil schneller erfolgen. Falls Sie dies nicht selbst erledigen können oder wollen, kann dies durch den Scil-Techniker bei der Einrichtung Ihrer
+scil vIP vorgenommen werden. In diesem Fall springen Sie direkt zur Einrichtung in debevet.  
 
 [G-Drive Desktop installieren](https://support.google.com/drive/answer/7329379#zippy=%2Cgoogle-drive-f%C3%BCr-den-desktop-herunterladen-und-installieren)   
+
+### Scil VIP Konsole einrichten
+
+Damit die Synchronisation der Aufträge und Ergebnisse fließend funktioniert, müssen bestimmte Einstellungen in der VIP Konsole von
+Scil erfolgen. Dafür machen Sie einen Termin mit dem dortigen Kundenberater, der via Teamviewer auf Ihren Rechner zugreift und die entsprechenden Einstellungen
+vornimmt.
+
+Erst durch diese Einstellungen in der Scil VIP Konsole wird der Synchronisationsordner erstellt, den Sie für die Einstellungen der Synchronisation benötigen.
+(Scil VIP Data) 
+
+![](../../static/img/erweiterungen/aktiv.png)
+
+![](../../static/img/erweiterungen/scilVIP.png)  
 
 ### G-Drive für Desktop installieren  
 
@@ -207,6 +221,12 @@ Nun können Sie den passenden Ordner wählen, in dem Sie auf "Ordner hinzufügen
 
 Nach Abschluss setzen Sie die Auswahl "mit Google Drive synchronisieren".  
 
+:::danger  ACHTUNG:
+
+Der Ordner "Scil vIP data" wird erst nach Einrichtung der Scil vIP Konsole durch den Service Techniker von Scil erstellt!  
+
+::: 
+
 ### scil aktivieren
 
 Nun können Sie die scil Erweiterung aktivieren. Klicken Sie auf **Administration** (Zahnradsymbol) und dann **Erweiterungen**. 
@@ -214,6 +234,7 @@ Nun können Sie die scil Erweiterung aktivieren. Klicken Sie auf **Administratio
 Wählen Sie dann die scil Erweiterung und klicken den grauen Button **Anlegen**.
 
 ![](../../static/img/Labor/scilext_1.png)  
+
 
 ### scil G-Drive Verbindung verknüpfen
 
