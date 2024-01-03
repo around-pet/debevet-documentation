@@ -286,3 +286,32 @@ erfahren Sie direkt bei Ihrem Anbieter (oder bei google).
 
 Alternativ können Sie unsere MailChimp Erweiterung nutzen und dort die CSV Datei einfügen, allerdings ist MailChimp selbst kostenpflichtig.
 
+## 10. Login Praxisnummer speichern
+
+Immer wieder fragen unsere Kunden, die sich die Praxisnummer für den Login nicht merken können und kein Passwortprogramm nutzen, ob diese 
+gespeichert werden kann. Die Antwort lautet JA!. 
+
+Melden Sie sich aus der debevet Software ab. (Klick unten links auf das Nutzersymbol, dann "abmelden").
+
+![](../../static/img/Admin/abmelden.png) 
+
+Sie sehen nun, dass in der Anmeldemaske die Praxisnummer eingetragen ist und in der Browser Adresszeile die Adresse direkt zu Ihrer
+Praxisnummer angezeigt wird.
+
+![](../../static/img/Admin/praxisnummer_speichern1.png)
+
+Diese Adresse empfehlen wir nun zu speichern, je nach Vorliebe und Nutzungsangewohnheiten zum Beispiel:
+
+* Als Startseite des Chrome Browsers (das bedeutet, dass diese bei jedem Öffnen von Chrome direkt erscheint)
+* In der Lesezeichenleiste anzeigen lassen, so dass Sie mit einem Klick direkt diese Seite öffnen können
+
+Falls Sie eine Anleitung hierfür benötigen, schauen Sie bitte hier in den Google Hilfeseiten:
+
+Hilfe zu Punkt 1: 
+
+[Startseite im Chrome festlegen](https://support.google.com/chrome/answer/95314?hl=de&co=GENIE.Platform%3DAndroid&sjid=1390074707387844122-EU)
+
+Hilfe zu Punkt 2:
+
+[Lesezeichen im Chrome verwalten](https://support.google.com/chrome/answer/188842?hl=de-DE&ref_topic=7439637) 
+

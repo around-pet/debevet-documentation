@@ -5,6 +5,9 @@ und wieder einlesen, diese sind dann direkt in der Kartei des Patienten abgelegt
 
 https://www.eickemeyer.de/Neu-bei-EICKEMEYER/EiVIS-EICKEMEYER-Veterinary-Imaging-Software-vet.html?listtype=search&searchparam=eivis
 
+Die Kosten dieser Anwendung sind einmalig (Kaufpreis) und werden nicht an uns gezahlt, sondern direkt an die Firma Eickemeyer.
+Die Kosten hierfür betragen ca. 1500 Euro netto.
+
 ## G-Drive einrichten 
 
 Die debevet Software nutzt zur Anbindung von EiVIS den kostenlosen Online-Speicher "G-Drive" von Google und deren G-Drive Desktop Anwendung.  
