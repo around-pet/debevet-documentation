@@ -4,6 +4,13 @@ Seit November 2023 bietet debevet eine Schnittstelle zu einer Medikamentendatenb
 Diese Datenbank holt die Daten zu den Medikamenten aus div. Herstellerportalen und verschiedenen Anbietern und ist nicht 
 Barsoi-abhängig.
 
+:::danger Achtung  
+
+Aktuell müssen wir diese Erweiterung noch manuell für Sie freischaltbar machen, da sich das System noch in der Testphase befindet. 
+Bei Interesse sprechen Sie uns gern an.   
+
+:::   
+
 Die Daten werden jede Nacht automatisch aktualisiert, ohne, dass Sie selbst etwas aktiv einspeisen/importieren müssen.
 
 Es gibt eine "Feedback" Funktion, mit der Sie Abweichungen/Änderungen etc. melden können, diese werden dann überprüft und bei 
