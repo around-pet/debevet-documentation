@@ -296,6 +296,8 @@ Umsatzsteuer ID haben, damit Sie die Rechnungen ohne Mehrwertsteuer ausstellen k
 Bitte beachten Sie, dass die Rechnungen nur dann korrekt sind, wenn Sie selbst Ihre Umsatzsteuer ID in den Praxisdaten hinterlegt haben,
 so dass diese auf Ihren Rechnungen mit aufgedruckt wird.  
 
+Die rechtlich korrekte Darstellung mit Nutzung der NETTO Preise kann unser Programm nur dann erzeugen, wenn Sie alle hier genannten Schritte absolvieren!
+
 :::
 
 ## Steuer ID am Kunden hinterlegen
@@ -316,7 +318,11 @@ System inkl. des Textes korrekt.
 
 :::  
 
-### Reverse-Charge Textbaustein anlegen  
+Setzen Sie außerdem an diesem Kunden den Haken "netto", eine korrekte Einstellung sieht dann so aus: 
+
+![](../../static/img/erweiterungen/reversecharge_nettohaken.png)
+
+## Reverse-Charge Textbaustein anlegen  
 
 Damit der entsprechende Vermerk wie vorgeschrieben auf die Rechnung gedruckt wird, müssen Sie diesen zunächst in den Textbausteinen anlegen.
 Klicken Sie auf **Administration**(Zahnradsymbol) und dann **Textbausteine**.  
@@ -335,6 +341,39 @@ Wählen Sie dazu rechts aus der Liste **Variablen** den Punkt **Kunde Ust.-ID**.
 Klicken Sie dann auf **Speichern**.  
 
 ![](../../static/img/Rechnungen/reverse_charge4.png)   
+
+## Reverse-Charge Buchhaltungskonten einrichten  
+
+Damit die netto Preise am Kunden genutzt werden, und die Rechnung korrekt im Reverse-Charge Verfahren erstellt werden kann,
+benötigt unser Programm in der Buchhaltungserweiterung die passenden Konten. 
+Sprechen Sie bitte mit Ihrem Steuerberater, welchen Kontenrahmen Sie nutzen und auf welches Konto diese Umsätze gebucht und ob 
+diese getrennt kontiert werden sollen. 
+
+Klicken Sie dann auf **Administration** und **Erweiterung**, um dort an der von Ihnen genutzten Buchhaltungserweiterung auf **Bearbeite**
+zu klicken. 
+
+Wählen Sie in der untersten Spalte der Konten zunächst am Dropdownmenü der Versteuerung "innergemeinschaftliche Lieferung" aus. 
+
+![](../../static/img/erweiterungen/buchhaltungskonten_revcharge1.png)  
+
+
+![](../../static/img/erweiterungen/buchhaltungskonten_reversecharge2.png)    
+
+Nun wird das Feld "Ust.frei" weiß und lässt sich bearbeiten. Dort tragen Sie bitte das passende Buchhaltungskonto ein und klicken 
+anschließend auf den Haken am Ende der Zeile. Anschließend können Sie oben rechts "Speichern".   
+
+
+![](../../static/img/erweiterungen/buchhaltungskonten_reversecharge3.png) 
+
+
+:::caution Achtung:
+
+Bitte klären Sie mit Ihrem Steuerberater, ob und auf welche Konten getrennt kontiert werden soll (Tierärztliche Leistungen, abgegebene
+Medikamente, angewandte Medikamente, Sonstiges). In diesem Fall müssen entsprechend viele Konten für die innergemeinschaftliche Lieferung
+angelegt werden.
+
+:::
+
 
 ## Reverse-Charge Rechnung erstellen  
 
