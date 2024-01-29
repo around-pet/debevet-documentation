@@ -37,7 +37,7 @@ zu bestätigen.
 
 ### Preise der Produkte 
 
-Wenn Sie die Barsoiliste nutzen, sind die Preise der Produkte damit bereits gesetzt.   
+Wenn Sie die Barsoiliste oder Vitrapet nutzen, sind die Preise der Produkte damit bereits gesetzt.   
 
 Sollten Sie jedoch eigene Produkte anlegen wollen oder so wenige Medikamente haben, dass sich die Nutzung der Barsoiliste nicht lohnt, können Sie auch selbst die Preise der Medikamente oder Dienstleistungen 
 anlegen bzw. die Preise selbst eintragen. 
@@ -47,13 +47,33 @@ korrekt nach §3 der Arzneimittelverordnung  auszurechnen.
 
 Hier erklären wir zunächst die Bereiche der Preise, damit Sie diese verstehen können.
 
-**Packungsgröße**   
+### **Packungsgröße**  (inneres und äußeres Behältnis) 
 
-Bei Medikamenten müssen Sie die Packungsgröße setzen, damit bei der Berechnung der Einzelmengenpreise alles am Ende bei der Abgabe korrekt berechnet wird. 
+Da die Preise, wenn Sie diese manuell eingeben wollen, mit unserem automatischen Rechner anhand der Packungsgröße berechnet werden, muss diese zwingend 
+korrekt hinterlegt werden. Ansonsten funktioniert die Berechnung der korrekten Abgabepreise nicht. 
 
-Wenn es beispielsweise eine Packung mit 60 Tabletten ist, geben Sie 60 ein und wählen aus dem Dropdown Menü "Tabletten".
+Dabei unterscheidet debevet (NEU seit 2024!) zwischen innerem und äußeren Behältnis.
 
-![](../../static/img/Warenwirtschaft/produktpreise1.png)   
+1. Inneres Behältnis meint die Packung an sich, also beispielsweise eine 5ml  Ampulle, eine 5mg Tube, eine 100ml Flasche, 60 Tabletten etc.
+2. Äußeres Behältnis meint das eventuelel Packungsgebinde. Dies kommt vor allem dann zum tragen, wenn gewisse Ware in 10er Gebinden, 5er Gebinden oder ähnlichem
+geliefert werden. (beispielsweise Ovogest, Cremes, Tuben, 1 Flasche mit 100ml Inhalt etc.) 
+
+
+![](../../static/img/Warenwirtschaft/behaltnis3.png)
+
+Bei fehlenden Gebinden kann das äußere Behältnis auch weg gelassen werden.
+
+Üblich ist, dass die Abgabeeinheit auf dem inneren Behältnis basiert. Ein gängiges Beispiel wäre Buscopan, das äußere Behältnis ist 1 Flasche, das
+innere Behältnis ist 100ml. So wird in ml Schritten abgegeben und der Preis berechnet.
+
+![](../../static/img/Warenwirtschaft/behaltnis2.png)
+
+Bei Wareneingängen wird das Packungsgebinde dann mit berechnet. Bei einer Lieferung von Ovogest besteht eine Packung aus 5 Ampullen mit je 5ml, so dass 
+die Bestellung einer Packung automatisch einen Bestand von 25ml erfasst und als Warenbestand anlegt.
+
+(Eine Packung = äußeres Behältnis mal inneres Behältnis).
+
+![](../../static/img/Warenwirtschaft/behaltnis1.png)
 
 :::caution Achtung  
 
