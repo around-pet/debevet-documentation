@@ -73,6 +73,12 @@ Wählen Sie oben den Zeitraum aus, für den Sie übermitteln möchten. Nun sehen
 
 ![](../../static/img/Nutztiere/hit_meldung1.png)
 
+:::caution Achtung: 
+
+Wir empfehlen, die Meldung monatlich durchzuführen, nicht nur alle 6 Monate!  
+
+::: 
+
 ( Bitte beachten Sie, dass wir keine realen Daten angegeben haben und deswegen eine Fehlermeldung in den Screenshots erscheint).
 
 ## QS-Vetproof Meldungen durchführen
