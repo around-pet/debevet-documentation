@@ -55,7 +55,7 @@ korrekt hinterlegt werden. Ansonsten funktioniert die Berechnung der korrekten A
 Dabei unterscheidet debevet (NEU seit 2024!) zwischen innerem und äußeren Behältnis.
 
 1. Inneres Behältnis meint die Packung an sich, also beispielsweise eine 5ml  Ampulle, eine 5mg Tube, eine 100ml Flasche, 60 Tabletten etc.
-2. Äußeres Behältnis meint das eventuelel Packungsgebinde. Dies kommt vor allem dann zum tragen, wenn gewisse Ware in 10er Gebinden, 5er Gebinden oder ähnlichem
+2. Äußeres Behältnis meint das Packungsgebinde. Dies kommt vor allem dann zum tragen, wenn gewisse Ware in 10er Gebinden, 5er Gebinden oder Ähnlichem
 geliefert werden. (beispielsweise Ovogest, Cremes, Tuben, 1 Flasche mit 100ml Inhalt etc.) 
 
 
