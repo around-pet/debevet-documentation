@@ -25,7 +25,11 @@ Sie den gewünschten Lieferanten aus.
 
 ![](../../static/img/Warenwirtschaft/bestellung_anlegen1.png)  
 
-Geben Sie eine Bestellnummer ein- diese ist Pflicht (wir empfehlen aus Gründen der Übersichtlichkeit, auch die reelle Bestellnummer zu nutzen).  
+:::caution Achtung:  
+
+Geben Sie die korrekte Bestellnummer ein- diese ist eine einmalige Nummer und gewährleistet, dass der Prozess korrekt abläuft und übersichtlich bleibt.   
+
+:::
 
 Wenn Sie nun unten im Feld **Produkt** den Namen des bestellten Produktes eingeben,  wird Ihnen wieder alles passende vorgeschlagen und 
 Sie können wählen. Im Feld **Menge** geben Sie die bestellten Packungen an. Achten sie dabei auf die Packungsgrößen!
@@ -55,11 +59,14 @@ Sie haben nun folgende Optionen:
 * Lieferung anlegen (um diese Bestellung in eine Lieferung zu überführen)
 * Kopieren (wenn Sie eine gleiche oder sehr ähnliche Bestellung wieder tätigen, spart das viel Zeit, die Posten können ja verändert werden)  
 
-Wenn Sie nun **Lieferung anlegen** klicken, wird die Bestellung direkt in eine Lieferung überführt.   
+Wenn Sie nun **Lieferung anlegen** klicken, wird die Bestellung direkt in eine Lieferung überführt. 
 
 ![](../../static/img/Warenwirtschaft/bestellung_lieferung_ueberfuehrt.png)   
 
 Sie bekommen hier direkt eine grüne Erfolgsmeldung.  
 
 ![](../../static/img/Warenwirtschaft/bestellung_lieferung_bestand.001.jpeg)
+
+Wie Sie nun Teil-Lieferungen anlegen und mit der Lieferung verfahren können, erfahren Sie unter "Lieferungen"
+[Lieferungen](https://handbuch.debevet.de/docs/Warenwirtschaft/Lieferungen)
 

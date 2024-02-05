@@ -13,7 +13,20 @@ Hierzu klicken Sie im Hauptmenü auf **Warenwirtschaft** und wählen den Unterme
 Sie sehen die ungefilterte Liste Ihrer Lieferungen (falls es schon welche gibt). Klicken Sie nun auf das grüne **Plussymbol**,
 um auf die Seite zur Eingabe einer neuen Lieferung zu gelangen.  
 
+:::caution Achtung:  
+
+Tragen Sie bitte unbedingt oben die korrekt Lieferschein Nummer ein! Tragen Sie nichts ein, wird bei einem Überführen der Bestellung
+in eine Lieferung die Bestellnummer übernommen. Bei Teillieferungen kann dies zu Problemen im System führen.    
+
+
+![](../../static/img/Warenwirtschaft/lieferschein_nummer.png)  
+
+:::
+
 ![](../../static/img/Warenwirtschaft/Lieferungen_anlegen.png)  
+
+Bei überführten Lieferungen (aus der Bestellung heraus) sind alle bestellten Produkte nun automatisch bereits eingetragen. Beim 
+manuellen Anlegen verfahren Sie wie hier erklärt.
 
 Wenn Sie im Feld **Lieferant** beginnen zu tippen, schlägt debevet Ihnen automatisch passende Lieferanten aus Ihrer Liste vor. Wählen
 Sie den gewünschten Lieferanten aus.  
@@ -29,6 +42,35 @@ Wenn Sie aus der Liste der vorgeschlagenen Produkte eines anklicken, ist dieses 
 Klicken Sie nach Eingabe aller bestellten Produkte oben rechts auf **Speichern**.  
 
 ![](../../static/img/Warenwirtschaft/lieferung_speichern.png)  
+
+## Teillieferung anlegen  
+
+Falls Sie die Lieferung aus einer Bestellung generiert haben, kann es nötig sein, Teil-Lieferungen zu erzeugen, falls 
+der Lieferant nur einen Teil der Ware liefert.  
+
+Um die **nicht gelieferten** Positionen zu entfernen, klicken Sie auf das Mülleimer Symbol rechts in der Zeile des fehlenden Produktes.
+Wurden z.B. von 10 nur 5 Packungen geliefert, ändern Sie die Anzahl bei "Menge" entsprechend. Klicken Sie nun zunächst **zwingend** oben rechts "Speichern".
+
+![](../../static/img/Warenwirtschaft/teillieferung1.png)  
+
+Sie sehen nun nur noch die korrekt gelieferte Menge in der Liste (in meinem Beispiel fehlt hier nun der RCP Impfstoff).
+Wenn Sie nun oben rechts auf "Erweitert" klicken, können Sie den Warenbestand anlegen.
+
+![](../../static/img/Warenwirtschaft/teillieferung2.png)
+
+Geben Sie Chargennummer und Ablaufdatum ein und buchen den Warenbestand aktiv.  
+
+Wenn Sie nun erneut in die Bestell-Übersicht gehen, sehen Sie, dass diese Bestelliung den Status "Teilgeliefert" hat.  
+
+![](../../static/img/Warenwirtschaft/teilgeliefert_status.png)  
+
+Klicken Sie erneut auf die Bestellnummer, sehen Sie unten zwei Reiter, einmal "offen" und "geliefert". Die Voransicht 
+zeigt Ihnen direkt den noch offenen Posten aus der Bestellung, damit dieser einfacher über den oben beschriebenen Weg als Lieferung
+angelegt werden kann.  
+
+![](../../static/img/Warenwirtschaft/teillieferung_buttons.png)
+
+Erst, wenn alle Produkte in eine Lieferung überführt wurden, erhält diese Bestellung den Status "erledigt".
 
 ## Lieferungen suchen  
 
