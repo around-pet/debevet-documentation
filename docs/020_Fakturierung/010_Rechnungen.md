@@ -469,6 +469,10 @@ Klicken Sie **Administration** und dann **Einstellungen**. Dort wählen Sie den 
 
 Setzen Sie das Häkchen bei **Warnung b. offenem Zahlstatus**. Klicken Sie anschließend oben rechts auf **Speichern**.  
 
+Klicken Sie nun auf den Reiter **Fakturierung**. Dort können Sie die Zahl an Tagen einstellen, nach denen diese Warnung angezeigt werden soll. 
+
+![](../../static/img/Kunden/zahlstatus_warnung_tage.png)
+
 Wenn Sie nun ein Tier behandeln, wird Ihnen am Kundennamen links eine rote Zahl angezeigt, welche patientenübergreifend offene Rechnungen anzeigt.  
 
 ![](../../static/img/Rechnungen/zahlungsbadge2.png)
