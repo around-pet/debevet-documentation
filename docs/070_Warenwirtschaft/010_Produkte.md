@@ -58,56 +58,82 @@ Dabei unterscheidet debevet (NEU seit 2024!) zwischen innerem und äußeren Beh�
 2. Äußeres Behältnis meint das Packungsgebinde. Dies kommt vor allem dann zum tragen, wenn gewisse Ware in 10er Gebinden, 5er Gebinden oder Ähnlichem
 geliefert werden. (beispielsweise Ovogest, Cremes, Tuben, 1 Flasche mit 100ml Inhalt etc.) 
 
+**Dabei wird die Abgabeeinheit am inneren Behältnis gesetzt!**
 
-![](../../static/img/Warenwirtschaft/behaltnis3.png)
+:::caution Bitte beachten: 
 
-Bei fehlenden Gebinden kann das äußere Behältnis auch weg gelassen werden.
+Aktuell (Stand April 2024) werden noch keine äußeren Behältnisse aus der Barsoi übernommen. Die Logik ist aktuell also nur bei Nutzung von
+Vitrapet bzw. dem manuellen Anlegend der Produkte voll umfänglich verfügbar. 
+Selbstverständlich kann die Logik auch auf ein Barsoi Produkt angewendet werden, denn bevor ein Warenbestand angelegt wurde, können die Einheiten 
+am Produkt noch verändert werden.  
+
+:::
+
+
+![](../../static/img/Warenwirtschaft/IBAEB1.png)
+
+Zum besseren Verständnis wird Ihnen rechts im Feld immer angezeigt, wie bei der aktuellen Einstellung die Logik funktioniert. 
+Hier im Beispielbild habe ich ein Beispiel wie Ovogest angelegt, bei dem eine Packung beim Bestellen als 5 Ampullen mit je 5ml geliefert wird.
+
+Abgabeeinheit wären dann ml.
+Bei Wareneingängen wird das Packungsgebinde dann mit berechnet. Bei einer Lieferung von Ovogest besteht eine Packung aus 5 Ampullen mit je 5ml, so dass
+die Bestellung einer Packung automatisch einen Bestand von 25ml erfasst und als Warenbestand anlegt.
+(Eine Packung = äußeres Behältnis mal inneres Behältnis).
+
+Bei fehlenden Gebinden kann das äußere Behältnis auch weggelassen werden.
 
 Üblich ist, dass die Abgabeeinheit auf dem inneren Behältnis basiert. Ein gängiges Beispiel wäre Buscopan, das äußere Behältnis ist 1 Flasche, das
 innere Behältnis ist 100ml. So wird in ml Schritten abgegeben und der Preis berechnet.
 
-![](../../static/img/Warenwirtschaft/behaltnis2.png)
+### Preislogik inneres und äußeres Behältnis
 
-Bei Wareneingängen wird das Packungsgebinde dann mit berechnet. Bei einer Lieferung von Ovogest besteht eine Packung aus 5 Ampullen mit je 5ml, so dass 
-die Bestellung einer Packung automatisch einen Bestand von 25ml erfasst und als Warenbestand anlegt.
-
-(Eine Packung = äußeres Behältnis mal inneres Behältnis).
-
-![](../../static/img/Warenwirtschaft/behaltnis1.png)
+![](../../static/img/Warenwirtschaft/ibaeb2.png)
 
 :::caution Achtung  
 
 Die Packungsgröße und der Bereich der automatischen Preisberechnung fehlt bei der Anlage von "Dienstleistungen" und "Sonstiges".
 
-:::  
+:::    
 
-Tragen Sie nach der Packungsgröße nun den Mehrwertsteuersatz mit dem Dropdownmenü ein und Ihren Einkaufspreis (netto) in das Feld **Ek Netto**. 
-Klicken Sie dann auf den blauen Button **§3 AMPreisV**. 
 
-![](../../static/img/Warenwirtschaft/produktpreise2.png)  
+Tragen Sie nach der Packungsgröße nun den Mehrwertsteuersatz mit dem Dropdownmenü ein und Ihren Einkaufspreis (netto) in das Feld **Ek Netto**.
+Klicken Sie dann auf den blauen Button **§3 AMPreisV**.
 
-Die debevet Software berechnet den korrekten Preis nun automatisch. (Hier im Bild gut zu erkennen, da ich einen Beispielpreis von 100 Euro netto EK gesetzt habe). 
+![](../../static/img/Warenwirtschaft/preisberechnung2.png)
 
-![](../../static/img/Warenwirtschaft/produktpreise3.png)
+Ist das äußere Behältnis gleich 1, so werden die Mindermengenzuschläge nach §3AMV mit Klicken des blauen Buttons direkt so berechnet, dass
+jede Abgabe diesen Zuschlag erhält, es sei denn, man gibt die gesamte Menge ab (Ein Beispiel wäre Buscopan, jeder ml kostet den Mindermengenaufschlag,
+es sei denn, man würde die gesamten 100ml spritzen)
 
-Um bei Dienstleistungen oder Medikamenten korrekt die Preise zu hinterlegen, müssen Sie verstehen, dass die Zeile neben **Standard** die
-Preise sind, die Ihre "normalen" Kunden dann bezahlen werden (die also in der Behandlung genutzt werden). Weitere Preise für Mitarbeiter, Züchter o.ä. legen Sie über
-Preisgruppen fest.
+Die debevet Software berechnet den korrekten Preis nun automatisch. (Hier im Bild gut zu erkennen, da ich einen Beispielpreis von 100 Euro netto EK gesetzt habe).
 
-Dabei tragen Sie idealerweise den Netto Preis ein, über den gewählten Mwst. Satz (bei Futtermitteln dann 7%) rechnet die debevet Software den Brutto Preis direkt aus. 
+![](../../static/img/Warenwirtschaft/preisberechnung4.png)
 
-![](../../static/img/Warenwirtschaft/standard_preise.png)
+**Sobald das äußere Behältnis größer als 1 ist, gibt es in der Preislogik eine Besonderheit:**
 
-Hier noch ein Bild, wie es aussehen kann, wenn in der nächsten Zeile die Beispielpreisgruppe "Züchter" (muss vorher angelegt werden) dann einen eigenen Preis bekommen 
-soll. 
+Ist nun das äußere Behältnis wie in meinem Ovogest Beispiel 5 Ampullen mit dem inneren Behältnis von je 5ml, so gilt der "Volle Packung Preis"
+(also ohne Mindermengenzuschlag) für die 5ml Ampulle. 
 
-![](../../static/img/Warenwirtschaft/preise_verschiedene.png)
+In diesem Bild ist dies gut zu sehen:
+
+![](../../static/img/Warenwirtschaft/abgabepreis1.png)
+
+Wenn Sie aber dennoch einen Mindermengenaufschlag für eine Ampulle erreichen möchten, müssen Sie die Packung als "inneres Behältnis" mit 25ml 
+anlegen. In dem Fall wird auf jeden Milliliter, bis zur Abgabe der vollen 25ml der Mindermengenaufschlag berechnet. 
+
+
+In diesem Bild sehen Sie, wie sich die Preise verändern im Vergleich zum vorherigen Bild:  (der Milliliterpreis bleibt gleich, aber die 
+Logik, wie viel eine ganze Packung ist, ändert sich!)
+
+![](../../static/img/Warenwirtschaft/abgabepreis_mit_aufschlag.png)
+
 
 :::danger ACHTUNG!
 
-Achten Sie darauf, dass Sie nicht bei "Ek netto" bzw. "Ek brutto" die Preise eintragen, die Sie verdienen wollen! Beim selbst Anlegen der Preise
-ist dies der Hauptfehler, den wir bei unseren Nutzern beobachten. Die Verkaufspreise (also die, die das Programm in der Behandlung dann nutzt) müssen 
-in der Zeile "Standard" stehen!  
+
+Dies ist absichtlich von uns so angelegt, da die Nutzung der äußeren Behältnisse vor allem auch für Großpackungen etc. gedacht ist.
+Bitte überdenken Sie dies, bevor Sie einen Warenbestand anlegen, denn anschließend kann dies (Revisionssicherheit Inventur) nie wieder an
+demselben Produkt verändert werden.
 
 :::  
 
