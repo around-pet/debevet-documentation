@@ -81,6 +81,15 @@ Ebenso können Sie wählen, ob die Rechnung an den Tierhalter oder an Sie erfolg
 
 Klicken Sie abschließend auf **Auftrag**.  
 
+### Idexx Werte nachfordern  
+
+Bisher bietet unsere Schnittstelle leider noch keine Möglichkeit, Werte nachzufordern. Wir haben aber einen Tipp für Sie:
+Idexx hat eine eigene App entwickelt, die sehr reibungslos funktioniert. Aufträge, die Sie aus dem debevet erzeugt haben, sind immer in Ihrem Vetconnect Plus
+auch via Browser oder der App einzusehen. Über die App (oder den Browser) können zu jedem Auftrag blitzschnell noch Werte nachgeforder werden,
+die nach dem Aktualisieren/Abrufen im debevet dann direkt in der Kartei des Patienten liegen!
+
+Die App können Sie im Appstore bzw. Playstore herunterladen und mit Ihren Vetconnect Plus Zugangsdaten direkt nutzen.
+
 ### zoetis Auftrag erstellen  
 
 Um Ihr hausinternes zoetis Gerät mit einem Auftrag zu versehen, wählen Sie nach Klick auf das **Mikroskop-Symbol** 

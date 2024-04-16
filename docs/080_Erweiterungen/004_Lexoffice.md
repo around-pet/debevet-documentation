@@ -225,6 +225,16 @@ betriebswirtschaftlichen Status (EÜR, Bilanz, Gewinn- und Verlustrechnung, Sald
 Ebenso bietet Ihnen lexoffice ein Mahnsystem, sollten Ihre Kunden ihre debevet-Rechnungen einmal vergessen zu zahlen.  
 Auch hier hilft die Online-Hilfe als auch der Support des Anbieters weiter. 
 
+:::caution: Achtung!
+
+Die Lexoffice Schnittstelle bietet nicht die Tiefe, in der die Belege komplett als offene Belege in Lexoffice auflaufen. Mahnungen können
+deshalb nie direkt erstellt werden. Leider muss im Lexoffice zuerst manuell ein Beleg erstellt werden, der dieser Summe entspricht und dann
+dort abgemahnt werden kann. Wir empfehlen also bei Lexoffice Nutzung das Mahnsystem von debevet zu nutzen.
+
+::: 
+
+
+
 ## Token aktualisieren/ erneut authentifizieren
 
 Teilweise kann es dazu kommen, dass im laufenden Praxisbetrieb Ihre Rechnungen bei Nutzung der Schnittstelle zu Lexoffice nicht buchen können. Dies liegt zu 99% daran, dass
