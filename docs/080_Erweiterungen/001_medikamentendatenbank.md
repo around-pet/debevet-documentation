@@ -19,6 +19,8 @@ Korrektheit im System direkt geändert.
 Bitte beachten Sie, dass die Vitrapet Liste ein externer Anbieter ist, wir stellen lediglich die Schnittstelle zur Verfügung. Bei Fragen 
 zu deren AGB wenden Sie sich bitte an den Anbieter.
 
+https://vitra.pet/home
+
 ## Vitrapet Erweiterung aktivieren  
 
 Zunächst muss die Erweiterung aktiviert werden. Klicken Sie dazu auf **Administration** und dann **Erweiterungen**- Scrollen Sie 
