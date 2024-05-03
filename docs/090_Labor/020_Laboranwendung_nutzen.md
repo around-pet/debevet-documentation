@@ -24,7 +24,52 @@ gesetzt.
 
 Bitte beachten Sie, dass Sie in jedem Fall den Anforderungsbogen über debevet ausdrucken und mitsenden müssen! 
 Eine Anleitung finden Sie in den folgenden Schritten!
-:::
+:::   
+
+### Laboklin Nachforderungen erstellen/ Werte nachfordern  
+
+Auch bei Laboklin können Sie selbstverständlich Werte nachfordern zu den im ursprünglichen Auftrag angeforderten Werten. Dafür gibt es zwei Wege,
+wobei nur der erste Weg direkt die Abrechnungsposten sauber in die Kartei einfügt.  
+
+**Weg 1: Via Mail und Auftragserzeugung** 
+
+Erstellen Sie einen Laborauftrag aus dem Patienten, so als wenn Sie diesen komplett neu anfordern wollen. Laden Sie dann den 
+Auftragsbogen, der eigentlich gedruckt via Post mit der Probe verschickt werden würde als pdf herunter, indem Sie auf den Download Pfeil klicken:
+
+![](../../static/img/erweiterungen/auftrag_downloadpdf.png)  
+
+Mailen Sie anschließend diesen Auftrag als Anhang an eine dieser beiden Mailadressen:
+
+info@laboklin.com
+bestellung@laboklin.com  
+
+Sobald die Werte absolviert sind, können diese wie gewohnt im debevet abgerufen werden.
+
+
+**Weg 2: Via Laboklin Webportal**   
+
+Sie können ebenso über das Laboklin Webportal Nachforderungen senden. Gehen Sie zum Webportal von Laboklin und loggen sich mit Ihren
+Zugangsdaten dort ein:
+
+https://app.laboklin.com/  
+
+Klicken Sie in der Befundübersicht an dem Befund, zu dem Sie etwas nachfordern möchten auf "Details".  
+
+![](../../static/img/erweiterungen/laboklin_nachforderung1.png)
+ 
+Nun klicken Sie auf "nachfordern"   
+
+![](../../static/img/erweiterungen/laboklin_nachfordern2.png)  
+
+Tragen Sie dann im Feld händisch die Werte oder Nummern der Blutwerte (aus dem Katalog) ein und klicken auf "Senden".   
+
+![](../../static/img/erweiterungen/laboklin_nachfordern3.png)  
+
+Sobald die Werte absolviert sind, können diese wie gewohnt im debevet abgerufen werden.
+
+Um die Abrechnung in der Kartei zu haben, müsste ebenso ein Auftrag erstellt werden, dieser wird dann einfach nicht erneut verschickt.
+
+
 ### Eigene Barcodes nutzen  
 
 Um die von Laboklin gelieferten Abreißbögen mit Barcodes zu nutzen, kleben Sie immer EINEN auf den Auftragsbogen, den Sie wie
