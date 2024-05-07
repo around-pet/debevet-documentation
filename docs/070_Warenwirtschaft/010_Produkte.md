@@ -209,6 +209,108 @@ also dort "nicht abgerechnet" werden. Das Programm verweigert automatisch die Be
 
 :::  
 
+### Umwidmungen Humanmedikamente  
+
+Aufgrund der Vorgaben für die Umwidmung von Humanarznei stellen wir hier einige Tipps für Sie zusammen, wie diese am besten in der Praxis
+umgesetzt werden können. Bitte sprechen Sie mit Ihrer Kontrollinstanz, welche Umsetzungen von dieser gewünscht wird, da dies sehr stark 
+voneinander abweichen kann.  
+
+**1. Humanarznei rezeptieren** 
+
+Für die Erstellung von Rezepten, die umgewidmet werden, empfiehlt es sich, eine Vorlage eines Briefes zu nutzen. 
+Gehen Sie hierzu auf den Sektor **Administration** und dann **Textbausteine**.   
+
+![](../../static/img/Warenwirtschaft/rez_vorlage1.png)  
+
+Wählen Sie dort die Sektion **Vorlagen**  
+
+![](../../static/img/Warenwirtschaft/rez-vorlage2.png)   
+
+Dort wählen Sie oben rechts aus der Dropdown Liste nun "Brief" und klicken dann das grüne **Plus-Symbol**.  
+
+![](../../static/img/Warenwirtschaft/rez-vorlage3.png)  
+
+Geben Sie nun einen Vorauswahl Text mit den hier gezeigten Variablen ein. Vergessen Sie nicht, die Vorlage nun zu speichern!
+
+Dieser Beispieltext wird empfohlen: 
+
+1 OP
+
+Für den Hund "{PATIENT_CALLNAME}" der Familie  {CUSTOMER_LASTNAME}.
+
+Dosierung:  2-3 x tgl.    eingeben.
+
+Hinweis: Das Medikament wurde im Einklang des TAMG in Kombination mit den Anforderungen der (EU)2019/6, Artikel 112, 113 und 114 umgewidmet.
+
+
+![](../../static/img/Warenwirtschaft/rez-vorlage4.png)  
+
+:::caution: Achtung!   
+
+Wenn Sie am Patienten diesen "Brief" nun erstellen, müssen Sie das Medikament, die Packungsgröße und die Dosierung noch ändern/
+eingeben. Dann haben Sie ein gesetzlich konformes Rezept mit wenig Aufwand erstellt.  
+
+:::  
+
+Um dieses Rezept für einen Patienten zu nutzen, gehen Sie wie folgt vor:  
+
+Klicken Sie in der Patientenkartei auf das **Briefsymbol**.   
+
+![](../../static/img/Warenwirtschaft/rez_abgabe1.png)
+
+Wählen Sie nun die Vorlage "Rezept Humanarznei", die Sie vorab erstellt haben.  
+
+![](../../static/img/Warenwirtschaft/rez-abgabe2.png)   
+
+Ändern Sie nun den Text im Textfeld mit den fehlenden Angaben für den Patienten (Medikamentenname, Packungsgröße, Darreichungsform,
+Dosierung, Verabreichung)  
+
+![](../../static/img/Warenwirtschaft/rez-abgabe3.png)  
+
+Speichern Sie den Brief.  
+
+Nun können Sie mit einem Klick auf das Druckersymbol das Rezept drucken und unterschreiben.   
+
+![](../../static/img/Warenwirtschaft/rez-abgabe5.png)  
+
+:::tip Tip: 
+
+Wenn Sie unter den Layouts an den Briefen Ihr Logo hinterlegt haben, wird dieses mit auf das Rezept gedruckt. Datum und Ihre Praxisdaten werden
+immer mit abgebildet.  
+
+:::  
+
+**2. Humanarznei abgeben**  
+
+Wenn Sie Humanmedikamente lagern und verkaufen, müssen Sie mindestens am Produkt den Satz in die Beschreibung am Produkt ergänzen: 
+
+**Hinweis: Das Medikament wurde im Einklang des TAMG in Kombination mit den Anforderungen der (EU)2019/6, Artikel 112, 113 und 114 umgewidmet.**
+
+Vielen Kontrollinstanzen reicht dies. 
+
+Falls Sie bei jeder dieser Abgaben einen Eintrag in die Kartei benötigen, empfehlen wir, hierfür eine Vorlage anzulegen, die Sie "Abgabe Humanmedikament" nennen. 
+
+Legen Sie an diese Vorlage den Text in den Befund. Speichern Sie die Vorlage ohne Produkte und ohne Klassifizierung.  
+
+![](../../static/img/Warenwirtschaft/umwidmungs_vorlage.png)  
+
+Wenn Sie diese nun anwenden, erscheint der Text ohne weiteres Tippen in der Kartei und kann vom Kunden nicht eingesehen werden und
+wird auch nicht berechnet oder erscheint auf der Rechnung. 
+
+Sollte Ihre Kontrollinstanz parallel immer ein "Begleitschreiben" für den Patienten mit diesem Text wünschen, empfehlen wir hierfür einen weiteren Brief 
+ähnlich des Rezeptes zu entwerfen und zu nutzen.  
+
+![](../../static/img/Warenwirtschaft/umwidmungs_vorlage2.png)  
+
+:::tip Tip:  
+
+Natürlich können Sie auch eine einzelne Vorlage und ein einzelnes Rezept für jedes genutzte Medikament einzeln anlegen. Ich 
+persönlich finde es so ausreichend und ergänze bei Bedarf die Daten.   
+
+
+:::  
+
+
 ## Barcode Scanner nutzen  
 
 Um Ihre Produkte (betrifft vor allem die Medikamente) schneller und leichter verwalten zu können, können Sie den Barcode scannen. Leider muss 
