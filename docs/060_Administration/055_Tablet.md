@@ -38,17 +38,12 @@ Nun ist das Gerät aktiv und kann genutzt werden.
 Sie können nun alle Dokumente, die Sie im Sektor **Vorlagen** als **Unterschrift Dokument** hinterlegt haben, am Kunden aufrufen. 
 Diese Dokumente kann der Kunde dann unterschreiben.  
 
-Es gibt zwei Möglichkeiten, wie Sie diese dem Kunden zur Verfügung stellen an Ihrem Tablet:
+Gehen Sie dabei wie folgt vor:
 
-### 1. Eingabe der Kundennummer  
+Öffnen Sie die Kartei des Kunden aus der Kundenliste. 
 
-Wenn Sie den QR Code gescannt haben und das Passwort eingegeben haben, geben Sie die Kundennummer in das Suchenfeld ein und drücken Sie die **Entertaste**.  
+Klicken Sie dann oben auf das Tablet-Symbol. 
 
-![](../../static/img/Admin/tablet_neukunde.png)
-
-### 2. Aus dem Kunden direkt  
-
-Sie können auch den Kunden im debevet (also Ihrer normalen Nutzung am PC/Laptop etc.) öffnen und dann oben auf das Tablet-Symbol klicken.
 Dort öffnet sich dann eine kleine Liste mit allen angelegten Geräten. Diese sind mit rot, gelb oder grün gekennzeichnet, so dass Sie direkt sehen,
 ob das Tablet aktiv und angemeldet ist (grün). Klicken Sie dann auf den Namen des Tablets.  
 
