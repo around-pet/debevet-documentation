@@ -59,6 +59,48 @@ zusammenführen können, so dass es übersichtlicher wird und der Warenbestand �
 
 :::  
 
+## Eigene Preise/Preisänderungen an Medikamenten 
+
+Natürlich können Sie auch im Vitrapet eigene Preise eingeben (wenn Sie beispielsweise einen massiven Einkaufsrabatt erhalten und dieser dann
+weitergegeben werden soll an Ihre Kunden). 
+
+Bedenken Sie aber bitte, dass bei jeder nächtlichen Synchronisation dieser wieder überschrieben wird, wenn Sie das einzelne Produkt nicht aus der 
+Synchronisation ausschließen.  Wie Sie das durchführen, zeigt der nächste Schritt.
+
+## Einzelne Produkte aus der Synchronisation ausschließen
+
+Wenn Sie an einem Produkt Preise hinterlegt haben, die Sie so halten wollen, müssen Sie das Produkt aus der Aktualsisierung, die nächtlich stattfindet,
+ausschließen. Um dies durchzuführen, deaktivieren Sie den Toggle Button oben am Produkt. 
+
+![](../../static/img/erweiterungen/vp_desynch1.png)  
+
+:::tip Tipp:  
+
+Wenn Sie nur an einzelnen Produkten Wartezeiten, Anwendungshinweise o.ä. hinterlegen, könnten Sie diese auch einzeln aus der Aktualisierung ausschließen. 
+Generell empfiehlt sich aber evtl. dann ein globaler Ausschluß der einzelnen Felder.  
+
+
+:::  
+
+## Bestimmte Felder aus der Synchronisation ausschließen  
+
+Dieser Part ist vor allem für die Nutztierpraktiker unter Ihnen wichtig. Da die Schnittstelle Vitrapet teilweise (wenn der Hersteller diese 
+in der Liste, die er dort liefert diese angibt) auch Wartezeiten, Anwendungshinweise und Wirkstoffe übermittelt, werden diese nächtlich ebenso aktualisiert. 
+
+Wenn Sie an diesen Feldern etwas ändern oder hinterlegen, wird dies leider ebenso nachts wieder überschrieben. Wenn Sie diese Felder 
+also häufig nutzen, empfiehlt es sich, nach dem Erstimport diese Felder aus der Aktualisierung pauschal/global auszuschließen.
+So würden dann zwar andere Informationen, vor allem der Preis, aktualisiert werden, aber nicht die ausgeschlossenen Felder.
+
+Um zu wählen, welche Felder Sie ausschließen wollen, klicken Sie auf "Administration", "Erweiterungen" und dann ganz unten bei Vitrapet "bearbeiten".   
+
+![](../../static/img/erweiterungen/vp_bearbeiten.png)  
+
+Nun finden Sie unten die erweiterten Einstellungen, in der Sie die Ausnahmen mit einer Checkbox aktivieren können. Denken Sie daran,
+oben rechts anschließend "Speichern" zu klicken.
+
+![](../../static/img/erweiterungen/vp_ausnahmen_sync.png)
+
+
 ## Duplikate im Produktkatalog  
 
 Um Duplikate zu suchen und zusammenzuführen, klicken Sie auf **Produkte** und dann **Duplikate**.  
