@@ -21,10 +21,12 @@ Im unteren Feld sehen Sie eine Vorschau.
 
 Wenn Sie fertig sind mit Ihren Änderungen, klicken Sie oben rechts auf **Speichern**.  
 
-## Vorlagen  
+## Briefe und Dokumente zur Unterschrift
 
-Die Sektion **Vorlagen** beinhaltet die Vorlagen für Briefe oder Unterschriftsdokumente. 
-Dabei ist es wichtig, den Unterschied zu verstehen. Wenn Sie eine neue Vorlage erstellen, ist es wichtig, zu entscheiden, wie diese genutzt werden soll. 
+Die Sektion **Vorlagen** in diesem Teil  (Textbausteine) beinhaltet die Vorlagen für Briefe oder Unterschriftsdokumente. 
+Dabei ist es wichtig, den Unterschied zwischen beiden zu verstehen.  
+
+Wenn Sie eine neue Vorlage erstellen, ist es wichtig, zu entscheiden, wie diese genutzt werden soll. 
 Klicken Sie oben rechts auf den **Dropdown-Pfeil** um zu wählen, welche Art die Vorlage werden soll. 
 
 ![](../../static/img/Patienten/vorlagen_auswahl1.png)

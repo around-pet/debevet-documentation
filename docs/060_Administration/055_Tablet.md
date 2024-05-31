@@ -38,7 +38,11 @@ Nun ist das Gerät aktiv und kann genutzt werden.
 Sie können nun alle Dokumente, die Sie im Sektor **Vorlagen** als **Unterschrift Dokument** hinterlegt haben, am Kunden aufrufen. 
 Diese Dokumente kann der Kunde dann unterschreiben.  
 
-Gehen Sie dabei wie folgt vor:
+Hier finden Sie die Anleitung zum Erstellen der zu unterschreibenden Dokumente: 
+
+https://handbuch.debevet.de/docs/Administration/Textbausteine
+
+Um das erstellte Dokument dann unterschreiben zu lassen, gehen Sie wie folgt vor:
 
 Öffnen Sie die Kartei des Kunden aus der Kundenliste. 
 
@@ -52,7 +56,7 @@ ob das Tablet aktiv und angemeldet ist (grün). Klicken Sie dann auf den Namen d
 Nun können Sie das Tablet (oder Smartphone falls Sie dieses aktiv nutzen und angemeldet haben) dem Kunden geben. Dieser wird nun gefragt, ob er
 Herr/Frau xxx ist. Nach Bestätigung werden die Dokumente aufgelistet, die Sie unter **Vorlagen** und **Unterschrift** bei **Textbausteine** angelegt haben.
 
-Nach Auswahl des gewünschen Dokumentes kann der Kunde unterschreiben.
+Nach Auswahl des gewünschten Dokumentes kann der Kunde unterschreiben.
 
 ![](../../static/img/Admin/tablet_nutzung_kunde.png)  
 
