@@ -179,6 +179,15 @@ Klicken Sie dazu in der Behandlung auf den Reiter **Labor**. Dort klicken Sie da
 ![](../../static/img/Labor/labor_update_patient.png)
 
 
+:::danger ACHTUNG! 
+
+Idexx sendet nicht automatisch Teilbefunde an Sie zurück. Dies ist leider nicht manuell im Portal oder unserer Erweiterung einstellbar.
+Sie müssen bei Idexx anrufen und darum bitten, dass auch Teilbefunde zurück übermittelt werden, ansonsten kommt das Ergebnis erst dann im debevet 
+an, wenn das Endergebnis vorliegt!  
+
+:::   
+
+
 ## Laboraufträge suchen und finden  
 
 Tippen Sie in das Suchfenster wie bei einer Suchmaschine Begriffe ein, die auf den gewünschten Laborauftrag 

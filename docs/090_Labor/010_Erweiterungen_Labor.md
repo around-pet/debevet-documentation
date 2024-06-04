@@ -56,7 +56,7 @@ Sie das Endergebnis abgerufen haben in die Kartei gelegt.
 **Fehlende Produkte autom. in Produktbestand übernehmen:**
 
 Wenn dieses Feld aktiviert ist, werden Tests automatisch aus dem IDEXX-Katalog in Ihren Produktkatalog in debevet aufgenommen
-und aktualisiert.
+und aktualisiert, sobald sich Preise ändern oder neue Tests hinzukommen.
 
 :::caution Achtung
 
@@ -66,30 +66,30 @@ Test zu deaktivieren, damit bei der nächsten Aktualisierung des Tests durch die
 
 :::
 
-**Nur Auslagen berechnen:**
+** Nur Tierarzt EK berechnen:**
 
 Diese Funktion hat nur Auswirkung, wenn Sie im Bestellprozess keine Rechnung an den Tierhalter direkt veranlassen.
-Ist dies aktiviert, werden bei externen Tests die Preise für den Test in die Kartei übernommen, welche durch die IDEXX Ihrer Praxis berechnet werden.
+Ist dies aktiviert, werden bei externen Tests die Preise für den Test in die Kartei übernommen, welche durch die IDEXX Ihrer Praxis berechnet werden. (ohne Mehrgewinn) 
 
 ### Preisgestaltung 
 
 Sie haben mehrere Möglichkeiten:
-1. Sie berechnen nur den Tierarztpreis (Auslagen nicht berechnen)
+1. Sie berechnen nur den Tierarztpreis (Einkaufspreis /EK)
 2. Sie berechnen den Brutto VK
 3. Sie lassen die Rechnung zum Brutto VK an den Tierhalter schicken 
 
-**Auslagen-Zuschlag:**
+**GOT Posten mit automatisch mit abrechnen**
 
-Hier können Sie ein eigenes Auslagenprodukt (Dienstleistung, z.B. "GOT 144) suchen und festlegen, dass diese GOT Leistung beim 
+Hier können Sie ein einen GOT Posten  suchen und festlegen, dass diese GOT Leistung beim 
 beantragen der Laborleistung immer direkt automatisch mit eingetragen und berechnet wird (das spart das manuelle eingeben). 
 
-Wenn Sie **Nur Auslagen berechnen** anklicken/aktivieren, rechnen Sie nur Ihren Tierarztpreis mit Ihrem Kunden ab. Der Auslagen Zuschlag bleibt davon unbeeinflusst.
+Wenn Sie **Nur Tierarzt EK berechnen** anklicken/aktivieren, rechnen Sie nur Ihren Tierarztpreis mit Ihrem Kunden ab. 
+Der automatisch eventuell hinzuaddierte GOT Posten bleibt davon unbeeinflusst.
 
-Aktivieren Sie **Nur Auslagen berechnen** nicht und wählen keinen Auslagen-Zuschlag,
+Aktivieren Sie **Nur Tierarzt EK berechne** nicht und wählen keinen GOT Posten, der automatisch hinzugefügt werden soll,
 werden die Verkausfspreise der IDEXX (Endkundenpreise, brutto) in die Kartei übernommen und können später von dort berechnet werden.
 
-![](../../static/img/erweiterungen/idexxpreise2.png)
-
+![](../../static/img/erweiterungen/idexx_preise_neu1.png)
 
 Die weiteren Einstellungen für das interne Labor sind aktuell nicht abweichend einstellbar und werden aus den Einstellungen
 für das externe Labor übernommen.
@@ -99,8 +99,6 @@ für das externe Labor übernommen.
 Ob die Rechnung bei externen Laboraufträgen direkt an den Tierhalter erfolgt oder nicht, legen Sie jeweils im Bestellprozess fest.
 
 :::
-
-![](../../static/img/Labor/debevet-erweiterung-idexx-labor-einstellungen.png)
 
 
 ### Aktivieren bzw. Deaktivieren der IDEXX-Erweiterung
@@ -152,19 +150,22 @@ Legen Sie fest, ob und wann Labortests inkl. Preis in die Behandlungshistorie de
 
 **Fehlende Produkte autom. in Produktbestand übernehmen:**
 
-Wenn dieses Feld aktiviert ist, werden Tests automatisch aus dem LABOKLIN-Katalog in Ihren Produktkatalog in debevet aufgenommen
+Wenn dieses Feld aktiviert ist, werden Tests und Preise automatisch aus dem LABOKLIN-Katalog in Ihren Produktkatalog in debevet aufgenommen
 und aktualisiert.
 
-**Nur Auslagen berechnen:**
+**Nur Tierarzt EK berechnen:**
 
 Diese Funktion hat nur Auswirkung, wenn Sie im Bestellprozess keine Rechnung an den Tierhalter direkt veranlassen.
 Ist dies aktiviert, werden bei externen Tests die Preise für den Test in die Kartei übernommen, welche durch die LABOKLIN Ihrer Praxis berechnet werden.
 
-**Auslagen-Zuschlag:**
+**GOT Posten automatisch mit abrechnen:**
 
-Hier können Sie ein eigenes Auslagenprodukt (Dienstleistung) suchen und festlegen, dass dem Tierhalter für Ihre Auslage
-zusätzlich in Rechnung gestellt wird. Aktivieren Sie **Nur Auslagen berechnen** nicht und wählen keinen Auslagen-Zuschlag,
-werden die Verkausfspreise der LABOKLIN (Endkundenpreise) in die Kartei übernommen und können später von dort berechnet werden.
+Hier können Sie ein einen GOT Posten  suchen und festlegen, dass diese GOT Leistung beim
+beantragen der Laborleistung immer direkt automatisch mit eingetragen und berechnet wird (das spart das manuelle eingeben).  
+
+Aktivieren Sie **Nur Tierarzt EK berechne** nicht und wählen keinen GOT Posten, der automatisch hinzugefügt werden soll,
+werden die Verkausfspreise der IDEXX (Endkundenpreise, brutto) in die Kartei übernommen und können später von dort berechnet werden.
+
 
 :::tip Tipp
 
