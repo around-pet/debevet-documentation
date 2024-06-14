@@ -266,10 +266,13 @@ Kunden oder Lieferantendaten mit dem Speichern in debevet immer zeitgleich eins 
 
 Erhalten Sie für eine in debevet erstellte Rechnung von Ihrem Kunden Geld (Teilzahlung, Vollzahlung) zum Beispiel 
 über das Bankkonto, so wird dies ausschließlich in Collmex verbucht, z.B. automatisch durch Abruf der Bankumsätze via HBCI.
-(Diesen müssen Sie im Collmex einrichten, siehe unten!)
+Onlinebanking, dieses müssen Sie im Collmex einrichten, siehe unten!)
 
-Ist eine Rechnung in Collmex erledigt, erfährt debevet davon voll automatisch über die Schnittstelle und
-stellt die jeweilige Rechnung vom Status **Gebucht** auf **Erledigt** oder **Teilgezahlt** um. 
+Wenn Sie kein Onlinebanking anbinden, müssen Sie die Zahlungen manuell einzeln erfassen, dazu schauen Sie bitte hier:
+https://handbuch.debevet.de/docs/Fakturierung/Rechnungen#rechnung-als-bezahlt-setzen--zahlung-erfassen 
+
+Wenn Sie Ihr Onlinebanking bereits angebunden haben, schauen Sie unter dem Abschnitt Onlinebanking hier, wie Sie die automatisch gebuchten
+Zahlungseingänge im debevet abgleichen.
 
 ### Zahlungsausgänge an Ihre Lieferanten  
 
@@ -349,6 +352,33 @@ Sie müssen dennoch im Collmex regelmäßig dann über Kontoauszug abrufen die a
 erkannt und als **erledigt** zurück an debevet gegeben.  
 
 :::  
+
+### Zahlungen/ Zahlungseingänge abgleichen 
+
+Um die Zahlungen abzugleichen, wenn diese via Onlinebanking abgerufen und erkannt wurden, gehen Sie wie folgt vor:
+
+Klicken Sie auf das **Eurosymbol** und dann **Rechnungen** und klicken dort den Dropdown Pfeil, um die erweiterte Suche zu öffnen.  
+
+![](../../static/img/erweiterungen/zahlungsstatus1.png)  
+
+Setzten Sie nun am Dropdownmenü "Status" den Status auf "gebucht". Klicken Sie anschließend die Lupe.  
+
+![](../../static/img/erweiterungen/zahlungsstatus2.png)  
+
+Markieren Sie nun alle Rechnungen mit einem Klick in das oberste Kästchen und klicken dann auf **Erweitert**.  
+
+![](../../static/img/erweiterungen/zahlungsstatus3.png)  
+
+Klicken Sie nun "Zahlungsstatus aktualisieren". Die Zahlungen werden abgeglichen und die bezahlten Rechnungen werden in den Status "erledigt"
+überführt und verschwinden somit aus der Liste. 
+
+![](../../static/img/erweiterungen/zahlungsstatus4.png)
+
+::tip Tipp:  
+Eine Rechnung wurde bezahlt aber nicht automatisch im Onlinebankung zugeordnet, weil der Kunde ohne "Zusammenhang" überwiesen hat? In diesem Fall 
+müssen Sie in Collmex zunächst die Rechnung manuell der Zahlung zuordnen.   
+
+::: 
 
 ## Rechnungen via Lastschrifteinzug zahlen lassen  
 

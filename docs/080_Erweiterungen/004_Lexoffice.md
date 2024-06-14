@@ -204,16 +204,40 @@ Stornierung in lexoffice. Bitte beachten Sie, dass Sie die gebuchten Belege in l
 
 ## Zahlungseingänge und Zahlungsausgänge   
 
-Zahlungseingänge können Sie fortan bequem und ohne Medienbrüche in lexoffice verbuchen. Dazu steht Ihnen z.B. das integrierte 
-Online-Banking von lexoffice zur Verfügung, dass Zahlungen Ihrer Kunden auf Rechnungen nahezu voll automatisch erkennt und zuordnet, 
-nicht zuletzt weil debevet Kundennummer und Rechnungsnummer im Buchungsbeleg ordentlich vermerkt.
+Zahlungseingänge können Sie entweder manuell erfassen, oder aber sehr bequem Ihr Onlinebanking im Lexoffice aktivieren. 
 
-Ebenso können Sie Ausgänge zu Ihren Lieferantenrechnungen schnell und einfach an Ihre Bank übermitteln.  
 
 :::tip Tipp
 
 Für detaillierte Hilfe und Anleitung zur Erfassung von Zahlungsein- und Ausgängen fragen Sie bei lexoffice nach. 
 lexoffice bietet eine hervorragende Online-Hilfe als auch Support über Email-Anfragen.   
+
+:::
+
+### Zahlungen/ Zahlungseingänge abgleichen
+
+Um die Zahlungen abzugleichen, wenn diese via Onlinebanking abgerufen und erkannt wurden, gehen Sie wie folgt vor:
+
+Klicken Sie auf das **Eurosymbol** und dann **Rechnungen** und klicken dort den Dropdown Pfeil, um die erweiterte Suche zu öffnen.
+
+![](../../static/img/erweiterungen/zahlungsstatus1.png)
+
+Setzten Sie nun am Dropdownmenü "Status" den Status auf "gebucht". Klicken Sie anschließend die Lupe.
+
+![](../../static/img/erweiterungen/zahlungsstatus2.png)
+
+Markieren Sie nun alle Rechnungen mit einem Klick in das oberste Kästchen und klicken dann auf **Erweitert**.
+
+![](../../static/img/erweiterungen/zahlungsstatus3.png)
+
+Klicken Sie nun "Zahlungsstatus aktualisieren". Die Zahlungen werden abgeglichen und die bezahlten Rechnungen werden in den Status "erledigt"
+überführt und verschwinden somit aus der Liste.
+
+![](../../static/img/erweiterungen/zahlungsstatus4.png)
+
+::tip Tipp:  
+Eine Rechnung wurde bezahlt aber nicht automatisch im Onlinebankung zugeordnet, weil der Kunde ohne "Zusammenhang" überwiesen hat? In diesem Fall
+müssen Sie in Lexoffice zunächst die Rechnung manuell der Zahlung zuordnen.
 
 :::
 
