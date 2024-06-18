@@ -10,7 +10,24 @@ Es wird eine Nutzung an Tablet oder PC/Laptop empfohlen.
 Sie können also beispielsweise ein Laptop mitnehmen und ihr Handy als mobilen Hotspot nutzen, oder aber (und das funktioniert ideal!) ein Tablet
 mit einer Simcard nutzen. 
 
-Wir zeigen hier einige Screenshots, die die Nutzung am Tablet zeigen. 
+Wir zeigen hier einige Screenshots, die die Nutzung am Tablet zeigen. Beispiele entstanden an einem Lenovo Tab (P11). Bitte beachten Sie unsere
+Hinweise zur Bildschirmauflösung!
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-14-12-377.jpeg)
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-14-41-945.jpeg)  
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-15-12-216.jpeg)  
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-15-27-392.jpeg)  
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-16-12-671.jpeg)
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-18-35-935.jpeg)  
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-20-39-524.jpeg)  
+
+![](../../static/img/dashboard/Screenshot_2024-06-18-09-21-44-440.jpeg)  
 
 
 
