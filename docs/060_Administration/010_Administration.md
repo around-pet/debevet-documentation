@@ -221,7 +221,7 @@ Nun können Sie weiter unten auf der Seite Ihre Server Daten hinterlegen.
 
 
 
-## Zahlungsbedingungen  
+## Zahlungsbedingungen anlegen
 
 Natürlich haben Sie die Möglichkeit, selbst Zahlungsbedingungen anzugeben. Um die Zahlungsbedingungen zu bearbeiten oder neue hinzuzufügen
 klicken Sie auf **Administration** und dann **Zahlungsbedingungen**. Sie sehen nun die Übersichtsliste mit allen Zahlungsbedingungen.
@@ -238,7 +238,27 @@ Die Maske, die sich nun öffnet, öffnet sich ebenso beim neu Anlegen einer Zahl
 Sie können hier auch den Text hinterlegen, welcher am Fuß der Rechnung erscheinen soll. Diesen können Sie frei gestalten oder 
 mit den Platzhaltern rechts ergänzen.
 
-![](../../static/img/Admin/zahlungsbedingungen2.png) 
+![](../../static/img/Admin/zahlungsbedingungen2.png)  
+
+:::
+
+Anschließend müssen Sie in Ihrer Buchhaltungserweiterung (außer bei Nutzung von Lexoffice) die beiden Zahlungsbedingungen korrekt hinterlegen.
+
+Klicken Sie **Administration** und dann **Erweiterungen** und dann an Ihrer genutzten Buchhaltungserweiterung auf **bearbeiten**.
+
+Nun wählen Sie unter **Zahlungsbedingungen** via Dropdown-Pfeil in der untersten Zeile eine der neuen Zahlungsbedingungen.
+(hier am Beispiel Gutschriften) 
+
+![](../../static/img/Rechnungen/gutschriftzahlung3.png)
+
+Bei den Konten tragen Sie die gwünschten Buchhaltungskonten ein (Rücksprache mit dem Steuerberater halten im Zweifelsfall) 
+
+Setzen Sie außerdem das Häkchen bei **Anzeigen**, wenn Sie diese Zahlungsbedingung auch auf dem Dashboard sehen möchten.
+
+![](../../static/img/Rechnungen/gutschriftzahlung4.png)
+
+Klicken Sie anschließend oben rechts auf **Speichern**.
+
 
 ### Skonto 
 

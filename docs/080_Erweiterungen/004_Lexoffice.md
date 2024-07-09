@@ -84,7 +84,7 @@ Ihr Freiberufler-Privileg zu verlieren und gewerbesteuerpflichtig zu werden. Bit
 
 :::  
 
-### Zahlungsbedingungen  
+### Zahlungsbedingungen (Lexoffice)
 
 Legen Sie in dieser Liste für jede von Ihnen in debevet hinterlegte Zahlungsbedingung fest, wie der Status der jeweiligen
 Rechnung in debevet nach erfolgter Buchung ist (Erledigt, Gebucht).
