@@ -46,6 +46,20 @@ die passende Menge vom Warenbestand abgezogen wird!
 
 ## Einlesen mit dem Barcodescanner  
 
+:::caution Woher bekomme ich den Scanner? 
+
+Da wir keinen Support zu einem Barcodescanner anbieten können, vertreiben wir keinen selbst. Jeder Scanner, der folgendes lesen kann, 
+kann Ihnen helfen, Warenbestände zu erfassen:  
+* 1D/ 2D
+* Datamatrix  
+
+Die meisten Scanner sind "Plug and Play", das bedeutet, Sie schließen das Gerät an und es funktioniert direkt. Bitte haben Sie Verständnis, dass
+wir keinen Support für Ihre Hardware bieten können.  
+
+::: 
+
+
+
 Sie können Ihre Wareneingänge auch mit einem Barcodescanner erfassen. Klicken Sie hierzu auf das grüne **Datamatrix** Symbol
 neben dem **Suchenfeld** und scannen Sie dann den Code auf der Verpackung.   
 

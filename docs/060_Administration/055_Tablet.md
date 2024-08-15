@@ -77,7 +77,7 @@ eingeben können, haben Sie 2 Möglichkeiten, diese Funktion zu starten.
 
 Stellen Sie zunächst sicher, dass das Tablet aktiviert und angemeldet ist. 
 
-### 1. Barcode scannen  
+### 1. QR Code scannen  
 
 Öffnen Sie die Seite **Administration** und dann **Kundenregistrierung**. Scannen Sie dann mit dem QR Code Reader des Tablets den rechten
 Barcode (zur Kundenregistrierung) und geben Sie dem Kunden dann das Tablet.
