@@ -313,5 +313,25 @@ Hilfe zu Punkt 1:
 
 Hilfe zu Punkt 2:
 
-[Lesezeichen im Chrome verwalten](https://support.google.com/chrome/answer/188842?hl=de-DE&ref_topic=7439637) 
+[Lesezeichen im Chrome verwalten](https://support.google.com/chrome/answer/188842?hl=de-DE&ref_topic=7439637)   
 
+## 11. Ganze Packungen abgeben    
+
+Vor allem bei Packungsgrößen, die in Gramm als Abgabeeinheit aus der Barsoi oder Vitrapet kommen, kann es etwas umständlich sein,
+diese als ganze Packungen abzugeben, wer kann sich schon "6,42 g" merken?   
+
+Unsere Software bietet hier einen einfachen Trick: Klicken Sie in das "Mengen" Feld nach Auswahl des Medikaments und drücken dann einmal
+die "Leertaste". Die debevet Software füllt dann automatisch auf die Menge der vollen Packung. (Das gilt bei allem, auch Tabletten, Flaschen etc.).
+Dabei wird die Menge der Packung des kompletten inneren Behältnisses genutzt.
+
+Sie wollen mehrere Packungen abgeben? Kein Problem! Geben Sie die Packungsmenge im Mengenfeld ein (z.B. eine "7") und drücken nun die Leertaste.
+Die Software rechnet dann automatisch 7 volle Packungen aus und berechnet die Preise dann beim Einfügen in die Behandlung korrekt. 
+
+Hier ein Beispiel, wenn Sie bei "Ivomec P" die Leertaste drücken:  
+
+![](../../static/img/Admin/leertatste1.png)   
+
+und dasselbe Produkt, wenn Sie eine "7" in das Mengenfeld setzen und dann die Leertaste drücken:   
+
+
+![](../../static/img/Admin/leertaste2.png)
