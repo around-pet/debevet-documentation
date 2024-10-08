@@ -419,6 +419,11 @@ Oben rechts können Sie dann **Neuen Import** oder **Neuen Export**  wählen.
   
 Unter Export können Sie je nach Kategorie exportieren:
 
+
+**Rechnungen**
+**Belege**
+Für diesen Bereich sollten Sie einen Datumssektor angeben, für welchen exportiert werden soll
+
 **Praxis**
 * Kunden exportieren
 * Patienten exportieren
@@ -436,11 +441,16 @@ Unter Export können Sie je nach Kategorie exportieren:
 * Diagnosen exportieren
 * Warenbestände exportieren  
 
-**Rechnungen**  
-* Rechnungen exportieren  
+:::tip Tipp: 
+Wenn Sie die pfd für die Buchhaltung mit exportieren möchten, setzen Sie bitte den Haken an das Feld "Rechnungen PDFs erunterladen"  
+Für Buchhaltungsbelege sollten Sie unbedingt den Filter setzen, für welchen Datumszeitraum Sie exportieren wollen.
 
-**Buchhaltung**  
-* Belege exportieren 
+![](../../static/img/Rechnungen/pdfexport.png)  
+
+
+:::   
+
+
 
 Wenn Sie die gewünschten Exporte angeklickt haben, klicken Sie unten auf **Anlegen**.  
 
