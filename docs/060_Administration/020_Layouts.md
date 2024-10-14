@@ -107,7 +107,10 @@ Unter dem Reiter **Druck** gibt es noch weitere Optionsfelder:
 Dort haben Sie beispielsweise die Möglichkeit, einen Girocode aufzudrucken, den der Kunde direkt scannen kann, um die
 Rechnung einfacher zu überweisen. 
 
-Auch können Sie den Patientenstandort und die Chipnummer mit auf die Rechnung drucken.  
+### Chipnummer auf die Rechnung drucken
+
+Auch können Sie den Patientenstandort und die Chipnummer mit auf die Rechnung drucken.  Aktivieren Sie dazu im Bereich "Druck" am
+Layout der Rechnung die entsprechende Checkbox und speichern anschließend.
 
 Eine weitere Option, die nach Wunsch eingefügt werden kann, ist der Faktor, also der Satz, mit dem Sie die einzelnen GOT Posten abgerechnet haben mit 
 zu drucken. Dies ist laut GOT nicht vorgeschrieben, aber wenn Sie es wünschen, können Sie dies einstellen, indem Sie den Haken bei **Faktor** setzen.  
