@@ -56,13 +56,13 @@ Klicken Sie auf **Praxis** und auf **Kunden**. Klicken Sie in der Liste Ihrer Ku
 
 ![Kunden_6.png](../../static/img/Kunden/Kunden_6.png)
 
-### Kundenadressen anlegen und bearbeiten  
+### Kundenadressen anlegen und bearbeiten  (z.B. Stalladresse)
 
 Wenn sich die Bearbeitungsseite eines Kunden öffnet, wird zuerst der Reiter Adressen angezeigt. Hier sehen Sie alle
 für diesen Kunden gespeicherten Adressen und können diese bearbeiten, löschen oder weitere hinzufügen. Ein Kunde kann in debevet neben der primären Rechnungsadresse zahlreiche weitere Adressen besitzen, z.B.:   
 
 * Ansprechpartner  
-* Patientenstandorte   
+* Patientenstandorte bzw. Stalladresse 
 * Lieferadresse   
 
 :::tip Tipp  

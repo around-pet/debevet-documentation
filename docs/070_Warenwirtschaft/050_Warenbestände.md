@@ -185,16 +185,22 @@ Klicken Sie auf **Zurücksetzen**, um wieder alle Posten angezeigt zu bekommen.
  
 ## Inventur   
 
-Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandlisten immer sehr gut geführt. Um eine Liste anzuzeigen bzw. zu drucken,
+Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandlisten immer sehr gut geführt.   
+
+Sie haben verschiedene Darstellungsvarianten, die Sie sich drucken lassen können, je nachdem, welche Inhalte Sie benötigen. 
+
+Um eine gesamte Liste anzuzeigen bzw. zu drucken,
 klicken Sie auf **Warenwirtschaft** und dann **Warenbestände**. Dort klicken Sie nun oben rechts auf **Erweitert** und dann **Drucken**.  
 
 ![](../../static/img/Warenwirtschaft/abgelaufene_chargen_drucken.png)
 
-Nun öffnet sich eine Maske, in der Sie entweder nur einen Teil der Warenbewegungen drucken können oder aber alle. 
+Nun öffnet sich eine Maske, in der Sie entweder nur einen Teil der Warenbewegungen drucken können oder aber alle. Auch können Sie einstellen, ob 
+die Liste die einzelnen Chargen mit dem jeweiligen Verbrauch aufgelistet werden soll.
 
 :::tip Tipp: 
 
-Sehr praktisch ist die Funktion, am Feld **Verschreibung** alle BTM ausdrucken zu lassen! 
+Sehr praktisch ist die Funktion, am Feld **Verschreibung** alle BTM ausdrucken zu lassen! (dies geht nur, wenn die entsprechenden 
+Medikamte am Produkt selbst auch als BTM gekennzeichnet sind)
 
 :::  
 
@@ -202,18 +208,25 @@ Sehr praktisch ist die Funktion, am Feld **Verschreibung** alle BTM ausdrucken z
 
 Nun sehen Sie eine Auflistung Ihrer Produkte inkl. des "theoretischen" Bestandes. 
 
-:::tip Tipp: 
+Sie haben ebenso die Möglichkeit, sich nur Teile der Liste bzw. die Suchergebnise drucken zu lassen. Nutzen Sie dazu entweder die erweiterte
+Suche und einen Suchenfilter, oder geben Sie einen Suchbegriff oben in die Suche ein und klicken die Lupe.  
+
+Um nur diese Suchergebnisse gelistet zu drucken, klicken Sie nun rechts direkt auf das **Druckersymbol**.  
+
+![](../../static/img/Warenwirtschaft/warenbestands_suchenfilter.png)
+
+:::tip Tipp:
 
 Wenn Sie mit mehreren Mitarbeitern die Inventur durchführen, filtern Sie zunächst über die Suche den Bestand so, dass Sie sich jeweils eine Liste pro Lagerort
 erstellen lassen. Wenn Sie den Pfeil rechts vom Suchenfeld klicken, können Sie bei Lagerort einen Ihrer Lagerorte eingeben. Klicken Sie auf das **Lupensymbol**
 oder drücken Sie die **Entertaste**
-Nun drucken Sie diese Liste und verfahren mit jedem Lagerort so.
+Nun drucken Sie diese Liste (mit dem Klick direkt auf das Druckersymbol) und verfahren mit jedem Lagerort so.
 Nun kann jeder Mitarbeiter zunächst handschriftlich einen Raum zählen und die veränderte Anzahl handschriftlich eintragen.
-Am Ende können Sie alles digital korrigieren.   
+Am Ende können Sie alles digital korrigieren.
 
 ![](../../static/img/Warenwirtschaft/lagerort_suche.png)
 
-:::  
+:::
 
 ## Warenwert - Wert der Hausapotheke  
 
