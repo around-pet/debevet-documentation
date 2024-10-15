@@ -499,4 +499,51 @@ mit "netto" kennzeichnen.
 
 Bitte beachten Sie, dass diese Regelung und Einstellung so nur dann greift, wenn Sie NICHT die Kleinunternehmer Einstellung gesetzt haben.
 
-![](../../static/img/Rechnungen/kunde_netto.png)
+![](../../static/img/Rechnungen/kunde_netto.png)  
+
+## Rechnungskontrolle (Abrechnungskontrolle) nutzen  
+
+Da wir einige Praxen im Klientel haben, in denen jede Rechnung einmal von jemandem kontrolliert wird, bevor diese erstellt werden darf, 
+wurde die Funktion der Rechnungskontrolle eingeführt. 
+
+Sie können diese aktivieren, indem Sie folgende Schritte durchführen:   
+
+1. Klicken Sie **Administration**  
+2. Klicken Sie **Einstellungen** 
+3. Klicken Sie auf den Reiter **Behandlung**  
+
+Dort finden Sie den Punkt "Abrechnungskontrolle". Um diese zu aktivieren, setzen Sie die Checkbox und klicken Sie anschließened auf Speichern.
+ 
+![](../../static/img/Rechnungen/rekontrolle1.png)  
+
+Nun wird in allen Behandlungskarteien unten links ein Dropdownfeld angezeigt, in dem folgende Auswahl getroffen werden muss:  
+
+1. Standard ist zunächst "keine Auswahl"  
+2. Durch klicken auf den Dropdownpfeil können Sie dann zwischen "Bereit z. Kontrolle" und "Bereit zur Abrechnung" wählen.    
+
+![](../../static/img/Rechnungen/rekontrolle2.png)
+
+Erst, wenn der Patient auf "Bereit zur Abrechnung" gesetzt wird, kann eine Rechnung für ihn erstellt werden.  
+
+:::caution  Hinweis:   
+
+Diese Funktion ist eine "ganz oder gar nicht" Funktion. Wenn Sie diese aktivieren, muss bei jedem Patienten dieses Dropdownfeld zunächst gesetzt
+werden, damit er abgerechnet werden kann. "Einfach schnell Rechnung erstellen" geht anschließend nicht mehr.  
+
+:::   
+
+Um die Patienten/Kunden auflisten zu lassen, die im Status "Bereit f. Kontrolle" oder "Bereit zur Abrechnung" sind, gehen Sie wie folgt vor:  
+
+1. Klicken Sie **Praxis** 
+2. Klicken Sie **Behandlungen**  
+3. Klicken Sie auf den Dropdownpfeil für den erweiterten Suchenbereich  
+
+![](../../static/img/Rechnungen/rekontroll3.png)  
+
+Wählen Sie nun beim Sektor "Abrechnungskontrolle" den gwünschten Status und klicken anschließend das Lupensymbol. Nun
+werden alle Patienten mit diesem Status gelistet. Sie können diese dann kontrollieren, den Status ändernn und anschließend können
+diese abgerechnet werden.  
+
+![](../../static/img/Rechnungen/rekontroll4.png)
+
+
