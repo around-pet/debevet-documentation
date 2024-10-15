@@ -334,4 +334,18 @@ Hier ein Beispiel, wenn Sie bei "Ivomec P" die Leertaste drücken:
 und dasselbe Produkt, wenn Sie eine "7" in das Mengenfeld setzen und dann die Leertaste drücken:   
 
 
-![](../../static/img/Admin/leertaste2.png)
+![](../../static/img/Admin/leertaste2.png)   
+
+## 12. Befunde diktieren/ Spracheingabe 
+
+Immer wieder erreichen uns Anfragen, ob debevet eine Spracheingabe hat. In den meisten neueren Rechnern bzw. Tablets ist ein 
+Mikrofon integriert. Sofern dies der Fall ist, können Sie sehr einfach eine Spracheingabe nutzen.  
+
+Im Browser muss allerding die Erlaubnis erteilt sein, dass das Mikrofon genutzt werden darf. Normalerweise fragt der Computer dies
+einmalig beim ersten Versuch ab. Wenn nicht, googlen Sie bitte, wie Sie im Chrome Browser das Mikrofon zulassen.  
+
+Schauen Sie nun auf Ihrer Tastatur, wie das Mikrofon eingeschaltet wird. Beim Macbook z.B. ist dies mit der Tastenkombination "Funktion(fn)" + F5 
+gleichzeitig der Fall. 
+
+Sie klicken nun in das Befundungsfeld in der Patientenkarte, aktivieren das Mikrofon und sprechen Ihren Befund ein. Der Text wird 
+direkt geschrieben. 
