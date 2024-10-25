@@ -64,8 +64,8 @@ geliefert werden. (beispielsweise Ovogest, Cremes, Tuben, 1 Flasche mit 100ml In
 
 Aktuell (Stand April 2024) werden noch keine äußeren Behältnisse aus der Barsoi übernommen. Die Logik ist aktuell also nur bei Nutzung von
 Vitrapet bzw. dem manuellen Anlegend der Produkte voll umfänglich verfügbar. 
-Selbstverständlich kann die Logik auch auf ein Barsoi Produkt angewendet werden, denn bevor ein Warenbestand angelegt wurde, können die Einheiten 
-am Produkt noch verändert werden.  
+Selbstverständlich kann die Logik auch auf ein Barsoi Produkt angewendet werden, hier muss nur ein bestehender Warenbestand zunächst
+auf Null gesetzt werden, um Einheiten zu verändern.
 
 :::
 
@@ -127,13 +127,13 @@ Logik, wie viel eine ganze Packung ist, ändert sich!)
 
 ![](../../static/img/Warenwirtschaft/abgabepreis_mit_aufschlag.png)
 
+## Abgabepreis und Abgabeeinheit später/im Nachhinein ändern    
 
 :::danger ACHTUNG!
 
-
-Dies ist absichtlich von uns so angelegt, da die Nutzung der äußeren Behältnisse vor allem auch für Großpackungen etc. gedacht ist.
-Bitte überdenken Sie dies, bevor Sie einen Warenbestand anlegen, denn anschließend kann dies (Revisionssicherheit Inventur) nie wieder an
-demselben Produkt verändert werden.
+Um im Nachhinein Einheiten (und damit auch evtl. Abgabepreise) an einem Produkt zu ändern, an dem bereits ein Warenbestand vorhanden ist, muss dieser zunächst auf Null 
+korrigiert werden. Anschließend kann die Einheit geändert werden und ein neuer Warenbestand mit den neuen Einheiten angelegt werden. In der Inventurliste
+wird dann der Verbrauch "getrennt" dargestellt.
 
 :::  
 
