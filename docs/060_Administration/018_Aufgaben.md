@@ -5,7 +5,21 @@ Diese erscheinen sowohl im Kalender, als auch, wenn eingestellt, auf dem Dashboa
 
 Aufgaben können auch an Kunden/Patienten verknüpft werden, und als Besuche vor Ort beim Kunden angelegt werden.
 
-Sie können Aufgaben jederzeit einzeln anlegen, oder aber direkt aus einer Behandlung heraus.
+Sie können Aufgaben jederzeit einzeln anlegen, oder aber direkt aus einer Behandlung heraus.  
+
+## Aufgaben für Mitarbeiter erstellen  
+
+Grundsätzlich kann jeder Benutzer Aufgaben anlegen und diese anderen zuweisen. Wichtig für das Grundverständnis ist:   
+
+* auf dem Dashboard sieht jeder Nutzer nur die ihm zugewiesenen Aufgaben  
+* in der Aufgabenliste hingegen können alle Aufgaben eingesehen werden   
+
+![](../../static/img/Admin/aufgabenuebersicht.png)   
+
+Um einem Mitarbeiter eine Aufgabe zuzuweisen, wählen Sie den Kalender des Mitarbeiters aus. Dies funktioniert natürlich nur dann, wenn
+der Mitarbeiter auch einen Kalender hat, den Sie zu diesem Zwecke erstellt haben. Unter "Kalender" können Sie für die Nutzer Kalender erstellen.  
+
+
 
 ## Eine Aufgabe aus einer Behandlung erstellen  
 
