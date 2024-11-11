@@ -544,6 +544,30 @@ Wählen Sie nun beim Sektor "Abrechnungskontrolle" den gwünschten Status und kl
 werden alle Patienten mit diesem Status gelistet. Sie können diese dann kontrollieren, den Status ändernn und anschließend können
 diese abgerechnet werden.  
 
-![](../../static/img/Rechnungen/rekontroll4.png)
+![](../../static/img/Rechnungen/rekontroll4.png)  
+
+## Thema E-Rechnungen  
+
+Zunehmend mehr Tierärzte kontaktieren uns bzgl. Fragen und Unsicherheiten zum Thema E Rechnung. Hierbei sind die hier gestellten 
+Informationen die, die wir selbst von unserem Steuerberater sowie Collmex erhalten haben und in steuerlichen Texten recherchiert haben.  
+
+Diese sind somit ohne Gewährleistung, bei weiteren Fragen kontaktieren Sie bitte Ihren Steuerberater!  
+
+1. E-Rechnungspflicht auch für Ihre Praxis?  
+
+Zunächst einmal muss klar sein, dass von der E-Rechnungspflicht nur der sogenannte B2B (business to business) Sektor betroffen ist. 
+Das bedeutet also Umsätze, die zwischen Unternehmen erfolgen. Eine Tierarztpraxis ist in den meisten Fällen immer ein sog. B2C Geschäft (Also business to customer, also Geschäft mit einem
+Endkunden)  
+
+Außerdem gilt für die B2B Umsätze ab 1.1.2025 noch eine Frist bis zum 1.1.2027, sofern die B2B Umsätze unter 800.000 Euro liegen.  
+
+2. Und die Rechnungen, die ich bekomme?  
+
+Grundsätzlich kann sowohl Datev als auch Collmex bereits mit E Rechnungen arbeiten, wenn Sie also Belege an Ihren Steuerberater weiterleiten, stellt
+dies kein Problem dar, wenn diese ab 1.1.2025 das E-Rechnungsformat haben. Auch über Collmex können diese problemlos verbucht werden.   
+
+Weiter Informationen, wie mit den Lieferantenrechnungen bei reiner debevetinterner Buchhaltung zu verfahren sind, folgen an dieser Stelle zeitnah. 
+
+
 
 
