@@ -66,34 +66,29 @@ Achten Sie darauf, dass die Termine im korrekten Kalender, also Benutzer hinterl
 
 Wenn Sie Ihren persönlichen Kalender mit dem debenvet Kalender synchronisieren möchte, können Sie dieses selbst einrichten.  
 
-### Kalender mit dem iPhone oder iPad synchronisiseren  
 
-Debevet bietet Ihnen die Möglichkeit, sowohl ausgewählte debevet-Kalender als auch Ihre Kundendaten mit Ihrem
-iPhone oder iPad zu synchronisieren. Termine können ebenfalls mit dem Smartphone erstellt werden und werden nach 
-debevet geschrieben. Kundendaten werden lediglich zum Lesen synchronisiert.   
+### Zugriffsrechte gewähren  
 
-Öffnen Sie an Ihrem Mobilgerät die **Einstellungen** und wählen den Einstellungspunkt **Kalender**. 
-Wählen Sie **Accounts** und dann **Account hinzufügen**.  
+:::caution Achtung:
 
-![](../../static/img/Admin/kalender1.png) 
+Für die angelegten Nutzer müssen Sie zunächst in den Zugriffsrechten einstellen, dass die Kalendersynchronisierung freigegeben wird.
+Beim Adminuser fehlt diese Einstellungsmöglichkeit, dieser ist für diese Berechtigung automatisch freigegeben!)
 
-Nun wählen Sie ganz unten **Andere**.  
-Dann wählen Sie **CalDAV Account hinzufügen**.  
+:::
 
-![](../../static/img/Admin/kalender2.png)  
+Bevor Sie die Kalendersynchronisation einrichten können, müssen Sie dem jeweiligen Benutzer die Zugriffsrechte gewähren.
 
-Füllen Sie die Felder aus. Als Server geben Sie **sync.debevet.de** ein.
+Wählen Sie hierzu unten links mit Klick auf das Personensymbol bei Ihrem Nutzernamen den Menüpunkt **Kundenkonto** und dann **Benutzer**.
 
-Der Benutzername setzt sich aus Ihrer Praxisnummer und dem jeweiligen Benutzernamen zusammen:
-Wenn ihre Praxisnummer 012345 und Ihr Benutzername mustm wäre, müssten Sie in das Eingabefeld 012345_mustm eingeben.
+![](../../static/img/Admin/davdroid-konto.png)
 
-Das Passwort ist das Passwort des jeweiligen Benutzers. Die Beschreibung können Sie für sich frei wählen. Drücken Sie nun oben rechts auf **Weiter**.  
+Alle Benutzer, die mit Ihrer Praxis verknüpft sind, werden aufgelistet.
+Wählen Sie nun aus der Liste den gewünschten Benutzer aus und öffnen seine Bearbeitungsseite, indem Sie auf den Link in der Spalte Benutzername klicken.
 
-![](../../static/img/Admin/kalender3.png)   
+Drücken Sie nun oben rechts auf **Zugriffsrechte**. Sofern sie noch nicht aktiviert sind, wählen Sie die Checkboxen bei **Kalender** und ggf. bei **Kontakte** an.
 
-Sollten sie eine Meldung wie die folgende sehen, klicken Sie auf **Fortfahren**.  
+![](../../static/img/Admin/davdroid-checkboxen.png)
 
-![](../../static/img/Admin/kalender4.png)  
 
 ### Kalender mit Android synchronisieren   
 
@@ -101,30 +96,43 @@ Mithilfe von CalDAV-Anwendungen, wie z.B. DAVdroid, können Sie Ihren Praxis-Kal
 oder der Kontaktliste Ihres Smartphones oder Tablets synchronisieren. Ebenfalls können Termine nach debevet geschrieben werden. 
 Kontaktinformationen (Name, Anschrift etc.) können aktuell nur gelesen über das Android-Gerät aber nicht verändert werden.   
 
-### Zugriffsrechte gewähren 
-
-Bevor Sie DAVdroid oder eine ähnliche Anwendung auf Ihrem Smartphone einrichten können, müssen Sie dem jeweiligen Benutzer die Zugriffsrechte gewähren.
-
-Wählen Sie hierzu unten links mit Klick auf das Personensymbol bei Ihrem Nutzernamen den Menüpunkt **Kundenkonto** und dann **Benutzer**.    
-
-![](../../static/img/Admin/davdroid-konto.png)  
-
-Alle Benutzer, die mit Ihrer Praxis verknüpft sind, werden aufgelistet.
-Wählen Sie nun aus der Liste den gewünschten Benutzer aus und öffnen seine Bearbeitungsseite, indem Sie auf den Link in der Spalte Benutzername klicken.  
-
-Drücken Sie nun oben rechts auf **Zugriffsrechte**. Sofern sie noch nicht aktiviert sind, wählen Sie die Checkboxen bei **Kalender** und ggf. bei **Kontakte** an.  
-
-![](../../static/img/Admin/davdroid-checkboxen.png)   
 
 ### DAVdroid einrichten  
+  
+Wenn Sie DAVdroid installiert und gestartet haben, melden Sie sich folgendermaßen an:   
 
-Wenn Sie DAVdroid installiert und gestartet haben, melden Sie sich folgendermaßen an:
 
 In das Feld Basis-URL geben Sie "sync.debevet.de" ein
 
 Der Benutzername setzt sich aus Ihrer Praxisnummer und dem jeweiligen Benutzernamen zusammen: Wenn Ihre Praxisnummer 012345 und Ihr Benutzername benutzer wäre, müssten Sie in das Eingabefeld von DAVdroid 012345_benutzer eingeben.
 
-Das Passwort ist das Passwort des jeweiligen Benutzers.  
+Das Passwort ist das Passwort des jeweiligen Benutzers.      
+
+### Kalender mit iphone oder ipad synchronisiseren  
+
+Öffnen Sie an Ihrem Mobilgerät die **Einstellungen** und wählen den Einstellungspunkt **Kalender**.
+Wählen Sie **Accounts** und dann **Account hinzufügen**.
+
+![](../../static/img/Admin/kalender1.png)
+
+Nun wählen Sie ganz unten **Andere**.  
+Dann wählen Sie **CalDAV Account hinzufügen**.
+
+![](../../static/img/Admin/kalender2.png)
+
+Füllen Sie die Felder aus. Als Server geben Sie **sync.debevet.de** ein.
+
+Der Benutzername setzt sich aus Ihrer Praxisnummer und dem jeweiligen Benutzernamen zusammen:
+Wenn ihre Praxisnummer 012345 und Ihr Benutzername mustm wäre, müssten Sie in das Eingabefeld 012345_mustm eingeben.
+
+Das Passwort ist das Passwort des jeweiligen Benutzers. Die Beschreibung können Sie für sich frei wählen. Drücken Sie nun oben rechts auf **Weiter**.
+
+![](../../static/img/Admin/kalender3.png)
+
+Sollten sie eine Meldung wie die folgende sehen, klicken Sie auf **Fortfahren**.
+
+![](../../static/img/Admin/kalender4.png)
+
 
 ![](../../static/img/Admin/davdroid-einrichten.png)  
 
