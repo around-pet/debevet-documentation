@@ -42,4 +42,22 @@ Wenn Sie über mehrere Standorte verfügen, können Sie diese in diesem Bereich 
 In diesem Bereich können Sie Aktivitäten einsehen, die rund um den Benutzer stattgefunden haben. Diese sind mit einem 
 Zeitstempel, einem Benutzer, dem Ereignis und einer IP-Adresse dargestellt.   
 
-![](../../static/img/Admin/Auditprotokoll.png)
+![](../../static/img/Admin/Auditprotokoll.png)   
+
+## Passwort vergessen oder Passwort ändern   
+
+Wenn Sie Ihr Passwort vergessen haben, nutzen Sie bitte beim Login die "Passwort vergessen" Funktion.   
+
+![](../../static/img/Admin/pw_vergessen.png)  
+
+In diesem Fall wird Ihnen ein neues Passwort zugeschickt. 
+
+Sie möchten gern ein "Wunsch Passwort" setzen? Auch dies ist möglich, gehen Sie wie folgt vor:   
+
+Klicken Sie unten links auf das Benutzersymbol mit Ihrem Benutzernamen und dann "Profil".   
+
+![](../../static/img/Admin/pw_setzen.png)  
+
+Nun können Sie Ihr neues Passwort zweimal eingeben und anschließend speichern.    
+
+![](../../static/img/Admin/pw_setzen2.png)

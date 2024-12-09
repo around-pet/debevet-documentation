@@ -96,10 +96,10 @@ Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **
 
 ![](../../static/img/Admin/import3.png)
  
-Nun klicken Sie auf das **Wolkensymbol** und wählen dann die zip Datei, die NUR die Barsoi.xml Datei enthalten darf. 
-
-Wenn Sie Mac User sind, bitten wir Sie, die Dateien nicht direkt mit dem Mac zu zippen, sondern beispielsweise hier:
-https://www.ezyzip.com/dateien-online-komprimieren.html
+Nun klicken Sie auf das **Wolkensymbol** und wählen dann die zip Datei. Bitte beachten Sie, dass Sie bei der Barsoi angeben müssen, dass Sie die
+Versionen benötigen, die für debevet genutzt werden. Es gibt leider auch sehr alte Versionen der Barsoiliste und die Barsoi stellt diese leider 
+oftmals zur Verfügung. Dies muss proaktiv dort beauftragt werden, nur, wenn Sie die Liste neu abbonieren, können Sie direkt auswählen, für welche
+Software Sie diese benötigen.
 
 :::tip Tip:  
 
@@ -108,7 +108,9 @@ Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten (in den Fra
 :::
 
 Wichtig ist, dass Sie sich entscheiden, ob existierende Einträge übersprungen werden sollen. Wenn Sie beispielsweise sehr viele
-indivduelle Anpassungen haben, kann dies sinnvoll sein, damit diese nicht überschrieben werden. Allerdings werden dann **GAR KEINE** Informationen 
+indivduelle Anpassungen haben, kann dies sinnvoll sein, damit diese nicht überschrieben werden.  
+
+Allerdings werden dann **GAR KEINE** Informationen 
 für diese Produkte aktualisiert, auch nicht der Preis. 
 
 **Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen. ** 
@@ -125,7 +127,20 @@ Bedarf in eine xml Datei umgewandelt werden).
 
 ![](../../static/img/Admin/jonzeitpunkt.png)
 
-:::
+:::   
+
+### Einzelne Produkte nicht überschreiben  
+
+Wenn Sie an einzelnen Produkten Änderungen am Preis oder den Packungsgrößen vorgenommen haben, können Sie diese Produkte einzeln 
+aus der Aktualisierung "ausklammern". Um dies an einem Produkt vorzunehmen, gehen Sie wie folgt vor:   
+
+Öffnen Sie das gewünschte Produkt. Deaktivieren Sie nun den Toggle Button "Mit Barsoi aktualisieren".   
+
+![](../../static/img/Warenwirtschaft/barsoi_togglebutton.png)   
+
+Nun werden beim nächsten Barsoi Upload, auch wenn der Haken "bereits bestehende überspringen" entfernt wurde, dennoch die Daten 
+dieses Produktes **nicht** überschrieben.   
+
 
 ### Häufige Fragen zur Barsoi Liste  
 
