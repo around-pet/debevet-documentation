@@ -265,7 +265,20 @@ Geben Sie die aktuelle Menge und unter **Memo** den Grund ein, beispielweise "In
 
 ![](../../static/img/Warenwirtschaft/korrektur_bestand2.png)   
 
-Klicken Sie dann auf den grünen Button **Korrigieren**. Der neue Bestand ist dann übernommen.
+Klicken Sie dann auf den grünen Button **Korrigieren**. Der neue Bestand ist dann übernommen.  
+
+## Abgelaufene Chargen anzeigen und sortieren  
+
+Wenn Sie Ihre abgelaufenen Chargen anzeigen und sortieren möchten, können Sie dies mit der Filterung der erweiterten Suche vornehmen. 
+Klicken Sie **Warenbestände** und klicken Sie den Dropdownpfeil neben der Lupe.   
+
+In den Filteroptionen können Sie nun ein Datum setzen, bis zu welchem Sie die abgelaufenen Chargen anzeigen lassen wollen.  
+
+![](../../static/img/Warenwirtschaft/suchenfilter_abgelaufen.png)   
+
+Diese können dann in der Spalte "Ablaufdatum" sortiert werden, absteigend oder aufsteigend.  
+
+Mit einem Klick auf das **Drucksersymbol** kann diese gefilterte Liste dann gedruckt werden. 
 
 ## Abgelaufene Chargen ausbuchen  
 
