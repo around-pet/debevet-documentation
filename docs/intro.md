@@ -6,6 +6,13 @@ sidebar_position: 1
 
 Dieser Abschnitt hilft Ihnen, die 5 wichtigsten Schritte zur ersten Nutzung von debevet zu gehen. 
 
+Wir bitten zu beachten, dass mit einem Satz Login-Daten immer nur ein Nutzer arbeite kann- sollte ein zweiter Nutzer dieselben Login Daten 
+nutzen, wird der andere Nutzer ausgeloggt ("fliegt raus")   
+
+Bitte erstellen Sie also, wenn Sie parallel arbeiten wollen, mehrere Nutzer für Ihre Mitarbeiter. Hilfe dazu finden Sie hier im Handbuch.  
+
+[Benutzer anlegen](https://handbuch.debevet.de/docs/Administration/Kundenkonto#benutzer)
+
 :::caution Achtung  
 
 Um das Programm ideal nutzen zu können, empfehlen wir eine Bildschirmauflösung von 1.080 Pixel (HD): 1.920 x 1.080. Ansonsten kann
