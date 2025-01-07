@@ -18,7 +18,7 @@ Bitte denken Sie daran, dass die Barsoi aktuell die Darreichungsform und Konzent
 dann erfüllt, wenn Sie diese Daten manuell am Produkt hinterlegen. Selbiges gilt für die Wirkstoffe, diese werden zwar mit der "großen" Barsoi geliefert,
 aber sind oftmals nicht vollständig oder korrekt, wir raten deshalb zur Überprüfung.
 
-### Ablaufdatum für Verschreibungen setzen
+## Ablaufdatum für Verschreibungen setzen
 
 Sie können festlegen, nach welcher Zeit Verschreibung erstellt sein muss.
 
@@ -27,18 +27,108 @@ Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen kön
 
 ![](../../static/img/Nutztiere/AUA_beleg_datum.png)
 
-### Verschreibung für nicht LM Tiere erstellen
+## Verschreibung für nicht LM Tiere erstellen
 
-Um eine Verschreibung für ein Tier oder eine Gruppe von Tieren zu erstellen, müssen Sie sich in der Behandlungsmaske des Tieres/ der Gruppe befinden.
+Um eine Verschreibung für ein Tier oder eine Gruppe von Tieren zu erstellen, müssen Sie sich in der Behandlungsmaske des Tieres/ 
+der Gruppe befinden. Es gibt dabei mehrere Wege, um die Anweisung oder Menge einzugeben.   
 
-Wenn Sie das Medikament nun oben neben **Heute** eingeben und auf den Mengenrechner klicken, können Sie dort direkt die Mengen
-eingeben. Außerdem können Sie dort die Anweisung je nach Anwendungsfall wählen. KLicken Sie dazu auf den **Dropdown-Pfeil** neben
-**Anweisung**.
+### 1. Anweisungen manuell hinterlegen   
 
-:::tip Tipp:  
-Wenn Sie für mehrere Tiere/Gruppen eines Kunden gesammelte Verschreibung erstellen möchten, schauen Sie weiter unten hier im Text.
+Sie können, wie im nächsten Schritt beschrieben, für die Medikamente auch Anweisungen speichern und einfach und schnell einfügen (auch 
+mehrere unterschiedliche), jedoch gibt es Medikamente, für die diese Logik ungünstig ist, oder es schnell gehen muss und noch nichts
+hinterlegt ist. In diesem Fall können Sie auf zwei Arten die Anweisungen manuell hinterlegen.     
+
+**Variante 1:**  
+Entweder geben Sie den Medikamentennamen ein und klicken dann auf das kleine "Rechner" Symbol, so dass sich eine Maske öffnet. Hier können nun
+Verabreichungsform, Menge pro Tier und Anwendung, Intervall der Gaben in Stunden, Anzahl der Anwendungen und Erstanwendung (können Sie aber auch leer
+lassen).  
+
+![](../../static/img/Nutztiere/verschr-rechner-man.png)  
+
+Nun müssen Sie mit einem der drei grünen Haken wählen, ob Sie von der berechneten, benötigten Menge:
+* die genau berechnete Menge abgeben wollen
+* die Menge zur nächsten Packungsgröße aufrunden wollen
+* die Menge zur nächsten Packungsgröße abrunden wollen
+
+Nach klicken von einem der drei **grünen Haken** wird die Menge übernommen.
+
+![](../../static/img/Nutztiere/mengenrechner2.png)
+
+Nun müssen Sie noch den **orangenen Haken** klicken,
+um die Menge in diese Behandlung zu übernehmen.
+
+![](../../static/img/Nutztiere/mengenrechner3.png)     
+
+Um nun die Verschreibung für die **nicht LM Tiere** zu erstellen, wählen Sie nun die **Checkboxen** der gewünschten Medikamente an.
+Drücken Sie anschließend oben auf das **Listensymbol**.  
+
+![](../../static/img/Nutztiere/kleintier_versch_erstellen.png)
+
+Sie sehen die Vorschauansicht. Bei Bedarf können Sie den Entwurf mit Klick auf das Druckersymbol ansehen, bevor Sie auf "Verschreibung anlegen"
+klicken.   
+
+![](../../static/img/Nutztiere/verschreibung_draft_drucken.png)
+
+**Variante 2:**  
+
+Geben Sie wie gewohnt die Tabletten und die abgegebene Anzahl an.  
+
+Um nun die Verschreibung für die **nicht LM Tiere** zu erstellen, wählen Sie nun die **Checkboxen** der gewünschten Medikamente an.
+Drücken Sie anschließend oben auf das **Listensymbol**.  
+
+![](../../static/img/Nutztiere/kleintier_versch_erstellen.png)
+
+
+:::caution Achtung
+
+Achten Sie darauf, dass die korrekte Form gewählt ist, ob **Abgabe**(Pillensymbol) oder **Anwendung**(Spritzensymbol). Die Verschreibungen
+werden nur für Abgabemedikamente erstellt im nicht LM Sektor.
 
 :::
+
+Nun wird Ihnen der Entwurf angezeigt. 
+Klicken Sie nun auf das **Stift-Symbol** neben dem Medikament. Nun können Sie die Anweisungen manuell eintragen. Speichern Sie anschließend.
+
+![](../../static/img/Nutztiere/verschreibung_entwurf_bearbeiten.png)     
+
+![](../../static/img/Nutztiere/verschr_manuell_eintragen3.png)   
+
+:::caution Achtung:  
+
+Stand Jan 2025 haben wir noch nicht alle Änderungen umgesetzt. Das Feld, was in dieser Ansicht "Diagnose" heißt, wird noch umbenannt in 
+"Hinweise/U/M/P" Dort können Sie aktuell andere Hinweise, Anweisungen oder die Kennzeichungen Umwidmung (U), Metaphylaxe (M) oder 
+Prophylaxe (P) hinterlegen.  Wir bitten um Geduld, bis die Ansicht optimiert werden kann.   
+
+::: 
+
+Bevor Sie nun "Verschreibung anlegen" klicken, können Sie auf das Druckersymbol klicken und sich die Druckansicht anschauen, wenn Sie
+dies wünschen. Wenn Sie "Verschreibung anlegen" klicken, wird die Verschreibung endgültig erstellt.  
+
+![](../../static/img/Nutztiere/verschreibung_draft_drucken.png)
+
+
+### 2. Gespeicherte Anweisungshinweise einfügen    
+
+:::tip Hinweis:  
+
+Wie Sie die Anwendungsanweisungen am Produkt/Medikament hinterlegen, erfahren Sie hier:
+
+[Anwendungsanweisungen](/docs/Warenwirtschaft/Produkte#anwendungsanweisungen)
+
+
+:::  
+
+Auch bei der Nutzung der gespeicheten Anweisungen gibt es wiederum zwei Wege, diese anzuwenden.   
+
+**Variante 1: Nutzung und Eingabe über den Mengenrechner:**
+
+Wenn Sie das Medikament nun oben neben **Heute** eingeben und auf den Mengenrechner klicken, können Sie dort direkt die Mengen
+eingeben. Außerdem können Sie dort die Anweisung je nach Anwendungsfall wählen. Klicken Sie dazu auf den **Dropdown-Pfeil** neben
+**Anweisung**.  
+
+Achtung: bitte bedenken Sie, dass Sie im Falle einer am Produkt hinterlegten Verabreichungsform (z.B. oral, perkutan etc.) 
+diese auch hier zunächst wählen müssen, damit die entsprechenden Anweisungen auch als Option dargestellt werden.  
+
 
 
 ![](../../static/img/Nutztiere/anweisung-wahl1.png)
@@ -55,7 +145,14 @@ Nach klicken von einem der drei **grünen Haken** wird die Menge übernommen.
 Nun müssen Sie noch den **orangenen Haken** klicken,
 um die Menge in diese Behandlung zu übernehmen.
 
-![](../../static/img/Nutztiere/mengenrechner3.png)
+![](../../static/img/Nutztiere/mengenrechner3.png)   
+
+
+
+:::tip Tipp:  
+Wenn Sie für mehrere Tiere/Gruppen eines Kunden gesammelte Verschreibung erstellen möchten, schauen Sie weiter unten hier im Text.
+
+:::
 
 :::danger ACHTUNG
 
@@ -68,24 +165,25 @@ Die Anweisungsanwendungen werden nicht übernommen, wenn Sie nicht erst einen gr
 Die Anweisungsanwendungen werden nur auf der Verschreibung angezeigt, wenn Sie
 1. diese am Produkt hinterlegt haben
 2. hier oder im nächsten Schritt die Anweisung auch auswählen
-3. mit dem **grünen Haken** wählen, welche Menge Sie abgeben wollen!
-
-Alternativ können Sie auch hier in der "Rechnermaske" oder aber wie im nächsten Schritt beschrieben
-die Anweisung jedes mal manuell hinterlege.
-
-Wie Sie die Anwendungsanweisungen am Produkt/Medikament hinterlegen, erfahren Sie hier:
-
-[Anwendungsanweisungen](/docs/Warenwirtschaft/Produkte#anwendungsanweisungen)
+3. mit dem **grünen Haken** wählen, welche Menge Sie abgeben wollen!  
 
 :::
 
-Sie können auch die Anweisung noch im nächsten Schritt auswählen.  Um in diesem Schritt einfach manuell eine Anweisung einzugeben,
-wählen Sie keine Anweisung, sondern tragen die Daten manuell ein:
-
-![](../../static/img/Nutztiere/rechner_manuelleingeben.png)
 
 Um nun die Verschreibung für die **nicht LM Tiere** zu erstellen, wählen Sie nun die **Checkboxen** der gewünschten Medikamente an.
-Drücken Sie anschließend oben auf das **Listensymbol**.
+Drücken Sie anschließend oben auf das **Listensymbol**.    
+
+![](../../static/img/Nutztiere/kleintier_versch_erstellen.png)
+
+
+:::danger Achtung:
+
+Sollten hier bei der Berechnung "halbe" oder "viertel" Tabletten entstehen, bitten wir Sie dringend, den nächsten Anleitungsschritt 
+zu nutzen, da es gesetzlich nicht erlaubt ist, halbe Tabletten abzugeben. Ebenso soll ja auch kein falscher Preis berechnet werden, falls Sie 
+dort über diesen Automatismus ein Ergebnis von 23,5 hätten, aber 24 Stück abgeben würden.   
+
+::: 
+
 
 :::caution Achtung
 
@@ -94,19 +192,55 @@ werden nur für Abgabemedikamente erstellt im nicht LM Sektor.
 
 :::
 
-![](../../static/img/Nutztiere/kleintier_versch_erstellen.png)  
+Bevor Sie nun "Verschreibung anlegen" klicken, können Sie auf das Druckersymbol klicken und sich die Druckansicht anschauen, wenn Sie
+dies wünschen. Wenn Sie "Verschreibung anlegen" klicken, wird die Verschreibung endgültig erstellt.
 
-Nun wird Ihnen der Entwurf angezeigt. Wenn Sie zuvor nicht aus den Anwendungsanweisungen schon eine Option gesetzt haben, müssen
-Sie dies nun hier machen. Klicken Sie dazu noch einmal auf das **Stift-Symbol** neben dem Medikament.
+![](../../static/img/Nutztiere/verschreibung_draft_drucken.png)
 
-![](../../static/img/Nutztiere/verschreibung_entwurf_bearbeiten.png)  
 
-Klicken Sie in der sich öffnenden Maske den **Dropdown-Pfeil** bei **Anweisungen**. Wählen Sie dort dann die gewünschte Anweisung.
+**Variante 2: Anweisung im nachhinein auswählen**  
+
+Geben Sie wie gewohnt die Tabletten und die abgegebene Anzahl an.
+
+Um nun die Verschreibung für die **nicht LM Tiere** zu erstellen, wählen Sie nun die **Checkboxen** der gewünschten Medikamente an.
+Drücken Sie anschließend oben auf das **Listensymbol**.
+
+![](../../static/img/Nutztiere/kleintier_versch_erstellen.png)
+
+
+:::caution Achtung
+
+Achten Sie darauf, dass die korrekte Form gewählt ist, ob **Abgabe**(Pillensymbol) oder **Anwendung**(Spritzensymbol). Die Verschreibungen
+werden nur für Abgabemedikamente erstellt im nicht LM Sektor.
+
+:::
+
+Nun wird Ihnen der Entwurf angezeigt.
+Klicken Sie nun auf das **Stift-Symbol** neben dem Medikament. 
+
+![](../../static/img/Nutztiere/verschreibung_entwurf_bearbeiten.png)
+
+
+Klicken Sie in der sich öffnenden Maske den **Dropdown-Pfeil** bei **Anweisungen**. Falls an dem Medikament Verabreichungsformen
+hinterlegt waren zu den Anweisungen, wählen Sie bitte zunächst diese aus.  
+
+Wählen Sie dann die gewünschte Anweisung.
 
 ![](../../static/img/Nutztiere/verschr_anweisung_wahlen2.png)   
 
 Sie sehen direkt, dass die Felder ausgefüllt werden. Klicken Sie dann unten **Übernehmen**. Alternativ können die Felder manuell
-gefüllt werden.
+gefüllt werden.   
+
+:::danger ACHTUNG!  
+
+Aktuell (Stand Jan 2025) haben wir "auf die Schnelle" eine Lösung aus der ehemaligen AUA Erstellung gebaut, um schnell für Sie die 
+Möglichkeit der Erstellung einer Verschreibung zu haben.  
+Da der Rechner, der hier in diesem Schritt genutzt wird, die gesamte Abgabemenge umrechnet pro Tier und dabei evtl. Anweisungen 
+überschreiben kann, bitten wir Sie, die "Menge pro Tier pro Anwendung" IMMER zu kontrollieren und manuell bei Bedarf anzupassen.   
+
+Wir versuchen, dies schnellstmöglich nachzubessern.   
+
+:::  
 
 Wenn Sie oben rechts auf **Verschreibung anlegen** klicken, wird die Verschreibung erstellt.
 
