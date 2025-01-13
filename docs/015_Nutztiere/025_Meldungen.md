@@ -30,7 +30,10 @@ https://www.hi-tier.de/Entwicklung/Konzept/Sonstiges/TAM002.htm#download
 
 ## Die Packungs ID   
 
-Aktuell muss die Packungs-ID manuell eingetragen werden. Diese können Sie auf der HITier Seite in einer Liste finden. 
+Aktuell muss die Packungs-ID manuell eingetragen werden. Diese können Sie auf der HITier Seite in einer Liste finden.   
+
+[HIT Liste TAM](https://www.hi-tier.de/Entwicklung/Konzept/Sonstiges/TAM002.htm#download)
+
 
 Öffnen Sie diese Liste als CSV und suchen Sie die passende Packung/Medikament. Die Packungs-Id finden Sie in einer gesonderten Spalte. (TAMA_PID)
 Tragen Sie diese dann am Produkt in debevet ein. (Es handelt sich nur um eine einstellige Zahl!).   

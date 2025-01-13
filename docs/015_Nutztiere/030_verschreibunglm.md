@@ -15,7 +15,7 @@ Sie können festlegen, nach welcher Zeit Verschreibung erstellt sein muss.
 Klicken Sie hierzu auf **Administration** und dann **Einstellungen**. Dort klicken Sie in den Reiter **Behandlungen**.
 Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen können.
 
-![](../../static/img/Nutztiere/AUA_beleg_datum.png)
+![](../../static/img/Nutztiere/lmverschreibung-ablaufzeit.png)  
 
 ### Verschreibung für LM Tiere erstellen
 
