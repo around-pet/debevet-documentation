@@ -25,7 +25,7 @@ Sie können festlegen, nach welcher Zeit Verschreibung erstellt sein muss.
 Klicken Sie hierzu auf **Administration** und dann **Einstellungen**. Dort klicken Sie in den Reiter **Behandlungen**.
 Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen können.
 
-![](../../static/img/Nutztiere/AUA_beleg_datum.png)
+![](../../static/img/Nutztiere/NLM_verschreibungszeit.png)  
 
 ## Verschreibung für nicht LM Tiere erstellen
 
@@ -118,7 +118,7 @@ Wie Sie die Anwendungsanweisungen am Produkt/Medikament hinterlegen, erfahren Si
 
 :::  
 
-Auch bei der Nutzung der gespeicheten Anweisungen gibt es wiederum zwei Wege, diese anzuwenden.   
+Auch bei der Nutzung der gespeicherten Anweisungen gibt es wiederum zwei Wege, diese anzuwenden.   
 
 **Variante 1: Nutzung und Eingabe über den Mengenrechner:**
 
@@ -292,7 +292,7 @@ Um die Liste wieder ungefiltert anzeigen zu lassen, klicken Sie auf den **Dropdo
 
 ![](../../static/img/Nutztiere/filter_aua_zuruecksetzen.png)
 
-### Verschreibungn drucken, versenden, löschen
+### Verschreibungen drucken, versenden, löschen
 
 Wählen Sie die gewünschten Verschreibungen aus, indem Sie die Checkboxen vor den Verschreibungs-Nummern anwählen. Um die gewünschte
 Aktion auszuführen, drücken Sie nun die jeweiligen Symbole oben rechts: zum Drucken das **Drucker-Symbol**, zum Verschicken
@@ -313,22 +313,22 @@ Nutzen Sie die Pfeile < und > um beim Bearbeiten zwischen den einzelnen Verschre
 Um sie zu löschen, drücken Sie das **Mülleimer-Symbol**.
 
 
-### Ausstehende Verschreibungen anzeigen (für nicht LM Tiere noch nicht verfügbar!!!)
+### Ausstehende Verschreibungen anzeigen
 
 Die debevet Software bietet die Möglichkeit, alle noch nicht erstellten Verschreibungen anzeigen zu lassen und direkt zu erstellen.
 
 Klicken Sie dazu **Praxis** und dann **Behandlungen**. Klicken Sie dann den **Dropdownpfeil** neben der Suchenleiste.
 
-Dort setzen Sie den Haken auf **Verschreibung (nicht LM) ausstehend** und drücken die **Entertaste** oder klicken das **Lupen-Symbol**.
+Dort setzen Sie den Haken auf **Verschreibung (nicht LM) ausstehend** und drücken die **Entertaste** oder klicken das **Lupen-Symbol**.  
 
-![](../../static/img/Nutztiere/abgabebelege_ausstehend.png)
+![](../../static/img/Nutztiere/nichtLM_behversch1.png)
 
 Nun werden Ihnen die noch ausstehenden Verschreibungen, bzw. Behandlungen, bei denen die Verschreibung noch nicht erstellt wurde, aufgelistet.
 
 Um für einen oder mehrere nun die Verschreibung zu erstellen, aktivieren Sie die gewünschten **Checkboxen** und klicken dann
 oben rechts auf das **Listen-Symbol**.
 
-![](../../static/img/Nutztiere/abgabebeleg_ausstehend2.png)
+![](../../static/img/Nutztiere/nichtLM_behverschr2.png)  
 
 :::tip Tipp
 
@@ -344,7 +344,6 @@ Die Vorgehensweise ist dieselbe, wie im Schritt "ausstehehende Verschreibungen a
 den Haken "Kunde" setzen müssen.
 Wenn Sie anschließend die Verschreibungen erstellen, sind diese gesammelt für alle Tiere dieses Kunden.
 
-![](../../static/img/Nutztiere/sammel_aua.png)
-
+![](../../static/img/Nutztiere/nichtLM-sammelverschr1.png)
 
 
