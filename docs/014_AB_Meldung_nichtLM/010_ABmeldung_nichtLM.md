@@ -51,4 +51,19 @@ An jedem Produkt kann diese Packungs ID nun hinterlegt werden:
 Sobald wir weitere Informationen haben, werden wir diese hier ergänzen. 
 
 Aber wenn Sie diese Daten bereits jetzt hinterlegen, wird die Meldung wesentlich einfacher vonstatten gehen können und Sie werden 
-nicht mit HIT Fehlermeldungen überhäuft, wenn wir die Meldung aktiv schalten.
+nicht mit HIT Fehlermeldungen überhäuft, wenn wir die Meldung aktiv schalten.  
+
+## Verbrauchsliste Antibiotika einsehen  
+
+Um Ihren Verbrauch einzusehen, klicken Sie auf "Monitoring" und dann "AB Monitoring nicht LM".  
+
+![](../../static/img/Nutztiere/ABMonitoring_kleintier.png)   
+
+Hier finden Sie die Verbräuche, WENN der Haken gesetzt war. 
+
+:::danger: Achtung! 
+
+Bitte setzen Sie dringend jetzt schon alle Haken an den Produkten, damit der Verbrauch erfasst werden kann!  Stand Jan 2024 ist, dass
+wir es aktuell noch nicht "nachträglich" abbilden können!
+
+:::
