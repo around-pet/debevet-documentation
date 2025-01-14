@@ -25,7 +25,23 @@ Sie können festlegen, nach welcher Zeit Verschreibung erstellt sein muss.
 Klicken Sie hierzu auf **Administration** und dann **Einstellungen**. Dort klicken Sie in den Reiter **Behandlungen**.
 Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen können.
 
-![](../../static/img/Nutztiere/NLM_verschreibungszeit.png)  
+![](../../static/img/Nutztiere/NLM_verschreibungszeit.png)    
+
+## Darreichungsformen hinterlegen   
+
+Achtung: Die sogenannte Darreichungsform ist z.B. so etwas wie "Tablette" , oder "Injektionslösung", "Suspension zum Eingeben in den
+Gehörgang" etc. Diese werden NICHT von der Barsoi mitgeliefert (wir haben dort bereits mehrfach darum gebeten). 
+
+Deswegen haben wir Ihnen am Produkt ein Feld "Darreichungsform" eingerichtet, in dem Sie diese händisch hinterlegen können. Auf 
+den Verschreibungen muss diese nämlich leider abgebildet werden.  Wir bitten um Veständnis, dass wir uns das nicht ausgesucht haben, 
+sondern nur gesetzliche Vorgaben erfüllen.
+
+![](../../static/img/Nutztiere/darreichungsform1.png)  
+
+![](../../static/img/Nutztiere/darreichungsform2.png)   
+
+![](../../static/img/Nutztiere/darreichungsform3.png)  
+
 
 ## Verschreibung für nicht LM Tiere erstellen
 
@@ -91,12 +107,18 @@ Klicken Sie nun auf das **Stift-Symbol** neben dem Medikament. Nun können Sie d
 
 ![](../../static/img/Nutztiere/verschreibung_entwurf_bearbeiten.png)     
 
-![](../../static/img/Nutztiere/verschr_manuell_eintragen3.png)   
+![](../../static/img/Nutztiere/hinweisfeld_versch1.png)   
+ 
+Klicken Sie zunächst "übernehmen" und dann **"speichern"**! 
+
+In der Darstellung auf der Verschreibung wird das wie folgt abgebildet:   
+
+![](../../static/img/Nutztiere/hinweisfeld2.png)
 
 :::caution Achtung:  
 
-Stand Jan 2025 haben wir noch nicht alle Änderungen umgesetzt. Das Feld, was in dieser Ansicht "Diagnose" heißt, wird noch umbenannt in 
-"Hinweise/U/M/P" Dort können Sie aktuell andere Hinweise, Anweisungen oder die Kennzeichungen Umwidmung (U), Metaphylaxe (M) oder 
+Stand Jan 2025 haben wir noch nicht alle Änderungen umgesetzt. Im Feld "Hinweise" können aktuell andere Hinweise, Anweisungen 
+oder die Kennzeichungen Umwidmung (U), Metaphylaxe (M) oder 
 Prophylaxe (P) hinterlegen.  Wir bitten um Geduld, bis die Ansicht optimiert werden kann.   
 
 ::: 
