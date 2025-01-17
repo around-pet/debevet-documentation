@@ -15,7 +15,23 @@ Sie können festlegen, nach welcher Zeit Verschreibung erstellt sein muss.
 Klicken Sie hierzu auf **Administration** und dann **Einstellungen**. Dort klicken Sie in den Reiter **Behandlungen**.
 Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen können.
 
-![](../../static/img/Nutztiere/lmverschreibung-ablaufzeit.png)  
+![](../../static/img/Nutztiere/lmverschreibung-ablaufzeit.png)    
+
+## Darreichungsformen hinterlegen
+
+Achtung: Die sogenannte Darreichungsform ist z.B. so etwas wie "Tablette" , oder "Injektionslösung", "Suspension zum Eingeben in den
+Gehörgang" etc. Diese werden NICHT von der Barsoi mitgeliefert (wir haben dort bereits mehrfach darum gebeten).
+
+Deswegen haben wir Ihnen am Produkt ein Feld "Darreichungsform" eingerichtet, in dem Sie diese händisch hinterlegen können. Auf
+den Verschreibungen muss diese nämlich leider abgebildet werden.  Wir bitten um Veständnis, dass wir uns das nicht ausgesucht haben,
+sondern nur gesetzliche Vorgaben erfüllen.
+
+![](../../static/img/Nutztiere/darreichungsform1.png)
+
+![](../../static/img/Nutztiere/darreichungsform2.png)
+
+![](../../static/img/Nutztiere/darreichungsform3.png)
+
 
 ### Verschreibung für LM Tiere erstellen
 
