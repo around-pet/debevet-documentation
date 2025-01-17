@@ -348,4 +348,56 @@ Schauen Sie nun auf Ihrer Tastatur, wie das Mikrofon eingeschaltet wird. Beim Ma
 gleichzeitig der Fall. 
 
 Sie klicken nun in das Befundungsfeld in der Patientenkarte, aktivieren das Mikrofon und sprechen Ihren Befund ein. Der Text wird 
-direkt geschrieben. 
+direkt geschrieben.   
+
+## Jahreswechsel buchhalterisch   
+
+Zum Jahreswechsel müssen Sie folgende Änderungen selbständig durchführen: 
+
+* Collmex:   
+
+Wenn sie unsere Collmex Anbindung nutzen, müssen Sie einmalig ein neues Geschäftsjahr anlegen im Januar eines jeden
+Jahres. Loggen Sie sich hierzu mit den Zugangsdaten direkt bei Collmex ein.  
+
+Klicken Sie hier dann auf "Verwaltung"  und dort "Geschäftsjahr anlegen"
+
+![](../../static/img/Admin/geschjahrcollmex1.png)   
+
+Anschließend auf "Geschäftsjahr anlegen" und achten auf das korrekt angezeigte, neue Jahr (dieses ist eigentlich
+automatisch vorgegeben)  
+
+![](../../static/img/Admin/geschjahrcollmex2.png)   
+
+* debevet Buchhaltung  
+
+Wenn Sie unsere interne Buchhaltung nutzen, müssen Sie einen Saldenvortrag vornehmen.  
+
+:::caution Achtung  
+
+Bitte achten Sie darauf, dass alle offenen Zahlungen, die im **alten** Jahr eingegangen sind, zunächst erfasst werden. 
+Nach Saldenvortrag wird diess Jahr "abgeschlossen" und Zahlungen, die nachträglich mit Eingangsdatum Vorjahr (nicht Rechnungsdatum!) 
+erfasst werden, werden nicht mehr dem Forderungskonto gegen gerechnet!   
+
+:::  
+
+Führen Sie den Saldenvortrag wie folgt durch:  
+
+licken Sie auf **Buchhaltung** und dann **Belege**.
+
+Dort sehen Sie oben rechts **Vorlagen**
+
+![](../../static/img/dashboard/salden_2.png)
+
+Wenn Sie dort klicken, öffnet sich eine Maske, in der Sie aus verschiedenen Optionen wählen können.
+
+* Kontoeröffnung
+* Saldenvortrag
+* Privateinlage
+* Privatentnahme
+
+![](../../static/img/dashboard/salden_3.png)
+
+Tragen Sie nun den Saldo ein, der auf dem Dashboard angezeigt wird. Wir empfehlen, die Übertragung so zeitnah wie
+möglich zum 1.1. vorzunehmen!
+
+![](../../static/img/dashboard/salden_4.png)

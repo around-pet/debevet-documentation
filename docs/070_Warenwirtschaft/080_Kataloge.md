@@ -96,14 +96,14 @@ Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **
 
 ![](../../static/img/Admin/import3.png)
  
-Nun klicken Sie auf das **Wolkensymbol** und wählen dann die zip Datei. Bitte beachten Sie, dass Sie bei der Barsoi angeben müssen, dass Sie die
+Nun klicken Sie auf das **Wolkensymbol** und wählen dann die **zip Datei**. Bitte beachten Sie, dass Sie bei der Barsoi angeben müssen, dass Sie die
 Versionen benötigen, die für debevet genutzt werden. Es gibt leider auch sehr alte Versionen der Barsoiliste und die Barsoi stellt diese leider 
 oftmals zur Verfügung. Dies muss proaktiv dort beauftragt werden, nur, wenn Sie die Liste neu abbonieren, können Sie direkt auswählen, für welche
 Software Sie diese benötigen.
 
 :::tip Tip:  
 
-Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten (in den Fragen zur Barsoi) dazu einen Hilfetext angelegt.   
+Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten (in den Fragen zur Barsoi) dazu einen Hilfetext angelegt. 
 
 :::
 
