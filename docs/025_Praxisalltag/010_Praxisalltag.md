@@ -350,7 +350,7 @@ gleichzeitig der Fall.
 Sie klicken nun in das Befundungsfeld in der Patientenkarte, aktivieren das Mikrofon und sprechen Ihren Befund ein. Der Text wird 
 direkt geschrieben.   
 
-## Jahreswechsel buchhalterisch   
+## 13. Jahreswechsel buchhalterisch   
 
 Zum Jahreswechsel müssen Sie folgende Änderungen selbständig durchführen: 
 
