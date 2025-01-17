@@ -33,7 +33,11 @@ Außerdem empfehlen wir bereits jetzt, sich mit dem Thema "Packungs ID" auseinan
 
 Diese können Sie auf der HITier Seite in einer Liste finden.
 
-[HIT Liste TAM](https://www.hi-tier.de/Entwicklung/Konzept/Sonstiges/TAM002.htm#download)
+[HIT Liste TAM](https://www.hi-tier.de/Entwicklung/Konzept/Sonstiges/TAM002.htm#download)  
+
+Außerdem finden sich auch in der Liste vom BVL etliche Daten: 
+
+[BVL Medikamtenliste](https://www.bvl.bund.de/SharedDocs/Downloads/05_Tierarzneimittel/Liste_der_mitteilungspflichtigen_Arzneimittel.html?nn=17226560)
 
 Öffnen Sie diese Liste als CSV und suchen Sie die passende Packung/Medikament. Die Packungs-Id finden Sie in einer 
 gesonderten Spalte. (TAMA_PID) Tragen Sie diese dann am Produkt in debevet ein. (Es handelt sich nur um eine einstellige Zahl!).  
