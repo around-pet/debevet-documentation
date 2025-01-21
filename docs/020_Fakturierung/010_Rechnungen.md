@@ -435,13 +435,38 @@ dann auf "erledigt/bezahlt" gesetzt.
 ## Teilzahlung/ Anzahlung erfassen  
 
 Sollte es vorkommen, dass ein Kunde nur einen Teil der Rechnung bezahlen kann und den Rest überweisen oder später zahlen möchte, 
-so empfehlen wir, mit einer Teilzahlung wie folgt umzugehen:
+so empfehlen wir, mit einer Teilzahlung wie folgt umzugehen:   
 
-1. Erstellen Sie die Rechnung mit der Zahlungsbedingung **"Per Überweisung"**
-2. Buchen Sie die Rechnung und erfassen eine Zahlung
-3. Erfassen Sie die Zahlung, wie Sie erfolgte mit der Summe, die geleistet wurde
+Erstellen Sie eine Zahlungsbedingung "Teilzahlung", in der Sie den Rechnungstext (dieser wird am Ender der Rechnung eingeblendet) 
+entsprechend Ihren Wünschen anpassen. Wir empfehlen dabei einen allgemeinen Text wie beispielsweise: 
+"Die Rechnung wurde teilgezahlt, die restliche Summe ist binnen xx fällig."       
+
+Wie Sie Zahlungsbedingungen anlegen, erfahren Sie hier: 
+
+[Zahlungsbedingngen anlegen](https://handbuch.debevet.de/docs/Administration/Administration#zahlungsbedingungen-anlegen)
+
+Wie Sie die offene Summe dann eintragen, erklären wir in den folgenden Schritten.  
+
+Beachten Sie bitte, dass Sie auch in der Buchaltungserweiterung diese Zahlungsbedingung einrichten müssen. Wir empfehlen hier, die Einstellungen
+von "Überweisung" zu übernehmen.
+
+1. Erstellen Sie die Rechnung mit der Zahlungsbedingung **"Teilzahlung"**  
+2. In der Rechnungsvorschau klicken Sie auf den Reiter "Verkauf"    
+
+
+![](../../static/img/Rechnungen/schlusstext1.png)
+
+
+3. Dort tragen Sie in den Rechnungsschlusstext ein, welche Summe noch offen ist, bzw. welche gezahlt wurde.   
+
+4. ![](../../static/img/Rechnungen/schlusstext2.png)
+
+5. Buchen Sie die Rechnung und erfassen eine Zahlung
+6. Erfassen Sie die Zahlung, wie Sie erfolgte mit der Summe, die geleistet wurde
 (z.B. bar, 23,11, wenn Gesamtsumme 90,00 Euro und der Kunde 23,11 Euro bezahlt in bar) Die debevet Software fragt dann nach, ob es sich um eine Teilzahlung handelt, oder 
-Sie den Rest erlassen wollen (Skonto).   
+Sie den Rest erlassen wollen (Skonto).    
+
+   
 
 ![](../../static/img/Rechnungen/teilzahlung_bei_rechnungzahlen.png)  
 
