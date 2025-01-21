@@ -121,30 +121,73 @@ Das Symbol mit dem Warenkorb zeigt, wie viel Sie von dem Produkt aktuell in Ihre
 ![](../../static/img/Kunden/wareerkennen.png)
 
 
-## Diagnose einfügen 
+## Diagnose anlegen und einfügen  
 
-Um eine Diagnose zu hinterlegen, die auch auf der Rechnung gedruckt wird (Pflicht laut GOT!), geben Sie diese im Feld "**Behandlungseingabe** ein.   
+Geben Sie die Diagnose im Feld "**Behandlungseingabe** ein. Die Diagnose/Vorstellungsrgrund 
+wird auch auf die Rechnung gedruckt  (Pflicht laut GOT!).
 
-Wenn die Diagnose bereits bekannt ist, wird diese Ihnen in der Liste mit vorgeschlagen. Diagnosen sind dabei PINK farbend.   
+Wenn die Diagnose bereits bekannt ist, wird diese Ihnen in der Liste mit vorgeschlagen. Diagnosen sind dabei PINK farbend. 
 
-Wenn die gewünschte Diagnose nicht vorhanden ist, lernen Sie im nächsten Schritt, wie Sie diese mit einem Klick anlegen.
 
 ![](../../static/img/Patienten/diagnose4.png)
 
-Ansonsten klicken Sie die Diagnose an und diese wird in PINK über dem Behandlungsfeld angezeigt.  
+Klicken Sie die Diagnose an und diese wird in PINK über dem Behandlungsfeld angezeigt.
 
 ![](../../static/img/Patienten/fiagnose5.png)
 
-## Diagnosen anlegen
+Wenn die gewünschte Diagnose nicht vorhanden ist, lernen Sie im nächsten Schritt, wie Sie diese mit einem Klick anlegen.
+
+Um eine Diagnose anzulegen,  gibt es zwei Wege:  
+
+**1. Direkt in der Behandlung**   
+
 
 Klicken Sie oben auf das **Doktorhut-Symbol**, um eine neue Diagnose anzulegen.
-Nun öffnet sich ein Popup-Fenster, in dem Sie die Diagnose eingeben können. 
+Nun öffnet sich ein Popup-Fenster, in dem Sie die Diagnose eingeben können. Das Feld "Nummer" lassen Sie bitte leer.  
+
+Leider sind die Diagnosen zur Zeit noch an Tierarten gebunden, Sie müssen
+die Klassifizierung hinterlegen. Die Diagnose muss dann evtl für verschiedene Tierarten erneut angelegt werden.
 
 ![](../../static/img/Patienten/diagnosen_dienstleistungen_anlegen.png) 
 
 ![](../../static/img/Patienten/diagnose_popup.png)  
 
-KLicken Sie auf **Anlegen**. 
+KLicken Sie auf **Anlegen**.   
+
+**2. Über den Diagnose-Katalog**  
+
+Alternativ können Sie Diagnosen direkt im Katalog mit Diagnosen anlegen. Klicken Sie dazu auf **Warenwirtschaft** und dann
+**Diagnosen**. 
+
+Mit dem Klick auf das grüne Plussymbol öffnet sich eine Maske, in der Sie den Namen der Diagnose eingeben können. Das Feld "Nummer" 
+kann leer bleiben, dieses wird automatisch gesetzt. Leider sind die Diagnosen zur Zeit noch an Tierarten gebunden, Sie müssen
+die Klassifizierung hinterlegen. Die Diagnose muss dann evtl für verschiedene Tierarten erneut angelegt werden.
+
+![](../../static/img/Patienten/diagnosekatalog1.png)  
+
+![](../../static/img/Patienten/diagnosekatalog2.png)   
+
+### Aktionen an Diagnosen hinterlegen  
+
+Sie können an bestimmte Diagnosen eine Aktion hinterlegen. Ein Beispiel dafür sind die Impferinnerungen, hierzu gibt es bereits einen 
+extra Artikel in diesem Handbuch:   
+
+[Impferinnerung an Diagnose binden](https://handbuch.debevet.de/docs/Administration/Impferinnerungen#variante-1-die-nutzung-von-diagnosen-zum-automatischen-erstellen-einer-impferinnerung)
+   
+Sie können aber auch Kastrationen oder Euthanasie des Tieres als automatische Aktion hinterlegen. Im Falle von der Auswahl 
+"Kastration" als Aktion, wird das Tier nach Einfügen dieser Diagnose automatisch in den Status "kastriert" überführt.  
+
+Bei Euthanasie wird automatisch das Datum als Todesdatum eingefügt. 
+
+
+![](../../static/img/Patienten/euthadiagnose.png)   
+
+
+:::caution Achtung:  
+
+Diesen Reiter "Aktion" können Sie erst sehen, wenn Sie die Diagnose angelegt und gespeichert haben!  
+
+:::   
 
 ## Diagnosen löschen  
 

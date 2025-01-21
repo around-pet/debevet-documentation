@@ -370,7 +370,8 @@ automatisch vorgegeben)
 
 * debevet Buchhaltung  
 
-Wenn Sie unsere interne Buchhaltung nutzen, müssen Sie einen Saldenvortrag vornehmen.  
+Wenn Sie unsere interne Buchhaltung nutzen, müssen Sie einen Saldenvortrag vornehmen.  Dieser sollte für die Konten "Kasse" 
+und "Forderungen" erflgen (bei den meisten Konto 1000 und 1400)
 
 :::caution Achtung  
 
