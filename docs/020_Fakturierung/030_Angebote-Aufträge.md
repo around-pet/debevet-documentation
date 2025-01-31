@@ -1,37 +1,39 @@
-# Angebote und Kundenaufträge
+# Kostenvoranschläge / Angebote
 
-Wenn Sie wollen, können Sie Ihren Kunden Angebote schicken, welche diese dann annehmen können und 
-damit einen Kundenauftrag erteilen
+Wenn Sie wollen, können Sie Ihren Kunden Angebote  (sogenannte Kostenschätzungen) schicken.  
 
-## Angebot anlegen  
 
-Klicken Sie **Fakturierung** und dann **Angebote** . Dort klciken Sie auf das **grüne Plus-Symbol**. Es öffnet sich ein neues Fenster "Angebot anlegen". Wählen Sie unter
-"Kunde" den passenden Kunden aus oder fügen Sie einen neuen Kunden hinzu. Als Angebotsdatum wird das 
-aktuelle Datum ausgewählt. Sie können dieses Datum aber auch ändern.
+## Kostenschätzung anlegen  
 
-Wählen Sie die passende Zahlungsbedingung aus und erstellen Sie einen passenden Angebotstext.
+Klicken Sie **Fakturierung** und dann **Kostenschätzungen**.  
+  
+![](../../static/img/Rechnungen/kostensch1.png)
+
+Dort klicken Sie auf das **grüne Plus-Symbol**. Es öffnet sich ein neues Fenster "Kostenschätzung anlegen". Wählen Sie unter
+"Kunde" den passenden Kunden aus oder fügen Sie einen neuen Kunden hinzu.  
+
+Als Angebotsdatum wird das aktuelle Datum ausgewählt. Sie können dieses Datum aber auch ändern.
+ 
 
 Unter Produkte können Sie ein Medikament oder ein anderes Produkt auswählen, 
 für das Sie das Angebot stellen möchten. Hier haben Sie auch die Möglichkeit, die Beschreibung und 
 die Einheit des Produktes einzutragen.  
 
-![](../../static/img/Rechnungen/angebot1.png)  
+Ebenso können Sie einen Faktor für jede Leistung hinzufügen. Stand Januar 2025 ist es aktuell leider noch nicht möglich, die
+Vorlagen für die Kostenschätzungen zu nutzen, so dass Sie leider die Produkte händisch einfügen müssen.
 
-![](../../static/img/Rechnungen/angebot2.png)  
+![](../../static/img/Rechnungen/kostensch2.png)   
 
-## Kundenauftrag anlegen 
 
-Einen neuen Kundenauftrag legen Sie an, indem Sie auf das **grüne Plus-Symbol** unter Kundenaufträge klicken.
-Es öffnet sich daraufhin ein neues Fenster. Hier können Sie entweder durch Eingabe das Namens
-zum bereits registrierten Kunden gelangen oder mit Betätigen des **Plus-Symbols** einen neuen 
-Kunden hinzufügen.
+:::tip Unser Tipp:  
 
-Als Auftragsdatum ist das aktuelle Datum vorausgewählt. Sie können es aber auch vor- oder zurückdatieren.
+Um es im Alltag einfacher zu haben, können Sie für einige gängige Behandlungen oder Operationen eine Kostenschätzung mit einem 
+beliebigen Kunden (auch ein Testkunde) anlegen mit den entsprechenden Posten und Faktoren.  
 
-Geben Sie nun den gewünschten Auftragstext für Ihren Kundenauftrag ein.
+Wenn nun ein Kunde eine Kostenschätzung zu eben dieser OP/Behandlung wünscht, können Sie die Kostenschätzung mit Ihrem Testkunden 
+einfach kopieren und nur den Kunden ändern. Das spart viel Zeit und Mühe!    
 
-Anschließend wählen Sie die gewünschte Zahlungsbedingung aus und geben unter Produkte die Eckdaten zum Produkt bzw. Präparat ein. 
+Öffnen Sie dazu eine Kostenschätzung und klicken oben rechts auf "Erweitert" und dann "Kopieren".  
 
-![](../../static/img/Rechnungen/kundeauftrag1.png) 
-
-![](../../static/img/Rechnungen/kundenauftrag2.png)
+![](../../static/img/Rechnungen/kostensch3.png)
+:::   
