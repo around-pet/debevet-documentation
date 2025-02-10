@@ -500,7 +500,27 @@ Klicken Sie nun auf den Reiter **Fakturierung**. Dort können Sie die Zahl an Ta
 
 Wenn Sie nun ein Tier behandeln, wird Ihnen am Kundennamen links eine rote Zahl angezeigt, welche patientenübergreifend offene Rechnungen anzeigt.  
 
-![](../../static/img/Rechnungen/zahlungsbadge2.png)
+![](../../static/img/Rechnungen/zahlungsbadge2.png)    
+
+## Offene Posten der Praxis /Außenstände   
+
+Um einsehen zu können, welche Summen in Ihrer Praxis noch nicht beglichen sind, empfehlen wir eher nicht, die Darstellung des 
+Kontos "Forderungen" zu nutzen, sondern unsere Anzeige "offene Posten/Außenstände".  
+
+Um sich diese anzeigen zu lassen, gehen Sie bitte wie folgt vor:  
+
+Klicken Sie "Administration" (Zahnrädchen) und dann "Einstellungen". Sie sehen direkt die Möglichkeiten, welche 
+Dashlets Sie auf dem Dashboard angezeigt haben möchten.  
+
+Setzen Sie den Haken bei "Offene Posten/Außenstände" auf "aktiv", um diese Anzeige zu sehen.    
+
+![](../../static/img/Rechnungen/offenePosten3.png)
+
+:::caution Achtung:  
+Nur bereits gebuchte Rechnungen werden in dieser Kalkulation mit einbezogen!    
+
+:::   
+
 
 ## Darstellungen der Rechnungen (brutto/ netto)  
 
