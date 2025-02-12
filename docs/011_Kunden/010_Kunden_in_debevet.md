@@ -150,7 +150,26 @@ Am Kunden ist nun das Feld zur Erlaubnis des Emailversandes grau. Die Verifzieru
 
 Der Kunde bekommt nun die Bestätigungsmail und muss diese bestätigen. 
 
-![](../../static/img/Kunden/email_ver2.png)
+![](../../static/img/Kunden/email_ver2.png)   
+
+## Mehrere Mailadressen pro Kunde  
+
+Immer mehr Anfragen erreichten uns, dass Kunden, vor allem im Großtiersektor, sich wünschen, die Verschreibungen an eine gesonderte
+Mailadresse zu erhalten. Deswegen haben wir im Februar 2025 diese Funktion hinzugefügt.  
+
+Um einem Kunden z.B. seine Verschreibungen oder andere Dokumente an eine andere Mailadresse zu senden,
+können Sie diese nun am Kunden direkt hinterlegen.   
+
+:::caution Achtung:  
+Wie auch der Anmerkung in dem Sektor zu entnehmen ist, können diese Mailadressen nicht einzeln validiert werden. Die Validierung
+betrifft immer nur die "Haupt Mailadresse", welche auch zum Rechnungsversand weiter genutzt wird.    
+
+:::   
+
+Klicken Sie am Kunden auf den Reiter "Allgemein".  Dort finden Sie einen Haken "Mehrere Email-Adressen verwenden". Setzen Sie diesen aktiv
+und tragen Sie die Mailadressen für die jeweiligen Verschreibungen/Dokumente ein, dann werden diese an diesem Kunden verwendet.  
+
+![](../../static/img/Kunden/moremailadresses.png)
 
 ## Auf gelöschte Kunden zugreifen
 
