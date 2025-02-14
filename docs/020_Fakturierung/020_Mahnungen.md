@@ -19,19 +19,27 @@ immer,
 
 
 Klicken Sie auf **Fakturierung** (Euro Symbol) und dann **Mahnungen**. Wenn Sie diese Funktion noch nie genutzt haben, erscheinen
-hier zunächst keine Mahnungen aufgelistet.  
+hier zunächst keine Mahnungen aufgelistet.   
 
-Klicken Sie zum erstellen des Mahnlaufes oben rechts auf **Erweitert** und dann **Mahnungslauf**. 
 
-![](../../static/img/Rechnungen/mahnlauf1.png)  
+Klicken Sie zum Aufrufen des Mahnlaufes oben rechts auf **Erweitert** und dann **Mahnungslauf**. 
 
-Dann öffnet sich eine Liste mit all Ihren offenen Posten. Durch aktivieren der **Checkboxen** wählen Sie aus, welche in den 
+![](../../static/img/Rechnungen/mahnlauf1.png)   
+
+Nun sollten Sie den Fälligkeitstag in der erweiterten Suche auswählen, um keinerlei Mahnungen zu verpassen. Klicken Sie auf den
+Dropdown-Pfeil und geben Sie beim "Fällig am" Datum das Datum ein, zu dem Sie die fälligen Mahnungen sehen wollen.  
+
+![](../../static/img/Rechnungen/mahnfaelligam.png)
+
+Klicken Sie dann auf das Lupensymbol. 
+
+Dann öffnet sich eine Liste mit den fälligen Mahnungen.  Durch aktivieren der **Checkboxen** wählen Sie aus, welche in den 
 Mahnlauf übernommen werden sollen und klicken dann oben rechts auf **Anlegen**.
 
 ![](../../static/img/Rechnungen/mahnlauf2.png)  
 
 Klicken Sie **schließen** oben rechts, um zurück zu der Mahnungsübersicht zu gelangen.
-Klicken Sie **schließen** oben rechts, um zurück zu der Mahnungsübersicht zu gelangen.
+
 
 ## Mahnstufen konfigurieren/ Mahngebühren festlegen
 
