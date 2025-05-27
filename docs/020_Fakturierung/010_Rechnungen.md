@@ -284,6 +284,24 @@ Gelöschte Rechnungen können und DÜRFEN nicht wieder herstellt werden! Deswege
 genauso benötigen, wie ursprünglich ausgestellt, müssen Sie diese NEU ausstellen.  
 
 :::  
+## Steuerfreie Rechnungen   
+
+Es gibt verschiedene Gründe der steuerfreien Berechnung, die wir hier versuchen, zu erklären.   
+Dabei stellen unsere Erklärungen keinerlei "Garantie" dar, wir bitten immer dringend um Rücksprache mit Ihrem eigenen Steuerberater.  
+
+Ausnahme sind die Kleinunternehmer Regelungen, diese haben hier im Handbuch einen eigenen Sektor, in diesem Abschnitt geht es nur um "Ausnahmen von der Normalität".  
+
+1. Porto: Da Sie selbst keine Mwst. auf Porto zahlen müssen, berechnen viele Tierärzte beim Versand von Dingen diesen Posten 
+ebenfalls portofrei. Dies ist aber nicht korrekt, bitte klären Sie dies mit dem Steuerberater.
+Als Tierarzt sollte dieser Posten als Auslage mit 19% Mwst. (Ausnahme: Futterversand) berechnet werden.  
+
+2. Reverse Charge:  Diese gilt immer dann, wenn Sie im B2B Sektor (also an Unternehmer mit einer Umsatzsteuer ID) aus dem Ausland (Ausnahme USA!) berechnen. Wie Sie diese korrekt nutzen, erfahren Sie hier:   
+Infos dazu finden Sie weiter unten auf dieser Seite.  
+
+3. Mitglieder der NATO: Wenn diese das "VAT Formular" vorlegen, werden diese ebenfalls steuerfrei abgerechnet. Dabei handelt
+es sich jedoch nicht um ein Reverse Charge Verfahren. Bitte fragen Sie unbedingt Ihren Steuerberater, auf welche Buchhaltungskonten 
+wir diese Erlöse buchen sollen. Wir helfen Ihnen gern, das korrekt einzurichten, aber benötigen die Aussage des STB. Weitere Infos zur
+Erstellung dieser Rechnungen finden Sie weiter unten.
 
 
 ## Reverse-Charge Rechnungen  
@@ -298,7 +316,8 @@ so dass diese auf Ihren Rechnungen mit aufgedruckt wird.
 
 Die rechtlich korrekte Darstellung mit Nutzung der NETTO Preise kann unser Programm nur dann erzeugen, wenn Sie alle hier genannten Schritte absolvieren!
 
-:::
+:::  
+
 
 ## Steuer ID am Kunden hinterlegen
 
@@ -391,7 +410,39 @@ Dann wählen Sie am Dropdown **Erlösart** den Punkt **innergemeinschaftliche Li
 
 ![](../../static/img/Rechnungen/reverse_charge6.png)  
 
-Klicken Sie auf **Speichern** und fahren mit der Abrechnung/Zahlung nun wie gewohnt fort.
+Klicken Sie auf **Speichern** und fahren mit der Abrechnung/Zahlung nun wie gewohnt fort.   
+
+## Steuerfreie Rechnung an US- Bürger/ NATO erstellen   
+
+Bitte beachten Sie, dass Sie ebenso wie im Bereich "Reverse Charge" die Buchhaltungskonten für diese steuerfreie Verbuchung anlegen müssen. 
+Wie empfehlen die Auswahl nicht steuerbarer Erlös Drittland" im Sektor "steuerbefreit".   Wer getrennt kontiert, muss für alle Bereiche
+(TÄ leistungen, abgegebene, angewandte Medikamente und Sonstiges) die Konten hinterlegen.   
+
+
+![](../../static/img/Rechnungen/drittlandsteuer1.png)
+
+
+Um die Rechnung nun als "NATO" Rechnung zu erstellen, erstellen Sie die Rechnung wie gewohnt mit Klick auf das **Euro--Symbol**.
+
+Allerdings müssen Sie nun zunächst auf den Reiter **Verkauf** klicken.
+
+![](../../static/img/Rechnungen/reverse_charge2.png)
+
+
+Dann wählen Sie am Dropdown **Erlösart** den Punkt **nicht steuerbarer Erlös Drittland**.
+
+![](../../static/img/Rechnungen/drittlandsteuer.png)
+
+Klicken Sie auf **Speichern**.   
+
+Überlegen Sie und fragen Sie Ihren Steuerberater, ob ein "Nachsatz" erforderlich ist, falls ja, wie z.B.  
+**Umsatzsteuerbefreit nach Art. 67 Abs. 3 NATO-ZAbk**  
+Fall ja, fügen sie diesen im Feld "Schlusstext hinzu" und speichern erneut.    
+
+![](../../static/img/Rechnungen/schlusstexteinbauen.png)
+
+Fahren Sie anschließend mit der Abrechnung wie gewohnt fort. Die Rechnung ist nun mit 0% Mwst. ausgestellt.
+
 
 ## Rechnung als bezahlt setzen / Zahlung erfassen
 

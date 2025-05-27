@@ -84,7 +84,18 @@ die Eingaben aus dem Katalog zurücksetzen indem Sie nach dem Aufrufen der Diens
 ## Barsoi Liste integrieren/ importieren  
 
 Natürlich haben Sie bei debevet die Möglichkeit, die Barsoi-Liste zu hinterlegen, um alle Medikamentenpreise direkt nutzen zu können. Allerdings muss die Liste manuell
-importiert werden, sie aktualisiert sich nicht von selbst.
+importiert werden, sie aktualisiert sich nicht von selbst. 
+
+Die Barsoi muss bei Barsoi selbst getrennt bezahlt werden, diese ist nicht in den Kosten für unsere Software enthalten.    
+
+:::caution WICHTIG!   
+
+Sollten Sie von einer anderen Software zu debevet wechseln, geben Sie dies bitte bei Barsoi an, indem Sie dort anrufen. Viele andere 
+Softwareanbieter arbeiten mit einer anderen Version (1.12.xx), damit der Import in debevet funktioniert, benötigen Sie aber 25.xx.xx (Stand 
+Mai 2025). Öffnen Sie die xml Datei und scrollen ganz nach rechts, in der letzten Spalte steht die Version.
+Wenn Sie ein neues Abo abschließen, müssen Sie die Praxissoftware angeben, dann sollte automatisiert die passende Version bereit stehen.   
+
+:::
 
 Dies geht allerdings nicht über einen Katalog, sondern über unsere Import-Funktion. Klicken Sie hierzu auf **Administration** und dann **Import/Export**.
 
