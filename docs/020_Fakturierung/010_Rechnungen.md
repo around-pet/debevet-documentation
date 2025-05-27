@@ -419,8 +419,7 @@ Wie empfehlen die Auswahl nicht steuerbarer Erlös Drittland" im Sektor "steuerb
 (TÄ leistungen, abgegebene, angewandte Medikamente und Sonstiges) die Konten hinterlegen.   
 
 
-![](../../static/img/Rechnungen/drittlandsteuer1.png)
-
+![](../../static/img/Rechnungen/drittlandsteuer2.png)
 
 Um die Rechnung nun als "NATO" Rechnung zu erstellen, erstellen Sie die Rechnung wie gewohnt mit Klick auf das **Euro--Symbol**.
 
