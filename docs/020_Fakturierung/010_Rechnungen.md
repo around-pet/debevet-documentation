@@ -230,7 +230,18 @@ Die Rechnungen werden erzeugt und liegen anschließend unter **Fakturierung** - 
 
 ## Rechnungen korrigieren/ stornieren/ löschen
 
-Um Rechnungen zu korrigieren, müssen Sie diese immer zunächst stornieren und dann neu ausstellen.
+Um Rechnungen zu korrigieren, müssen Sie diese immer zunächst stornieren und dann neu ausstellen.  
+
+:::caution Achtung   
+Wenn die Rechnung bereits gezahlt ist, muss bei der Nutzung der debevet Buchhaltung zunächst die Zahlung storniert werden (Collmex macht
+dies automatisch im Hintergrund). Deswegen leitet in diesem Fall das Programm Sie zunächst in den Beleg-Sektor, in dem Sie dann den Zahlungsbeleg stornieren 
+müssen.   
+Die Anleitung dazu finden Sie hier: 
+[Belege löschen](https://handbuch.debevet.de/docs/Buchhaltung/Belege#belege-stornierenl%C3%B6schen=)
+
+:::  
+
+Wenn die Rechnung nicht bezahlt ist, gehen Sie wie folgt vor:  
 
 Zunächst öffnen Sie die gewünschte, zu stornierende Rechnung. Dafür gibt es zwei Wege:
 
@@ -281,7 +292,8 @@ Nun sehen Sie rot hinterlegt die stornierten Rechnungen.
 :::danger ACHTUNG  
 
 Gelöschte Rechnungen können und DÜRFEN nicht wieder herstellt werden! Deswegen gibt es diese Funktion nicht. Wenn Sie die Rechnung nun doch
-genauso benötigen, wie ursprünglich ausgestellt, müssen Sie diese NEU ausstellen.  
+genauso benötigen, wie ursprünglich ausgestellt, müssen Sie diese NEU ausstellen. Dabei wird zwangsläufig eine neue Rechnungsnummer erteilt, dies
+ist gesetzlich vorgeschrieben.
 
 :::  
 ## Steuerfreie Rechnungen   
