@@ -38,5 +38,11 @@ Blättern zwischen den Belegen.
 
 Um den Beleg zu stornieren, klicken Sie nun oben rechts auf **Stornieren**.  
 
-![](../../static/img/Buchhaltung/beleg_stornieren.png)
+![](../../static/img/Buchhaltung/beleg_stornieren.png)   
 
+## Zahlungsbeleg zu einer Rechnung stornieren   
+
+Um nur den Zahlungsbeleg zu stornieren, falls Sie z.B. eine Rechnung stornieren wollen, an der bereits eine Zahlung liegt, schauen
+Sie, welcher der beiden Belege der Zahlungsbeleg ist:  
+
+![](../../static/img/Buchhaltung/zahlungsbeleg_erkennen.png)
