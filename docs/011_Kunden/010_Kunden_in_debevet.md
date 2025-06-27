@@ -152,7 +152,7 @@ Der Kunde bekommt nun die Bestätigungsmail und muss diese bestätigen.
 
 ![](../../static/img/Kunden/email_ver2.png)   
 
-## Mehrere Mailadressen pro Kunde  
+## Mehrere Mailadressen pro Kunde 
 
 Immer mehr Anfragen erreichten uns, dass Kunden, vor allem im Großtiersektor, sich wünschen, die Verschreibungen an eine gesonderte
 Mailadresse zu erhalten. Deswegen haben wir im Februar 2025 diese Funktion hinzugefügt.  
