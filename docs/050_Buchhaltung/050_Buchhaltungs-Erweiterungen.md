@@ -1,6 +1,11 @@
 # Buchhaltungs Erweiterungen 
 
-Die debevet Software bietet aktuell drei verschiedene Möglichkeiten, die Buchhaltung zu verwalten.
+Die debevet Software bietet aktuell drei verschiedene Möglichkeiten, die Buchhaltung zu verwalten. Bitte bedenken Sie, dass Sie sich für 
+EINE davon entscheiden müssen, und Rechnungen immer nur dann auch verbucht werden können, wenn eine Erweiterung korrekt eingerichtet ist.  
+
+Sprechen Sie hierzu gern mit uns und Ihrem Steuerberater.  
+Folgende Erweiterungens stehen zur Verfügung:   
+
 
 1. ein internes, sehr simples System(debevet Buchhaltung)
 2. die Schnittstelle mit Lexoffice (kein direkter Datev Export aus debevet möglich, Buchhaltungsbelege und Auswertungen etc. im Lexoffice nur direkt einzusehen)  
@@ -9,4 +14,12 @@ Die debevet Software bietet aktuell drei verschiedene Möglichkeiten, die Buchha
 Im Abschnitt "Erweiterungen" dieses Handbuches finden Sie mehr zu der Nutzung der einzelnen Systeme. Wir empfehlen unseren 
 Nutzern, Collmex zu nutzen und können dort sowohl einen Account für Sie einrichten, als auch das gesamte Setup für Sie vornehmen.
 
-Bei Interesse melden Sie sich gern bei uns!
+Hier geht es zur debevet Erweiterungsanleitung:   
+
+[debevet Buchhaltung](https://handbuch.debevet.de/docs/Erweiterungen/devevet_buchhaltung)
+
+Hier geht es zur Collmex Erweiterung:   
+
+[Collmex Buchhaltung](https://handbuch.debevet.de/docs/Erweiterungen/collmex)
+
+
