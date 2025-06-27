@@ -458,7 +458,7 @@ Fahren Sie anschließend mit der Abrechnung wie gewohnt fort. Die Rechnung ist n
 ## Rechnung als bezahlt setzen / Zahlung erfassen
 
 Damit der Rechnungsstatus auf "bezahlt" gesetzt wird, vor allem bei Rechnungen, die überwiesen werden, müssen Sie diesen selbst setzen.  
-Wenn Sie die Buchhaltugnserweiterungen Collmex oder Lexoffice nutzen, können Sie dort Ihr Konto mit HBCI direkt online anbinden und Zahlungen werden
+Wenn Sie die Buchhaltugnserweiterungen Collmex oder lexware nutzen, können Sie dort Ihr Konto mit HBCI direkt online anbinden und Zahlungen werden
 dann nach Abruf der Umsätze automatisch als "bezahlt" gesetzt.
 
 :::caution Achtung  

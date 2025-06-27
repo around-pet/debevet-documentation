@@ -27,8 +27,8 @@ der Kassenbestand weiter korrekt angezeigt wird.
 
 :::caution Achtung!   
 
-Die hier beschriebenen Funktionen funktionieren so in der Form NICHT bei der Nutzung der Lexoffice Buchhaltung. Dort müssen Sie das Kassenbuch komlett 
-im Lexoffice direkt berarbeiten.  
+Die hier beschriebenen Funktionen funktionieren so in der Form NICHT bei der Nutzung der lexware Buchhaltung. Dort müssen Sie das Kassenbuch komlett 
+im lexware direkt berarbeiten.  
 
 ::: 
 
@@ -75,7 +75,7 @@ entsprechend geändert.
 ## Rechnungen bar bezahlen /Kassen Entnahmen (z.B. Post, Tankstelle etc.)  
 
 Wenn Sie beispielsweise etwas Einkaufen, Tanken oder Briefmarken für Ihre Praxis kaufen und diese Entnahmen aus der Kasse entnehmen, 
-müssen diese verbucht werden. Bei Lexoffice und Collmex tragen Sie die Entnahmen direkt im Kassenbuch ein (bei Collmex würde auch der hier beschriebene Weg funktionieren).  
+müssen diese verbucht werden. Bei lexware und Collmex tragen Sie die Entnahmen direkt im Kassenbuch ein (bei Collmex würde auch der hier beschriebene Weg funktionieren).  
 
 Sie müssen zunächst den Lieferanten anlegen (Beispiel "Post", "Edeka" etc.). 
 

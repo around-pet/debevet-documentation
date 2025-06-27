@@ -4,7 +4,7 @@ Wenn Sie auf **Buchhaltung** und dann **Belege** klicken, erhalten Sie eine Aufl
 
 :::caution Achtung  
 
-Sollten Sie die Lexoffice Erweiterung nutzen, steht diese Funktion nicht zur Verfügung, da Lexoffice dafür keine Schnittstelle bietet.  
+Sollten Sie die lexware Erweiterung nutzen, steht diese Funktion nicht zur Verfügung, da lexware dafür keine Schnittstelle bietet.  
 
 :::  
 

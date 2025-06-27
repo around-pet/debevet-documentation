@@ -242,7 +242,7 @@ mit den Platzhaltern rechts ergänzen.
 
 :::caution Achtung!
 
-Anschließend müssen Sie in Ihrer Buchhaltungserweiterung (außer bei Nutzung von Lexoffice) die beiden Zahlungsbedingungen korrekt hinterlegen.  
+Anschließend müssen Sie in Ihrer Buchhaltungserweiterung (außer bei Nutzung von lexware) die beiden Zahlungsbedingungen korrekt hinterlegen.  
 
 :::  
 
@@ -323,12 +323,12 @@ Um Steuersätze zu ändern, klicken Sie im Hauptmenü auf **Administration** und
 
 :::caution Achtung  
 
-**Hinweis für externe Buchhaltungssysteme (Collmex Finanzbuchhaltung, lexoffice)**
+**Hinweis für externe Buchhaltungssysteme (Collmex Finanzbuchhaltung, lexware)**
 
 Die Änderung bestehender Steuersätze kann entscheidende Auswirkungen auf Ihre Buchhaltung haben und dort weitere Schritte notwendig machen. 
 Vor allem wenn Sie eigene Erlöskonten in debevet definiert haben, können weitere Schritte in Ihrer Finanzbuchhaltungssoftware notwendig sein.
 
-Für Fragen hierzu steht Ihnen der jeweilige Anbieter (www.collmex.de / www.lexoffice.de) zur Verfügung.
+Für Fragen hierzu steht Ihnen der jeweilige Anbieter (www.collmex.de / www.lexware.de) zur Verfügung.
 
 Für die interne Buchführung (debevet Buchhaltung) ist keine Änderung notwendig, außer Sie saldieren nach Erlöstyp und Ihr
 Steuerberater wünscht ausdrücklich eine Anpassung der individuell pflegbaren Erlöskonten abweichend von Ihren bisher definierten Erlöskonten.   
