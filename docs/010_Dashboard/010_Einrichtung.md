@@ -40,7 +40,7 @@ Um Ihre Salden im Dashboard anzeigen zu lassen, Sie den Haken bei **Salden** set
 
 :::caution Hinweis  
 
-Bei der Nutzung von lexoffice als Buchhaltungserweiterung steht diese Anzeige auf dem Dashboard leider nicht zur Verfügung.  Sie müssen
+Bei der Nutzung von lexware als Buchhaltungserweiterung steht diese Anzeige auf dem Dashboard leider nicht zur Verfügung.  Sie müssen
 Collmex oder die debevet interne Buchhaltung nutzen, um diese Funktion zu nutzen.   
 
 ::: 

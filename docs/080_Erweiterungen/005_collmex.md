@@ -12,7 +12,7 @@ Alternativ können Sie das Programm auch wie hier beschrieben selbst anbinden/ak
 
 :::danger ACHTUNG!
 
-Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekennzeichnet sind (Collmex, lexoffice, debevet)
+Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekennzeichnet sind (Collmex, lexware, debevet)
 nicht GLEICHZEITIG betrieben werden können, und zu Konflikten miteinander führen können. Ein Wechsel zwischen den Systemen sollte
 kurz mit uns abgesprochen werden, damit wir Ihnen Tipps geben können, worauf Sie achten müssen.
 
@@ -158,7 +158,7 @@ der Kachel 'Collmex Buchhaltung' auf den Button **Anlegen**, um Ihr debevet mit 
 
 :::danger ACHTUNG!
 
-Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekenntzeichnet sind (Collmex, lexoffice, debevet)
+Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekenntzeichnet sind (Collmex, lexware, debevet)
 nicht GLEICHZEITIG betrieben werden können, und zu Konflikten miteinander führen können. Ein Wechsel zwischen den Systemen sollte
 kurz mit uns abgesprochen werden, damit wir Ihnen Tipps geben können, worauf Sie achten müssen.
 

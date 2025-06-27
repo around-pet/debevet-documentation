@@ -185,8 +185,8 @@ entsprechende Erlöskonto gebucht wurden.
 
 :::caution Achtung: 
 
-Die Schnittstelle zu Lexoffice bietet uns leider nicht die Möglichkeit, die Belegbilder im debevet abzubilden. Wenn Sie Lexoffice nutzen, führen Sie den Beleg-Export
-bitte direkt im Lexoffice durch. Bei Fragen dazu wenden Sie sich bitte an den Lexoffice Support.  
+Die Schnittstelle zu lexware bietet uns leider nicht die Möglichkeit, die Belegbilder im debevet abzubilden. Wenn Sie lexware nutzen, führen Sie den Beleg-Export
+bitte direkt im lexware durch. Bei Fragen dazu wenden Sie sich bitte an den lexware Support.  
 
 :::  
 

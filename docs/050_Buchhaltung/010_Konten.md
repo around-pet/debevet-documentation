@@ -30,7 +30,7 @@ im ungünstigsten Fall Ihr gesamter Umsatz zur Berechnung herangezogen werden. A
 damit kostenpflichtig ist über die einzelnen Rechnungen diese Summen herausrechnen, aber debevet kann dies nur bei Einrichtung der 
 Buchhaltungskonten exakt abbilden.
 
-Bei der Nutzung unserer debevet Buchhaltung oder der Nutzung von Collmex kann dies eingerichtet werden. Die Lexoffice Schnittstelle bietet
+Bei der Nutzung unserer debevet Buchhaltung oder der Nutzung von Collmex kann dies eingerichtet werden. Die lexware Schnittstelle bietet
 diese Variante leider nicht an.  
 
 Dabei wird jeweils ein Konto pro Erlösart für den vollen Umsatzsteuersatz und ein Konto für den reduzierten Umsatzsteuersatz angelegt. 

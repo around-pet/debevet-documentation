@@ -2,7 +2,7 @@
 
 :::caution Achtung  
 
-Wenn Sie die Lexoffice Erweiterung nutzen, stehen Ihnen die Auswertungen nicht zur Verfügung, da Lexoffice diese nicht unterstützt in Richtung 
+Wenn Sie die lexware Erweiterung nutzen, stehen Ihnen die Auswertungen nicht zur Verfügung, da lexware diese nicht unterstützt in Richtung 
 debevet. 
 
 :::

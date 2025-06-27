@@ -137,7 +137,7 @@ ausbezahlt werden.
 
 :::   
 
-Anschließend müssen Sie in Ihrer Buchhaltungserweiterung (außer bei Nutzung von Lexoffice) die beiden Zahlungsbedingungen korrekt hinterlegen. 
+Anschließend müssen Sie in Ihrer Buchhaltungserweiterung (außer bei Nutzung von lexware) die beiden Zahlungsbedingungen korrekt hinterlegen. 
 
 Klicken Sie **Administration** und dann **Erweiterungen** und dann an Ihrer genutzten Buchhaltungserweiterung auf **bearbeiten**. 
 

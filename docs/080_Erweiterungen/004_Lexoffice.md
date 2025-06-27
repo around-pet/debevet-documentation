@@ -1,8 +1,8 @@
-# Lexoffice Buchhaltung  
+# lexware Buchhaltung  
 
 :::danger ACHTUNG!
 
-Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekenntzeichnet sind (Collmex, lexoffice, debevet)
+Wir bitten zu beachten, dass die Erweiterungen der Buchhaltung, die mit einem Sternchen gekenntzeichnet sind (Collmex, lexware, debevet)
 nicht GLEICHZEITIG betrieben werden können, und zu Konflikten miteinander führen können. Ein Wechsel zwischen den Systemen sollte
 kurz mit uns abgesprochen werden, damit wir Ihnen Tipps geben können, worauf Sie achten müssen.
 
@@ -14,19 +14,19 @@ Nun wählen Sie an der gewünschten Kachel **Anlegen**.
 
 :::info Zu Beachten:  
 
-Lexoffice bietet mit seiner Schnittstelle KEINE Möglichkeit, tierärztliche Leistungen, angewandte Medikamente und abgegebene Medikamente getrennt
+lexware bietet mit seiner Schnittstelle KEINE Möglichkeit, tierärztliche Leistungen, angewandte Medikamente und abgegebene Medikamente getrennt
 zu kontieren! Bitte sprechen Sie unbedingt mit Ihrem Steuerberater, ob Ihre Gewinne so liegen, dass Sie ansonsten ein Problem mit einer potentiellen Gewerbesteuerpflicht bekommen!   
 
 :::
 
 ![](../../static/img/erweiterungen/buchhaltung_anlegen.png)  
 
-## Lexoffice einrichten  
+## lexware einrichten  
 
-Zunächst muss die Schnittstelle aktiviert und verbunden werden. Die Kosten für lexoffice und die Einrichtung des Accounts muss 
-direkt über lexoffice erfolgen.  
+Zunächst muss die Schnittstelle aktiviert und verbunden werden. Die Kosten für lexware und die Einrichtung des Accounts muss 
+direkt über lexware erfolgen.  
 
-Klicken Sie im debevet (als Administrator angemeldet) auf **Administration** und dann **Erweiterungen**. An der Kachel "lexoffice" 
+Klicken Sie im debevet (als Administrator angemeldet) auf **Administration** und dann **Erweiterungen**. An der Kachel "lexware" 
 klicken Sie auf **Anlegen**.  
 
 ![](../../static/img/erweiterungen/lxo-extension-anlegen.png)  
@@ -37,11 +37,11 @@ Klicken Sie nun auf der sich öffnenden Seite auf den blauen Button **Authentifi
 
 ![](../../static/img/erweiterungen/lxo-authentifizieren.png)  
 
-Das Programm leitet Sie nun zur Anmeldeseite von lexoffice weiter. Dort müssen Sie Ihre lexoffice Zugangsdaten eingeben. 
+Das Programm leitet Sie nun zur Anmeldeseite von lexware weiter. Dort müssen Sie Ihre lexware Zugangsdaten eingeben. 
 
 ![](../../static/img/erweiterungen/lxo-anmelden.png)   
 
-Sie müssen nun debevet den Zugriff auf lexoffice erlauben, indem Sie den grünen Button **Zugriff erlauben** klicken. 
+Sie müssen nun debevet den Zugriff auf lexware erlauben, indem Sie den grünen Button **Zugriff erlauben** klicken. 
 
 ![](../../static/img/erweiterungen/lxo-zugriff-erlauben.png)  
 
@@ -52,18 +52,18 @@ Nun werden Sie automatisch zurück zu debevet geleitet und sehen an dem Zugriffs
 ### Synchronisiseren  
 
 Kreuzen Sie **Belege hochladen an**, wenn Sie wünschen, dass debevet neben dem reinen Buchhaltungssatz ebenfalls das 
-Original-Belegbild im PDF-Format (Kundenrechnung, Lieferantenrechnung, Gutschrift an Kunden und Gutschrift von Lieferanten) an lexoffice überträgt.
+Original-Belegbild im PDF-Format (Kundenrechnung, Lieferantenrechnung, Gutschrift an Kunden und Gutschrift von Lieferanten) an lexware überträgt.
 
 Wenn Sie **Kunden anonymisieren** oder **Lieferantendaten** anonymisieren ankreuzen, sorgt debevet dafür, dass lediglich 
-ein Rückschluss über die Kunden- bzw. Lieferantennummer in lexoffice (Debitor, Kreditor) auf die Personendaten in debevet 
-möglich ist und keine Personendaten aus debevet an lexoffice weitergegeben werden. Andernfalls überträgt debevet Ihre Kunden- bzw. 
-Lieferantendaten (nur der primäre Rechnungsemfänger) an lexoffice und schickt auch künftige Änderungen dieser Daten in debevet 
-an lexoffice (Ein-Weg-Synchronisierung).  
+ein Rückschluss über die Kunden- bzw. Lieferantennummer in lexware (Debitor, Kreditor) auf die Personendaten in debevet 
+möglich ist und keine Personendaten aus debevet an lexware weitergegeben werden. Andernfalls überträgt debevet Ihre Kunden- bzw. 
+Lieferantendaten (nur der primäre Rechnungsemfänger) an lexware und schickt auch künftige Änderungen dieser Daten in debevet 
+an lexware (Ein-Weg-Synchronisierung).  
 
 ![](../../static/img/erweiterungen/lxo-synchronisieren.png)
 
 :::caution Achtung  
-Zusätzliche Liefer- oder Patientenadressen werden aus debevet nicht an lexoffice übertragen.  
+Zusätzliche Liefer- oder Patientenadressen werden aus debevet nicht an lexware übertragen.  
 
 :::
 
@@ -71,7 +71,7 @@ Zusätzliche Liefer- oder Patientenadressen werden aus debevet nicht an lexoffic
 
 Wenn Sie den Haken bei Angewendete Medikamente als Dienstleistung setzen, wird debevet Medikamente und Produkte, 
 die Sie Rahmen Ihrer tierärtzlichen oder sonstigen therapeutischen Tätigkeit verwenden nicht wie Ihre sonstigen Abgaben 
-und Verkäufe als Warenverkäufe in lexoffice buchen, sondern diese Produkte ebenfalls wie Ihre Tätigkeit als Dienstleistung 
+und Verkäufe als Warenverkäufe in lexware buchen, sondern diese Produkte ebenfalls wie Ihre Tätigkeit als Dienstleistung 
 unter der Berücksichtigung des jeweiligen Steuersatzes (19%, 7%) buchen.   
 
 ![](../../static/img/erweiterungen/lxo-kategorie.png)  
@@ -84,7 +84,7 @@ Ihr Freiberufler-Privileg zu verlieren und gewerbesteuerpflichtig zu werden. Bit
 
 :::  
 
-### Zahlungsbedingungen (Lexoffice)
+### Zahlungsbedingungen (lexware)
 
 Legen Sie in dieser Liste für jede von Ihnen in debevet hinterlegte Zahlungsbedingung fest, wie der Status der jeweiligen
 Rechnung in debevet nach erfolgter Buchung ist (Erledigt, Gebucht).
@@ -100,25 +100,25 @@ noch offen sind.
 
 ## Kunden und Lieferanten übertragen   
 
-Sollten Sie lexoffice in debevet erstmalig aktivieren, nachdem Sie bereits Kunden und Lieferanten in debevet erfasst
-haben, so sollten Sie einmal auf den Button **Kunden nach lexoffice** und **Lieferanten nach lexoffice** klicken.
-debevet überträgt dann einmal alle Kunden und Lieferanten nach lexoffice als Debitoren bzw. Kreditoren.
-Bei aktiver Schnittstelle werden Kunden- und Lieferantendaten künftig stets live von debevet nach lexoffice übertragen.
+Sollten Sie lexware in debevet erstmalig aktivieren, nachdem Sie bereits Kunden und Lieferanten in debevet erfasst
+haben, so sollten Sie einmal auf den Button **Kunden nach lexware** und **Lieferanten nach lexware** klicken.
+debevet überträgt dann einmal alle Kunden und Lieferanten nach lexware als Debitoren bzw. Kreditoren.
+Bei aktiver Schnittstelle werden Kunden- und Lieferantendaten künftig stets live von debevet nach lexware übertragen.
 
-Es findet keine Übertragung von Kunden- und Lieferantendaten von lexoffice nach debevet statt, sondern nur von debevet nach lexoffice.
-Des Weiteren wird aus debevet nur die primäre Rechnungsadresse an lexoffice übergeben und keine weiteren Adressen wie bspw. zusätzliche 
+Es findet keine Übertragung von Kunden- und Lieferantendaten von lexware nach debevet statt, sondern nur von debevet nach lexware.
+Des Weiteren wird aus debevet nur die primäre Rechnungsadresse an lexware übergeben und keine weiteren Adressen wie bspw. zusätzliche 
 Liefer- und Patientenstandorte in debevet.   
 
 ![](../../static/img/erweiterungen/debevet-Collmex-Erweiterung-Start-Kunden-Lieferanten.png)
 
-## Kunden und Lieferanten in lexoffice identifizieren   
+## Kunden und Lieferanten in lexware identifizieren   
 
-Da Kunden- und Lieferantennummer in debevet und lexoffice nicht identisch sind, übergibt debevet an lexoffice eine 
+Da Kunden- und Lieferantennummer in debevet und lexware nicht identisch sind, übergibt debevet an lexware eine 
 sog. alternative Email-Adresse nach dem Muster 10004@netzfalken.lxo, wobei 10004 der Kunden- bzw. Lieferantennummer in debevet entspricht.
 
-So könnten Sie in lexoffice Ihre Kunden als auch Lieferanten eindeutig anhand der Kunden- und Lieferantennummer aus debevet identifizieren.  
+So könnten Sie in lexware Ihre Kunden als auch Lieferanten eindeutig anhand der Kunden- und Lieferantennummer aus debevet identifizieren.  
 
-![](../../static/img/erweiterungen/debevet-lexoffice-kreditoren-abgleich.png)   
+![](../../static/img/erweiterungen/debevet-lexware-kreditoren-abgleich.png)   
 
 ![](../../static/img/erweiterungen/kundenmapping.png)  
 
@@ -129,13 +129,13 @@ Rechnungen und Gutschriften können entweder einzeln oder gesammelt gebucht werd
 ## Kundenrechnung einzeln buchen  
 
 Von der Bearbeitungs- und Voransichtsseite einer Rechnung steht Ihnen oben rechts mit dem Button **Erweitert** die Funktion
-**Rechnung Buchen** zur Verfügung. Klicken Sie auf **Rechnung Buchen**, so wird der Original-Beleg (PDF) inkl. Buchungssatz sofort nach lexoffice übertragen.  
+**Rechnung Buchen** zur Verfügung. Klicken Sie auf **Rechnung Buchen**, so wird der Original-Beleg (PDF) inkl. Buchungssatz sofort nach lexware übertragen.  
 
 ![](../../static/img/erweiterungen/debevet-rechnung-einzeln-buchen.png)  
 
-Im Lexoffice kann der Beleg dann direkt einem Kontoumsatz zugeordnet werden bzw. oftmals passiert dies voll automatisch.  
+Im lexware kann der Beleg dann direkt einem Kontoumsatz zugeordnet werden bzw. oftmals passiert dies voll automatisch.  
 
-![](../../static/img/erweiterungen/debevet-lexoffice-einnahme-rechnung-einzeln.png)
+![](../../static/img/erweiterungen/debevet-lexware-einnahme-rechnung-einzeln.png)
 
 ## Individuell gefilterte Rechnungsliste buchen  
 
@@ -149,21 +149,21 @@ Der erfolgreiche Abschluss wird dort signalisiert. Während des Prozesses könne
 
 ![](../../static/img/erweiterungen/debevet-rechnung-aus-liste-buchen.png)  
 
-In Lexoffice können Sie die Rechnungen dann den Zahlungen zuordnen, bzw. im Normalfall wird dies sogar automatisch erledigt.  
+In lexware können Sie die Rechnungen dann den Zahlungen zuordnen, bzw. im Normalfall wird dies sogar automatisch erledigt.  
 
-![](../../static/img/erweiterungen/debevet-lexoffice-gebuchte-einnahmenrechnung.png)
+![](../../static/img/erweiterungen/debevet-lexware-gebuchte-einnahmenrechnung.png)
   
 ## Lieferantenrechnung buchen
 
 Von der Bearbeitungs- und Voransichtsseite einer Lieferantenrechnung steht Ihnen oben rechts mit dem Button **Erweitert** 
 die Funktion **Buchen** zur Verfügung.   
-Klicken Sie auf Buchen so wird der Orignal-Beleg (PDF) inkl. Buchungssatz sofort nach lexoffice übertragen.  
+Klicken Sie auf Buchen so wird der Orignal-Beleg (PDF) inkl. Buchungssatz sofort nach lexware übertragen.  
 
 ![](../../static/img/erweiterungen/debevet-lieferantenrechnung-buchen.png)  
 
-Den Beleg können sie dann im Lexoffice direkt sehen und zuordnen (bzw. dieser wird der Zahlung meist automatisch zugeordnet)  
+Den Beleg können sie dann im lexware direkt sehen und zuordnen (bzw. dieser wird der Zahlung meist automatisch zugeordnet)  
 
-![](../../static/img/erweiterungen/debevet-lexoffice-lieferanten-rechnung-einzeln.png)  
+![](../../static/img/erweiterungen/debevet-lexware-lieferanten-rechnung-einzeln.png)  
 
 ## Ausgewählte Liste von Lieferantenrechnungen buchen   
 
@@ -176,41 +176,41 @@ Der erfolgreiche Abschluss wird dort signalisiert. Während des Prozesses könne
 
 ![](../../static/img/erweiterungen/debevet-lieferantenrechnung-aus-liste-buchen.png)  
 
-Im Lexoffice sind diese Rechnungen dann als Ausgaben zu finden.  
+Im lexware sind diese Rechnungen dann als Ausgaben zu finden.  
 
-![](../../static/img/erweiterungen/debevet-lexoffice-liste-gebuchter-lieferantenrechnungen.png) 
+![](../../static/img/erweiterungen/debevet-lexware-liste-gebuchter-lieferantenrechnungen.png) 
 
 ## Kunden- und Lieferantengutschriften buchen    
 
 Gutschriften an Ihre Kunden und von Ihren Lieferanten buchen Sie analog zum zuvor dargestellten Vorgehen für
-Kunden- und Lieferantenrechnungen aus debevet heraus an lexoffice. Dabei werden Kundengutschriften in lexoffice als 
+Kunden- und Lieferantenrechnungen aus debevet heraus an lexware. Dabei werden Kundengutschriften in lexware als 
 **Einnahmeminderung** und Gutschriften Ihrer Lieferanten als **Ausgabenminderung** verbucht.  
 
-![](../../static/img/erweiterungen/debevet-lexoffice-gutschrift-buchen.png)
+![](../../static/img/erweiterungen/debevet-lexware-gutschrift-buchen.png)
 
 ## Rechnungen und Gutschriften stornieren   
 
 Analog zum Vorgehen beim Buchen, steht Ihnen bei Rechnungen (Lieferanten und Kunden), die erfolgreich gebucht wurden, die Funktion **Stornieren**
 zur Verfügung. 
 
-![](../../static/img/erweiterungen/debevet-lexoffice-stornieren.png)  
+![](../../static/img/erweiterungen/debevet-lexware-stornieren.png)  
 
 :::caution Hinweis 
 
 Wenn Sie eine Kunden- oder Lieferantenrechnung oder Gutschrift in debevet stornieren, so führt dies aktuell zu keiner 
-Stornierung in lexoffice. Bitte beachten Sie, dass Sie die gebuchten Belege in lexoffice ebenfalls manuell stornieren müssen.  
+Stornierung in lexware. Bitte beachten Sie, dass Sie die gebuchten Belege in lexware ebenfalls manuell stornieren müssen.  
 
 ::: 
 
 ## Zahlungseingänge und Zahlungsausgänge   
 
-Zahlungseingänge können Sie entweder manuell erfassen, oder aber sehr bequem Ihr Onlinebanking im Lexoffice aktivieren. 
+Zahlungseingänge können Sie entweder manuell erfassen, oder aber sehr bequem Ihr Onlinebanking im lexware aktivieren. 
 
 
 :::tip Tipp
 
-Für detaillierte Hilfe und Anleitung zur Erfassung von Zahlungsein- und Ausgängen fragen Sie bei lexoffice nach. 
-lexoffice bietet eine hervorragende Online-Hilfe als auch Support über Email-Anfragen.   
+Für detaillierte Hilfe und Anleitung zur Erfassung von Zahlungsein- und Ausgängen fragen Sie bei lexware nach. 
+lexware bietet eine hervorragende Online-Hilfe als auch Support über Email-Anfragen.   
 
 :::
 
@@ -237,23 +237,23 @@ Klicken Sie nun "Zahlungsstatus aktualisieren". Die Zahlungen werden abgeglichen
 
 ::tip Tipp:  
 Eine Rechnung wurde bezahlt aber nicht automatisch im Onlinebankung zugeordnet, weil der Kunde ohne "Zusammenhang" überwiesen hat? In diesem Fall
-müssen Sie in Lexoffice zunächst die Rechnung manuell der Zahlung zuordnen.
+müssen Sie in lexware zunächst die Rechnung manuell der Zahlung zuordnen.
 
 :::
 
 ## Offene Posten und Mahnungen  
 
-lexoffice bietet Ihnen zahlreiche Live-Auswertungen z.B. der offenen Posten (Lieferanten, Kunden) als auch über Ihren 
+lexware bietet Ihnen zahlreiche Live-Auswertungen z.B. der offenen Posten (Lieferanten, Kunden) als auch über Ihren 
 betriebswirtschaftlichen Status (EÜR, Bilanz, Gewinn- und Verlustrechnung, Saldenliste etc.).
 
-Ebenso bietet Ihnen lexoffice ein Mahnsystem, sollten Ihre Kunden ihre debevet-Rechnungen einmal vergessen zu zahlen.  
+Ebenso bietet Ihnen lexware ein Mahnsystem, sollten Ihre Kunden ihre debevet-Rechnungen einmal vergessen zu zahlen.  
 Auch hier hilft die Online-Hilfe als auch der Support des Anbieters weiter. 
 
 :::caution: Achtung!
 
-Die Lexoffice Schnittstelle bietet nicht die Tiefe, in der die Belege komplett als offene Belege in Lexoffice auflaufen. Mahnungen können
-deshalb nie direkt erstellt werden. Leider muss im Lexoffice zuerst manuell ein Beleg erstellt werden, der dieser Summe entspricht und dann
-dort abgemahnt werden kann. Wir empfehlen also bei Lexoffice Nutzung das Mahnsystem von debevet zu nutzen.
+Die lexware Schnittstelle bietet nicht die Tiefe, in der die Belege komplett als offene Belege in lexware auflaufen. Mahnungen können
+deshalb nie direkt erstellt werden. Leider muss im lexware zuerst manuell ein Beleg erstellt werden, der dieser Summe entspricht und dann
+dort abgemahnt werden kann. Wir empfehlen also bei lexware Nutzung das Mahnsystem von debevet zu nutzen.
 
 ::: 
 
@@ -261,24 +261,24 @@ dort abgemahnt werden kann. Wir empfehlen also bei Lexoffice Nutzung das Mahnsys
 
 ## Token aktualisieren/ erneut authentifizieren
 
-Teilweise kann es dazu kommen, dass im laufenden Praxisbetrieb Ihre Rechnungen bei Nutzung der Schnittstelle zu Lexoffice nicht buchen können. Dies liegt zu 99% daran, dass
+Teilweise kann es dazu kommen, dass im laufenden Praxisbetrieb Ihre Rechnungen bei Nutzung der Schnittstelle zu lexware nicht buchen können. Dies liegt zu 99% daran, dass
 der Authentifierungs-Token abgelaufen ist.
 Um diesen erneut zu aktualisieren, gehen Sie wie folgt vor:
 
-Klicken Sie im debevet (als Administrator angemeldet) auf **Administration** und dann **Erweiterungen**. An der Kachel "lexoffice"
+Klicken Sie im debevet (als Administrator angemeldet) auf **Administration** und dann **Erweiterungen**. An der Kachel "lexware"
 klicken Sie auf **Bearbeiten**.
 
-![](../../static/img/erweiterungen/lexoffice_bearbeiten.png)
+![](../../static/img/erweiterungen/lexware_bearbeiten.png)
 
 Klicken Sie nun auf der sich öffnenden Seite auf den blauen Button **Authentifizieren**.
 
 ![](../../static/img/erweiterungen/lxo-authentifizieren.png)
 
-Das Programm leitet Sie nun zur Anmeldeseite von lexoffice weiter. Dort müssen Sie Ihre lexoffice Zugangsdaten eingeben.
+Das Programm leitet Sie nun zur Anmeldeseite von lexware weiter. Dort müssen Sie Ihre lexware Zugangsdaten eingeben.
 
 ![](../../static/img/erweiterungen/lxo-anmelden.png)
 
-Sie müssen nun debevet den Zugriff auf lexoffice erlauben, indem Sie den grünen Button **Zugriff erlauben** klicken.
+Sie müssen nun debevet den Zugriff auf lexware erlauben, indem Sie den grünen Button **Zugriff erlauben** klicken.
 
 ![](../../static/img/erweiterungen/lxo-zugriff-erlauben.png)
 
