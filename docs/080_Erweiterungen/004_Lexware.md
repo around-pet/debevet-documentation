@@ -1,4 +1,4 @@
-# lexware Buchhaltung  
+# Lexware Buchhaltung  
 
 :::danger ACHTUNG!
 
@@ -118,7 +118,7 @@ sog. alternative Email-Adresse nach dem Muster 10004@netzfalken.lxo, wobei 10004
 
 So könnten Sie in lexware Ihre Kunden als auch Lieferanten eindeutig anhand der Kunden- und Lieferantennummer aus debevet identifizieren.  
 
-![](../../static/img/erweiterungen/debevet-lexware-kreditoren-abgleich.png)   
+![](../../static/img/erweiterungen/debevet-lexoffice-kreditoren-abgleich.png)   
 
 ![](../../static/img/erweiterungen/kundenmapping.png)  
 
@@ -135,7 +135,7 @@ Von der Bearbeitungs- und Voransichtsseite einer Rechnung steht Ihnen oben recht
 
 Im lexware kann der Beleg dann direkt einem Kontoumsatz zugeordnet werden bzw. oftmals passiert dies voll automatisch.  
 
-![](../../static/img/erweiterungen/debevet-lexware-einnahme-rechnung-einzeln.png)
+![](../../static/img/erweiterungen/debevet-lexoffice-einnahme-rechnung-einzeln.png)
 
 ## Individuell gefilterte Rechnungsliste buchen  
 
@@ -151,7 +151,7 @@ Der erfolgreiche Abschluss wird dort signalisiert. Während des Prozesses könne
 
 In lexware können Sie die Rechnungen dann den Zahlungen zuordnen, bzw. im Normalfall wird dies sogar automatisch erledigt.  
 
-![](../../static/img/erweiterungen/debevet-lexware-gebuchte-einnahmenrechnung.png)
+![](../../static/img/erweiterungen/debevet-lexoffice-gebuchte-einnahmenrechnung.png)
   
 ## Lieferantenrechnung buchen
 
@@ -163,7 +163,7 @@ Klicken Sie auf Buchen so wird der Orignal-Beleg (PDF) inkl. Buchungssatz sofort
 
 Den Beleg können sie dann im lexware direkt sehen und zuordnen (bzw. dieser wird der Zahlung meist automatisch zugeordnet)  
 
-![](../../static/img/erweiterungen/debevet-lexware-lieferanten-rechnung-einzeln.png)  
+![](../../static/img/erweiterungen/debevet-lexoffice-lieferanten-rechnung-einzeln.png)  
 
 ## Ausgewählte Liste von Lieferantenrechnungen buchen   
 
@@ -178,7 +178,7 @@ Der erfolgreiche Abschluss wird dort signalisiert. Während des Prozesses könne
 
 Im lexware sind diese Rechnungen dann als Ausgaben zu finden.  
 
-![](../../static/img/erweiterungen/debevet-lexware-liste-gebuchter-lieferantenrechnungen.png) 
+![](../../static/img/erweiterungen/debevet-lexoffice-liste-gebuchter-lieferantenrechnungen.png) 
 
 ## Kunden- und Lieferantengutschriften buchen    
 
@@ -186,14 +186,14 @@ Gutschriften an Ihre Kunden und von Ihren Lieferanten buchen Sie analog zum zuvo
 Kunden- und Lieferantenrechnungen aus debevet heraus an lexware. Dabei werden Kundengutschriften in lexware als 
 **Einnahmeminderung** und Gutschriften Ihrer Lieferanten als **Ausgabenminderung** verbucht.  
 
-![](../../static/img/erweiterungen/debevet-lexware-gutschrift-buchen.png)
+![](../../static/img/erweiterungen/debevet-lexoffice-gutschrift-buchen.png)
 
 ## Rechnungen und Gutschriften stornieren   
 
 Analog zum Vorgehen beim Buchen, steht Ihnen bei Rechnungen (Lieferanten und Kunden), die erfolgreich gebucht wurden, die Funktion **Stornieren**
 zur Verfügung. 
 
-![](../../static/img/erweiterungen/debevet-lexware-stornieren.png)  
+![](../../static/img/erweiterungen/debevet-lexoffice-stornieren.png)  
 
 :::caution Hinweis 
 
@@ -268,7 +268,7 @@ Um diesen erneut zu aktualisieren, gehen Sie wie folgt vor:
 Klicken Sie im debevet (als Administrator angemeldet) auf **Administration** und dann **Erweiterungen**. An der Kachel "lexware"
 klicken Sie auf **Bearbeiten**.
 
-![](../../static/img/erweiterungen/lexware_bearbeiten.png)
+![](../../static/img/erweiterungen/lexoffice_bearbeiten.png)
 
 Klicken Sie nun auf der sich öffnenden Seite auf den blauen Button **Authentifizieren**.
 

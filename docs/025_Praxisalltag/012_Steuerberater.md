@@ -13,9 +13,9 @@ werden, aber es ist kein gesetzeskonformes eigenes Kassenbuch.
 
 ## Hat debevet eine TSE Schnittstelle?   
 
-Diese ist aktuell in Arbeit (Stand März 2025) und hoffentlich binnen der nächsten 2 Monate verfügbar. Wir aktualisieren diese Seite,
-sobald wir die Schnittstelle aktiv nehmen. 
-  
+Seit Ende Juli 2025 bietet debevet eine TSE Schnittstelle an. Diese kann für 15,00 Euro im Monat zugebucht werden und bietet eine gesetzesfornforme Lösung.  
+
+
 ## Was muss eingestellt werden?   
 
 Wenn Sie unseren Einrichtungsassistenten nutzen, wir normalerweise zunächst die einfachste Einstellung der internen Buchhaltung 

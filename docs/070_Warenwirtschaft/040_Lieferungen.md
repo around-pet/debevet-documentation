@@ -116,7 +116,15 @@ Klicken Sie in der sich nun öffenenden Seite auf das **Wolken-Symbol** und lade
 Sie können noch weitere Informationen eingeben, wenn Sie dies wünschen.
 Klicken Sie anschließend auf **Speichern**.  
 
-![](../../static/img/Warenwirtschaft/lieferantenrechnung_direkt_hinterlegen.png)  
+![](../../static/img/Warenwirtschaft/lieferantenrechnung_direkt_hinterlegen.png)     
+
+:::caution Achtung!   
+
+Bitte achten Sie darauf, dass Sie das jeweils korrekte Buchhaltungskonto wählen, wenn Sie 7% und 19% Lieferungen "mischen".   
+
+:::   
+
+
 
 ## Lieferung in Warenbestand überführen
 
