@@ -1,6 +1,10 @@
 # Kundenverwaltung in debevet
 
-Hier können Sie Kunden suchen, anlegen, ändern oder auch löschen. Ferner gelangen Sie über die Bearbeitungsseite eines Kunden, zu Informationen und Daten die zum jeweils ausgewählten Kunden in Beziehung stehen, wie z.B. Patienten, Rechnungen, Termine und vieles mehr.
+Kunden nennen wir in debevet die Patientenbesitzer, also die Besitzer der Tiere.  
+
+Hier können Sie Kunden suchen, anlegen, ändern oder auch löschen. Ferner gelangen Sie über die Bearbeitungsseite eines Kunden,
+zu Informationen und Daten die zum jeweils ausgewählten Kunden in Beziehung stehen, wie z.B. Patienten, Rechnungen, Termine und vieles mehr.
+
 
 ## Neue Kunden anlegen
 

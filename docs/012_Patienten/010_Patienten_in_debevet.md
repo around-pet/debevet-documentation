@@ -1,4 +1,6 @@
 # Patientenverwaltung in debevet
+Patienten nennen wir im debevet die Tiere, während die Patientenbesitzer "Kunden" heißen. Damit Sie ein Tier anlegen
+können, muss immer zuerst ein Kunde, also ein Besitzer angelegt werden.  (dies kann aber auch im Prozess über den ersten beschriebenen Weg erfolgen)
 
 Um zu Ihrer Patientenübersicht zu gelangen, klicken Sie links auf das **Personensymbol** (Praxis) und dann auf **Patienten**.  
 
@@ -7,13 +9,26 @@ Um zu Ihrer Patientenübersicht zu gelangen, klicken Sie links auf das **Persone
 Hier können Sie Patienten suchen, anlegen, ändern oder löschen. Außerdem gelangen Sie über die Bearbeitungsseite eines Patienten zu
 Informationen und Daten, die zum jeweils ausgewählten Patienten in Beziehung stehen, wie z. B. Gewicht oder andere Dokumente.  
 
-## Neuen Patienten anlegen 
+## Neuen Patienten anlegen   
+Um einen neuen Patienten anzulegen, gibt es verschiedene Wege:   
+1. Über die Patientenübersicht  
+2. Über die Ansicht des einzelnen Kunden/Besitzers  
+3. Über die Behandlungansansicht
 
-Um in Ihrer Patientenliste einen neuen Patienten anzulegen, wählen Sie zunächst mit der Dropdownliste die Tierart aus und  klicken Sie nun rechts oben auf das **Plussymbol**. 
+**Weg 1: aus der Patientenliste**   
+
+Um in Ihrer Patientenliste/-übersicht einen neuen Patienten anzulegen, wählen Sie zunächst mit der Dropdownliste die Tierart aus:   
+
+![](../../static/img/Patienten/patiententierartauswahl.png)
+![](../../static/img/Patienten/patiententierartauswahl2.png)
+
+und  klicken Sie nun rechts oben auf das **Plussymbol**.   
+
+ ![](../../static/img/Patienten/heimtierneuanlegen.png)
+
+
 Nun gelangen Sie zur Maske zur Eingabe 
-eines neuen Patienten.  
-
-![](../../static/img/Patienten/patienten_anlegen_1.png)
+eines neuen Patienten.
 
 Bei **Kontakt** wählen Sie den Besitzer des Patienten. Hierzu wählen Sie entweder einen bereits vorhandenen Kunden, oder legen diesen 
 über das **Plussymbol** direkt an.   
@@ -24,8 +39,23 @@ Geben Sie anschließend alle Daten zum Patienten ein und klicken Sie dann oben r
 
 ![](../../static/img/Patienten/patient_anlegen2.png)       
 
-**Alternativer Weg:** Sie können auch zunächst einen Kunden anlegen (Siehe Sektion Kunden), um erst die Besitzerdaten anzulegen.
-KLicken Sie dann auf den orangenen Button **Behandeln**.
+**Weg 2:**  
+Sie können auch zunächst einen Kunden anlegen (Siehe Sektion Kunden), um erst die Besitzerdaten anzulegen. Öffnen Sie dann diesen Kunden aus der Kundenliste 
+und klicken dann auf den Reiter "Patienten".   
+
+![](../../static/img/Patienten/neuanlegen5.png)   
+
+Hier können Sie nun auf dieselbe Art zunächst aus der Dropdownliste die Tierart wählen und dann das grüne Plus klicken, um ein neues 
+Tier anzulegen.   
+
+![](../../static/img/Patienten/neuanlegen6.png)   
+
+Die Maske leitet Sie durch die Punkte, die für die jeweilige Tierart als Felder zur Verfügung stehen.  
+
+**Weg 3: In der Behandlung:**   
+
+Öffnen Sie den Kunden, der ein neues Tier bekommen hat und 
+kLicken Sie dann auf den orangenen Button **Behandeln**.
 
 ![](../../static/img/Patienten/patient_anlegen_alternativ1.png)  
 
@@ -37,7 +67,7 @@ Es öffnet sich eine Eingabemaske, in der Sie Schritt für Schritt die Daten ein
 
 ![](../../static/img/Patienten/patient_anlegen_alternativ3.png)    
 
-::info Videotipp  
+:::info Videotipp  
 
 Hier finden Sie ein Video zu diesem Thema 
 
