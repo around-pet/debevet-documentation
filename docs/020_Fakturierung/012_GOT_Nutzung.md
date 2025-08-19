@@ -17,16 +17,11 @@ Dieser wird an allen Posten genutzt, solange Sie keinen abweichenden Faktor hint
 
 :::
 
-## Neue GOT 2022 importieren
+## GOT Katalog und Posten importieren
 
-:::caution  ACHTUNG!
 
-Die alte GOT wird nicht automatisch gelöscht, wenn Sie die neue importieren! Wann Sie die alte GOT löschen bleibt Ihre Entscheidung, auch dies
-muss proaktiv durch Sie selbst erfolgen. In welchem zeitlichen Abstand Sie das erledigen, ist Ihnen selbst überlassen!  
 
-:::  
-
-Um die neuen GOT zu importieren, klicken Sie auf **Warenwirtschaft** und dann **Kataloge**. 
+Um die GOT zu importieren, klicken Sie auf **Warenwirtschaft** und dann **Kataloge**. 
 
 Dort klicken Sie bei GOT 2022 auf den Pfeil. 
 
@@ -140,45 +135,6 @@ finden Sie unter Layouts.
 
 :::
 
-## Alte GOT löschen
-
-Wenn Sie die alte GOT komplett von Ihrem System löschen wollen, finden Sie hier eine schrittweise Anleitung und ein Video. 
-
-Klicken Sie auf **Praxis** und dann **Produkte**.  
-
-![](../../static/img/Rechnungen/got_loeschen1.png)  
-
-Klicken Sie nun auf den **Dropdownpfeil** neben dem Suchenfenster, um die erweiterte Suche/Filter zu nutzen.  Dort klicken Sie dann
-auf die Auswahl **Katalog** und anschleißend auf das **Lupensymbol**.
-
-![](../../static/img/Rechnungen/got_loeschen2.png)  
-
-Nun klicken Sie die Auswahl **GOT** (NICHT GOT 2022!)  
-
-![](../../static/img/Rechnungen/got_loeschen3.png)
-
-:::caution Hinweis: 
-
-Scrollen Sie nun zunächst immer weiter nach unten, dann werden immer wieder Positionen geladen. Scollen Sie so weit nach unten, bis
-alles geladen ist. Scrollen Sie anschließend wieder nach oben!  
-
-::: 
-
-Klicken Sie nun oben auf das kleine Häkchen, um alle Positionen zu markieren. Klicken Sie anschließend auf das **Mülleimer-Symbol** oben rechts. Bestätigen Sie 
-den Löschvorgang.
-
-![](../../static/img/Rechnungen/got_loeschen4.png)
-
-Nun ist die alte GOT komplett von Ihrem System gelöscht.
-
-:::info Videotipp: Alte GOT löschen
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G3t7yuY1Dps" title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-:::
-
-Aktuell können Sie die neuen und alten Posten anhand der Buchstaben "GOT" voneinander unterscheiden. Die Posten mit **GOT** davor sind die neuen GOT Posten.
-
-![](../../static/img/Admin/neu_alte_GOT.png)
 
 ## Zeitfaktor in der GOT    
 
@@ -195,17 +151,12 @@ Um dies zu nutzen, erstellen Sie unter **Produkte** eine neue Dienstleistung und
 
 ![](../../static/img/Rechnungen/zeitaufwand_got.png)
 
-## Vorlagen in der Übergangszeit erstellen 
+## Verbrauchsmaterialien anlegen   
 
-Sie möchten Ihre Vorlagen schon mit der neuen GOT erstellen, aber die alten Vorlagen noch nutzen? Kein Problem! Gehen Sie wie folgt vor:  
+Verbrauchsmaterialien müssen laut GOT im Rahmen von Paragraph 7 selbst angelegt werden. Wir empfehlen, diese als Produkt oder evtl. 
+sogar "sonstiges" unter "Produkte" anzulegen. 
 
-1. Neue GOT importieren und alte noch bestehen lassen
-2. Erstellen Sie eine Vorlage, die Sie genauso benennen wie die alte, nur mit dem Wort "NEU" dahinter
-3. Fügen Sie die gewünschten neuen GOT Posten ein, achten Sie dabei darauf, dass Sie neue Posten am GOT-Präfix erkennen
-4. Nutzen Sie ab dem 22.11. die neuen Vorlagen
-5. Löschen Sie am dem 22.11. die alten Vorlagen
 
-Wenn Sie möchten, entfernen Sie dann noch das Wort "NEU" aus der neuen Vorlage, sobald die alte gelöscht ist.
 
 
 
