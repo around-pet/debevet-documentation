@@ -82,25 +82,30 @@ Wenn Sie die Erlöse nach Typ zusammenfassen, sollten sie unbedingt ein Rundungs
 Ihren Steuerberater, welches dieses sein soll. Dort werden evtl. bei den getrennten Buchungen entstehende cent-Differenzen verbucht.
 
 
-## Salden, Privateinlagen, Privatentnahmen
+## Saldenvorträge (z.B. Jahreswechsel)
 
-Um in der debevet Buchhaltung Privatentnahmen oder Privateinlagen einzugeben, klicken Sie auf **Buchhaltung** und dann **Belege**. 
+Um in der debevet Buchhaltung Saldenvorträge einzugeben, klicken Sie auf **Buchhaltung** und dann **Belege**. 
 
 Dort sehen Sie oben rechts **Vorlagen**  
 
 ![](../../static/img/dashboard/salden_2.png)  
 
-Wenn Sie dort klicken, öffnet sich eine Maske, in der Sie aus verschiedenen Optionen wählen können. 
+Wenn Sie dort klicken, öffnet sich eine Maske, in der Sie aus verschiedenen Optionen wählen können. Klicken Sie dazu auf den 
+Dropdown-Pfeil.
 
-* Kontoeröffnung  
-* Saldenvortrag  
-* Privateinlage  
-* Privatentnahme  
+![](../../static/img/Buchhaltung/belegbuchungsvorlagen.png)   
 
-![](../../static/img/dashboard/salden_3.png)  
+![](../../static/img/Buchhaltung/saldenvortrag5.png)
 
 Bei Jahreswechsel können Sie hier beispielsweise die Saldenvorträge eintragen, die Ihnen auf dem Dashboard angezeigt werden sollen. 
 Bei Kontoeröffnung können Sie beim Start der Nutzung dann Einträge hinterlegen, damit diese korrekt angezeigt werden.
 
-![](../../static/img/dashboard/salden_4.png)
+Tragen Sie die Summe und das gewünschte Buchhaltungskonto ein und klicken Sie anschließend auf "buchen".
 
+:::tip Hinweis:  
+
+Kassenentnahmen und Differenzen empfehlen wir, unter den Lieferantenrechnungen zu buchen. Lesen Sie hier mehr dazu:   
+
+[Kassenbuchungen](https://handbuch.debevet.de/docs/Buchhaltung/Kasse#verschiedene-buchungen-aus-der-kasse)   
+
+:::
