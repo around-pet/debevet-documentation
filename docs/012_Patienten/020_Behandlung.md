@@ -246,9 +246,9 @@ Behandlungsliste wieder ungefiltert angezeigt zu bekommen.
 
 ![](../../static/img/Patienten/behandlung_suchenfilter_zurueck.png)  
 
-## Behandlung /Einträge verschieben 
+## Befunde/ Einträge verschieben /rückdatieren
 
-Evtl. fällt Ihnen auf, dass Sie einen Eintrag vergessen haben oder noch etwas zu einem Tag in der Vergangenheit nachtragen wollen.
+Evtl. fällt Ihnen auf, dass Sie eine Befunddokumentation vergessen haben oder noch etwas zu einem Tag in der Vergangenheit nachtragen wollen.
 Um dies zu ermöglichen, können Sie alle Einträge und Behandlungen verschieben. 
 Um einen Eintrag zu ergänzen, den Sie verschieben wollen, schreiben Sie diesen und sichern ihn mit Klick auf das **Plus Symbol**. 
 
@@ -271,14 +271,15 @@ Nun taucht Ihr Eintrag an dem gewünschten Tag auf.
 
 :::tip Tipp  
 
-An den Einträgen hinzugefügte Leistungen/Medikamente werden mit verschoben, so dass Sie gesamte Behandlungen verschieben können.  
-
+Hierbe wird NUR der Befundungstext verschoben. Um auch Leistungen und andere abgerechnete Posten zurückzudatieren, führen Sie 
+den nächsten Schritt durch. 
 :::  
 
-## Behandlungsdatum ändern
+## Behandlungsdatum ändern / rückdatieren
 
-Alternativ können Sie auch die Checkboxen der gewünschten Posten aktivieren und dann oben auf das **Kalendersymbol** klicken. Dort 
-wählen Sie dann das gewünschte Datum und bestätigen dieses mit Klick auf den **grünen Haken**.  
+Um Abrechnungeposten zurückzudatieren, tragen Sie diese zunächst am aktuellen Tag ein. Aktivieren Sie nun 
+die Checkboxen der gewünschten Posten und clicken dann oben auf das **Kalendersymbol**. 
+Dort wählen Sie dann das gewünschte Datum und bestätigen dieses mit Klick auf den **grünen Haken**.  
 
 ![](../../static/img/Patienten/datum_aendern.png)
 
