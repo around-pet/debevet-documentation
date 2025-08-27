@@ -75,6 +75,19 @@ Klicken Sie nun das **grüne Plus-Symbol** und geben dann den Namen ein und klic
 Nun müssen Sie diese "Lieferantenrechnung" nur noch buchen. Klicken Sie auf **Erweitert** und dann **Lieferantenrechnung buchen**. Nun ist Ihr Kassenbestand 
 entsprechend geändert. 
 
-![](../../static/img/Buchhaltung/bareinzahlung5.png)
+![](../../static/img/Buchhaltung/bareinzahlung5.png)  
 
+## Kassenstart / Anfangsbestand   
+Wenn Sie zu unserer Software wechseln, haben Sie vermutlich keinen Kassenbestand von Null Euro am Beginn des ersten Arbeitstages 
+mit debevet.   
 
+Um den korrekten Startbestand am Tag 1 einzugeben, gehen Sie bitte wie folgt vor:   
+
+1. Klicken Sie "Buchhaltung" und dort "Belege" und dann oben rechts "Vorlagen"
+
+![](../../static/img/Buchhaltung/anfangsbestand1.png)  
+
+2. Nun können Sie im sich öffnenden Fenster bei den Vorlagen "Anfangsbestand" wählen. Tragen Sie die gewünschte Summe ein und klicken
+ "buchen". Der Kassenbestand ist nun hinterlegt und Sie können damit arbeiten.   
+
+![](../../static/img/Buchhaltung/anfangsbestand2.png)
