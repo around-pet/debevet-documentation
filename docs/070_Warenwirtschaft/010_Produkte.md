@@ -195,6 +195,26 @@ Dabei müssen folgende Felder gesetzt werden:
 
 ![](../../static/img/Warenwirtschaft/anwendungshinweise.png)  
 
+### Wirkstoffe   
+
+Falls Sie die Barsoi plus nutzen oder Vitrapet, werden die Wirkstoffe an den Produkten automatisch hinterlegt und auf Verschreibungen
+auch dargestellt.  
+Sollten sie diese nicht nutzen, müssen Sie die Wirkstoffe manuell an den von Ihnen genutzten Produkten hinterlegen. Öffnen Sie zunächst  
+die Liste der Wirkstoffe und klicken Sie dann oben rechts das grüne Plussymbol, um einen neuen Wirkstoff hinzuzufügen.   
+
+
+![](../../static/img/Warenwirtschaft/wirkstoffe2.png)   
+
+Geben Sie den neuen Wirkstoff nun ein und klicken "Speichern". (oben rechts)
+
+Öffnen Sie  nun das gewünschte Produkt aus der Produktliste. Klicken sie nun den Reiter "Wirkstoffe".   
+
+![](../../static/img/Warenwirtschaft/wirkstoffe1.png)   
+
+Wenn sie in das Feld unten nun den Wirkstoffnamen beginnen einzutippen, schlägt das Programm direkt den Treffer vor.  
+Dann können Sie die Konzentration und EInheit hinzufügen und speichern.  
+
+![](../../static/img/Warenwirtschaft/wirkstoffe3.png)
 
 ### Verbot für lebensmittelliefernd  
 

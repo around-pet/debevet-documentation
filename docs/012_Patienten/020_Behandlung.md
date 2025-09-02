@@ -277,7 +277,7 @@ den nächsten Schritt durch.
 
 ## Behandlungsdatum ändern / rückdatieren
 
-Um Abrechnungeposten zurückzudatieren, tragen Sie diese zunächst am aktuellen Tag ein. Aktivieren Sie nun 
+Um Abrechnungsposten zurückzudatieren, tragen Sie diese zunächst am aktuellen Tag ein. Aktivieren Sie nun 
 die Checkboxen der gewünschten Posten und clicken dann oben auf das **Kalendersymbol**. 
 Dort wählen Sie dann das gewünschte Datum und bestätigen dieses mit Klick auf den **grünen Haken**.  
 
