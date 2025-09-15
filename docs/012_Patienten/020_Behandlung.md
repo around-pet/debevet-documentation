@@ -88,7 +88,40 @@ Aus der Liste Ihrer Produkte werden dann direkt die entsprechenden Posten (Vorsc
 
 ![](../../static/img/Patienten/behandlung_medis1.png)  
 
-Dabei können Sie Dienstleistungen, Medikamente oder alles Weitere aus Ihren angelegten/importieren Produkten nutzen. 
+Dabei können Sie Dienstleistungen, Medikamente oder alles Weitere aus Ihren angelegten/importieren Produkten nutzen.   
+
+Wenn Sie GOT Posten anwählen, werden diese direkt in die Behandlung hinzugefügt, falls Sie die Anzahl noch ändern wollen, muss 
+dies in der Position durchgeführt werden:   
+
+![](../../static/img/Kunden/anzahlaendern.png)  
+
+Bei Medikamenten müssen Sie zunächst die gewünschte Anzahl eingeben. Anschließend wählen Sie die Charge aus und klicken den 
+oragenen Haken ganz rechts, um die gewünschte Menge in die Behandlung hinzuzufügen:    
+
+Zuerst die Menge: 
+
+![](../../static/img/Patienten/mengemedi.png)   
+
+Und dann die Charge wählen, klicken Sie hier den Dropdown Pfeil:   
+![](../../static/img/Patienten/chargeammedi.png)  
+
+Sie sehen alle lagernden Chargen, inkl. Lagerort (falls genutzt) und Ablaufdatum sowie vorhandener Menge. Wählen Sie
+die genutzte Charge aus.   
+
+![](../../static/img/Patienten/chargeammedi2.png)   
+
+Nun klicken Sie den orangenen Haken:   
+![](../../static/img/Patienten/medichargenutzen.png)  
+
+Nun erscheint die Menge mit dem korrekten Preis in der Behandlung.  
+
+:::tip  Tip: ganze Packungen abgeben  
+
+Kennen Sie schon den Trick, dass Sie im Feld der Menge nur einmal die Leertaste drücken müssen, um automatisch eine ganze Packung
+zu nutzen? Bei 3 ganzen Packungen tippen Sie eine 3 in das Feld und drücken dann die Leertaste.   
+
+
+:::   
 
 ### Nur lagernde Produkte suchen  
 

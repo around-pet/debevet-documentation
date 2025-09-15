@@ -6,7 +6,7 @@ Kassenbuch" zu haben.
 
 Allerdings werden natürlich die Barzahlungen dennoch als "Kasse" gebucht, dies entspricht aber alleinstehend nicht der Aufzeichnungspflicht.   
 
-Bitte beachten Sie generell folgende Informationen (Stand Juli 2025)     
+Bitte beachten Sie generell folgende Informationen (Stand September 2025)     
 
 
 ## Offene Ladenkasse oder TSE?   
@@ -22,8 +22,39 @@ Da dennoch viele Finanzämter die TSE fordern, haben wir ab August 2025 im debev
 die Möglichkeit, für 15,00 Euro monatlich eine TSE-Schnittstelle hinzuzubuchen.  
 
 Hierfür wird der bekannte Anbieter Fiskaly genutzt. Mit der Nutzung dieser sind Sie, auch hinsichtlich aller DSFinVK Exporte auf der 
-sicheren Seite. 
+sicheren Seite.   
 
+## TSE buchen   
+
+Da die Schnittstelle einem externen Anbieter unterliegt und wir diesen bezahlen müssen, fallen für die Zubuchung der TSE pro 
+Monat 15 Euro netto an.   
+Um die TSE zu buchen und zu aktivieren, gehen Sie bitte in den Bereich der Administration (Zahnrad Symbol) und suchen dann in 
+"Erweiterungen" den Sektor "TSE".  
+
+Klicken Sie zunächst "anlegen". 
+
+![](../../static/img/erweiterungen/tse_anlegen1.png)   
+
+Der Button ändert sich nun und kann erneut geklickt werden, um die TSE zu buchen.   
+
+![](../../static/img/erweiterungen/tse_aktivieren_neu1.png)   
+
+Nun sehen Sie, dass in der Buchungsübersicht des Paketes die monatlichen Kosten dann dazu addiert (Checkbox aktiviert) ist, 
+dort können Sie dann erneut "buchen" klicken.   
+
+:::caution Achtung!   
+Die TSE steht nicht für das Solo Paket zur Verfügung!   
+
+:::   
+
+Das Programm richtet nach dem klick auf "aktivieren" nun die gesamte Schnittstelle automatisch ein und zeigt Ihnen an der Erweiterungdie 
+benötigten Daten/Nummern an, die Sie beim Finanzamt melden müssen.   
+
+![](../../static/img/erweiterungen/tseaktivwarnung.png)     
+  
+Dies sieht dann so aus (Daten hier unlesbar gemacht!)
+
+![](../../static/img/erweiterungen/tsedaten.png)
 
 ## Verschiedene Buchungen aus der Kasse   
 
