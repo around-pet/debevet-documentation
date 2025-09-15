@@ -162,6 +162,28 @@ Klicken Sie auf **Administration** und dann **Textbausteine**.
 Hier gibt es unter den Standardtexten 3 Texte, die zu den Gutschriften gehören. Diese können Sie sich nun nach Ihren Wünschen anpassen. 
 Um einen Text zu bearbeiten, klicken sie auf den Namen des jeweiligen Textes. Passen Sie diesen an und klicken Sie anschließend auf **Speichern**. 
 
-![](../../static/img/Rechnungen/gutschrift_texte.png)
+![](../../static/img/Rechnungen/gutschrift_texte.png)  
+
+## Gutschriften löschen  
+
+Sie möchten eine Gutschrift wieder löschen? Das ist ebenso wie bei einer Rechnung problemlos möglich. 
+
+Klicken Sie auf das Eurosymbol und dann "Gutschriften", um die Liste aller Gutschriften einzusehen.  
+Klicken Sie auf die Nummer der Gutschrift, die Sie löschen möchten, so dass sie diese in der Voransicht sehen.  
+
+Klicken Sie nun "Erweitert" und dann "Gutschrift stornieren"   
+
+![](../../static/img/Rechnungen/gutschriftstorno1.png)  
+
+Bestätigen Sie das Löschen nun im sich öffnenden Fenster:  
+
+![](../../static/img/Rechnungen/gutschriftstorno2.png)  
+
+:::caution Achtung!   
+
+Wenn Sie bereits eine Zahlung (also Auszahlung) an dieser Gutschrift erfasst haben, müssen Sie diese in den Belegen erst löschen, 
+ebenso wie bei Rechnungen. Erst anschließend können Sie die Gutschrift löschen.
+
+:::
 
 
