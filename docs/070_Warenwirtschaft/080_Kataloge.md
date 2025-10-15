@@ -92,7 +92,7 @@ Die Barsoi muss bei Barsoi selbst getrennt bezahlt werden, diese ist nicht in de
 
 Sollten Sie von einer anderen Software zu debevet wechseln, geben Sie dies bitte bei Barsoi an, indem Sie dort anrufen. Viele andere 
 Softwareanbieter arbeiten mit einer anderen Version (1.12.xx), damit der Import in debevet funktioniert, benötigen Sie aber 25.xx.xx (Stand 
-Mai 2025). Öffnen Sie die xml Datei und scrollen ganz nach rechts, in der letzten Spalte steht die Version.
+Okt. 2025). Um zu prüfen, welche Version Sie aktuell bei Barsoi herunterladen, öffnen Sie die barsoi.xml Datei und scrollen ganz nach rechts, in der letzten Spalte steht die Version.
 Wenn Sie ein neues Abo abschließen, müssen Sie die Praxissoftware angeben, dann sollte automatisiert die passende Version bereit stehen.   
 
 :::
