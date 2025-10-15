@@ -266,7 +266,7 @@ Bestätigen Sie die Löschung.
 ![](../../static/img/Rechnungen/rechnung_stornieren3.png)  
  
 Wenn Sie nun erneut in die Behandlung wechseln, indem Sie oben rechts auf **Schließen** klicken, sind die Behandlungs/Medikamtenposten, die Sie
-abgerechnet hatten, wieder freigegeben, um verändert oder einzeln gelöscht zu werden.  
+abgerechnet hatten, wieder freigegeben, um verändert oder einzeln gelöscht zu werden.
 
 ### Fehlermeldung "enthält inventurpflichtige Positionen und muss in eine Lieferung überführt werden"  
 
@@ -281,13 +281,13 @@ damit diese dem Warenbestand wieder zugeführt werden. Somit sind diese wieder "
 
 ![](../../static/img/Rechnungen/lieferungueberfuehren1.png)
 
-### Gelöschte Rechnungen anzeigen  
+### Gelöschte Rechnungen anzeigen  /Stornorechnung drucken
 
 Um sich gelöschte/stornierte Rechnungen anzeigen zu lassen, klicken Sie auf **Fakturierung**(Euro-Symbol) und dann **Rechnungen**. 
 Klicken Sie den Dropdown-Pfeil neben dem Suchenfeld. Setzten Sie dann den Haken bei **Gelöschte anzeigen** und bestätigen mit der **Entertaste** oder Klick auf 
 das **Lupen-Symbol**. 
 
-Nun sehen Sie rot hinterlegt die stornierten Rechnungen.  
+Nun sehen Sie rot hinterlegt die stornierten Rechnungen. Diese können Sie genauso drucken/herunterladen wie alle anderen Rechnungen auch.
 
 :::danger ACHTUNG  
 

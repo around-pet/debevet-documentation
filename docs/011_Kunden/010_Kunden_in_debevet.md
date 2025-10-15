@@ -123,23 +123,41 @@ Hier können verschiedene Verwaltungsinformationen zum Kunden bearbeitet werden.
 
 **Umsatzsteuer-ID:** Im Bereich Steuerinformationen können Sie die Umsatzsteuer-ID des Kunden erfassen. Diese ist verpflichtend, sollten Sie ins europäische Ausland liefern (oder leisten) und keine Umsatzsteuer ausweisen. In der Druckausgabe der Rechnungen an diesen Kunden, kann debevet diese ID dann automatisch ausgeben, sofern gewünscht. 
 
+**E-Mail:** Wenn Sie Dokumente (Rechnungen, Abgabebelege, Impferinnerungen, Briefe u.v.m.) über die integrierte Mailfunktion von debevet senden, so wird die hier hinterlegte Emailadresse verwendet.  
 
+:::caution Achtung:
+
+Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei "Emailversand an den Kunden erlaubt" auf aktiv gesetzt haben. 
+Sie haben aber auch die Möglichkeit, stattdessen komplett die Validierung der Mailadresse zu nutzen. (dies ist Standard nach Setup, lesen Sie bitte weiter, wenn der Haken 
+bei Ihnen "grau" ist)  
+
+![](../../static/img/Kunden/Kunden_mailnutzen.png)
+
+### Email-Versand erlauben   
+
+ 
+Nach der ersten Einrichtung von debevet ist aus Sicherheitsgründen die Einstellung des Mailversandes so gesetzt, dass jeder Kunde seine Mailadresse validieren 
+müsste. 
+
+Wenn Sie die Erlaubnisse zum Mailversand selbst mit dem Haken setzen möchten, dann müssen Sie folgende Schritte durchführen:  
+
+Klicken Sie links auf das "Zahnradsymbol" und dann "Einstellungen".  
+Am Reiter "Kunde" gibt es das Kästchen, in dem der Haken nach dem ersten Setup aktiv ist.   
+
+Diesen Haken entfernen Sie und speichern anschließend.    
+
+![](../../static/img/Kunden/mailerlauben1.png)
+
+
+Nun können Sie die Mailversand-Haken am Kunde wieder manuell selbst setzen.
 
 ### Kunden E-Mail Adresse hinterlegen und validieren
+ 
+Wenn Sie immer wieder Probleme haben, dass die Kunden behaupten, dass Mails nicht ankommen, empfiehlt es sich, Mailversand nur noch 
+nach Validierung der Mailadressen freizugeben. 
 
-**E-Mail:** Wenn Sie Dokumente (Rechnungen, Abgabebelege, Impferinnerungen, Briefe u.v.m.) über die integrierte Mailfunktion von debevet senden, so wird die hier hinterlegte Emailadresse verwendet.
 
-:::caution Achtung
-
-Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei "Emailversand an den Kunden erlaubt" auf aktiv gesetzt haben. Sie haben aber auch die 
-Möglichkeit, stattdessen komplett die Validierung der Mailadresse zu nutzen.
-
-:::
-
-![Kunden_mailnutzen.png](../../static/img/Kunden/Kunden_mailnutzen.png)  
-
-Wenn Sie auf diese manuelle Bestätigung mit dem Haken verzichten wollen und stattdessen die Mailadresse durch den Kunden verifizieren lassen wollen (so 
-können Sie vermeiden, dass evtl. falsche Mailadressen durch Tippfehler etc. enstehen können), gehen sie wie folgt vor: 
+Wenn Sie global Mailadressen vom Kunden bestätigen lassen wollen, bevor die Mailsversandfunktion dann "freigeschaltet ist", gehen sie wie folgt vor: 
 
 1. Klicken Sie auf **Administration** und dann **Einstellungen**
 2. Klicken Sie auf den Reiter **Kunde** und setzen dort den Haken bei **Email-Versand an Kunde erlaubt sperren**
