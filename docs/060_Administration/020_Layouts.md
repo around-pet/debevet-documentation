@@ -105,7 +105,19 @@ Unter dem Reiter **Druck** gibt es noch weitere Optionsfelder:
 ![](../../static/img/Admin/layout_rechnung.png)  
 
 Dort haben Sie beispielsweise die Möglichkeit, einen Girocode aufzudrucken, den der Kunde direkt scannen kann, um die
-Rechnung einfacher zu überweisen. 
+Rechnung einfacher zu überweisen.   
+
+## Fußzeile mit Kontodaten und Kontoinhaber auf die Rechnung   
+
+Um in der Fußzeile der Rechnung Ihre Kontodaten und die Rechnungsnummer einzublenden, müssen diese zunächst in Ihren Praxisdaten hinterlegt sein.  
+
+(Zahnräder- Praxisdaten)   
+
+Anschließend müssen Sie im Layout der Rechnung den Haken setzen "Dokumentenfuß drucken".    
+
+![](../../static/img/Admin/fusszeile.png)   
+
+Nun erscheinen die eingetragenen Daten (Steuernummer, Kontodaten, Kontoinhaber) auf der Rechnung.
 
 ### Chipnummer auf die Rechnung drucken
 
