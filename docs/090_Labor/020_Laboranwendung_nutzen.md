@@ -169,15 +169,14 @@ Falls Sie sich wundern, warum Ihre Befunde nicht aktuell sind: Sie müssen diese
 :::
 
 Wählen Sie die Checkboxen der gewünschten Laborbefunde (oder alle durch Klick ganz oben). 
-Klicken Sie dann in der Laborübersicht oben rechts auf das **Aktualisierungs- Symbol**. 
+Klicken Sie dann in der Laborübersicht oben rechts auf *Ergebnisse abrufen**.   
 
-![](../../static/img/Labor/labor_aktualisieren2.png)
+![](../../static/img/Labor/laborabruf1.png)
 
 Alternativ können Sie auch an dem Patienten, den Sie gerade behandeln, die Laborbefunde einzeln noch einmal abrufen.
-Klicken Sie dazu in der Behandlung auf den Reiter **Labor**. Dort klicken Sie dannauf das **Aktualisierungs-Symbol**.  
+Klicken Sie dazu in der Behandlung auf den Reiter **Labor**. Dort klicken Sie dann auf  **Ergebnisse abrufen**.  
 
-![](../../static/img/Labor/labor_update_patient.png)
-
+![](../../static/img/Labor/laborabruf2.png)
 
 :::danger ACHTUNG! 
 

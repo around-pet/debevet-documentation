@@ -26,11 +26,6 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 :::  
 
-  
-### Automatische Adressvervollständigung
-
-Für das Feld **'Straße'** ist die Online-Suche an eine Adressdatenbank angebunden. Bereits das Tippen weniger Buchstaben listet passende 
-Treffer auf. Wählen Sie den passenden Eintrag aus, so werden die Adressdaten vollständig und automatisch in die Eingabefelder eingetragen.  
 
 ## Kunden suchen und finden  
 
@@ -100,7 +95,19 @@ Wenn Sie die Liste der Adressen sehen, können Sie rechts an der Adresse eine kl
 * **Stift-Symbol**: damit können Sie die Adresse bearbeiten  
 * **Müllereimer-Symbol**: damit können Sie die Adresse löschen  
 * **Weltkugel-Symbol**: öffnet die Karte mit dieser Adresse
+  
+### Geburtsdatum am Kunden hinterlegen   
 
+Falls Sie die Abfrage des Bonitätsstatus eines Kunden durchführen möchten, benötigen Sie dafür das Geburtsdatum  des Kunden. Dieses kann in der 
+Kundenregistrierung auf Wunsch bereits verpflichtend abgefragt werden (auf Ihren Wunsch einstellbar). Sie können es jedoch auch manuell wie folgt eintragen:   
+
+Öffnen Sie den gewünschten Kunden aus der Kundenliste und klicken Sie dann am Reiter "Adressen" auf das "bearbeiten" Symbol (Stift).   
+
+![](../../static/img/Kunden/gebdatum1.png)   
+
+Nun füllen Sie das Datumsfeld mit dem Geburtstag des Kunden und klicken oben rechts auf "Speichern".   
+
+![](../../static/img/Kunden/gebdatum2.png)
 
 ### Konten  
 
