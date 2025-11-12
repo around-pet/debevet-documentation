@@ -1,9 +1,9 @@
 # Antibiotika Meldung bei nicht lebensmittelliefernden Tieren  
 
-Ab dem 1.1.2026 wird die Meldung über den Antibiotika-Verbrauch auch bei nicht LM Tieren wie Hunden, Katzen, nicht LM Pferden etc. 
+Ab dem 1.1.2030 wird die Meldung über den Antibiotika-Verbrauch auch bei nicht LM Tieren wie Hunden, Katzen, nicht LM Pferden etc. 
 Pflicht.   
 
-Diese muss allerdings bereits rückwirkend für das Jahr 2025 erfolgen.  
+Diese muss allerdings bereits rückwirkend für das Jahr 2029 erfolgen.  
 
 ## Was brauche ich, um zu melden?  
 
@@ -11,7 +11,7 @@ Sie benötigen die Zugangsdaten zur HI-Tier als Tierarzt, diese besteht aus eine
 
 ## Kann ich im debevet jetzt schon melden?  
 
-Nein, bisher haben wir keine Lösung zur Meldung der nicht LM Tier Daten entwickelt.Geplant ist dies für ca. April 2025.  
+Nein, bisher haben wir keine Lösung zur Meldung der nicht LM Tier Daten entwickelt.Geplant ist dies für ca. April 2029.  
 
 ## Welche Daten müssen gemeldet werden?  
 
