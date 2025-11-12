@@ -3,13 +3,22 @@
 Die Warenwirtschaft ist ein wichtiger Faktor in Ihrer Praxis. Wenn Sie die Möglichkeiten der debevet Software ideal nutzen,
 ist eine Apothekenprüfung und Inventur für Sie ein Kinderspiel! 
 
-Sie können einen Warenbestand entweder direkt anlegen, oder aber die Kette von Bestellung-Lieferung-Warenbestand recht einfach nutzen.   
+Sie können einen Warenbestand entweder direkt anlegen (der empfohlene Weg!!!) oder aber die Kette von Bestellung-Lieferung-Warenbestand nutzen.   
 
-![](../../static/img/Warenwirtschaft/bestellung_lieferung_bestand.001.jpeg)
 
-## Neuen Warenbestand anlegen  
 
-Wenn Sie die Kette nicht nutzen, können Sie auch manuell einen neuen Warenbestand anlegen. Klicken Sie hierzu auf **Warenwirtschaft** und dann
+## Neuen Warenbestand anlegen   
+
+
+:::warning Achtung
+
+Wir empfehlen aus Zeitersparnis-Gründen, jeden Wareneingang direkt als Warenbestand anzulegen. Es gibt keinen Grund, den "alten"
+Weg zu gehen, indem noch die Bestellung die Lieferung genutzt wird. Die Funktion ist ein Überbleibsel aus Zeiten, in denen die nachvollziehbarkeit
+aller Bestellungen noch nicht so gut digitalisiert war.
+
+:::
+
+Sie können bei jedem Wareneingang direkt und schnell  einen neuen Warenbestand anlegen. Klicken Sie hierzu auf **Warenwirtschaft** und dann
 **Warenbestände**. Sie sehen die ungefilterte Liste Ihrer Warenbestände. Klicken Sie nun auf das grüne **Plus-Symbol**, um auf die
 Seite zur Eingabe eines neuen Warenbestandes zu gelangen. 
 
@@ -32,7 +41,7 @@ Achten Sie beim Vorhandensein von verschiedenen Packungsgrößen darauf, dass Si
 Geben Sie nun die weiteren Daten zum Produkt ein. Wir empfehlen dabei, die Chargennummer und das Ablaufdatum auf jeden Fall zu 
 setzen, um die Effizient der digitalen Lagerverwaltung zu verbessern und Apothekenprüfungen zu erleichtern.  
 
-Die Lagerortverwaltung kann auch sehr nützlich sein, ab unserem Standard Paket haben Sie mehrere Lagerorte zur Verfügung.   
+Die Lagerortverwaltung kann auch sehr nützlich sein (für Solo Kunden nicht verfügbar=, ab unserem Praxis Paket haben Sie mehrere Lagerorte zur Verfügung.   
 
 Wenn Sie alle Waren angelegt haben im Bestand, die Ihnen geliefert wurden, klicken Sie oben rechts auf **Speichern**.  
 

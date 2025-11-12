@@ -1,11 +1,21 @@
 # Lieferungen    
 
+
+:::warning Achtung
+
+Wir empfehlen aus Zeitersparnis-Gründen, jeden Wareneingang direkt als Warenbestand anzulegen. Es gibt keinen Grund, den "alten"
+Weg zu gehen, indem noch die Bestellung die Lieferung genutzt wird. Die Funktion ist ein Überbleibsel aus Zeiten, in denen die nachvollziehbarkeit
+aller Bestellungen noch nicht so gut digitalisiert war.
+
+:::
+
 Wußten Sie, dass Sie kinderleicht jede Bestellung in eine Lieferung überführen können und daraus direkt einen Warenbestand 
 erzeugen können?  
 
 ![](../../static/img/Warenwirtschaft/bestellung_lieferung_bestand.001.jpeg)
 
 Natürlich ist es aber auch machbar, diese Kette am Punkt der Lieferung zu beginnen. 
+
 
 ## Neue Lieferung anlegen 
 

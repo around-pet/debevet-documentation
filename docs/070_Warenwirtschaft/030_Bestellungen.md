@@ -1,14 +1,13 @@
 # Bestellungen  
 
-:::tip Tipp  
 
-Sie müssen natürlich nicht immer Bestellungen, Lieferungen und Wareneingang einzeln eingeben! Eine Bestellung kann sehr einfach
-in eine Lieferung überführt werden. Aus der Lieferung können Sie dann direkt den Warenbestand buchen. So bleibt die Kette immer perfekt
-nachvollziehbar!  
+:::warning Achtung
 
-Alle Mitarbeiter können immer direkt den aktuellen Status nachvollziehen!  
+Wir empfehlen aus Zeitersparnis-Gründen, jeden Wareneingang direkt als Warenbestand anzulegen. Es gibt keinen Grund, den "alten"
+Weg zu gehen, indem noch die Bestellung die Lieferung genutzt wird. Die Funktion ist ein Überbleibsel aus Zeiten, in denen die nachvollziehbarkeit
+aller Bestellungen noch nicht so gut digitalisiert war.
 
-:::  
+:::
 
 Klicken Sie unter **Warenwirtschaft** das Untermenü **Bestellungen**. Falls Sie bereits Bestellungen angelegt hatten, werden 
 diese nun aufgelistet.  
