@@ -106,21 +106,24 @@ Die Impferinnerung wird dann nur erstellt, nicht automatisch verschickt!
 
 ## Impferinnerung Text anlegen 
 
-Sie können einen Text nach Ihren Wünschen anpassen, welcher dann für den Versand der Impferinnerung genutzt wird. 
-Klicken Sie hierzu auf **Administration** und dann **Textbausteine**. Dort wählen Sie **Vorlagen**.  
+Sie können einen Text nach Ihren Wünschen anpassen, welcher dann für den Versand der Impferinnerung via Mail genutzt wird. 
+Klicken Sie hierzu auf **Administration** und dann **Textbausteine**. Dort wählen Sie **Erinnerung Email**.  Klicken Sie auf das 
+Wort, um direkt in die Bearbeitung zu gelangen.
 
-![](../../static/img/Admin/Impferinnerung1.png)  
+![](../../static/img/Admin/erinnerungstext2.png)
 
-Nun wählen Sie oben rechts mit dem **Dropdown-Pfeil** die Variante **Brief** und klicken dann das **grüne Plus-Symbol**.  
-  
-![](../../static/img/Admin/Impferinnerung2.png)  
+Sie können nun mit den Varviablen einen individuellen Text erstellen, wir empfehlen, einen zu nutzen, in dem der Typ der Erinnerung (also
+ob Impferinnerung oder Wiedervorstellung) und der Grund (das ist der "Name, den Sie an der Erinnerung am Tier als Grund algeben, z.B. "Zahnkorrektur" oder 
+Tollwut Impfung o.ä. eingegeben haben)  genutzt werden.  
 
-Nennen Sie das Dokument dann im Feld **Beschreibung** z. B. Impferinnerung. Mit den Variablen rechts können Sie persönliche Daten,
-also den Namen des Kunden, des Tieres, Ihrer Praxis etc. einfügen lassen. 
+Im Vorschaufenster können Sie dann sehen, wie der Text aussehen würde.  
 
-Im Vorschaufeld unten sehen Sie dann eine Vorschau, wie die Nachricht aussehen wird. 
+Hier ein Beispiel:  
 
-![](../../static/img/Admin/Impferinnerung3.png)
+![](../../static/img/Admin/beispielerinnerungstext.png)  
+
+Speichern Sie anschließend, und ab sofort wird dieser Text genutzt, wenn die Erinnerungsmail verschickt wird.
+
 
 ## Erinnerung verschicken 
 
