@@ -107,10 +107,7 @@ Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **
 
 ![](../../static/img/Admin/import3.png)
  
-Nun klicken Sie auf das **Wolkensymbol** und wählen dann die **zip Datei**. Bitte beachten Sie, dass Sie bei der Barsoi angeben müssen, dass Sie die
-Versionen benötigen, die für debevet genutzt werden. Es gibt leider auch sehr alte Versionen der Barsoiliste und die Barsoi stellt diese leider 
-oftmals zur Verfügung. Dies muss proaktiv dort beauftragt werden, nur, wenn Sie die Liste neu abbonieren, können Sie direkt auswählen, für welche
-Software Sie diese benötigen.
+Nun klicken Sie auf das **Wolkensymbol** und wählen dann die **zip Datei**. (schlicht und einfach die Datei, wie Sie diese bei Barsoi heruntergalden haben) 
 
 :::tip Tip:  
 
@@ -196,17 +193,11 @@ Sie können sich eine zip Datei vorstellen, wie ein Paket:
 
 Um an die Dateien heranzukommen, muss man die Datei dann "entpacken" oder "entzippen". 
 
-Jeder Computer kann zip Dateien sowohl **packen/zippen** als auch **entpacken/entzippen**. Bei Windows Rechnern muss dazu mit der rechten Maustaste auf eine Datei
-geklickt werden und dann entweder das packen oder entpacken gewählt werden.
-Beim Mac muss zum entpacken mit einem Doppelklick auf die zip Datei geklickt werden, zum packen nutzen Sie mit einem Mac bitte den weiter unten aufgeführten Link.  
 
-Die Barsoi liefert beim Download eine zip Datei, in der die Datei barsoi.xml enthalten ist. Sollten noch weitere Dateien in der zip Datei enthalten sein, 
-müssen Sie die korrekte Datei "Barsoi.xml" einzeln packen. Hilfetexte, wie Sie dies erledigen können, finden Sie bei Google. 
 
-Hier haben wir noch einen Link, der Ihnen sehr einfach eine zip Datei erstellen kann, wenn Sie dort die barsoi.xml Datei hochladen. Auf diesem Weg können Sie dann sicher sein,
-dass nur eine Datei gepackt wird (besonders wichtig für Mac Nutzer, da dort sonst im Hintergrund noch MacOS Dateien erstellt werden, weshalb der Upload dann nicht funktioniert).
+Die Barsoi liefert beim Download eine zip Datei, Sie müssen einfach nur genau diese 1:1 wieder bei uns hochladen im Import- dann funktioniert alles 
+ohne Probleme. 
 
-https://www.ezyzip.com/dateien-online-komprimieren.html
 
 
 ![](../../static/img/Warenwirtschaft/zipdatei.png)
