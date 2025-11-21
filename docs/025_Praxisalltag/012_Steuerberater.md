@@ -13,7 +13,8 @@ werden, aber es ist kein gesetzeskonformes eigenes Kassenbuch.
 
 ## Hat debevet eine TSE Schnittstelle?   
 
-Seit Ende Juli 2025 bietet debevet eine TSE Schnittstelle an. Diese kann für 15,00 Euro im Monat zugebucht werden und bietet eine gesetzesfornforme Lösung.  
+Seit Ende Juli 2025 bietet debevet eine TSE Schnittstelle an. Diese kann für 15,00 Euro im Monat zugebucht werden und bietet eine 
+gesetzesfornforme Lösung.  
 
 
 ## Was muss eingestellt werden?   
@@ -54,15 +55,24 @@ Ihren STB bitte, ob er die Rechnungen in pdf Form benötigt, nicht alle Steuerbe
 ## Beispieldateien für Ihren Steuerberater  
 
 Falls Sie vorab klären möchten, ob Ihr Steuerberater die Verbuchungen verarbeiten kann, die debevet erstellt, finden Sie hier
-Beispieldateien. Diese können Sie ihm senden, wir bitten um Verständnis, dass es sich um fiktive Daten handelt.
+Beispieldateien. Diese können Sie ihm senden, wir bitten um Verständnis, dass es sich um fiktive Daten handelt.  
+
+Rechnungsexport als CSV Datei (Buchungsdatensätze) :  <a href="/static/files/invoices_example.zip" target="_blank">📦 Datei herunterladen</a>
+
+(die pdf Belegbilder können natürlich auch digital verschickt werden, in diesem Beispiel sind diese enthalten!)      
+
+
+Belegexport (Buchungsdatensätze):  <a href="/static/files/voucher_example.zip" target="_blank">📦 Datei herunterladen</a>  
+
 
 **Bei Nutzung von Collmex:**    
 
-Datev Export (von mehreren Monaten, da wir nicht soooo viele Testumsätze pro Monat haben)  
- 
+Datev Export (von mehreren Monaten, da wir nicht so viele Testumsätze pro Monat haben)  
+
+<a href="/static/files/datexexport_example.zip" target="_blank">📦 Datei herunterladen</a>
 
 
-Belegexport:  
+Belegexport:  siehe oben
 
 
 

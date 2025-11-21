@@ -138,7 +138,10 @@ Die Mailadresse kann nur dann zum Versand genutzt werden, wenn Sie den Haken bei
 Sie haben aber auch die Möglichkeit, stattdessen komplett die Validierung der Mailadresse zu nutzen. (dies ist Standard nach Setup, lesen Sie bitte weiter, wenn der Haken 
 bei Ihnen "grau" ist)  
 
-![](../../static/img/Kunden/Kunden_mailnutzen.png)
+![](../../static/img/Kunden/Kunden_mailnutzen.png)  
+
+:::  
+
 
 ### Email-Versand erlauben   
 
