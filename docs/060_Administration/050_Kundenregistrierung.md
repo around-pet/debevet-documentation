@@ -60,8 +60,14 @@ Wählen Sie diesen Punkt aus, wenn der Fragebogen in der Kundenregistrierung ang
 **Hintergrund:**
 Wird als Hintergrund für die Kundenregistrierung und das digitale Unterschreiben verwendet. Der Hintergrund wird mit 15% Deckkraft dargestellt.
 
-**Logo:**
-Wird als Logo für die Kundenregistrierung und das digitale Unterschreiben verwendet.
+**Geburtsdatum erforderlich**   
+
+Falls Sie die Erweiterung der Verrechnungsstelle PVS Reiss nutzen, können und sollten Sie immer eine Bonitätsabfrage absolvieren. Damit dies
+möglich ist, benötigen Sie das Geburtstdatum der Kunden. Dieses kann mit Setzen des Hakens als Pflichtfeld in der Kundenregistrierung abgefragt werden.  
+
+
+![](../../static/img/Admin/gebdatupflicht.png)
+
 
 ## Geräte einrichten 
 
