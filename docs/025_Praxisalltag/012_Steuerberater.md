@@ -57,19 +57,19 @@ Ihren STB bitte, ob er die Rechnungen in pdf Form benötigt, nicht alle Steuerbe
 Falls Sie vorab klären möchten, ob Ihr Steuerberater die Verbuchungen verarbeiten kann, die debevet erstellt, finden Sie hier
 Beispieldateien. Diese können Sie ihm senden, wir bitten um Verständnis, dass es sich um fiktive Daten handelt.  
 
-Rechnungsexport als CSV Datei (Buchungsdatensätze) :  <a href="/static/files/invoices_example.zip" target="_blank"> Datei herunterladen</a>
+Rechnungsexport als CSV Datei (Buchungsdatensätze) :  <a href="https://handbuch.debevet.de/static/files/invoices_example.zip" target="_blank"> Datei herunterladen</a>
 
 (die pdf Belegbilder können natürlich auch digital verschickt werden, in diesem Beispiel sind diese enthalten!)      
 
 
-Belegexport (Buchungsdatensätze):  <a href="/static/files/voucher_example.zip" target="_blank"> Datei herunterladen</a>  
+Belegexport (Buchungsdatensätze):  <a href="https://handbuch.debevet.de/static/files/voucher_example.zip" target="_blank"> Datei herunterladen</a>  
 
 
 **Bei Nutzung von Collmex:**    
 
 Datev Export (von mehreren Monaten, da wir nicht so viele Testumsätze pro Monat haben)  
 
-<a href="/static/files/datexexport_example.zip" target="_blank"> Datei herunterladen</a>
+<a href="https://handbuch.debevet.de/static/files/datexexport_example.zip" target="_blank"> Datei herunterladen</a>
 
 
 Belegexport:  siehe oben
