@@ -126,7 +126,8 @@ Es geht dabei lediglich um buchhalterische Vorgänge, eine sogenannte Vorkontier
 
 ### Stadien und Farbcodes bei Rechnungen / Buchungsstatus   
 
-In der Rechnungsübersicht sehen Sie verschiedene Farbcodes, die wir zur Vereinfachung eingeführt haben. 
+In der Rechnungsübersicht sehen Sie verschiedene Farbcodes, die wir zur Vereinfachung eingeführt haben.    
+
 **Das Stadium "rot" bedeutet:**    
 "zu buchen" - in diesem Stadium stehen logischerweise auch Entürfe, ebenso wie Rechnungen, die Sie noch nicht gebucht haben. (Siehe Info
 weiter oben, buchen hat NICHTS mit der Zahlungseingabe zu tun!)  
@@ -138,7 +139,10 @@ Zahlungen bzw. Teilzahlungen dann an dieser erfasst werden.
 
 **Das Stadium "grün" bedeutet:**   
 "erledigt"- die Rechnung ist buchhalterisch gebucht und bezahlt. In der gängigen Voreinstellung der Buchhaltungserweiterunhg werden z.B. 
-Rechnungen mit der Zahlart "bar" oder "EC" direkt beim Prozess des Buchens auf "erledigt" gesetzt, da diese ja dann auch direkt bezahlt sind.
+Rechnungen mit der Zahlart "bar" oder "EC" direkt beim Prozess des Buchens auf "erledigt" gesetzt, da diese ja dann auch direkt bezahlt sind.  
+
+![](../../static/img/Rechnungen/symbole_rechnungsliste.png)
+
 
 ### Probleme bzw. Fehlermeldung bei der Buchung 
 
