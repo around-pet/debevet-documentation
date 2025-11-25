@@ -140,7 +140,23 @@ Dann setzen Sie den Haken bei "nur lagernde Produkte suchen" und klicken anschli
 Um nur dieses eine Mal, in der aktuellen Eingabe nur lagernde Produkte anzuzeigen, klicken Sie rechts neben der Behandlungseingabe auf
 das **Filtersymbol** und setzen dann den Haken bei "nur lagernd". In der nächsten Behandlung werden Ihnen wieder alle Produkte angezeigt.  
 
-![](../../static/img/Admin/nurlagernd2.png)
+![](../../static/img/Admin/nurlagernd2.png)   
+
+### Weitere Filter bei der Suche / Eingabe nutzen   
+
+Im oben genannten Bereich gibt es noch mehr Filter, die Ihnen helfen können, die Treffer der Suche in der Behandlungseingabe übersichticher 
+zu gestalten. Wenn Sie das Filtersymbol neben dem Eingabefeld klicken, bekommen Sie mehrere Optionen.   
+
+![](../../static/img/Rechnungen/suche_filtern_optionen.png)   
+
+So können Sie damit Beispielsweise auch die Beschreibungen Ihrer Produkte mit durchsuchen, falls Sie diese sehr viel nutzen.  
+
+Dies kann auch global eingestellt werden, so dass die Beschreibungen immer mit durchsucht werden.  
+
+Klicken Sie dazu die "Zahnrädchen", dann "Einstellungen" und setzen am Reiter "Allgemein" den Haken:   
+
+![](../../static/img/Kunden/beschreibungdurchsuchen.png)   
+
 
 ### Symbole an den Medikamenten  
 
@@ -151,8 +167,50 @@ Das Symbol mit den vier Strichen zeigt die Packungsgröße und Einheit an, in di
 
 Das Symbol mit dem Warenkorb zeigt, wie viel Sie von dem Produkt aktuell in Ihrem Lagerbestand haben, in diesem Beispiel Null.   
 
-![](../../static/img/Kunden/wareerkennen.png)
+![](../../static/img/Kunden/wareerkennen.png)    
 
+## Farben und Symbole der eingegebenen Posistionen  
+
+Wenn Sie debevet nutzen, werden Sie merken, dass wir verschiedene Symbole und Farben nutzen, die Ihnen helfen, schnell zu 
+sehen, was bereits erfolgt ist und was wie genutzt wurde:  
+
+**Eurosymbol:** das Eurosymbol vor den Positionen zeigt, ob und wie diese berechnet werden:   
+* grau: nicht in Rechnung stellen 
+* orange: noch nicht abgerechnet   
+* blau: Rechnung oder Entwurf erstellt     
+
+"Stapelsymbol": Wird mit denselben Farbcodes angewendet, zeigt aber, dass eine Behandlungsvorlage genutzt wurde.
+
+Bei Medikamenten gibt es außerdem die beiden Symbole:  
+* Spritze (Medikament angewandt)  
+* Tablette (Medikament abgegeben)   
+So lange diese orange sind, kann durch klicken darauf zwischen den beiden Optionen gewechselt werden. So kann schnell aus einer Anwendung eine 
+Abgabe gemacht werden (zumindest, wenn das Produkt für beides in seinen Grundeinstellungen freigegeben ist)
+Ob das Medikament nach der Eingabe als Abgabe oder Anwendung "voreingestellt" ist, wird am Produkt selbst hinterlegt.   
+
+Die Farbe "gelb" bedeutet an einem Medikament, dass bereits eine Verschreibung erstellt wurde.   
+
+Durch klicken auf ein blaues Eurosymbol an einer Position gelangen Sie in die Rechnungsansicht des Produktes (also der Rechnung, 
+in der dieses Medikament abgerechnet wurde).   
+
+Durch klicken auf ein gelbes Medikamentensymbol gelangen Sie in die zugehörige Verschreibung.   
+
+Beispiel 1:  
+Noch nicht abgerechnet, aber Verschreibung für angewandtes Medikament erstellt:  
+
+![](../../static/img/Kunden/farbbeispiel1.png)    
+
+Beispiel 2:  
+
+Abgerechnet, aber noch keine Verschreibung für angewandtes Medikament erstellt:  (mit Stapelsymbol im Bild für Vorlage)
+
+![](../../static/img/Kunden/farbbeispiel2.png)  
+
+Beispiel 3:    
+
+Verschiedene Medikamente, teils abgegeben, teils angewandt, abgerechnet und Verschreibung erstellt.
+
+![](../../static/img/Kunden/farbbeispiel3.png)
 
 ## Diagnose anlegen und einfügen  
 

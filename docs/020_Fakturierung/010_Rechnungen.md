@@ -1,6 +1,6 @@
  # Rechnungen 
 
-Hier finden Sie alle wichtigen Punkte zum Thema Rechnungen, Gutschriften und Angebote.
+Hier finden Sie alle wichtigen Punkte zum Thema Rechnungen, Gutschriften und Kostenschätzungen
 
 ## Rechnungen erstellen  
 
@@ -34,8 +34,23 @@ Um diese Funktion zu nutzen, gehen Sie wie folgt vor:
 Wennn Sie nun eine Rechnung am Patienten erstelen, wird diese nicht direkt fest erstellt, sondern Sie sehen oben einen Button 
 "Rechnung anlegen". So können Sie, bevor Sie diesen Button klicken, alles noch einmal in Ruhe kontrollieren und verändern.   
 
-![](../../static/img/Rechnungen/re_entwurf3.png)
+![](../../static/img/Rechnungen/re_entwurf3.png)   
 
+Der Vorteil bei der Nutzung des Entwurfstadiums ist, dass bei Fehlern/Korrekturen noch keine Rechnungsnummer "verbraucht" wurde. Gerade
+in der Nutzung bei Neueinstieg in debevet empfiehlt sich dies, um nicht unnötige "Lücken" im Rechnungsnummernkreis zu erzeugen, wenn
+etwas fehlt oder noch ergänzt werden soll.   
+
+### Ändern des Rechnungsentwurfes    
+
+Häufig kommen Fragen, wie der Rechnungsentwurf dann noch einmal verändert werden kann. Da dieser auch das "Euro Symbol blau färbt", sind die 
+Behandlungsposten dann nicht zu verändern oder zu löschen. Dafür muss der Rechnungsentwurf zunächst gelöscht werden.   
+
+Klicken Sie dazu in der Ansicht des Entwurfs oben rechts auf "Löschen".   
+  
+![](../../static/img/Rechnungen/entwurf_loeschen.png)   
+
+Nun können Sie zurück in die Behandlungskartei des gewünschten Patienten und dort Posten ergänzen, löschen oder verändern. 
+Anschließend kann ein neuer Entwurf erstellt werden.
 
 ## Einzelne Posten nicht in Rechnung stellen 
 
@@ -94,11 +109,36 @@ Natürlich können Sie die Rechnung auch direkt drucken, wenn der Tierhalter die
 
 ## Rechnung buchen  
 
-Um die Rechnung zu buchen, klicken Sie oben auf **Erweitert** und dann **Rechnung buchen**.   
+Um die Rechnung zu buchen, klicken Sie oben auf **Erweitert** und dann **Rechnung buchen**. Um generell Zahlungen erfassen zu können, 
+muss diese sogenannte Buchung absolviert werden. Dies kann manuell einzeln geschehen, oder aber automatisisert beim drucken oder mailen (siehe weiter unten).
 
 ![](../../static/img/Rechnungen/rechnung_buchen.png)  
 
-Nun ist die Rechnung festgeschrieben und muss für weitere Veränderungen zuerst storniert und dann neu erstellt werden!
+Nun ist die Rechnung festgeschrieben und muss für weitere Veränderungen zuerst storniert und dann neu erstellt werden!  
+
+:::info Information:   
+
+"Buchen" bedeutet in debevet, dass die Rechnung im Hintergrund buchhalterisch kontiert wird, je nach den Einstellungen der 
+Buchhaltungserweiterung. Dies hat nicht zwingend per se etwas mit dem Zahlungsstatus zu tun, oder mit dem "Einbuchen" einer Zahlung! 
+Es geht dabei lediglich um buchhalterische Vorgänge, eine sogenannte Vorkontierung, die im Hintergrund stattfindet.   
+
+:::    
+
+### Stadien und Farbcodes bei Rechnungen / Buchungsstatus   
+
+In der Rechnungsübersicht sehen Sie verschiedene Farbcodes, die wir zur Vereinfachung eingeführt haben. 
+**Das Stadium "rot" bedeutet:**    
+"zu buchen" - in diesem Stadium stehen logischerweise auch Entürfe, ebenso wie Rechnungen, die Sie noch nicht gebucht haben. (Siehe Info
+weiter oben, buchen hat NICHTS mit der Zahlungseingabe zu tun!)  
+
+**Das Stadium "gelb" bedeutet:**   
+"gebucht" aber noch nicht vollständig bezahlt. Das kann eine Teilzahlung oder keine Zahlung bedeuten. Die gängige Voreinstellung der 
+Buchhaltungserweiterung setzt z.B. Zahlungen mit Zahlart "Überweisung" in dieses Stadium. Ist eine Rechnung "gelb", können auch 
+Zahlungen bzw. Teilzahlungen dann an dieser erfasst werden.
+
+**Das Stadium "grün" bedeutet:**   
+"erledigt"- die Rechnung ist buchhalterisch gebucht und bezahlt. In der gängigen Voreinstellung der Buchhaltungserweiterunhg werden z.B. 
+Rechnungen mit der Zahlart "bar" oder "EC" direkt beim Prozess des Buchens auf "erledigt" gesetzt, da diese ja dann auch direkt bezahlt sind.
 
 ### Probleme bzw. Fehlermeldung bei der Buchung 
 
@@ -143,7 +183,23 @@ mit Versand oder Druck jede Rechnung automatisch auf "gebucht" gesetzt wird.
 Klicken Sie hierzu **Administration** und dann **Einstellungen**. Klicken Sie dann den Reiter **Fakturierung** und setzen dort ganz unten den
 Haken bei **Buchung verpflichtend**. (Abschnitt "Druck")  
 
-![](../../static/img/Rechnungen/buchung_verpflichtend.png)  
+![](../../static/img/Rechnungen/buchung_verpflichtend.png)    
+
+## Symbole in der Rechnungsübersicht / Rechnungsliste     
+
+Unsere Symbole in der Rechnungsliste geben Ihnen verschiedene Infos:  
+Wurde die Rechnung bereits gemailt, gedruckt? 
+Wann wurde die Rechnung gemailt/gedruckt?  
+Wurde die Rechnung bereits an die Verrechnungsstelle abgetreten?
+
+Die "Farbcodes" der Rechnungen wurden bereits unter dem Abschnitt des Buchens erklärt. Außerdem finden Sie auch noch die Symbole  
+
+**Drucker:** Hellgrau, wenn noch nicht gedruckt, blau, wenn gedruckt, mit Mouseover ist dann die Zeit und das Datum des Drucks sichtbar  
+**Papierflieger:** Hellgrau, wenn noch nicht gemailt, grüm, wenn mailt, mit Mouseover ist dann die Zeit und das Datum des Versands sichtbar  
+**Briefumschlag:** Abtretungssymbol an die Verrechnungsstellen. Wenn eine Rechnung bereits abgetreten wurde, ist dort das Symbol der entsprechenden 
+Verrechnungsstelle zu sehen.   
+
+![](../../static/img/Rechnungen/symbole_rechnungsliste.png)
 
 ## Rechnungsposten zusammenfassen  
 
@@ -179,7 +235,7 @@ Hier haben wir die Darstellung der verschiedenen Zusammenfassungen für Sie einm
   
 :::  
 
-## Sammelrechnungen erstellen
+## Sammelrechnungen erstellen / Mehrere Tiere eines Besitzers auf eine Rechnung
 
 Sie möchten für einen Kunden bzw. Besitzer für mehrere Tiere bzw. Patienten eine einzige Rechnung erstellen, also alle offenen Posten +auf einer Sammelrechnung drucken? 
 Sie möchten bei einem (oder mehreren) Kunden alle noch nicht abgerechneten Posten abrechnen. 
