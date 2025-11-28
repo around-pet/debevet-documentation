@@ -42,7 +42,8 @@ Sie sehen in der Vorlage nach dem hinzufügen eines Produktes den Grundpreis im 
 einen abweichenden Faktor **nur für diese Vorlage** zu hinterlegen.   
 
 Sollte ein Produkt bereits einen abweichenden Faktor hinterlegt haben, wird dieser direkt nach dem Auswählen des Produkts für diese Vorlage 
-bereits im Feld "Faktor" eingetragen, ist aber individuell veränderbar. 
+bereits im Feld "Faktor" eingetragen und ist NICHT veränderbar für die Vorlage.   
+Wenn Sie diesen ändern wollen, können Sie das nur nach dem Anwenden (also einfügen) der Vorlage absolvieren.
 
 Die Summe der Preise wird immer direkt bei jeder Veränderung (Faktor, Anzahl, hinzufügen oder löschen von Produkten) live angezeigt.  
 

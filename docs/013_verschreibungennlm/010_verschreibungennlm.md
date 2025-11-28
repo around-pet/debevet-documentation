@@ -25,7 +25,22 @@ Sie können festlegen, nach welcher Zeit Verschreibung erstellt sein muss.
 Klicken Sie hierzu auf **Administration** und dann **Einstellungen**. Dort klicken Sie in den Reiter **Behandlungen**.
 Dort finden Sie die Zeit in Stunden, die Sie als Ablaufdatum frei bestimmen können.
 
-![](../../static/img/Nutztiere/NLM_verschreibungszeit.png)    
+![](../../static/img/Nutztiere/NLM_verschreibungszeit.png)      
+
+## Druckdarstellungen auf der Verschreibung   
+
+Da es einige Angaben gibt, die nicht verpflichtend auf eine Verschreibung gedruckt werden müssen, aber teilweise dennoch von diversen 
+debevet Nutzern gewünscht werden, haben wir uns entschieden, dass diese optional mit aufgedruckt werden können. Welche Dinge Sie also 
+zusätzlich aufdrucken lassen wollen, können Sie selbst bestimmen.   
+
+* Belegnummer der Verschreibung  
+* Gewicht des Tieres  
+* Chargennummer (nur bei LM Tieren möglich)   
+* Ablaufdatum des Medikaments   
+
+Die Darstellung können Sie im selben Bereich setzen in der Sie auch das Ablaufdatum setzen:   
+
+![](../../static/img/Nutztiere/verschreibung-druckoptionen.png)
 
 ## Darreichungsformen hinterlegen   
 
