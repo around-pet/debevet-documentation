@@ -192,7 +192,7 @@ Klicken Sie auf **Zurücksetzen**, um wieder alle Posten angezeigt zu bekommen.
 
 ![](../../static/img/Warenwirtschaft/warenbewegung_filter_zurücksetzen.png)
  
-## Inventur   
+## Inventur durchführen
 
 Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandlisten immer sehr gut geführt.   
 
@@ -235,7 +235,23 @@ Am Ende können Sie alles digital korrigieren.
 
 ![](../../static/img/Warenwirtschaft/lagerort_suche.png)
 
-:::
+:::  
+
+## Impfstoffbilanzen erstellen lassen   
+
+Einige Kontrollinstanzen erwarten in der Darstellung der Impfstoffbilanzen eine bestimmte Form der Darstellung.  
+
+Wenn Sie davon betroffen sind, empfehlen wir Ihnen zunächst, eine Produktgruppe mit dem Namen "Impfstoffe" zu erstellen und 
+alle von Ihnen genutzten Impfstoffe (Produkte, achtung, alle Packungsgrößen bedenken) in diese zu sortieren. Am Produkt müssen Sie 
+dazu am Dropdownfeld die passende Gruppe zuordnen und speichern.   
+
+Wenn Sie anschließend im Warenbestand "Erweitert" und "Drucken" klicken, wählen Sie dort  
+
+* Produktgruppe Impfstoffe  
+* Charge anzeigen   
+
+![](../../static/img/Warenwirtschaft/impfstoffbilanz.png)
+
 
 ## Warenwert - Wert der Hausapotheke  
 

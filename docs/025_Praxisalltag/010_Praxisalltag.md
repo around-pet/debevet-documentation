@@ -82,7 +82,7 @@ Wenn Sie nun ein Tier behandeln, wird Ihnen am Kundennamen links eine rote Zahl 
 
 ![](../../static/img/Rechnungen/zahlungsbadge2.png)
 
-## 5. Digitalte Verwaltung der Apotheke im laufenden Betrieb
+## 5. Digitalte Verwaltung der Apotheke im laufenden Betrieb /Angebrochene Packungen eingeben
 
 Sie wollen endlich die Warenwirtschaft, Ihre Apotheke und Ihr Lager mit debevet digital verwalten? Nun sind Sie etwas ratlos, wie
 das im laufenden Betrieb mit bereits angebrochenen Packungen funktioniert?
@@ -193,8 +193,7 @@ bitte direkt im lexware durch. Bei Fragen dazu wenden Sie sich bitte an den lexw
 ## 8. Listen über Impfungen oder Betäubungsmittel (BTM) erstellen
 
 Uns erreichen immer wieder Anrufe, dass Veterinärämter von Kleintierpraxen eine Liste wünsche, welcher Impfstoff an welchem Tag in welches
-Tier (Mit Namen des Besitzers) angewendet wurde. Wir können in der debevet Software keine Liste mit Tiernamen erstellen lassen, aber 
-eine mit den Namen der Besitzer, worüber dann zumindest in der Kartei schnell dargestellt werden kann, welches Tier es war.  
+Tier (Mit Namen des Besitzers) angewendet wurde. Die Tiernamen erscheinen beim Druck der Warenbewegungen mit aufgelistet. 
 
 Der kleine Nachteil ist (Stand 04.2023), dass Sie die entsprechenden Medikamente bzw. Impfstoffe über den Produktnamen einzeln abbilden müssen. Dies bedeutet dann,
 dass nicht für alle Impfstoffe auf einmal eine Liste erstellt werden kann, sondern nur pro Produkt/ Produktname.
@@ -371,7 +370,7 @@ automatisch vorgegeben)
 * debevet Buchhaltung  
 
 Wenn Sie unsere interne Buchhaltung nutzen, müssen Sie einen Saldenvortrag vornehmen.  Dieser sollte für die Konten "Kasse" 
-und "Forderungen" erflgen (bei den meisten Konto 1000 und 1400)
+und "Forderungen" erfolgen (bei den meisten Konto 1000 und 1400)
 
 :::caution Achtung  
 
