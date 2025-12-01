@@ -75,20 +75,24 @@ gesetzt werden, die Qualität verändert werden und vieles mehr.
 ![](../../static/img/videocall/jitsi_erweiterte_vorlagen.png)
 
 ## Erstellen eines Videotermins
+  
+:::caution Achtung!  
+
+Die Videocall-Funktion kann nur bei bereits aktivierter around.pet Schnittstelle genutzt werden.    
+Wie Sie diese aktivieren, erfahren Sie hier:  
+[around.pet Schnittstelle aktivieren](https://handbuch.debevet.de/docs/Online_Terminbuchung/Online_Terminvergabe#aroundpet-schnittstelle-aktivieren=)
+
+::: 
+
 
 Um einen Termin für eine Videosprechstunde für einen Kunden zu erstellen, klicken Sie links auf das Kalender-Symbol.
 
 Nun klicken Sie im Kalender auf die Uhrzeit am Tag, den dem das Videotelefonat stattfinden soll oder Klicken Sie links "Termin anlegen".  
 
-Geben Sie den Grund des Termins ein und wählen Sie als Kalender **around.pet**. (Damit es via around.pet App genutzt werden kann).   
+Geben Sie den Grund des Termins ein und wählen Sie als Kalender den Kalender des gewünschten Therapeuten. Wählen Sie außerdem bei "Typ" den
+Typ "Videosprechstunde"   
 
-![](../../static/img/videocall/videocall_erstellen-__kalenderwahl.png)  
-
-Als Grund für den Termin wählen Sie aus dem Dropdown **Videosprechstunde**.  
-
-![](../../static/img/videocall/videocall_erstellen1.png)  
-
-![](../../static/img/videocall/videocall_erstellen2.png)  
+![](../../static/img/videocall/kalenderundtypauswahl.png)
 
 Geben Sie nun die Dauer des Termins ein und wählen unten wie gewohnt den Patienten und das zugehörige Tier. 
 
