@@ -167,7 +167,25 @@ Das Symbol mit den vier Strichen zeigt die Packungsgröße und Einheit an, in di
 
 Das Symbol mit dem Warenkorb zeigt, wie viel Sie von dem Produkt aktuell in Ihrem Lagerbestand haben, in diesem Beispiel Null.   
 
-![](../../static/img/Kunden/wareerkennen.png)    
+![](../../static/img/Kunden/wareerkennen.png)      
+
+## Medikamente als Abgabe oder Anwendung
+
+Um bei einem oder mehreren Medikamenten auszuwählen, ob es in einer Behandlung verwendet wurde, oder abgegeben wurde,
+können Sie einfach auf das Symbol klicken. Dieses wechselt dann zum jeweils anderen Symbol, z.B.   
+
+Spritze (heißt Anwendung) -> darauf klicken wandelt es um in Tablettensymbol (heißt Abgabe) 
+Tablette (Abgabe) -> darauf klicken wandelt um in Spritze (Anwendung)
+
+![](../../static/img/Warenwirtschaft/anwendungvsabgabe.png)
+
+:::tip Tipp
+
+Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als Abgabe **(Pillensymbol)** oder Behandlung
+**(Spritzensymbol)** gebucht/eingetragen ist.
+
+:::
+
 
 ## Farben und Symbole der eingegebenen Posistionen  
 
@@ -397,19 +415,6 @@ beliebig zu ändern.
 
 ![](../../static/img/Patienten/behandlungen_sortieren.png)  
 
-## Medikamente als Abgabe oder Anwendung  
-
-Um bei einem oder mehreren Medikamenten auszuwählen, ob es in einer Behandlung verwendet wurde, oder abgegeben wurde,
-wählen Sie zunächst die **Checkboxen** der gewünschten Medikamente an. Drücken Sie nun oben rechts auf das **Pillensymbol**.
-
-  ![](../../static/img/Patienten/behandlungen-abgabe-umschalten.png)  
-
-:::tip Tipp  
-
-Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als Abgabe **(Pillensymbol)** oder Behandlung
-**(Spritzensymbol)** gebucht/eingetragen ist.  
-
-:::  
 
 
 ## Brief/Mail an den Patienten anlegen  
