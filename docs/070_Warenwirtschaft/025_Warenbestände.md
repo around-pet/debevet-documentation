@@ -194,7 +194,7 @@ Klicken Sie auf **Zurücksetzen**, um wieder alle Posten angezeigt zu bekommen.
  
 ## Inventur durchführen
 
-Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandlisten immer sehr gut geführt.   
+Wenn Sie die Warenbestandsbuchungen wie angegeben nutzen, sind Ihre Warenbestandslisten immer sehr gut geführt.   
 
 Sie haben verschiedene Darstellungsvarianten, die Sie sich drucken lassen können, je nachdem, welche Inhalte Sie benötigen. 
 
@@ -209,7 +209,7 @@ die Liste die einzelnen Chargen mit dem jeweiligen Verbrauch aufgelistet werden 
 :::tip Tipp: 
 
 Sehr praktisch ist die Funktion, am Feld **Verschreibung** alle BTM ausdrucken zu lassen! (dies geht nur, wenn die entsprechenden 
-Medikamte am Produkt selbst auch als BTM gekennzeichnet sind)
+Medikamente am Produkt selbst auch als BTM gekennzeichnet sind)
 
 :::  
 

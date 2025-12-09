@@ -127,7 +127,7 @@ Logik, wie viel eine ganze Packung ist, ändert sich!)
 
 ![](../../static/img/Warenwirtschaft/abgabepreis_mit_aufschlag.png)
 
-## Abgabepreis und Abgabeeinheit später/im Nachhinein ändern    
+### Abgabepreis und Abgabeeinheit später/im Nachhinein ändern    
 
 :::danger ACHTUNG!
 
@@ -228,6 +228,33 @@ angewandt werden. Das bedeutet, dass bei dem Versuch, dieses in der Behandlung e
 also dort "nicht abgerechnet" werden. Das Programm verweigert automatisch die Behandlung damit.
 
 :::  
+
+### Produktbeschreibung nutzen   
+
+Sie können an jedem Produkt eine Produktbeschreibung hinterlegen. Das können je nach Ihrer Praxisführung Hinweise zur Lagerung, Dosierung,
+Umwidmung oder andere Informationen sein.   
+
+Bitte beachten Sie, dass diese nicht in den Druck (weder Rechnung noch Verschreibung) übernommen werden, sondern nur zu internen Zwecken dienen.   
+
+Sie können bei der Suche selbst hinterlegen, ob in der Behandlung bei der Eingabe auch die Produktbeschreibung mit durchsucht werden soll.   
+
+Dies kann entweder pro Behandlung erfolgen, oder aber global für "immer".    
+
+Wenn Sie dies für eine Behandlung erstellen wollen, klicken Sie bei der Behandlungseingabe das "Filtersymbol":  
+
+Dann aktivieren Sie den Haken "Produkt nach Beschreibung suchen".
+
+![](../../static/img/Warenwirtschaft/beschreibungsuchen_filter.png)      
+
+Wenn Sie global immer die Beschreibungen mit durchsuchen wollen, klicken Sie zunächst auf die "Zahnräder" und dann "Einstellungen".   
+
+Dort klicken Sie den Reiter "Allgemein" und setzen den Haken bei "Produkt nach Beschreibung suchen". Vergessen Sie nicht, anschließend zu speichern.   
+
+![](../../static/img/Warenwirtschaft/produktbeschreibung_suchen_global.png)  
+
+Sobald Beschreibungen am Produkt hinterlegt sind, werden diese nun mit durchsucht und auch in der Vorschau angezeigt, wenn Sie das Produkt suchen.   
+
+![](../../static/img/Warenwirtschaft/produktbeschreibung_vorschau.png)
 
 ### Umwidmungen Humanmedikamente  
 
