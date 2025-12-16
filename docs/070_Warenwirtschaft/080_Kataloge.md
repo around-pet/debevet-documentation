@@ -103,10 +103,17 @@ Dies geht allerdings nicht über einen Katalog, sondern über unsere Import-Funk
 
 Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **Dropdown-Pfeil** und wählen ganz unten aus der Liste **Barsoi Liste - Produkte**.
 
-![](../../static/img/Admin/import_dropdown.png) 
+![](../../static/img/Admin/import_dropdown.png)   
 
-![](../../static/img/Admin/import3.png)
- 
+:::danger Achtung!  
+
+Scrollen Sie bitte unbedingt ganz runter in der Auswahl bis zur korrekten Überschrift "Barsoi-Liste"!   
+
+:::  
+
+
+ ![](../../static/img/Warenwirtschaft/barsoiupdate_2.png)  
+
 Nun klicken Sie auf das **Wolkensymbol** und wählen dann die **zip Datei**. (schlicht und einfach die Datei, wie Sie diese bei Barsoi heruntergalden haben) 
 
 :::tip Tip:  

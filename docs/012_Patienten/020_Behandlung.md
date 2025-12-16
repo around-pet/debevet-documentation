@@ -122,6 +122,19 @@ zu nutzen? Bei 3 ganzen Packungen tippen Sie eine 3 in das Feld und drücken dan
 
 
 :::   
+  
+### Cursorposition nach Eingabe   
+
+Wenn Sie sich wünschen, dass der Cursor nach jeder Eingabe einer Leistung/ eines Produktes automatisch zurück in das Feld der
+Eingabe "springt", können Sie dies in Ihren Einstellungen selbst festlegen:   
+
+Klicken Sie dazu auf die "Zahnrädchen" und dann "Einstellungen".  
+
+Wählen Sie nun den Tab "Behandlung". Dort gibt es den Haken "Fokus zurück auf heute bei Behandlungseintrag".  
+
+![](../../static/img/Patienten/focusback.png)  
+
+Probieren Sie gern selbst, mit welcher Einstellung Sie angenehmer arbeiten können.
 
 ### Nur lagernde Produkte suchen  
 
