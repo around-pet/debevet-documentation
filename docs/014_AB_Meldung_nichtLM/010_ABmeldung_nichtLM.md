@@ -1,22 +1,47 @@
-# Antibiotika Meldung bei nicht lebensmittelliefernden Tieren  
+# Antibiotika Meldung bei weiteren Tierarten ab 2025
 
-Ab dem 1.1.2030 wird die Meldung über den Antibiotika-Verbrauch auch bei nicht LM Tieren wie Hunden, Katzen, nicht LM Pferden etc. 
-Pflicht.   
+Verpflichtendes Antibiotikamonitoring ab 01.01.26 : Erweiterung auf weitere Tierarten
+
+Ab dem 1.01.2027 muss rückwirkend für 2026 der Verbrauch von Antibiotika für folgende Tierarten  (sogenannte Stufe 2)
+erfolgen:   
+
+
+
+* Pferde (inklusive Nicht-Schlachttiere)   
+
+* Schafe und Ziegen  
+
+* Gänse und Enten  
+
+* Kaninchen zur Lebensmittelgewinnung  
+
+* Fische der Arten  
+
+Atlantischer Lachs ,Regenbogenforelle, Goldbrasse, Wolfsbarsch, Karpfen
+
+Für diese Tierarten gilt: 
+
+Die Datenerhebung erfolgt unabhängig von Nutzungsart oder Bestandsgröße und ist für jedes einzelne Tier erforderlich.
+Eine Meldepflicht dieser Daten ist aktuell ab Januar 2027 vorgesehen. (rückwirkend)
+
+Ab dem 1.1.2030 wird die Meldung über den Antibiotika-Verbrauch auch bei  Hunden und Katzen Pflicht.   
 
 Diese muss allerdings bereits rückwirkend für das Jahr 2029 erfolgen.  
 
 ## Was brauche ich, um zu melden?  
 
-Sie benötigen die Zugangsdaten zur HI-Tier als Tierarzt, diese besteht aus einer Nummer und einem Passwort.  
+Sie benötigen die Zugangsdaten zur HI-Tier als Tierarzt, diese besteht aus einer Nummer und einem Passwort. Diese können Sie bei der HIT 
+anfordern
 
 ## Kann ich im debevet jetzt schon melden?  
 
-Nein, bisher haben wir keine Lösung zur Meldung der nicht LM Tier Daten entwickelt.Geplant ist dies für ca. April 2029.  
+Nein, bisher haben wir keine Lösung zur Meldung der Tierarten entwickelt. Allerdings werden wir im Laufe des Jahres 2026 die Lösung bereit stellen. 
+Da Sie erst rückwirkend ab Januar 2027 melden müssen, ist hier keine Panik angebracht.
 
 ## Welche Daten müssen gemeldet werden?  
 
-Anders als bei den LM Tieren werden wir NICHT über die Verschreibungen melden. Das liegt an einer anderen Anforderung, denn die 
-Daten der nicht LM Antibiotika (AB) Verbräuche werden anonym, also ohne Besitzerdaten gemeldet. 
+Anders als bei nun zu meldenden Tierarten werden wir NICHT über die Verschreibungen melden.  
+Das liegt an einer anderen Anforderung, denn die Daten der weiteren Tierarten und deren Antibiotika (AB) Verbräuche werden anonym, also ohne Besitzerdaten gemeldet. 
 
 Aktuell haben wir bereits eine Liste über Ihre Antibiotika Verbräuche eingerichtet, um diese bereits zu "sammeln" und dann evtl. sogar direkt
 über diese Liste melden zu können. Eine Klärung mit der HIT und unseren Entwicklern ist in Arbeit.  
@@ -67,7 +92,6 @@ Hier finden Sie die Verbräuche, WENN der Haken gesetzt war.
 
 :::danger: Achtung! 
 
-Bitte setzen Sie dringend jetzt schon alle Haken an den Produkten, damit der Verbrauch erfasst werden kann!  Stand Jan 2024 ist, dass
-wir es aktuell noch nicht "nachträglich" abbilden können!
+Bitte setzen Sie dringend jetzt schon alle Haken an den Produkten, damit der Verbrauch erfasst werden kann!
 
 :::
