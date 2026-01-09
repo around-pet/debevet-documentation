@@ -492,7 +492,7 @@ Sonstiges:
 
 :::caution Bitte beachten!
 
-Die Anforderung des Exportes wird nicht direkt durchgeführt. Es wird nur ein Auftrag, ein sogenannter "Job" erstellt, der dann zu einer
+Die Anforderung des Exports/Imports wird nicht direkt durchgeführt. Es wird nur ein Auftrag, ein sogenannter "Job" erstellt, der dann zu einer
 bestimmten Uhrzeit erfolgt. Um die genannte Uhrzeit steht dann Ihr Export als CSV Datei zur Verfügung (Diese können dann im Excel eingelesen werden und be
 Bedarf in eine xml Datei umgewandelt werden).
 
@@ -506,7 +506,100 @@ Bedarf in eine xml Datei umgewandelt werden).
 Wenn Sie aus einem anderen Praxisprogramm zu debevet wechseln möchten, können wir aus den meisten Programmen die Kundendaten ohne 
 Probleme und Kosten für Sie importieren!  
 
-:::  
+:::    
+
+## Import von Kunden und Patienten aus anderen Programmen  
+
+Sie haben die Möglichkeit, beim Wechsel zu debevet Ihre Kunden und Patienten zu importieren. Dazu benötigen Sie zwei getrennte 
+CSV Dateien, eine für die Kunden (also Tierbesitzer) und eine für die Patienten. Beide müssen eindeutig zueinander zuzuordnen sein, über eine 
+Kundennummer, Halter ID oder ähnliches. Dabei hat ein Kunde immer eine Kundennummer und seine Tiere alle dann eben diese Kundennummer, um zugeordnet werden 
+zu können.    
+
+Die Datenfelder, die benötigt werden, damit diese Daten sauber importiert werden können, sind bei der Kundendatei folgende  Spalten:  
+(genauso benannt, genau in der Reihenfolge)
+
+CUSTOMER_NO (Pflichtfeld)  hier muss die Kundennummer eingetragen werden. Sollten diese Kundennummern unter 10000 liegen, empfehlen wir eine Anpassung, um bei Nutzung von Collmex
+keine Probleme zu provozieren und eine einwandfreie Verarbeitung in debevet generell zu ermöglichen. Achten Sie dabei darauf, dass die Kundennummern auch
+am Tier (also in der Patientenliste) entsprechend geändert werden. Dies kann mit Chat GPT erfolgen oder durch einen Programmierer.  
+
+**Wenn Sie schon bestehende Kunden in debevet haben, muss der Nummernkreis dem aktuellen Stand in Ihrem debevet angepasst werden!**
+
+SALUTATION  Hier muss die Anrede eingefüht werden, entweder MRS oder MR (genau so, Schreibweise und Großbuchstaben immer beachten)   
+
+FIRSTNAME   
+
+LASTNAME  (Pflichtfeld)
+
+FIRM  
+
+DEPARTMENT (oft leer, aber Spalte muss vorhanden sein)   
+
+STREET   
+
+HOUSE (Hausnr.)   
+
+POSTALCODE  (ACHTUNG! unbedingt in DE 5 stellig, keine anderen Zeichen!)
+
+CITY  
+
+PHONE_HOME  
+
+PHONE_WORK  
+
+EMAIL_WORK  
+
+EMAIL  
+
+EMAIL_CONSENT_DATE (Achtung, ALLE Daten immer im Format YYYY_MM-DD ansonsten kein Import machbar)  
+
+HIT_NUMBER    
+
+VVVO_NUMBER   
+
+
+Die Datenfelder, die benötigt werden, damit diese Daten sauber importiert werden können, sind bei der Patientendatei folgende  Spalten:  
+(genauso benannt, genau in der Reihenfolge)   
+
+CUSTOMER_NO  Siehe Anmerkung in der Kundendatei! Muss unbedingt das Matchen der Patienten zu den Kunden ermöglichen   
+
+PATIENT_ID  (leer lassen, wird von debevet im Hintergrund gefüllt)  
+
+PATIENT_NO  (steigene Nummer von 10000 aufwärts, Pflichtfeld! Wenn im debevet bereits Patienten eingetragen sind, Nummern an den laufenden Nummernkreis 
+anpassen!)   
+
+CALLNAME 
+
+SPECIES (Katze, Hund, Rind, Schwein, Kaninchen, KEINE RASSEN!)   
+
+RACE  (Rassen, aber vieles wird nicht einlesbar sein, je nach Schreibweise etc. Kann aber nach Import dann bei Behandlung gesetzt werden)   
+
+GENDER  (GEschlecht, immer setzen als MALE oder FEMALE)    
+
+COLOR (kann ausgefüllt werden, muss aber nicht)   
+
+EUID  (Heimtierausweisnummer)   
+
+DESCRIPTION   (Anmerkungen zum Tier)   
+
+CASTRATED  (nur 0 (nein) oder 1 (ja) eintragen!   
+
+BIRTHDATE  (wieder strikt im Format YYYY-MM-DD- es wird NICHTS anderes toleriert und der Import wird abgebrochen!!!)  
+
+OBIT  (leer lassen)  
+
+CHIP_NO   
+
+CHIP_DATE  (Siehe Datumsformat birthdate))   
+
+
+:::caution   ACHTUNG  
+
+Wir bitten um Beachtung: Uns erreichen oft fehlerhafte Daten, bei denen z.B. der Name im Feld Geburtsdatum steht, der ort bei Telefonnnummer etc. 
+Wir bitten Sie, dass Sie selbst die Daten mit Hilfe von Chat GPT sauber aufarbeiten und korrigieren, damit diese importfähig werden. Wir assistieren gern,
+aber wenn die Aufarbeitung mehrere Stunden dauert, behalten wir uns vor, dies in Rechnung zu stellen.   
+
+:::   
+
 
 ## Kleinunternehmer  
 
