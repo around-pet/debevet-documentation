@@ -550,7 +550,7 @@ EMAIL_WORK
 
 EMAIL  
 
-EMAIL_CONSENT_DATE (Achtung, ALLE Daten immer im Format YYYY_MM-DD ansonsten kein Import machbar)  
+EMAIL_CONSENT_DATE (Achtung, ALLE Daten immer im Format YYYY-MM-DD ansonsten kein Import machbar)  
 
 HIT_NUMBER    
 
@@ -573,7 +573,7 @@ SPECIES (Katze, Hund, Rind, Schwein, Kaninchen, KEINE RASSEN!)
 
 RACE  (Rassen, aber vieles wird nicht einlesbar sein, je nach Schreibweise etc. Kann aber nach Import dann bei Behandlung gesetzt werden)   
 
-GENDER  (GEschlecht, immer setzen als MALE oder FEMALE)    
+GENDER  (Geschlecht, immer setzen als MALE oder FEMALE)    
 
 COLOR (kann ausgefüllt werden, muss aber nicht)   
 
@@ -583,7 +583,7 @@ DESCRIPTION   (Anmerkungen zum Tier)
 
 CASTRATED  (nur 0 (nein) oder 1 (ja) eintragen!   
 
-BIRTHDATE  (wieder strikt im Format YYYY-MM-DD- es wird NICHTS anderes toleriert und der Import wird abgebrochen!!!)  
+BIRTHDATE  (wieder strikt im Format YYYY-MM-DD es wird NICHTS anderes toleriert und der Import wird abgebrochen!!!)  
 
 OBIT  (leer lassen)  
 
