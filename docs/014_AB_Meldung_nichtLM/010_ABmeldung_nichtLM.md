@@ -1,4 +1,4 @@
-# Antibiotika Meldung bei weiteren Tierarten ab 2025
+# Antibiotika Meldung bei weiteren Tierarten ab 2026
 
 Verpflichtendes Antibiotikamonitoring ab 01.01.26 : Erweiterung auf weitere Tierarten
 
