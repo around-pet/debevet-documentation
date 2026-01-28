@@ -30,7 +30,23 @@ zusätzlich aufdrucken lassen wollen, können Sie selbst bestimmen.
 
 Die Darstellung können Sie im selben Bereich setzen in der Sie auch das Ablaufdatum setzen:
 
-![](../../static/img/Nutztiere/verschreibung-druckoptionen.png)
+![](../../static/img/Nutztiere/verschreibung-druckoptionen.png)   
+## Unterschrift des Tierarztes hinterlegen
+
+Um Ihre Unterschrift auf die Verschreibungen zu drucken, müssen Sie zunächst in den  Einstellungen der Druckoptionen die
+Checkbox aktivieren, dass die Unterschrift gedruckt werden soll.
+
+
+![](../../static/img/Nutztiere/unterschrift_checkbox.png)
+
+Anschließened müssen Sie Ihre Unterschrift einmalig anlegen. Klicken Sie dazu unten links auf Ihren Benutzernamen und dann "Profil".
+
+![](../../static/img/Nutztiere/unterschrift1.png)
+
+Unterschreiben Sie in dem Feld und speichern Sie zunächst unter dem Feld mit Klicken auf "Speichern" und anschließend noch einmal
+oben rechts mit "Speichern".
+
+Auf alle ab sofort erstellten Verschreibungen (NICHT rückwirkend) wird die Unterschrift nun hinterlegt.
 
 ## Darreichungsformen hinterlegen
 
