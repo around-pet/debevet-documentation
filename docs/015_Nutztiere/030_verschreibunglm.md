@@ -44,7 +44,9 @@ Anschließened müssen Sie Ihre Unterschrift einmalig anlegen. Klicken Sie dazu 
 ![](../../static/img/Nutztiere/unterschrift1.png)
 
 Unterschreiben Sie in dem Feld und speichern Sie zunächst unter dem Feld mit Klicken auf "Speichern" und anschließend noch einmal
-oben rechts mit "Speichern".
+oben rechts mit "Speichern".  
+
+![](../../static/img/Nutztiere/unterschrift2.png)
 
 Auf alle ab sofort erstellten Verschreibungen (NICHT rückwirkend) wird die Unterschrift nun hinterlegt.
 
