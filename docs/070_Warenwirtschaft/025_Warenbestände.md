@@ -5,6 +5,7 @@ ist eine Apothekenprüfung und Inventur für Sie ein Kinderspiel!
 
 Sie können einen Warenbestand entweder direkt anlegen (der empfohlene Weg!!!) oder aber die Kette von Bestellung-Lieferung-Warenbestand nutzen.   
 
+Wir empfehlen immer, Warenbestände direkt anzulegen und nicht die Kette über Bestellung-Lieferung-Warenbestand zu nutzen.
 
 
 ## Neuen Warenbestand anlegen   
@@ -18,8 +19,8 @@ aller Bestellungen noch nicht so gut digitalisiert war.
 
 :::
 
-Sie können bei jedem Wareneingang direkt und schnell  einen neuen Warenbestand anlegen. Klicken Sie hierzu auf **Warenwirtschaft** und dann
-**Warenbestände**. Sie sehen die ungefilterte Liste Ihrer Warenbestände. Klicken Sie nun auf das grüne **Plus-Symbol**, um auf die
+Sie  können direkteinen neuen Warenbestand anlegen. Klicken Sie hierzu auf **Warenwirtschaft** und dann **Warenbestände**.
+Sie sehen die ungefilterte Liste Ihrer Warenbestände. Klicken Sie nun auf das grüne **Plus-Symbol**, um auf die
 Seite zur Eingabe eines neuen Warenbestandes zu gelangen. 
 
 ![](../../static/img/Warenwirtschaft/Neuen_Warenbestand_anlegen.png)  
@@ -53,7 +54,14 @@ die passende Menge vom Warenbestand abgezogen wird!
 
 :::
 
-## Einlesen mit dem Barcodescanner  
+## Einlesen mit dem Barcodescanner    
+
+:::warning Bitte dringend beachten:  
+Um das Einlesen mit dem Barcodescanner zu ermöglichen, muss in den Grundeinstellungen ("Zahnrädchen"- Einstellungen- Reiter Allgemein) der Haken 
+gesetzt sein für das Durchsuchen der Produktbeschreibung.  
+
+:::  
+
 
 :::caution Woher bekomme ich den Scanner? 
 
@@ -344,3 +352,20 @@ Klicken Sie dann auf den grünen Button **Korrigieren**. Der neue Bestand ist da
 Falls Sie mehrere Chargen lagernd haben, achten Sie darauf, die korrekte Charge auszubuchen!  
 
 ::: 
+
+## Fehler in Warenbewegungen korrigieren   
+
+In seltenen Fällen kann es zu Problemen der Berechnung der Warenbewegungen kommen, wenn Sie sehr weit und oft Warenein- und ausgang rückdatieren. 
+In den Fällen sind auch in der gedruckten Inventurliste Abweichungen erkennbar, zum Beispiel so:  
+
+![](../../static/img/Warenwirtschaft/inventur_abweichung.png)   
+
+Für diese seltenen Fälle haben wir am Produkt selbst die Möglichkeit, die Warenbewegungen neu zu berechnen/zu korrgieren. 
+Sollte also ein solches Problem auftreten, öffnen Sie das Produkt über die Warenbewegungen (mit einem Klick auf den Namen dort können 
+Sie direkt in das korrekte Produkt springen).   
+
+Am Reiter "Warenbestand" sehen Sie den Button zur Neuberechnung. Klicken Sie diesen bitte nur einmalig (kein Doppelklick).
+
+Der Fehler wird bereinigt, kontrollieren Sie nun die Warenbewegungen und die Inventurliste bitte erneut.
+
+![](../../static/img/Warenwirtschaft/neuberechnung_ware.png)
