@@ -180,8 +180,12 @@ Wenn diese Daten fehlen, hat Barsoi diese nicht überliefert. Tragen Sie diese b
 
 ### Anwendungsanweisungen
 
-Für Medikamente, die Sie abgeben, sind Sie verpflichtet, die Anwendungshinweise mit auf den AUA Beleg zu schreiben. Damit dieser
-im debevet dann automatisch korrekt ausgefüllt ist, können und müssen Sie die Anwendungshinweise am Medikament hinterlegen.  
+Für Medikamente, die Sie abgeben, sind Sie verpflichtet, die Anwendungshinweise mit auf die Verschreibungen zu setzen. Damit dieser
+im debevet dann automatisch korrekt ausgefüllt ist, können und müssen Sie die Anwendungshinweise am Medikament hinterlegen.   
+ 
+Sie können zwar auch beim Erstellen der Verschreibung auch jedes mal manuell Hinweise ausfüllen, schneller und einfacher ist dies jedoch, wenn
+Sie diese bereits vorab speichern. 
+
 Klicken Sie hierzu den Reiter **Anwendungsanweisungen** und hinterlegen dort die entsprechenden Daten.  
 Dabei müssen folgende Felder gesetzt werden:  
 
@@ -193,7 +197,13 @@ Dabei müssen folgende Felder gesetzt werden:
 * **Verabreichungsform** hier wählen Sie via Dropdown, wie das Medikament zu verabreichen ist
 * **Beginn**  Beginn in x Tagen (Also ab wann die Gabe beginnt)
 
-![](../../static/img/Warenwirtschaft/anwendungshinweise.png)  
+![](../../static/img/Warenwirtschaft/anwendungshinweise.png)   
+
+Bitte beachten Sie, dass Sie beim Eintragen jeder Zeile zuerst den grünen Haken klicken und dann oben rechts speichern.   
+
+![](../../static/img/Warenwirtschaft/anwendungshinweis_gruenerhaken.png)  
+
+Wir planen, dies mit dem Einbau eines "Autospeicherns" zu vereinfachen, bis dahin wird dieser Schritt leider aktuell noch notwendig.
 
 ### Wirkstoffe   
 
