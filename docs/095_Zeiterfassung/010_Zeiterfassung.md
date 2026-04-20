@@ -1,7 +1,7 @@
 # Zeiterfassung  
 
-Seit September 2022 bietet debevet eine eigene, im Programm integrierte Zeiterfassung als Add-On. (bis Ende 2022 kostenfrei zum Testen,
-danach gegen Aufpreis).
+Seit September 2022 bietet debevet eine eigene, im Programm integrierte Zeiterfassung als Add-On. Bitte beachten Sie, dass diese 
+kostenfrei von uns zur Verfügung gestellt wird, aber nicht die Tiefe und Komplexizität bietet, die viele kostenpflichtige Tools bieten.
 
 Um in den Bereich zu gelangen, klicken Sie in der Menüleiste ganz unten auf **Verwaltung**. 
 
