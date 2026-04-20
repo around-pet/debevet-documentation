@@ -19,24 +19,20 @@ Dabei wird unterschieden (und das stellen Sie selbst pro Terminanlass ein) in:
 ## around.pet Schnittstelle aktivieren
 
 Zunächst müssen Sie in der debevet Software die around.pet Verbindung einmalig einrichten. Klicken Sie dazu auf **Administration** und dann
-**API**.
+**Erweiterungen**. 
 
-![](../../static/img/Admin/aroundpet1.png)
+![aroundpet1.png](../../static/img/erweiterungen/aroundpet1.png)  
+
+Srollen Sie ganz nach unten bis zur Sektion "Terminvereinbarung" . 
+
+![aroundpet_anlegen.png](../../static/img/erweiterungen/aroundpet_anlegen.png)
+
 
 Gehen Sie auf den Button aktivieren und setzen Sie den Haken bei "Ich akzeptiere die Nutzungsbedingungen des Anbieters".
-Anschließend können Sie die Schnittstelle aktivieren.
+Anschließend können Sie die Schnittstelle aktivieren.  
 
-![](../../static/img/Admin/aroundpet2.png)   
+![aroundpet_aktivieren.png](../../static/img/erweiterungen/aroundpet_aktivieren.png)
 
-:::info Videotipp:  
-
-Hier finden Sie ein Video, welches die grundsätzliche Aktivierung der Schnittstelle und die Basis Einstellungen der Online-Terminbuchung
-erklärt:   
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqN9BBbicqE?si=fg0g1AzLU7oVv46H" title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
-
-:::  
 
 ## Zeiten für Termine vorgeben
 
@@ -88,11 +84,11 @@ Bisher haben wir im debevet nur die Möglichkeit, eine globale Vorlaufzeit in St
 dürfen. Wenn Sie beispielsweise nicht wünschen, dass die Kunden noch am selben Tag buchen können, setzen Sie die Vorlaufzeit auf mind. 24 Stunden.
 Bitte beachten Sie dabei, dass Buchungen auch Sonntags erfolgen könnten!
 
-Um die Vorlaufzeit festzulegen, klicken Sie auf **Administation** und dann **Einstellungen**. Dort wählen Sie den Reiter **API**.  
+Um die Vorlaufzeit festzulegen, klicken Sie auf **Administation** und dann **Einstellungen**. Dort wählen Sie den Reiter **Online-Terminvereinbarung**.  
 
 Dort finden Sie das Feld "Vorlauf", in das Sie die gewünschte Stundenzahl eintragen können.  
 
-![](../../static/img/Kunden/vorlaufzeit.png)   
+![aroundpet_zeitenvorlauf.png](../../static/img/erweiterungen/aroundpet_zeitenvorlauf.png)
 
 Auf Wunsch können Sie auch festlegen, wie viele Tage die Kunden maximal im voraus Termine buchen können, z.B. 28 Tage.
 
