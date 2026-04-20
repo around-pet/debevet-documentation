@@ -478,8 +478,7 @@ Import aus EasyVet:
 
 * Kunden
 * Patienten
-* Produkte
-* Eigene Dienstleistungen  
+
 
 Import aus Vetera:  
 
