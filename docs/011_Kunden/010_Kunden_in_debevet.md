@@ -107,7 +107,32 @@ Kundenregistrierung auf Wunsch bereits verpflichtend abgefragt werden (auf Ihren
 
 Nun füllen Sie das Datumsfeld mit dem Geburtstag des Kunden und klicken oben rechts auf "Speichern".   
 
-![](../../static/img/Kunden/gebdatum2.png)
+![](../../static/img/Kunden/gebdatum2.png)  
+
+### Warnungen oder Hinweise an einem Kunden hinterlegen  
+
+Wenn ein Kunde eine schlechte Zahlungsmoral besitzt, dem Kunden Hausverbot erteilt wurde oder Sie sonstige Hinweise zu einem Kunden hinterlegen
+möchten, kann dies wie folgt durchgeführt werden:   
+
+Rufen Sie den Kunden aus der Kundenliste auf. Klicken Sie anschließend den Reiter "Allgemein". 
+
+![warnungen1.png](../../static/img/Kunden/warnungen1.png)  
+
+Wenn Sie eine der Optionen anklicken, indem Sie die Checkbox aktivieren, öffnet sich ein Feld, in dem die Hinweise hinterlegt werden 
+können.   
+
+![warnungen2.png](../../static/img/Kunden/warnungen2.png)  
+
+Nicht vergessen, diese zu speichern.  
+
+Wenn Sie nun die Tiere des Kunden behandeln, sehen Sie Symbole, die auf Hinweise/Warnungen hinweisen. Mit einem Mouse-over (Darüberfahren mit der
+Maus ohne zu klicken) wird der Text sichtbar.   
+
+![warnung3.png](../../static/img/Kunden/warnung3.png)  
+
+In der Kundenliste sind ebenfalls die Warnsignale sichtbar.  
+
+![warnung4.png](../../static/img/Kunden/warnung4.png)
 
 ### Konten  
 
