@@ -13,7 +13,7 @@ Folgende Kataloge werden aktuell zur Verfügung gestellt
 * Laboklin - Laborleistungen inkl. Preis (Einkauf und Verkauf)
 * Pharmaliste - Liste der gängigsten Pharmahersteller als auch Distributoren
 * GMON - Diagnoseschlüssel für Hunde, Katzen, Pferde, Rinder und Schweine 
-* Barsoi-Liste - Medikamentenpreise (vorausgesetzt, Sie haben die digitale Version der Liste, welche bei Barsoi erworben werden kann)  
+* Barsoi-Liste - Medikamentenpreise  (muss getrennt bei Barsoi bezahlt werden und ist nur dann nutzbar)
 
 ## Katalog importieren  
 
@@ -83,66 +83,51 @@ die Eingaben aus dem Katalog zurücksetzen indem Sie nach dem Aufrufen der Diens
 
 ## Barsoi Liste integrieren/ importieren  
 
-Natürlich haben Sie bei debevet die Möglichkeit, die Barsoi-Liste zu hinterlegen, um alle Medikamentenpreise direkt nutzen zu können. Allerdings muss die Liste manuell
-importiert werden, sie aktualisiert sich nicht von selbst. 
+Natürlich haben Sie bei debevet die Möglichkeit, die Barsoi-Liste zu hinterlegen, um alle Medikamentenpreise direkt nutzen zu können. Ab
+Juni 2026 wird diese voll automatisch eingebunden und aktualisiert sich selbst. 
 
-Die Barsoi muss bei Barsoi selbst getrennt bezahlt werden, diese ist nicht in den Kosten für unsere Software enthalten.    
+Die Barsoi muss bei Barsoi selbst getrennt bezahlt werden, diese ist nicht in den Kosten für unsere Software enthalten. 
+
+
 
 :::caution WICHTIG!   
 
-Sollten Sie von einer anderen Software zu debevet wechseln, geben Sie dies bitte bei Barsoi an, indem Sie dort anrufen. Viele andere 
-Softwareanbieter arbeiten mit einer anderen Version (1.12.xx), damit der Import in debevet funktioniert, benötigen Sie aber 25.xx.xx (Stand 
-Okt. 2025). Um zu prüfen, welche Version Sie aktuell bei Barsoi herunterladen, öffnen Sie die barsoi.xml Datei und scrollen ganz nach rechts, in der letzten Spalte steht die Version.
-Wenn Sie ein neues Abo abschließen, müssen Sie die Praxissoftware angeben, dann sollte automatisiert die passende Version bereit stehen.   
-
-:::
-
-Dies geht allerdings nicht über einen Katalog, sondern über unsere Import-Funktion. Klicken Sie hierzu auf **Administration** und dann **Import/Export**.
-
-![](../../static/img/Admin/Import1.png)
-
-Nun klicken Sie **Neuer Import** und klicken in der sich öffnenden Seite den **Dropdown-Pfeil** und wählen ganz unten aus der Liste **Barsoi Liste - Produkte**.
-
-![](../../static/img/Admin/import_dropdown.png)   
-
-:::danger Achtung!  
-
-Scrollen Sie bitte unbedingt ganz runter in der Auswahl bis zur korrekten Überschrift "Barsoi-Liste"!   
+Sie benötigen zum Nutzen der Barsoi Erweiterung Ihre Kundennummer. Die Erweiterung muss von Ihnen eingerichtet werden (wir helfen
+gern!)    
 
 :::  
 
+Um die Erweiterung zu aktivieren, klicken Sie auf die Zahnräder und dann "Erweiterungen". Scrollen Sie herunter,  bis Sie "Barsoi" 
+finden und klicken Sie "Anlegen".  
 
- ![](../../static/img/Warenwirtschaft/barsoiupdate_2.png)  
+![barsoineu1.png](../../static/img/erweiterungen/barsoineu1.png)
 
-Nun klicken Sie auf das **Wolkensymbol** und wählen dann die **zip Datei**. (schlicht und einfach die Datei, wie Sie diese bei Barsoi heruntergalden haben) 
+Hier müssen Sie nun Ihre Kundennummer von Barsoi eingeben und wählen, welches Paket Sie dort zahlen. Bitte geben Sie alles korrekt ein,
+denn dies wird von Barsoi überprüft, sollten die Daten nicht stimmen, wird die Nutzung im debevet deaktiviert. 
+  
+![barsoineu3.png](../../static/img/erweiterungen/barsoineu3.png)
 
-:::tip Tip:  
+### Ganzer Katalog oder nur Teile der Barsoi nutzen 
 
-Wenn sie kein Wissen über zip Dateien haben, haben wir weiter unten (in den Fragen zur Barsoi) dazu einen Hilfetext angelegt. 
+Da wir viele Nutzer hatten, die sich wünschten, nicht alle Produkte zu importieren, da ihnen dies zu  unübersichtlich sei, haben wir
+ab sofort die Möglichkeit, auch nur Teile in den Produktkatalog zu importieren. Wenn Sie dies nutzen möchten, wählen Sie "nur Auswahl importieren".
+Wenn Sie den gesamten Katalog importieren wollen, wählen Sie dies. Der Katalog wird dann automatisch importiert und auch bei neuen Produkten werden 
+diese immer voll automatisch importiert. 
 
-:::
+Wenn Sie die "Auswahl" Variante wählen, müssen Sie im Barsoi Katalog (dieser ist erst nach Aktivierung der Erweiterung sichtbar) 
+selbst wählen und importieren. (Selber Ablauf wie im GOT Katalog)    
 
-Wichtig ist, dass Sie sich entscheiden, ob existierende Einträge übersprungen werden sollen. Wenn Sie beispielsweise sehr viele
-indivduelle Anpassungen haben, kann dies sinnvoll sein, damit diese nicht überschrieben werden.  
+![barsoineu4.png](../../static/img/erweiterungen/barsoineu4.png)
 
-Allerdings werden dann **GAR KEINE** Informationen 
-für diese Produkte aktualisiert, auch nicht der Preis. 
+### Einzelne Felder nicht überschreiben/aktualisieren  
 
-**Nehmen Sie den Haken also heraus, wenn die bestehenden Produkte auch aktualisiert werden sollen. ** 
+Da es immer wieder Nutzer gibt, die einzelne Felder ändern wollen, und diese dann nicht mit überschreiben lassen wollen, haben wir dies mit 
+eingerichtet. 
+Wenn der Haken an einem dieser Auswahlfelder aktiv gesetzt ist, bedeutet dies, dass die Barsoi nur alle anderen Felder "erneut abholt" und das
+gewählte Feld für KEIN Produkt mehr überschreibt.    
 
-![](../../static/img/Admin/import4.png)
 
-Anschließend klicken Sie auf **Anlegen**.  
-
-:::caution Bitte beachten!
-
-Die Anforderung des Exportes wird nicht direkt durchgeführt. Es wird nur ein Auftrag, ein sogenannter "Job" erstellt, der dann zu einer
-bestimmten Uhrzeit erfolgt. Um die genannte Uhrzeit steht dann Ihr Export als CSV Datei zur Verfügung (Diese können dann im Excel eingelesen werden und be
-Bedarf in eine xml Datei umgewandelt werden).
-
-![](../../static/img/Admin/jonzeitpunkt.png)
-
-:::   
+![barsoi-ausnahmen.png](../../static/img/erweiterungen/barsoi-ausnahmen.png)
 
 ### Einzelne Produkte nicht überschreiben  
 
@@ -159,15 +144,10 @@ dieses Produktes **nicht** überschrieben.
 
 ### Häufige Fragen zur Barsoi Liste  
 
-Hier möchten wir einige Fragen beantworten, die uns regelmäßig bezüglich der Nutzung der Barsoi Liste erreichen. 
 
-1. Muss ich die Liste immer wieder hochladen, wenn es ein Update gibt, oder geschieht dies automatisch?
+1. Wenn ich vorher manuell Produkte angelegt habe und nun die Barsoi Liste importiere und nutzen will, muss ich die inventurpflicht manuell neu setzen?
 
-Aktuell gibt es keine Schnittstellen Lösung, deswegen müssen Sie die Liste, immer wenn sie aktualisiert wird, erneut hochladen.
-
-2. Wenn ich vorher manuell Produkte angelegt habe und nun die Barsoi Liste importiere und nutzen will, muss ich die inventurpflicht manuell neu setzen?
-
-Ja. Da die Liste alle Produkte mit neuen Produktnummern komplett neu liefert, kann die debevet Software nicht wissen, dass das diesebeln Produkte sind,
+Ja. Da die Liste alle Produkte mit neuen Produktnummern komplett neu liefert, kann die debevet Software nicht wissen, dass das dieselben Produkte sind,
 die bei Ihnen im Schrank stehen. Wenn Sie also die Produkte aus der Liste nutzen wollen, empfehlen wir, ihren Bestand auf die neuen Produkte zu übertragen und die alten,
 manuell angelegten Produkte zu löschen- so bleibt es übersichtlicher.
 In diesem Rahmen müssen Sie dann, wenn Sie dies nutzen wollen, auch die Produkte wieder auf "inventurpflichtig" setzen. 
@@ -179,33 +159,9 @@ Wenn der Haken nicht gesetzt wird, muss immer erst noch manuell eine Charge gew�
 
 :::
 
-3. Wenn ich bei einem Produkt aus der Barsoiliste etwas manuell ändere, wird das beim nächsten Import wieder überschrieben?
-
-Ja, wenn Sie den Haken bei "vorhandene überspringen" herausnehmen, werden alle Informationen zu Preis und Packung wieder zurückgesetzt auf das, was die Liste 
-überliefert. 
-
-
-4. Kann ich eine Übersicht einsehen, welche Posten aktualisiert wurden?
-
-Leider nein, tut uns leid.
-
-### Was ist eine zip Datei?
-
-Für diejenigen von Ihnen mit weniger Computer Erfahrung haben wir hier eine kleine, sehr stark vereinfachte Erklärung eingefügt, was eine zip Datei ist.
-
-Sie können sich eine zip Datei vorstellen, wie ein Paket: 
-
-* Eine oder mehrere Dateien sind in diesem Paket verpackt ( das nennt man "gepackt" oder "gezipped")
-* So können die Dateien einfacher und kompakter transportiert/verschickt werden (sie sind auch im Datenvolumen dann kleiner)
-
-Um an die Dateien heranzukommen, muss man die Datei dann "entpacken" oder "entzippen". 
+2. Wenn ich bei einem Produkt aus der Barsoiliste etwas manuell ändere, wird das beim nächsten Import wieder überschrieben?
+Sie können wie oben beschrieben, Produkte bei denen Sie nicht wollen, dass deren Daten wieder überschrieben werden, diese einzeln
+ausnehmen aus der Aktualisierung. Ansonsten werden die Daten, die Barsoi liefert wieder überschrieben.
 
 
-
-Die Barsoi liefert beim Download eine zip Datei, Sie müssen einfach nur genau diese 1:1 wieder bei uns hochladen im Import- dann funktioniert alles 
-ohne Probleme. 
-
-
-
-![](../../static/img/Warenwirtschaft/zipdatei.png)
 
