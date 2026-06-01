@@ -129,6 +129,23 @@ In diesem Falle ist der angelegte Landwirt nicht in Ihrem Vetproof Account bekan
 Loggen Sie sich bitte einmal im Vetproof ein und suchen den Kunden. Evtl. sprechen Sie mit dem Landwirt, ob er Sie freigegeben hat, ob seine 
 VVO Nummer korrekt ist und prüfen all diese Daten erneut.  
 
+Ebenso kann es sein, dass die Kombination aus Produktionsart des Landwirtes nicht zu der Nutzungsart des Tieres passt.(dann kommt ebenfalls 
+die Fehlermeldung "location not found")
+
+
+Eine weitere Fehlermeldung betrifft die Problematik, dass "usage duration" nicht größer sein darf als "application duration". Dafür bekamen wir von 
+Vetproof folgende Hinweise: 
+
+"Es gibt zwei Datenfelder:
+„applicationDuration“ bedeutet Anwendungsdauer (Dauer der Anwendung inkl. Wirktage in Tagen) „usageDuration“ bedeutet Behandlungstage (tatsächlichen Behandlung in Tagen)
+Die Anwendungsdauer „applicationDuration“ ist ein Pflichtfeld in der QS-Antibiotikadatenbank (und deshalb anzugeben).
+Eine Angabe von NULL oder 0 ist nicht zulässig (als Wertebereich ist 1-99 Tage zulässig)
+Außerdem gilt: Anwendungsdauer kann niemals kleiner als Behandlungstage sein.
+Die Behandlungstage „usageDuration“ sind optional.
+Das Feld Behandlungstage wird aber für die Weiterleitung zu HIT benötigt.  
+
+
+
 ## Daten einzelner Tiere
 
 ### Kenn-Nummer/ Lebensnummer
