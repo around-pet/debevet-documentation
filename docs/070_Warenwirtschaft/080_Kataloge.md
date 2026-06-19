@@ -111,11 +111,21 @@ denn dies wird von Barsoi überprüft, sollten die Daten nicht stimmen, wird die
 
 Da wir viele Nutzer hatten, die sich wünschten, nicht alle Produkte zu importieren, da ihnen dies zu  unübersichtlich sei, haben wir
 ab sofort die Möglichkeit, auch nur Teile in den Produktkatalog zu importieren. Wenn Sie dies nutzen möchten, wählen Sie "nur Auswahl importieren".
+ 
 Wenn Sie den gesamten Katalog importieren wollen, wählen Sie dies. Der Katalog wird dann automatisch importiert und auch bei neuen Produkten werden 
 diese immer voll automatisch importiert. 
 
 Wenn Sie die "Auswahl" Variante wählen, müssen Sie im Barsoi Katalog (dieser ist erst nach Aktivierung der Erweiterung sichtbar) 
-selbst wählen und importieren. (Selber Ablauf wie im GOT Katalog)    
+selbst wählen und importieren. (Selber Ablauf wie im GOT Katalog).  
+
+:::info   
+
+Sollten Sie die Daten sofort benötigen und nicht bis zum automatischen Import in der Folgenacht warten wollen, können Sie den Katalog auch direkt manuell
+importieren. 
+Klicken Sie dazu auf das "LKW Symbol", dann "Kataloge" und dort "Barsoi".  
+Dor wählen Sie "Katalog importieren". Dies dauert ca. 6-8 Minuten, anschließend stehen die Produkte direkt zur Verfügung.   
+
+::: 
 
 ![barsoineu4.png](../../static/img/erweiterungen/barsoineu4.png)
 
