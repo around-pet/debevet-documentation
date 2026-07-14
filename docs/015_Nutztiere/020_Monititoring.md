@@ -82,7 +82,41 @@ Wir empfehlen, die Meldung monatlich durchzuführen, nicht nur alle 6 Monate!
 
 ::: 
 
-( Bitte beachten Sie, dass wir keine realen Daten angegeben haben und deswegen eine Fehlermeldung in den Screenshots erscheint).
+( Bitte beachten Sie, dass wir keine realen Daten angegeben haben und deswegen eine Fehlermeldung in den Screenshots erscheint).  
+
+### Meldungen für nicht gelistete Antibiotika  
+
+Um sogenannte "nicht gelistete" Antibiotika zu melden, gibt es ein paar Besonderheiten. Die HIT schreibt vor, dass diese mit einer # 
+gemeldet werden müssen.  
+Wir haben im devevet eine Lösung gesetzt, wie Sie selbst die nicht gelisteten Antibiotika kennzeichnen können und müssen, um diese 
+korrekt zu melden. 
+
+Gehen Sie dazu an das Produkt und wählen aus der Dropdownliste am Feld Antibiotikamonitoring "nicht gelistetes Antibiotikum".  
+
+![nichtgelistet_1.png](../../static/img/Nutztiere/nichtgelistet_1.png)   
+
+Bezüglich der Zulassungsnummer gibt es je nach Medikament mehrere Optionen:  
+
+* Melden ohne Zulassungsnummer: die HIT gestattet, dass diese dann ohne Rückfrage direkt meldbar sind   
+* Melden mit dem Eintrag "nicht gelistet" (Worte, geschrieben) im Feld "Zulassungsnummer": die HIT stellt eine Rückfrage, die Sie bestätigen
+müssen (wie dies geht erfahren Sie ein wenig weiter unten)  
+
+:::caution  
+
+Wenn Sie auch an vetproof melden, muss das nicht gelistete Antibiotikum eine Zulassungsnumme mit Länderkennung haben.(z.B. RO212342435) Da dies wiederum 
+bei der Meldung zur HIT Probleme erzeugen würde, haben wir bei den nicht gelisteten eine Unterdrückung dieser Nummer bei der Meldung an die 
+HIT im Hintergrund programmiert, um die Meldung an beide Schnittstellen zu ermöglichen. 
+:::  
+
+
+Bitte beachten Sie dies beim Nutzen des Produktes. Von Diskussionen dazu bitten wir abzusehen oder diese mit HIT zu führen.    
+
+Um Rückfragen der HIT Schnittstelle zu "bestätigen", setzen Sie den Haken an der Checkbox der/des passenden Beleges und klicken 
+nun den Dropdownpfeil neben "Melden". Dort wählen Sie dann "Rückfragen bestätigen".   
+
+![nichtgelistet_2.png](../../static/img/Nutztiere/nichtgelistet_2.png)  
+
+
 
 ## QS-Vetproof Meldungen durchführen
 
