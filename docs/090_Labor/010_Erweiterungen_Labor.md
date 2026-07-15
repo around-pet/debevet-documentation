@@ -1,12 +1,13 @@
 # Labor einrichten/ Erweiterung Labor
 
-Um die Labormöglichkeiten in debenvet voll ausnutzen zu können, müssen Sie zunächst die gewünschte Laborschnittstelle aktivieren.
+Um die Labo rmöglichkeiten in debenvet voll ausnutzen zu können, müssen Sie zunächst die gewünschte Laborschnittstelle aktivieren.
 Die Zugangsdaten, die Sie dafür benötigen, bekommen Sie von Ihrem jeweiligen Laboranbieter. Zur Zeit können wir folgende Schnittstellen bieten:
 
 * IDEXX
 * LABOKLIN
 * scil  
-* Zoetis
+* Zoetis  
+* Antech (VetOS)
 
 ##  IDEXX anbinden
 
@@ -172,7 +173,46 @@ werden die Verkausfspreise der IDEXX (Endkundenpreise, brutto) in die Kartei üb
 Ob die Rechnung bei externen Laboraufträgen direkt an den Tierhalter erfolgt oder nicht, legen Sie jeweils im Bestellprozess fest.
 
 :::
-  
+## Antech / VetOS anbinden  
+
+seit Juli 2026 haben Sie die Möglichkeit, die neue Schnittstelle von Antech direkt in debevet zu nutzen.    
+
+### Zugangsdaten eingeben
+
+KLicken Sie auf die Zahnräder und dann "Erweitungen". Dort klicken Sie am Unterpunkt Labor dann "VetOS". 
+
+Zunächst klicken Sie dort "Anlegen"  
+
+![antech1.png](../../static/img/Labor/antech1.png)
+
+Im Bereich Zugangsdaten geben Sie bitte den API Schlüssel und Ihre VetOS Client ID  für den Webservice von VetOS ein.
+Die Daten erhalten Sie direkt von Antech. (Wie Sie diese dem Webservice entnehmen ist unter den Feldern beschrieben)    
+
+Klicken Sie dann erst "Speichern" und anschließend "Aktivieren".
+
+![antech2.png](../../static/img/Labor/antech2.png)   
+
+
+
+**Zur Behandlung hinzufügen:**   
+Legen Sie fest, ob und wann Labortests inkl. Preis in die Behandlungshistorie des Patienten (Kartei) übernommen werden.
+
+**Nur Tierarzt EK berechnen:**
+
+Diese Funktion hat nur Auswirkung, wenn Sie im Bestellprozess keine Rechnung an den Tierhalter direkt veranlassen.
+Ist dies aktiviert, werden bei externen Tests die Preise für den Test in die Kartei übernommen, welche durch die VetOS Ihrer Praxis berechnet werden.
+
+**GOT Posten automatisch mit abrechnen:**
+
+Hier können Sie ein einen GOT Posten  suchen und festlegen, dass diese GOT Leistung beim
+beantragen der Laborleistung immer direkt automatisch mit eingetragen und berechnet wird (das spart das manuelle eingeben).
+
+Aktivieren Sie **Nur Tierarzt EK berechne** nicht und wählen keinen GOT Posten, der automatisch hinzugefügt werden soll,
+werden die Verkausfspreise der VetOS (Endkundenpreise, brutto) in die Kartei übernommen und können später von dort berechnet werden.
+
+Klicken Sie anschließend "Speichern" und dann "Aktivieren". 
+
+
 ## scil anbinden  
 
 Die Einrichtung der Schnittstelle für scil Laborgeräte funktioniert ein wenig anders, als die beiden zuvor genannten.  
