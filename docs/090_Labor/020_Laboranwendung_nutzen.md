@@ -2,6 +2,15 @@
 
 Hier finden Sie alle wichtigen Hilfetexte zu der Nutzung der Laborbefunde in debevet.    
 
+
+:::caution ACHTUNG  
+
+Damit die digitale Übermittlung von und zu debevet funktionieren kann, müssen Sie zwangsläufig die von debevet erstellten Laborauftragsbögen nutzen
+und mit den Blutproben versenden!  (siehe weiter unten im Text)
+Mit den Vordrucken des Labors kann dies nicht funktionieren!   
+
+:::   
+
 ## Laborauftrag erstellen   
 
 Um für einen Patienten einen Laborauftrag zu erstellen, müssen Sie sich in der Behandlung des Tieres befinden. KLicken Sie dann in der Behandlungsmaske
@@ -70,29 +79,6 @@ Sobald die Werte absolviert sind, können diese wie gewohnt im debevet abgerufen
 Um die Abrechnung in der Kartei zu haben, müsste ebenso ein Auftrag erstellt werden, dieser wird dann einfach nicht erneut verschickt.
 
 
-### Eigene Barcodes nutzen  
-
-Um die von Laboklin gelieferten Abreißbögen mit Barcodes zu nutzen, kleben Sie immer EINEN auf den Auftragsbogen, den Sie wie
-folgt erstellen bzw drucken, und die anderen auf die Proben wie gewohnt. Ansonsten kann KEINE voll automatische Zuordnung erfolgen!
-
-### Anforderungsbogen nutzen und drucken
-
-Klicken Sie zunächst am gewünschten Patienten den Reiter **Labor**. Alternativ können Sie auch über **Praxis** und dann **Labor**
-ALLE beauftragten Laboranträge einsehen. 
-
-![](../../static/img/Labor/kunde_laborliste.png)  
-
-Klicken Sie nun auf die Auftragsnummer. 
-
-![](../../static/img/Labor/auftragsnummer_klicken.png)  
-
-In der Ansicht klicken Sie dann das Druckersymbol.   
-
-![](../../static/img/Labor/begleitschein_drucken.png)  
-
-Und dort erneut auf das Druckersymbol. Nun kann Ihr Drucker den Begleitschein drucken und Sie können diesen mitschicken.   
-
-![](../../static/img/Labor/untersuchungsauftrag1.png)
 
 ### scil Auftrag erstellen  
 
@@ -134,6 +120,46 @@ auch via Browser oder der App einzusehen. Über die App (oder den Browser) könn
 die nach dem Aktualisieren/Abrufen im debevet dann direkt in der Kartei des Patienten liegen!
 
 Die App können Sie im Appstore bzw. Playstore herunterladen und mit Ihren Vetconnect Plus Zugangsdaten direkt nutzen.
+
+### Antech /VetOS Auftrag erstellen   
+
+Klicken Sie in der Behandlung auf das Mikroskop Symbol und wählen dort den Unterpunkt "VetOS".     
+
+![antech3.png](../../static/img/Labor/antech3.png)
+
+Nun öffnet sich die externe Beauftragungsmaske von VetOs. Bitte bedenken Sie, dass wir auf diese keinen Einfluss haben, 
+es ist von VetOS so gedacht, dass diese nur in unserem Programm "gespiegel" wird. Das bedeutetet, dass wir auch die Pflichtfelder 
+und andere Felder keinen Einfluss haben. 
+
+:::caution  
+
+VetOS fordert leider, dass die Barcode Nummer manuell eingegeben werden muss. Sie können evtl versuchen, diese mit dem Barcode Scanner zu lesen,
+indem Sie den Code, den Sie nutzen wollen scannen, aber ob Antech das vorgesehen hat, wissen wir leider nicht.   
+
+:::   
+
+Wählen Sie die gewünschten Laborprofile aus und wählen Sie, ob die Rechnung an den Tierhalter oder Sie als Tierarzt versendet 
+werden soll. 
+
+### Anforderungsbogen nutzen und drucken
+
+Klicken Sie zunächst am gewünschten Patienten den Reiter **Labor**. Alternativ können Sie auch über **Praxis** und dann **Labor**
+ALLE beauftragten Laboranträge einsehen.
+
+![](../../static/img/Labor/kunde_laborliste.png)
+
+Klicken Sie nun auf die Auftragsnummer.
+
+![](../../static/img/Labor/auftragsnummer_klicken.png)
+
+In der Ansicht klicken Sie dann das Druckersymbol.
+
+![](../../static/img/Labor/begleitschein_drucken.png)
+
+Und dort erneut auf das Druckersymbol. Nun kann Ihr Drucker den Begleitschein drucken und Sie können diesen mitschicken.
+
+![](../../static/img/Labor/untersuchungsauftrag1.png)
+
 
 ### zoetis Auftrag erstellen  
 
