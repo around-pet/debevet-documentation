@@ -268,6 +268,24 @@ Wartezeiten hinterlegt haben. Dies muss pro Medikament jeweils einmalig hinterle
 
 ## Restmengen abgeben 
 
+
+:::danger ACHTUNG!  
+
+Vom BVL haben wir die Aussage erhalten, dass es rein rechtlich NICHT mehr erlaubt ist, Restmengen abzugeben.  
+
+Zitat:
+
+   Rein rechtlich sollte nur die für die Behandlung (inkl.  
+   Weiterbehandlung vom Tierhaltenden) erforderliche Menge abgegeben  
+   werden und keine Restmengen im Betrieb verbleiben.  
+
+Unser Programm hat aktuell deswegen kein saubere Lösung, Restmengen zu melden!   
+
+:::   
+
+WENN Sie unseren Weg nutzen, der die Restmengenabgabe hier beschreibt, wird leider die Menge erneut gemeldet! Wir raten also 
+dringend davon ab. 
+
 Ein typisches Beispiel, wie es im Alltag immer wieder vorkommt: Es wird eine Menge von 150ml gebraucht, aber eine Packung enthält 200ml. Wie Sie
 bereits wissen, können Sie in debevet die Packungsmenge aufrunden.
 
