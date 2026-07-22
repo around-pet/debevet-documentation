@@ -185,16 +185,16 @@ Zunächst klicken Sie dort "Anlegen"
 
 ![antech1.png](../../static/img/Labor/antech1.png)
 
-Im Bereich Zugangsdaten geben Sie bitte den API Schlüssel und Ihre VetOS Client ID  für den Webservice von VetOS ein.
+Im Bereich Zugangsdaten geben Sie bitte den API Schlüssel für den Webservice von VetOS ein.
 Die Daten erhalten Sie direkt von Antech. (Wie Sie diese dem Webservice entnehmen ist unter den Feldern beschrieben)    
 
 Klicken Sie dann erst "Speichern" und anschließend "Aktivieren".
 
-![antech2.png](../../static/img/Labor/antech2.png)   
-
+ ![antechanlegen.png](../../static/img/Labor/antechanlegen.png)
 
 
 **Zur Behandlung hinzufügen:**   
+
 Legen Sie fest, ob und wann Labortests inkl. Preis in die Behandlungshistorie des Patienten (Kartei) übernommen werden.
 
 **Nur Tierarzt EK berechnen:**

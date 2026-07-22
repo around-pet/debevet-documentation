@@ -1,6 +1,6 @@
 # Labor nutzen  
 
-Hier finden Sie alle wichtigen Hilfetexte zu der Nutzung der Laborbefunde in debevet.    
+Hier finden Sie alle wichtigen H ilfetexte zu der Nutzung der Laborbefunde in debevet.    
 
 
 :::caution ACHTUNG  
@@ -129,37 +129,61 @@ Klicken Sie in der Behandlung auf das Mikroskop Symbol und wählen dort den Unte
 
 Nun öffnet sich die externe Beauftragungsmaske von VetOs. Bitte bedenken Sie, dass wir auf diese keinen Einfluss haben, 
 es ist von VetOS so gedacht, dass diese nur in unserem Programm "gespiegel" wird. Das bedeutetet, dass wir auch die Pflichtfelder 
-und andere Felder keinen Einfluss haben. 
+und andere Felder keinen Einfluss haben.   
 
-:::caution  
+Falls Sie InHouse Geräte und externes Labor von VetOS nutzen, wählen Sie bitte im ersten Schritt, ob dies ein Auftrag aus dem 
+externen oder internen Labor werden soll. (bitte entschuldigen Sie, dass die Screenshots hier englisch sind, das Testsystem läuft auf Englisch,
+Sie sollten diese in Deutsch sehen)
+  
+![antech4.png](../../static/img/Labor/antech4.png)
 
-VetOS fordert leider, dass die Barcode Nummer manuell eingegeben werden muss. Sie können evtl versuchen, diese mit dem Barcode Scanner zu lesen,
-indem Sie den Code, den Sie nutzen wollen scannen, aber ob Antech das vorgesehen hat, wissen wir leider nicht.   
+Hier zeigen wir zuerst die externe Beauftragung:   
 
-:::   
+Antech fordert, dass Sie einen Besuchsgrund eingeben. 
+
+:::danger ACHTUNG  
+
+VetOS fordert leider, dass die Barcode Nummer manuell eingegeben werden muss. Sie können
+aber den Code, den Sie nutzen wollen mit einem Barcode-Scanner einlesen. Klicken Sie dazu in das Barcode Feld und scannen anschließend
+den Barcode.
+
+:::     
+
+![antech5.png](../../static/img/Labor/antech5.png)  
+
 
 Wählen Sie die gewünschten Laborprofile aus und wählen Sie, ob die Rechnung an den Tierhalter oder Sie als Tierarzt versendet 
 werden soll. 
 
+![antech6.png](../../static/img/Labor/antech6.png)
+  
+Klicken Sie anschließend auf "Laborauftrag senden". 
+
 ### Anforderungsbogen nutzen und drucken
 
-Klicken Sie zunächst am gewünschten Patienten den Reiter **Labor**. Alternativ können Sie auch über **Praxis** und dann **Labor**
-ALLE beauftragten Laboranträge einsehen.
+::danger ACHTUNG!  
 
-![](../../static/img/Labor/kunde_laborliste.png)
+Bei der Nutzung von Antech muss, anders als bei unseren anderen Schnittstellen, IMMER der von Antech selbst erzeugte 
+Begleitschein genutzt werden!
+Bitte drucken Sie diesen direkt oder rufen Ihn ansonsten erneut in der VetOS View Seite auf.   
 
-Klicken Sie nun auf die Auftragsnummer.
+:::  
 
-![](../../static/img/Labor/auftragsnummer_klicken.png)
+![antech7.png](../../static/img/Labor/antech7.png)   
 
-In der Ansicht klicken Sie dann das Druckersymbol.
+Wenn Sie den Begleitschein nicht direkt gedruckt haben, können Sie diesen wie folgt erneut aufrufen: 
 
-![](../../static/img/Labor/begleitschein_drucken.png)
+Klicken Sie am Patienten auf den Reiter "Labor" und klicken dann auf die Auftragsnummer.  
 
-Und dort erneut auf das Druckersymbol. Nun kann Ihr Drucker den Begleitschein drucken und Sie können diesen mitschicken.
+Nun klicken Sie auf das kleine VetOS Symbol. Sie gelangen direkt in ihre VetOS Plattform. 
 
-![](../../static/img/Labor/untersuchungsauftrag1.png)
+![antech8.png](../../static/img/Labor/antech8.png)   
 
+Nun klicken Sie dort am passenden Laborauftrag auf das kleine pdf Symbol: 
+
+![antech9.png](../../static/img/Labor/antech9.png)  
+
+So kann der Begleitschein ausgedruckt werden. 
 
 ### zoetis Auftrag erstellen  
 
