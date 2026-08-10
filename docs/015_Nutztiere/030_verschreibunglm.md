@@ -27,6 +27,7 @@ zusätzlich aufdrucken lassen wollen, können Sie selbst bestimmen.
 * Gewicht des Tieres
 * Chargennummer (nur bei LM Tieren möglich)
 * Ablaufdatum des Medikaments
+* Nutzungsart/Tiergruppe
 
 Die Darstellung können Sie im selben Bereich setzen in der Sie auch das Ablaufdatum setzen:
 
