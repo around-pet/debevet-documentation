@@ -443,7 +443,7 @@ diese getrennt kontiert werden sollen.
 Klicken Sie dann auf **Administration** und **Erweiterung**, um dort an der von Ihnen genutzten Buchhaltungserweiterung auf **Bearbeite**
 zu klicken. 
 
-Wählen Sie in der untersten Spalte der Konten zunächst am Dropdownmenü der Versteuerung "innergemeinschaftliche Lieferung" aus. 
+Wählen Sie in der untersten Spalte der Konten zunächst am Dropdownmenü der Versteuerung "Leistungsempfänger ist steuerpflichtig" aus. 
 
 ![](../../static/img/erweiterungen/buchhaltungskonten_revcharge1.png)  
 
@@ -460,7 +460,7 @@ anschließend auf den Haken am Ende der Zeile. Anschließend können Sie oben re
 :::caution Achtung:
 
 Bitte klären Sie mit Ihrem Steuerberater, ob und auf welche Konten getrennt kontiert werden soll (Tierärztliche Leistungen, abgegebene
-Medikamente, angewandte Medikamente, Sonstiges). In diesem Fall müssen entsprechend viele Konten für die innergemeinschaftliche Lieferung
+Medikamente, angewandte Medikamente, Sonstiges). In diesem Fall müssen entsprechend viele Konten dafür
 angelegt werden.
 
 :::
@@ -478,9 +478,9 @@ HIer wählen Sie nun am Dropdown **Steuerbefreit** den Punkt **Reverse-Charge_Ve
 
 ![](../../static/img/Rechnungen/reverse_charge_5.png)
 
-Dann wählen Sie am Dropdown **Erlösart** den Punkt **innergemeinschaftliche Lieferung**.  
-
-![](../../static/img/Rechnungen/reverse_charge6.png)  
+Dann wählen Sie am Dropdown **Erlösart** den Punkt **Leistungsempfänger ist steuerpflichtig**.  
+ 
+![reversecharge_steuerpflichtiger.png](../../static/img/Rechnungen/reversecharge_steuerpflichtiger.png)
 
 Klicken Sie auf **Speichern** und fahren mit der Abrechnung/Zahlung nun wie gewohnt fort.   
 
