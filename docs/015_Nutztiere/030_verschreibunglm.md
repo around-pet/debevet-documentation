@@ -27,11 +27,28 @@ zusätzlich aufdrucken lassen wollen, können Sie selbst bestimmen.
 * Gewicht des Tieres
 * Chargennummer (nur bei LM Tieren möglich)
 * Ablaufdatum des Medikaments
-* Nutzungsart/Tiergruppe
+
 
 Die Darstellung können Sie im selben Bereich setzen in der Sie auch das Ablaufdatum setzen:
+![](../../static/img/Nutztiere/verschreibung-druckoptionen.png)  
 
-![](../../static/img/Nutztiere/verschreibung-druckoptionen.png)   
+### Aufdrucken der Nutzungsart bzw. Tiergruppe  
+
+Da die Verschreibungen mit dem Aufdrucken der komplett ausformulierten Nutzungsart PLUS Tiergruppe sehr lang werden können, haben wir 
+Ihnen in den Erweiterunen selbst die Möglichkeit gegeben, selbst festzusetzen, wie und ob Sie diese auf die Verschreibungen drucken wollen.   
+
+Im Bereich der Vetproof Erweiterung findet sich die Möglichkeit, via Checkbox festzulegen, ob die Tiergruppe mit augedruckt werden soll:   
+
+![tiergruppeprint.png](../../static/img/Nutztiere/tiergruppeprint.png)
+
+Ebenso gibt es in der Erweiterung für die HIT drei Varianten, die Sie via Dropdown wählen können:  
+
+![nutzungsartprnt.png](../../static/img/Nutztiere/nutzungsartprnt.png)  
+
+* Nutzungsart nicht auf Beleg drucken  
+* Nutzungsart kurze Version auf Beleg drucken (dabei steht dann z.B. RN7)   
+* Nutzungsart lange Version auf Beleg drucken (RN7 plus komplette Beschreibung der Nutzungsart)
+
 ## Unterschrift des Tierarztes hinterlegen
 
 Um Ihre Unterschrift auf die Verschreibungen zu drucken, müssen Sie zunächst in den  Einstellungen der Druckoptionen die
