@@ -1,6 +1,6 @@
 # Antibiotika Meldung bei weiteren Tierarten ab 2026
 
-Verpflichtendes Antibiotikamonitoring ab 01.01.26 : Erweiterung auf weitere Tierarten
+Verpflichtendes Antibiot  ikamonitoring ab 01.01.26 : Erweiterung auf weitere Tierarten
 
 Ab dem 1.01.2027 muss rückwirkend für 2026 der Verbrauch von Antibiotika für folgende Tierarten  (sogenannte Stufe 2)
 erfolgen:   
@@ -52,10 +52,12 @@ Das liegt an einer anderen Anforderung, denn die Daten der weiteren Tierarten un
 ## Welche Daten muss ich am Produkt angeben? 
 
 Damit in der Verbrauchsliste der Verbrauch der Produkte angezeigt wird, müssen Sie an allen Produkten, die antibiotische Wirkstoffe
-enthalten, den Haken "Antibiotika-Monitoring" setzen.  
+enthalten, das Produkt aktiv setzen für das Antibiotika Monitoring. Dazu wählen Sie aus der Liste am entsprechenden Punkt am Produkt entweder 
+"gelistetes Antibiotikum" aus, oder, im Falle von ausländischen Produkten (wie etwa Clamox) "nicht gelistetes Antibiotikum". 
 
-![](../../static/img/Nutztiere/AB_monitoringhaken.png)   
+Anschließend speichern Sie das Produkt. 
 
+![ABmonitoringauswahl.png](../../static/img/Nutztiere/ABmonitoringauswahl.png)
 Außerdem empfehlen wir bereits jetzt, sich mit dem Thema "Packungs ID" auseinander zu setzten. Die Packungs ID wird derzeit NICHT
 über die Barsoi mitgeliefert und muss manuell hinterlegt werden.   
 
