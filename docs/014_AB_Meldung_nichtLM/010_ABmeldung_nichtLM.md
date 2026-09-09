@@ -31,20 +31,23 @@ Diese muss allerdings bereits rückwirkend für das Jahr 2029 erfolgen.
 ## Was brauche ich, um zu melden?  
 
 Sie benötigen die Zugangsdaten zur HI-Tier als Tierarzt, diese besteht aus einer Nummer und einem Passwort. Diese können Sie bei der HIT 
-anfordern
+anfordern.   
+
+Ihre Zugangsdaten bei der HIT müssen Sie in der Erweiterung HIT bei debevet einmalig hinterlegen und die Schnittstelle aktivieren.  
+
+Die Anleitung dazu finden Sie hier:  
+
+[HIT aktivieren](https://handbuch.debevet.de/docs/Nutztiere/Monititoring#hi-tier-anbindung-einrichten)   
 
 ## Kann ich im debevet jetzt schon melden?  
 
-Nein, bisher haben wir keine Lösung zur Meldung der Tierarten entwickelt. Allerdings werden wir im Laufe des Jahres 2026 die Lösung bereit stellen. 
-Da Sie erst rückwirkend ab Januar 2027 melden müssen, ist hier keine Panik angebracht.
+Ab September 2026 bieten wir die Möglichkeit, diese Tierarten bereits zu melden mit ihren Antibiotikaverbräuchen.
 
 ## Welche Daten müssen gemeldet werden?  
 
 Anders als bei nun zu meldenden Tierarten werden wir NICHT über die Verschreibungen melden.  
 Das liegt an einer anderen Anforderung, denn die Daten der weiteren Tierarten und deren Antibiotika (AB) Verbräuche werden anonym, also ohne Besitzerdaten gemeldet. 
 
-Aktuell haben wir bereits eine Liste über Ihre Antibiotika Verbräuche eingerichtet, um diese bereits zu "sammeln" und dann evtl. sogar direkt
-über diese Liste melden zu können. Eine Klärung mit der HIT und unseren Entwicklern ist in Arbeit.  
 
 ## Welche Daten muss ich am Produkt angeben? 
 
@@ -77,21 +80,38 @@ An jedem Produkt kann diese Packungs ID nun hinterlegt werden:
 
 ![](../../static/img/Nutztiere/packungs_IDhinterlegen.png)  
 
-Sobald wir weitere Informationen haben, werden wir diese hier ergänzen. 
-
-Aber wenn Sie diese Daten bereits jetzt hinterlegen, wird die Meldung wesentlich einfacher vonstatten gehen können und Sie werden 
-nicht mit HIT Fehlermeldungen überhäuft, wenn wir die Meldung aktiv schalten.  
+Sobald diese Daten hinterlegt sind, gehen nach jeder Anwendung der passenden Tierarten alle Anwendungen und Abgaben dieser Produkte automatisch 
+in die Meldeliste- unabhängig davon, ob eine Verschreibung erstellt wurde. 
 
 ## Verbrauchsliste Antibiotika einsehen  
 
-Um Ihren Verbrauch einzusehen, klicken Sie auf "Monitoring" und dann "AB Monitoring nicht LM".  
-
-![](../../static/img/Nutztiere/ABMonitoring_kleintier.png)   
+Um Ihren Verbrauch einzusehen, klicken Sie auf "Monitoring" und dann "AB Monitoring Stufe 2 Tiere"
+  
+![ablevel2liste.png](../../static/img/Nutztiere/ablevel2liste.png)
 
 Hier finden Sie die Verbräuche, WENN der Haken gesetzt war. 
 
 :::danger: Achtung! 
 
-Bitte setzen Sie dringend jetzt schon alle Haken an den Produkten, damit der Verbrauch erfasst werden kann!
+Bitte setzen Sie dringend jetzt schon alle Haken an den Antibiotika-Produkten, damit der Verbrauch erfasst werden kann!
 
-:::
+:::  
+
+Die Liste zeigt nach Tierart die Verbräuche an, mit einem Klick auf das "i"" können Details zur Behandlung eingesehen werden.   
+
+![abinfos.png](../../static/img/Nutztiere/abinfos.png)
+
+## Meldungen durchführen   
+
+Um nun einzelne oder alle je nach Halbjahr zu melden, markieren Sie eine oder mehrere Positionen und klicken oben rechts auf "Melden".   
+Fehlende Informationen am Produkt werden Ihnen direkt in der Liste angezeigt und müssen durch Sie selbst ergänzt werden.  
+
+Die Checkbox ist in diesem Fall ausgegraut und kann nicht aktiviert werden, bevor die Informationen ergänzt werden. 
+
+Das kann z.B. so aussehen: 
+
+![abinfosfehlen.png](../../static/img/Nutztiere/abinfosfehlen.png)   
+
+Sie können dann direkt auf den Produktnamen klicken, um in das betreffende Produkt zu gelangen und die Informationen dort ergänzen.   
+
+Anschließend kann das Produkt gemeldet werden.  
