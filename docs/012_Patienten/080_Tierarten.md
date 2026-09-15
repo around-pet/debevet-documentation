@@ -28,7 +28,17 @@ Klassifizierung von "Sonstige".
 Dies bedeutet aber, dass Sie beim Anlegen eines neuen Patienten zunächst die Tierart"Gruppe" auswählen müssen und erst dann die 
 eigentliche Tierart (Klassifizierung) setzen können.  
 
-::: 
+:::   
+
+### Alpaka /Neuwelt Kameliden   
+
+Immer mehr Fragen erreichen uns, wie ein Alpaka (oder Ähnliche) angelegt werden sollen/müssen, und ob wir eine eigene Klassifizierung dafür schaffen
+können. Die Klassifizierungen in debevet sind die, die über die GOT vorgegeben sind. In der GOT sind die Neuwelt Kameliden als Pferd klassifiziert.
+
+Dies bedeutet, dass Sie auch in debevet in den Tieraren ein Alpaka als "Pferd" anlegen müssen, um die Abrechnungsposten korrekt zu nutzen und auch 
+den Haken "lebensmittelliefernd" setzen zu können.   
+
+![alpaka.png](../../static/img/Patienten/alpaka.png)
 
 ## Klassifizierungen nutzen  
 
