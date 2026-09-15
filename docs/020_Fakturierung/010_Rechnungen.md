@@ -50,7 +50,16 @@ Klicken Sie dazu in der Ansicht des Entwurfs oben rechts auf "Löschen".
 ![](../../static/img/Rechnungen/entwurf_loeschen.png)   
 
 Nun können Sie zurück in die Behandlungskartei des gewünschten Patienten und dort Posten ergänzen, löschen oder verändern. 
-Anschließend kann ein neuer Entwurf erstellt werden.
+Anschließend kann ein neuer Entwurf erstellt werden.  
+
+### Kommentare und Anmerkungen in Rechnungen   
+
+Um Ihrem Kunden noch Informationen neben dem Standard-Rechnungstext zukommen zu lassen, gibt es auf der Rechnung ein Kommentarfeld. 
+
+Dort können Sie noch individuelle Informationen eintragen, die Sie gern auf der Rechnung haben möchten.    
+
+![kommentar_rechnung.png](../../static/img/Rechnungen/kommentar_rechnung.png)
+
 
 ## Einzelne Posten nicht in Rechnung stellen 
 

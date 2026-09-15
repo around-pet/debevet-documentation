@@ -121,7 +121,20 @@ Kennen Sie schon den Trick, dass Sie im Feld der Menge nur einmal die Leertaste 
 zu nutzen? Bei 3 ganzen Packungen tippen Sie eine 3 in das Feld und drücken dann die Leertaste.   
 
 
-:::   
+:::     
+
+### Behandlungseingabe beim Scrollen fixieren  
+
+Damit Sie auch beim herunterscrollen eventuelle Eingaben, die Ihnen auffallen und noch fehlen direkt ergänzen können, ist es möglich, 
+dieses Eingabefeld zu fixieren. 
+
+Um dies zu aktivieren oder deaktivieren, klicken Sie links in der Hauptleiste auf die "Zahnräder" und dann "Einstellungen".  
+
+Dort wählen Sie den Tab "Behandlung" und suchen das Feld mit "Behandlungseingabe beim Scrollen fixieren". Wenn Sie dies nutzen
+möchten, aktivieren Sie die Checkbox und speichern. Möchten Sie es deaktivieren, entfernen Sie den Haken in der Checkbox mit einem
+Klick auf die Checkbox und speichern. (oben rechts)   
+
+![stickyheader1.png](../../static/img/Patienten/stickyheader1.png)
   
 ### Cursorposition nach Eingabe   
 

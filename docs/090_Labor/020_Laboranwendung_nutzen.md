@@ -218,10 +218,31 @@ Falls Sie sich wundern, warum Ihre Befunde nicht aktuell sind: Sie müssen diese
 
 :::
 
-Wählen Sie die Checkboxen der gewünschten Laborbefunde (oder alle durch Klick ganz oben). 
-Klicken Sie dann in der Laborübersicht oben rechts auf *Ergebnisse abrufen**.   
+Um die Laborbefunde abzurufen, klicken Sie auf "Praxis" und dann "Labor".  
 
-![](../../static/img/Labor/laborabruf1.png)
+![laborabruf_neu1.png](../../static/img/Labor/laborabruf_neu1.png)  
+
+Nun gibt es mehrere Möglichkeiten, die Ergebnisse abzurufen.  
+
+1. Nur einzelne Ergebnisse abrufen:  
+
+Hierfür markieren Sie die Checkbox vor dem gewünschten Auftrag und klicken dann das Aktualisierungs-Symbol.  
+
+![laborabruf_neu2.png](../../static/img/Labor/laborabruf_neu2.png)   
+
+2. Nur Ergebnisse eines bestimmten Labors abrufen:   
+
+Wenn Sie z.B. nur von Idexx abrufen wollen, klicken Sie den Dropdownpfeil und wählen dann "Vetconnect Plus". Hierzu 
+müssen dann keine Checkboxen gewählt werden.   
+
+
+![laborabruf_neu3.png](../../static/img/Labor/laborabruf_neu3.png)   
+
+3. Alle neuen Ergebnisse aus allen Laboren abrufen   
+
+Wenn Sie einfach alle "neuen" Aktualisierungen aus allen Laboren abrufen möchten, klicken Sie einfach "Ergebnisse abrufen".   
+
+![laborabruf_neu4.png](../../static/img/Labor/laborabruf_neu4.png)
 
 Alternativ können Sie auch an dem Patienten, den Sie gerade behandeln, die Laborbefunde einzeln noch einmal abrufen.
 Klicken Sie dazu in der Behandlung auf den Reiter **Labor**. Dort klicken Sie dann auf  **Ergebnisse abrufen**.  
