@@ -362,6 +362,15 @@ Sätze für verschiedene Positionen.
 Klicken Sie auf **Praxis**, dann auf **Behandlungen**. Das System listet alle Behandlungen auf. Tippen Sie in das Suchfenster
 wie bei einer Suchmaschine Begriffe ein, die auf den gewünschte Behandlung passen und drücken Sie die **Entertaste** oder klicken
 Sie auf das **Lupensymbol**.   
+  
+:::caution Achtung!  
+
+Bitte beachten Sie, dass in dieser Liste immer nur die jeweils LETZE Behandlung eines jeden Patienten aufgeführt ist, niemals ALLE
+Behandlungen.   
+
+:::   
+
+
 
 ![](../../static/img/Patienten/behandlung_suchen1.png)  
 
@@ -416,7 +425,25 @@ Um Abrechnungsposten zurückzudatieren, tragen Sie diese zunächst am aktuellen 
 die Checkboxen der gewünschten Posten und clicken dann oben auf das **Kalendersymbol**. 
 Dort wählen Sie dann das gewünschte Datum und bestätigen dieses mit Klick auf den **grünen Haken**.  
 
-![](../../static/img/Patienten/datum_aendern.png)
+![](../../static/img/Patienten/datum_aendern.png)   
+
+## Diagnose rückdatieren / verschieben   
+
+Sie haben eine Behandlung bereits erstellt und vergessen, die Diagnose einzutragen? Oder verschiedene Positionen rückdatiert, aber die 
+Diagnose fehlt noch?
+
+So lange noch keine Rechnung erstellt wurde, können Sie sehr unkompliziert noch eine Diagnose nachträglich hinzufügen.  
+
+Klicken Sie am betreffenen Tag auf das kleine Stiftsymbol:  
+
+![diagnose_back1.png](../../static/img/Patienten/diagnose_back1.png)   
+
+Nun sehen Sie das Fenster, in das Sie die Diagnose eintragen können. Dazu muss diese aber bereits vorhanden sein im Diagnosen Katalog.
+(Wenn die Diagnose vorhanden ist, wird Sie Ihnen pinkfarbend auch direkt vorgeschlagen, wenn Sie die ersten Buchstaben eingeben). 
+
+Ist die Diagnose nicht vorhanden, müssen Sie diese wie oben beschrieben zuerst anlegen.   
+
+![diagnose_back2.png](../../static/img/Patienten/diagnose_back2.png)
 
 ## Einträge/ Behandlungsposten löschen  
 
