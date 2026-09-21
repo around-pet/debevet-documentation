@@ -65,6 +65,14 @@ herunter bis zum Feld **Faktor**. Dort setzen Sie den gewünschten Faktor und kl
 
 ![](../../static/img/Rechnungen/got_satz_global.png)
 
+Damit Sie z.B. an Wochenenden oder Notdiensten nicht immer einzeln für jede Behandlung den Faktor ändern müssen, haben wir eine Art 
+"Shortcut" eingebaut zu genau diesem Einstellungsbereich. 
+
+Sie finden in jeder Behandlung oben rechts nun einen Button "globaler Faktor". Dieser ändert dann für alle Behandlungen den Faktor, bis 
+Sie dieser Einstellung wieder ändern. Es handelt sich also nur um eine "Abkürzung", die wir zur bisher schon immer vorhandenen 
+Einstellmöglichkeit eingefügt haben, damit Sie Zeit sparen.  
+
+![globalfaktor_neu.png](../../static/img/Rechnungen/globalfaktor_neu.png)
 
 ## GOT Satz/Faktor in individueller Behandlung ändern 
 
