@@ -2,7 +2,16 @@
 
 SumUp ist ein Kartenzahlungssystem, welches Ihnen ohne monatliche Grundgebühren und vollkommen mobil (also unabhängig von der Telefonleitung bei Ihnen zu Hause) 
 die Möglichkeit bietet, Ihren Kunden Kartenzahlung anzubieten. Alles, was Sie benötigen, ist ein Bluetooth fähiges Mobilgerät (Tablet, Handy)mit einer SIM Karte und Datenvolumen.  
-Das Kartenzahlgerät ist über Bluetooth mit Ihrem Handy (oder Tablet) verbunden. SumUp bietet eine App, die kinderleicht zu bedienen ist und mit debevet perfekt funktioniert.
+Das Kartenzahlgerät ist über Bluetooth mit Ihrem Handy (oder Tablet) verbunden. 
+
+SumUp bietet eine App, die kinderleicht zu bedienen ist und mit debevet perfekt funktioniert. 
+
+:::caution Achtung!  
+
+Um SumUp nutzen zu können, ist es zwingend notwendig, diese App zu installieren! SumUp bietet technisch KEINE Möglichkeit, das 
+Zahlgerät direkt aus der Software anzusteuern! Wir steuern sozusagen nur die App an!  
+
+:::  
 
 Wir erklären hier, wie Sie die Anbindung und Nutzung im debevet einrichten.
 
@@ -19,13 +28,16 @@ den Reiter **Einstellungen** und setzen dann unten das Häkchen in die Checkbox 
 
 ## Gerät anmelden/hinterlegen  
 
-Zunächst müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. Klicken Sie hierzu auf 
-**Administration** (Zahnradsymbol) und dann **Kundenregistrierung**.   
+Zunächst müssen Sie ein Endgerät (Handy, Tablet) für Ihre Praxis anlegen/registrieren/hinterlegen. 
+
+Nutzen Sie dazu bitte das Gerät, auf welchem die SumUp App installiert ist!  
+Klicken Sie hierzu auf **Administration** (Zahnradsymbol) und dann **Kundenregistrierung**.   
 
 ![](../../static/img/erweiterungen/geraete_registrierung1.png)   
 
 Klicken Sie dann auf den Reiter **Geräte**   
-Geben Sie einen Namen für das Gerät ein und setzen ein Passwort. Bitte klicken Sie danach unbedingt den Haken an, um beides zu aktivieren.  
+Geben Sie einen Namen für das Gerät ein und setzen ein Passwort. Merken Sie sich diese bitte dringend!  
+Bitte klicken Sie danach unbedingt den Haken an, um beides zu aktivieren.  
 
 ![](../../static/img/erweiterungen/geraete_registrierung2.png)
 
