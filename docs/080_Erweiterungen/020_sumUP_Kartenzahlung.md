@@ -128,7 +128,7 @@ Schauen Sie hier, wie Sie die Zahlungsbedingung im Collmex anlegen:
 https://handbuch.debevet.de/docs/Erweiterungen/collmex#zahlungsbedingungen   
 
 :::  
-~~~~
+
 Klicken Sie den Haken in der Zeile und erst danach **Speichern** oben rechts.   
 
 ![](../../static/img/erweiterungen/sumup_konten3.png)  
