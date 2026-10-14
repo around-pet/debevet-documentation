@@ -20,8 +20,15 @@ Diese Feld dient der internen Dokumentation und wird nicht in die Rechnung über
 Das Feld selbst kann mit der Maus durch Ziehen am Kasten unten rechts vergrößert werden. Beim Aufruf der Kartei passt
 es sich automatisch der Länge des erfassten Textes an. 
 
-Um händisch Ihre Anmerkungen und Texte einzutragen, können Sie diese in das Feld **Befundung** eintragen. Um den Eintrag 
-zu speichern drücken Sie rechts das **Plus Symbol**. Dies ist nicht zwingend nötig, bietet aber etliche Vorteile.  
+Um händisch Ihre Anmerkungen und Texte einzutragen, können Sie diese in das Feld **Befundung** eintragen. 
+Die Einträge werden automatisch gespeichert, mit einem kleinen "Achtung" dazu: 
+
+Wenn Sie Vorlagen/Standardbehandlungen nutzen und einfügen, die ebenso Texteinträge haben, werden leider bereits bestehende 
+Texteinträge überschrieben.   
+
+Wir empfehlen deshalb, die Texteinträge immer zu **speichern:** 
+
+Um den Eintrag zu speichern drücken Sie rechts das **Plus Symbol**. Dies ist nicht zwingend nötig, bietet aber etliche Vorteile.  
 
 * Falls mehrere Behandler/Ärzte eine Notiz hinzufügen wollen, wird getrennt gelistet, wer etwas geschrieben hat 
 * Falls Sie noch Einträge ergänzen wollen, auch später, und diese zu vorherigen Behandlungen hinzufügen wollen, werden alte 
@@ -333,15 +340,17 @@ Setzen Sie nun eine Checkbox vor die Diagnosen, die Sie löschen wollen und klic
 
 ![](../../static/img/Kunden/diagnosen_loeschen1.png)
 
-### Gebührenfaktor / GOT Satz
+## Gebührenfaktor / GOT Satz
 
 In diesem Feld finden Sie beim Betreten der Kartei den Gebührenfaktor, der gemäß **Administration** → **Einstellungen:** Faktor
-für Ihre Praxis hinterlegt ist.
+für Ihre Praxis hinterlegt ist. (sogenannter "globaler" Faktor)
 
-Sie können diesen Vorgabewert Ihrer Praxis im Bedarfsfall in der Behandlung herauf- bzw. heruntersetzen. 
+Sie können diesen Vorgabewert Ihrer Praxis im Bedarfsfall in der Behandlung herauf- bzw. heruntersetzen.
 
-Alle Leistungen, die von Ihnen in die Kartei aufgenommen werden, werden jeweils mit dem aktuellen GOT-Satz,
-der zum Zeitpunkt des Eintrags hier steht, multipliziert. 
+Alle Leistungen, die von Ihnen in die Kartei aufgenommen werden, werden jeweils mit dem GOT Satz, 
+der zum Zeitpunkt des Eintrags hier steht, multipliziert.  
+
+![satz_aendernbhdl.png](../../static/img/Patienten/satz_aendernbhdl.png)
 
 :::caution Achtung   
 
@@ -349,13 +358,62 @@ Die Eingabe muss durch einen Klick auf den Haken neben dem Faktor aktiv gesetzt 
 
 :::  
 
-Möchten Sie nur einzelne Posten im Faktor erhöhen, markieren Sie diese mit der Checkbox, ändern dann den Gebührenfaktor und klicken den grünen Haken. 
+Möchten Sie nur einzelne Posten im Faktor erhöhen, kann dies direkt an der einzelnen Position erfolgen:   
 
 
-![](../../static/img/Patienten/faktor.png)   
+![faktor_pos.png](../../static/img/Patienten/faktor_pos.png)  
 
 So können an einem Kunden unterschiedliche GOT Sätze verwendet werden, entweder ein GOT-Posten für alle Positionen, oder verschiedene 
 Sätze für verschiedene Positionen. 
+
+### Globalen Faktor ändern  
+
+Falls Sie z.B. Wochenend-Dienst haben oder Notfalldienst und für eine gewisse Zeit nun schnell und einfach den globalen Faktor 
+ändern wollen, ist dies nun schnell und einfach durch klicken auf den Button oben rechts "globaler Faktor" möglich.  
+
+Dieser Faktor wird dann automatisch als Standard für alle Einträge genutzt, die Sie nun tätigen, in allen Patienten, bis dieser globale 
+Faktor wieder verändert wird. (Ausnahme sind Produkte, die Sie auf faktorbefreit oder abweichenden Faktor gesetzt haben)   
+
+![globalfaktor_bhd.png](../../static/img/Patienten/globalfaktor_bhd.png)   
+
+## Mehrere Einträge an einem Tag 
+
+Vermehrt erreichte uns der Wunsch, dass man mehrere Einträge pro Tag als "Blöcke" mit Zeitstempel versehen kann. Dies wurde besonders für dramatische
+Verläufe an einem Tag gewünscht. Dies haben wir mit einer sogenannten "Block" Lösung umgesetzt.     
+
+:::caution Achtung!  
+
+Die Nutzung der Blöcke ist NICHT verplfichtend! Sie müssen also, wenn diese "Zeitstempel" Sie stören, diese nicht nutzen!  
+
+:::   
+
+Sie können damit Einträge, sowohl Text als auch Abrechnungspositionen (also Medikamente und Leistungen) als Block speichern.   
+Dieser Block wird dann auch auf der Rechnung, bei Bedarf sogar mit eigener Diagnose sowie mit dem Zeitstempel der Behandlungsuhrzeit auf der
+Rechnung abgebildet.  
+
+Tragen Sie alles ganz normal ein und klicken dann auf das Blocksymbol:   
+
+![blocksave1.png](../../static/img/Patienten/blocksave1.png)  
+
+Das Programm lässt Sie dann noch die Uhrzeit ändern, wenn dies gewünscht wird. Dann müssen Sie das Block anlegen bestätigen:  
+
+![blocksave2.png](../../static/img/Patienten/blocksave2.png)   
+
+### Blockeinträge verändern   
+
+Wenn Sie nun doch noch nachträglich Einträge in diese Blocks hinzufügen oder aus diesen entfernen möchten, muss zunächst der 
+
+Block "entsperrt" werden. Klicken sie dazu am gewünschten Block auf das kleine "Schloß-Symbol".  
+
+![blocksave3.png](../../static/img/Patienten/blocksave3.png)  
+
+Nun werden die Bereiche wieder entsperrt und es können verschiedene Dinge nun bearbeitet werden. Sie können:  
+* Den Uhrzeitstempel ändern  
+* Positonen markieren und aus dem Block entfernen 
+* weitere Positionen in den Block schieben   
+* den Block wieder sperren   
+
+![blocksave4.png](../../static/img/Patienten/blocksave4.png)
 
 ## Behandlungen suchen und finden  
 
