@@ -140,7 +140,21 @@ Gründen), können Sie dieses Tier löschen.
 Klicken Sie auf **Praxis** und dann **Patienten**. Öffnen Sie den Patienten, indem Sie ihn suchen und dann links in der Spalte
 Name/Nummer auf den Namen oder die Nummer klicken.  
 
-![](../../static/img/Patienten/patient_loeschen.png)
+![](../../static/img/Patienten/patient_loeschen.png)   
+
+## Verstorbene Patienten/ euthanasierte Tiere  
+
+Wir haben im devebet eine Funktion eingebaut, die das Behandeln und Abrechnen verstorbener Tiere verhindert. Somit soll vermieden 
+werden, dass aus Versehen am falschen, verstorbenen Tier eines Besitzers noch Einträge erfolgen oder Rechnungen erstellt werden.  
+
+Damit Sie aber nach der Euthanasie noch die Rechnung erstellen können oder hinterher Einträge hinterlegen könnnen, haben Sie
+die Möglichkeit, die Zeistpanne, nach der ein verstorbener Patient "gesperrt" wird selbst zu bestimmen.   
+
+Klicken Sie dazu auf die "Zahnrädchen" und dann "Einstellungen".
+
+Hier finden Sie am Reiter "Behandlung" den passenden Unterpunkt. 
+
+![sterben_datum.png](../../static/img/Patienten/sterben_datum.png)
 
 ## Dokumente hinzufügen 
 

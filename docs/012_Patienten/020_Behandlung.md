@@ -526,7 +526,9 @@ beliebig zu ändern.
 
 ![](../../static/img/Patienten/behandlungen_sortieren.png)  
 
+Alternativ können Sie einfach die Einträge vorn am Symbol mit den 6 "Punkten" greifen und via Drag/Drop verschieben.    
 
+![dragdrop.png](../../static/img/Patienten/dragdrop.png)
 
 ## Brief/Mail an den Patienten anlegen  
 
