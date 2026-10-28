@@ -220,7 +220,7 @@ Anhand der kleinen Symbole links vom Medikament können Sie erkennen, ob es als 
 :::
 
 
-## Farben und Symbole der eingegebenen Posistionen  
+## Farben und Symbole der eingegebenen Positionen  
 
 Wenn Sie debevet nutzen, werden Sie merken, dass wir verschiedene Symbole und Farben nutzen, die Ihnen helfen, schnell zu 
 sehen, was bereits erfolgt ist und was wie genutzt wurde:  
@@ -516,7 +516,16 @@ Bei bereits abgerechneten Behandlungen müssen Sie zuerst die Rechnung storniere
 erfahren Sie hier:  
 [Rechnungen löschen](/docs/Fakturierung/Rechnungen#rechnungen-korrigieren-stornieren-löschen)  
 
-:::  
+:::    
+
+Um mehrere Einträge auf einmal zu löschen, können Sie die Positionen, die gelöscht werden sollen mit der Checkbox vor der Position 
+markieren und anschließend oben in der Leiste das Mülleimersymbol klicken.     
+
+![mehrfach_delete1.png](../../static/img/Patienten/mehrfach_delete1.png)  
+
+Die Software fragt Sie noch einmal nach einer Bestätigung.   
+
+![merhfach_delete2.png](../../static/img/Patienten/merhfach_delete2.png)
 
 ## Einträge sortieren   
 
